@@ -1,6 +1,11 @@
 ---
 title: 'About'
 date: 2018-02-22T17:01:34+07:00
+menu: 'main'
 ---
 
-General Chairs: Joan Bruna, Jan Hesthaven, Lenka Zdeborova
+M2lines is an international research collaboration 
+ Directed by Laure Zanna. 
+
+Add more info here.
+

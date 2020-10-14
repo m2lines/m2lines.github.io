@@ -10,5 +10,4 @@ intro_image_hide_on_mobile: true
 New York University
 (add all institutions)
 
-Vesri
 
