@@ -10,6 +10,8 @@ menu: 'main'
 
 - [Carlos Ferndandez-Granda](https://cims.nyu.edu/~cfgranda), Courant Institute, ML and Signal Processing 
 
+- [Alistair Adcroft](https://www.gfdl.noaa.gov/alistair-adcroft-homepage/) Princeton University, Affiliate NOAA-GFDL, Ocean division
+
 - ... 
 
 
