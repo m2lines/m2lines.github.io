@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/m2lines/m2lines.github.io.git
-	branch = master
