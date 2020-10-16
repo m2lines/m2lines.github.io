@@ -8,6 +8,9 @@ intro_image_hide_on_mobile: true
 # M2lines: Improving Climate Prediction Using Scientific Machine Learning
 
 New York University
+
+Columbia University
+
 (add all institutions)
 
 
