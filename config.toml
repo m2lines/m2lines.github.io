@@ -27,8 +27,8 @@ theme = "hugo-serif-theme"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     meta_og_description = "VESRI Collaboration on Climate Science"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@msml-conf"
-    meta_twitter_creator = "@msml-conf"
+    meta_twitter_site = "@laurezanna"
+    meta_twitter_creator = "@laurezanna"
 
   [params.footer]
     copyright_text = 'Hugo design adapted from <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a> by Joan Bruna, 2020.'
