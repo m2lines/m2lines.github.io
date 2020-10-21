@@ -16,7 +16,7 @@ menu: 'main'
 
 - Pierre Gentine, Columbia
 
-- Paul􏰏􏰍 O'􏰶Gorman􏰐a􏰙, MIT 
+- Paul􏰏􏰍 O'􏰶Gorman􏰐􏰙, MIT 
 
 - Judith Berner, NCAR
 
