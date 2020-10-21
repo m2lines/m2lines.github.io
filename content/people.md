@@ -10,8 +10,18 @@ menu: 'main'
 
 - [Carlos Ferndandez-Granda](https://cims.nyu.edu/~cfgranda), Courant Institute, ML and Signal Processing 
 
-- [Alistair Adcroft](https://www.gfdl.noaa.gov/alistair-adcroft-homepage/) Princeton University, Affiliate NOAA-GFDL, Ocean division
+- [Alistair Adcroft](https://www.gfdl.noaa.gov/alistair-adcroft-homepage/), Princeton University, Affiliate NOAA-GFDL, Ocean division
 
-- ... 
+- Ryan Abernathey, Lamont/Columbia
 
+- Pierre Gentine, Columbia
 
+- Paul􏰏􏰍 O'􏰶Gorman􏰐a􏰙, MIT 
+
+- Judith Berner, NCAR
+
+- Marika Holland, NCAR 
+
+- Julie Deshayes, IPSL 
+
+- Julien LeSommer, IGE 
