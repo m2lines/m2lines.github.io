@@ -10,13 +10,19 @@ menu: 'main'
 
 - [Carlos Ferndandez-Granda](https://cims.nyu.edu/~cfgranda), Courant Institute, ML and Signal Processing 
 
-- [Alistair Adcroft](https://www.gfdl.noaa.gov/alistair-adcroft-homepage/), Princeton University, Affiliate NOAA-GFDL, Ocean division
-
 - Ryan Abernathey, Lamont/Columbia
 
 - Pierre Gentine, Columbia
 
-- Paul􏰏􏰍 O'􏰶Gorman􏰐􏰙, MIT 
+- Paul O'Gorman, MIT 
+
+- [Alistair Adcroft](https://www.gfdl.noaa.gov/alistair-adcroft-homepage/), Princeton University, Affiliate NOAA-GFDL, Ocean division
+
+- [Feiyu Lu](https://scholar.princeton.edu/feiyulu), Princeton University, Affiliate NOAA-GFDL, Seasonal-decadal division
+
+- [Mitch Bushuk](https://www.gfdl.noaa.gov/mitch-bushuk/), UCAR, Affiliate NOAA-GFDL, Ocean division
+
+- [Brandon Reichl](https://breichl.github.io/), NOAA-GFDL, Ocean division
 
 - Judith Berner, NCAR
 
