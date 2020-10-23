@@ -13,8 +13,8 @@ theme = "hugo-serif-theme"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/msmllogo_flat.png"
-    desktop = "images/msmllogo_flat.png"
+    mobile = "images/tmp-logo-m2lines.png"
+    desktop = "images/tmp-logo-m2lines.png"
     desktop_height = "48px"
     mobile_height = "24px"
     alt = "MSML"
