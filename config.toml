@@ -40,19 +40,23 @@ theme = "hugo-serif-theme"
       name = "About"
       url = "/"
       weight = 1
-      
+  
+  [[menu.main]]
       name = "Jobs"
       url = "/"
       weight = 2 
-      
+  
+  [[menu.main]]
       name = "People"
       url = "/"
       weight = 3
       
+  [[menu.main]]    
       name = "Team"
       url = "/team/"
       weight = 4
 
+  [[menu.main]]
       name = "Research"
       url = "/"
       weight = 5
