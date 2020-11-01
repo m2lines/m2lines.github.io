@@ -4,16 +4,12 @@ date: 2018-02-22T17:01:34+07:00
 menu: 'main'
 ---
 
-NYU 
 
-image_preview = "Rolex-Learning-Center-patio-nuit-1024x576.jpg" 
+- [Laure Zanna](https://laurezanna.github.io), NYU, Courant Institute, **Director** 
 
-- [Laure Zanna](https://laurezanna.github.io) Courant Institute, **Director** 
+- [Joan Bruna](https://cims.nyu.edu/~bruna), NYU, Courant Institute, ML and Signal Processing
 
-
-- [Joan Bruna](https://cims.nyu.edu/~bruna), Courant Institute, ML and Signal Processing
-
-- [Carlos Ferndandez-Granda](https://cims.nyu.edu/~cfgranda), Courant Institute, ML and Signal Processing 
+- [Carlos Ferndandez-Granda](https://cims.nyu.edu/~cfgranda), NYU, Courant Institute, ML and Signal Processing 
 
 - Ryan Abernathey, Lamont/Columbia
 
