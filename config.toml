@@ -38,17 +38,17 @@ theme = "hugo-serif-theme"
 
   [[menu.main]]
       name = "About"
-      url = "/"
+      url = "/about"
       weight = 1
   
   [[menu.main]]
       name = "Jobs"
-      url = "/"
+      url = "/jobs"
       weight = 2 
   
   [[menu.main]]
       name = "People"
-      url = "/"
+      url = "/people"
       weight = 3
       
   [[menu.main]]    
@@ -58,6 +58,6 @@ theme = "hugo-serif-theme"
 
   [[menu.main]]
       name = "Research"
-      url = "/"
+      url = "/research"
       weight = 5
  
