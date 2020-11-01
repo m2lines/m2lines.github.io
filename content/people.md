@@ -4,7 +4,10 @@ date: 2018-02-22T17:01:34+07:00
 menu: 'main'
 ---
 
-- [Laure Zanna](https://laurezanna.github.io) Courant Institute, **Director** 
+NYU 
+
+- image_preview = "Rolex-Learning-Center-patio-nuit-1024x576.jpg" [Laure Zanna](https://laurezanna.github.io) Courant Institute, **Director** 
+
 
 - [Joan Bruna](https://cims.nyu.edu/~bruna), Courant Institute, ML and Signal Processing
 
