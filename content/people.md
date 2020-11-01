@@ -6,7 +6,9 @@ menu: 'main'
 
 NYU 
 
-- image_preview = "Rolex-Learning-Center-patio-nuit-1024x576.jpg" [Laure Zanna](https://laurezanna.github.io) Courant Institute, **Director** 
+image_preview = "Rolex-Learning-Center-patio-nuit-1024x576.jpg" 
+
+- [Laure Zanna](https://laurezanna.github.io) Courant Institute, **Director** 
 
 
 - [Joan Bruna](https://cims.nyu.edu/~bruna), Courant Institute, ML and Signal Processing
