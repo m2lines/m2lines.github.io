@@ -29,6 +29,6 @@ menu: 'main'
 
 - [Marika Holland](https://staff.ucar.edu/users/mholland), NCAR 
 
-- Julie Deshayes, IPSL 
+- [Julie Deshayes](https://www.whoi.edu/profile/jdeshayes/), IPSL 
 
 - [Julien LeSommer](https://lesommer.github.io/), IGE 
