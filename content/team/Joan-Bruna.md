@@ -5,6 +5,7 @@ draft: false
 image: "images/team/Joan Bruna.jpeg"
 jobtitle: ""
 linkedinurl: ""
+promoted: true
 weight: 7
 ---
 
