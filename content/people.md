@@ -11,7 +11,7 @@ menu: 'main'
 
 - [Carlos Ferndandez-Granda](https://cims.nyu.edu/~cfgranda), NYU, Courant Institute, ML and Signal Processing 
 
-- Ryan Abernathey, Lamont/Columbia
+- [Ryan Abernathey](https://rabernat.github.io/), Lamont/Columbia
 
 - Pierre Gentine, Columbia
 
