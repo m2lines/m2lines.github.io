@@ -4,6 +4,7 @@ draft: false
 image: "images/team/Julien.jpg"
 jobtitle: ""
 linkedinurl: ""
+promoted: true
 weight: 1
 ---
 
