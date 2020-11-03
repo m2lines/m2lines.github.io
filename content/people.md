@@ -13,9 +13,9 @@ menu: 'main'
 
 - [Ryan Abernathey](https://rabernat.github.io/), Lamont/Columbia
 
-- Pierre Gentine, Columbia
+- [Pierre Gentine](https://www.eee.columbia.edu/faculty/pierre-gentine), Columbia
 
-- Paul O'Gorman, MIT 
+- [Paul O'Gorman](https://pog.mit.edu/), MIT 
 
 - [Alistair Adcroft](https://www.gfdl.noaa.gov/alistair-adcroft-homepage/), Princeton University, Affiliate NOAA-GFDL, Ocean division
 
@@ -25,10 +25,10 @@ menu: 'main'
 
 - [Brandon Reichl](https://breichl.github.io/), NOAA-GFDL, Ocean division
 
-- Judith Berner, NCAR
+- [Judith Berner](https://staff.ucar.edu/users/berner), NCAR
 
-- Marika Holland, NCAR 
+- [Marika Holland](https://staff.ucar.edu/users/mholland), NCAR 
 
 - Julie Deshayes, IPSL 
 
-- Julien LeSommer, IGE 
+- [Julien LeSommer](https://lesommer.github.io/), IGE 
