@@ -8,3 +8,5 @@ promoted: true
 weight: 1
 ---
 
+- NYU, Courant Institute
+- [Website](https://laurezanna.github.io) 
