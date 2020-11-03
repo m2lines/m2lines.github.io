@@ -11,6 +11,6 @@ weight: 7
 
 NYU, Courant Institute, Computer Science, Center for Data Science
 
-Machine Learning, Signal Processing and High-Dimensional Statistics
+Machine Learning, Signal Processing
 
 [Website](https://cims.nyu.edu/~bruna/) 
