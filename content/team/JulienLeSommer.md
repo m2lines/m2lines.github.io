@@ -1,5 +1,5 @@
 ---
-title: "Julien"
+title: "Julien Le Sommer"
 draft: false
 image: "images/team/Julien.jpg"
 jobtitle: ""
