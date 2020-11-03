@@ -8,6 +8,9 @@ promoted: true
 weight: 1
 ---
 
+
 NYU, Courant Institute
+
+Climate Dynamics, Machine Learning 
 
 [Website](https://laurezanna.github.io) 
