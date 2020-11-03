@@ -6,3 +6,8 @@ image: "images/team/Carlos.jpg"
 jobtitle: "Head of Machine Learning"
 weight: 1
 ---
+NYU, Courant Institute, Center for Data Science
+
+Theory of Inverse Problems, Machine Learning, and Data-Driven Medicine
+
+[Website](https://math.nyu.edu/~cfgranda/)
