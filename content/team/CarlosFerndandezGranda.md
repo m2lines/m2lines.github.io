@@ -9,6 +9,6 @@ weight: 2
 ---
 NYU, Courant Institute, Center for Data Science
 
-Machine Learning and Signal Processing
+Machine Learning, Signal Processing
 
 [Website](https://math.nyu.edu/~cfgranda/)
