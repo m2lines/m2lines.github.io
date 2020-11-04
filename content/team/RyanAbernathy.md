@@ -8,7 +8,7 @@ weight: 1
 ---
 
 
-Columbia University
+Lamont/Columbia University
 
 Earth and Environmental Sciences
 
