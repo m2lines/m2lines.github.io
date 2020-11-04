@@ -9,6 +9,6 @@ weight: 2
 ---
 NYU, Courant Institute, Center for Data Science
 
-Theory of Inverse Problems, Machine Learning, and Data-Driven Medicine
+Machine Learning and Signal Processing
 
 [Website](https://math.nyu.edu/~cfgranda/)
