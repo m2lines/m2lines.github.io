@@ -8,7 +8,7 @@ weight: 1
 ---
 
 
-Princeton University
+Princeton University, Affiliate NOAA-GFDL, Seasonal-decadal division
 
 Atmospheric and Oceanic Sciences
 
