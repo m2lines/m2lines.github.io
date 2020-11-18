@@ -7,11 +7,11 @@ menu: 'main'
 M&#x00B2LInES: Multiscale Machine Learning In coupled Earth System Modeling 
 Multiple positions are available as part of a new international project, M&#x00B2LInES, funded by Schmidt Futures. The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning. We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. This is a highly collaborative project, and the researchers are expected to interact with different groups. For more information on the project, please see: https://m2lines.github.io 
 
-Open positions: 
+**Open positions:** 
 
 **NYU** 
 
-Project manager (½ time) will be hired to coordinate with different groups within M<sup>2</sup>LInES, interface with the funders, and support the lead institution on day-to-day activities related to the project. 
+Project manager (½ time) will be hired to coordinate with different groups within M&#x00B2LInES, interface with the funders, and support the lead institution on day-to-day activities related to the project. 
 
 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery.  
 
