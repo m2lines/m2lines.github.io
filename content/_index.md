@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 Welcome to M&#x00B2LInES: a large international collaborative project for improving climate projections using scientific machine learning. 
 
-Our team include scientists from New York University, Princeton, Columbia, NCAR, MIT,and CNRS. 
+Our team includes scientists from New York University, Princeton, Columbia, NCAR, MIT,and CNRS. 
 
 
 
