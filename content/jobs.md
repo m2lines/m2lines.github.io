@@ -4,8 +4,8 @@ date: 2018-02-22T17:01:34+07:00
 menu: 'main'
 ---
 
-M<sup>2</sup>LInES: Multiscale Machine Learning In coupled Earth System Modeling 
-Multiple positions are available as part of a new international project, M<sup>2</sup>LInES, funded by Schmidt Futures. The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning. We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. This is a highly collaborative project, and the researchers are expected to interact with different groups. For more information on the project, please see: https://m2lines.github.io 
+M&#x00B2LInES: Multiscale Machine Learning In coupled Earth System Modeling 
+Multiple positions are available as part of a new international project, M&#x00B2LInES, funded by Schmidt Futures. The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning. We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. This is a highly collaborative project, and the researchers are expected to interact with different groups. For more information on the project, please see: https://m2lines.github.io 
 
 Open positions: 
 
