@@ -2,7 +2,7 @@
 title: "Alistair Adcroft"
 draft: false
 image: "images/team/Alistair.jpeg"
-jobtitle: ""
+jobtitle: "Head of Modeling"
 promoted: true
 weight: 1
 ---
