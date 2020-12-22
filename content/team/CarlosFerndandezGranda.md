@@ -5,7 +5,7 @@ draft: false
 image: "images/team/Carlos.jpg"
 jobtitle: "Head of Machine Learning"
 promoted: true
-weight: 2
+weight: 3
 ---
 NYU, Courant Institute, Center for Data Science
 
