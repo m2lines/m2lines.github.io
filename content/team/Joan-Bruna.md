@@ -6,7 +6,7 @@ image: "images/team/Joan Bruna.jpeg"
 jobtitle: ""
 linkedinurl: ""
 promoted: true
-weight: 7
+weight: 2
 ---
 
 NYU, Courant Institute, Computer Science, Center for Data Science
