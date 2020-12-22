@@ -4,7 +4,7 @@ draft: false
 image: "images/team/Ryan.jpg"
 jobtitle: "Head of Big Data"
 promoted: true
-weight: 2
+weight: 4
 ---
 
 
