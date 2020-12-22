@@ -10,6 +10,6 @@ weight: 2
 
 Princeton University, Affiliate NOAA-GFDL, Ocean division
 
-Oceanographer
+Oceanography, Model Development
 
 [Website](https://www.gfdl.noaa.gov/alistair-adcroft-homepage/)
