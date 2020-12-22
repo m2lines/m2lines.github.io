@@ -4,7 +4,7 @@ draft: false
 image: "images/team/Alistair.jpeg"
 jobtitle: "Head of Modeling"
 promoted: true
-weight: 1
+weight: 2
 ---
 
 
