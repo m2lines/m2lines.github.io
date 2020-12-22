@@ -5,7 +5,7 @@ image: "images/team/Julien.jpg"
 jobtitle: ""
 linkedinurl: ""
 promoted: true
-weight: 1
+weight: 7
 ---
 
 L'Institut des Géosciences de l'Environnement (IGE)
