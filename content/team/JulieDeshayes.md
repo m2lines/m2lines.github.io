@@ -4,7 +4,7 @@ draft: false
 image: "images/team/Julie.jpg"
 jobtitle: ""
 promoted: true
-weight: 1
+weight: 7
 ---
 
 
