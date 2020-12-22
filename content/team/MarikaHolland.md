@@ -4,7 +4,7 @@ draft: false
 image: "images/team/Marika.jpg"
 jobtitle: ""
 promoted: true
-weight: 1
+weight: 4
 ---
 
 
