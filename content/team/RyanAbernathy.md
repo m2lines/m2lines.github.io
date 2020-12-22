@@ -1,10 +1,10 @@
 ---
-title: "Ryan Abernathy"
+title: "Ryan Abernathey"
 draft: false
 image: "images/team/Ryan.jpg"
 jobtitle: "Head of Big Data"
 promoted: true
-weight: 1
+weight: 2
 ---
 
 
