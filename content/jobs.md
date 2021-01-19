@@ -11,11 +11,11 @@ Multiple positions are available as part of a new international project, M&#x00B
 
 ### NYU 
 
-* 1 Project manager will be hired to coordinate with different groups within M&#x00B2LInES, interface with the funders, and support the lead institution on day-to-day activities related to the project. 
+* 1 Project manager will be hired to coordinate with different groups within M&#x00B2LInES, interface with the funders, and support the lead institution on day-to-day activities related to this and other funded projects. Apply here: [https://apply.interfolio.com/83080](https://apply.interfolio.com/83080)
 
-* 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery.  Apply here: https://apply.interfolio.com/83078
+* 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery.  Apply here: [https://apply.interfolio.com/83078](https://apply.interfolio.com/83078) 
 
-* 1 postdoc in Ocean Mesoscale Processes and Air-sea Coupling will be hired to focus on deepening our understanding of air-sea coupling and mesoscale eddy momentum and energy in the ocean, and their parameterizations via machine learning. Apply here: apply.interfolio.com/83079
+* 1 postdoc in Ocean Mesoscale Processes and Air-sea Coupling will be hired to focus on deepening our understanding of air-sea coupling and mesoscale eddy momentum and energy in the ocean, and their parameterizations via machine learning. Apply here: [https://apply.interfolio.com/83079](https://apply.interfolio.com/83079) 
 
 ### Columbia University
 
