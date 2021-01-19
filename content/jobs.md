@@ -7,7 +7,9 @@ menu: 'main'
 M&#x00B2LInES: Multiscale Machine Learning In coupled Earth System Modeling 
 Multiple positions are available as part of a new international project, M&#x00B2LInES. The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning. We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. This is a highly collaborative project, and the researchers are expected to interact with different groups. 
 
-## Open positions:
+## Open positions: 
+
+The links for applications will be updated as they become available. 
 
 ### NYU 
 
