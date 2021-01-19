@@ -17,7 +17,7 @@ The links for applications will be updated as they become available.
 
 * 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery.  Apply here: [https://apply.interfolio.com/83078](https://apply.interfolio.com/83078) 
 
-* 1 postdoc in Ocean Mesoscale Processes and Air-sea Coupling will be hired to focus on deepening our understanding of air-sea coupling and mesoscale eddy momentum and energy in the ocean, and their parameterizations via machine learning. Apply here: [https://apply.interfolio.com/83079](https://apply.interfolio.com/83079) 
+* 1 postdoc in Ocean Mesoscale Processes and Air-sea Coupling will be hired to focus on deepening our understanding of air-sea coupling and mesoscale eddy momentum and energy in the ocean, and their parameterizations via machine learning. This will likely be advertized in the fall. 
 
 ### Columbia University
 
