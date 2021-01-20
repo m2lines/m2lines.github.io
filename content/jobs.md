@@ -27,6 +27,8 @@ The links for applications will be updated as they become available.
 
 ### Princeton University
 
+Apply for any of the following four positions at https://www.princeton.edu/acad-positions/position/19081.
+
 * 1 postdoc to apply machine learning techniques to develop a parameterization of model bias correction in the context of an ocean data assimilation system.  
 
 * 1 postdoc to apply machine learning techniques to improve the representation of vertical mixing in the ocean surface boundary layer for climate model applications.  
