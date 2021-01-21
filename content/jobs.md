@@ -13,7 +13,7 @@ The links for applications will be updated as they become available.
 
 ### NYU 
 
-* 1 Project manager will be hired to coordinate with different groups within M&#x00B2LInES, interface with the funders, and support the lead institution on day-to-day activities related to this and other funded projects. Apply here: [https://apply.interfolio.com/83080](https://apply.interfolio.com/83080)
+* 1 Project manager will be hired to collaborate with faculty and researchers on advancing the scientific goals of M&#x00B2LInES, interface with the funders, and support the lead institution on day-to-day activities related to this and other funded projects. Apply here: [https://apply.interfolio.com/83080](https://apply.interfolio.com/83080)
 
 * 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery.  Apply here: [https://apply.interfolio.com/83078](https://apply.interfolio.com/83078) 
 
