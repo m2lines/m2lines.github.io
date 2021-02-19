@@ -10,6 +10,6 @@ weight: 5
 
 Princeton University, Affiliate NOAA-GFDL, Seasonal-decadal division
 
-Atmospheric and Oceanic Sciences
+Data assimilation, Seasonal prediction
 
 [Website](https://scholar.princeton.edu/feiyulu)
