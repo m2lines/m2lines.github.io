@@ -1,5 +1,5 @@
 ---
-title: "Yani Yuval"
+title: "Janni Yuval"
 draft: false
 image: "images/team/Yani.jpg"
 jobtitle: " "
