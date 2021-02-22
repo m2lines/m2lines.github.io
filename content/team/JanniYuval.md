@@ -4,10 +4,10 @@ draft: false
 image: "images/team/Yani.jpg"
 jobtitle: " "
 promoted: true
-weight: 12
+weight: 14
 ---
 
-MIT department of Earth and Planetary Science
+MIT 
 
 Physics, Climate, Machine Learning
 
