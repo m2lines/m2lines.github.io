@@ -7,7 +7,7 @@ promoted: true
 weight: 12
 ---
 
-Lorenz postdoc fellow at the MIT department of Earth and Planetary Science
+MIT department of Earth and Planetary Science
 
 Physics, Climate, Machine Learning
 
