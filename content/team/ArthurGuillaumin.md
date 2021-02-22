@@ -5,7 +5,7 @@ image: "  "
 jobtitle: ""
 linkedinurl: ""
 promoted: true
-weight: 8
+weight: 12
 ---
 
 Courant Institute, NYU
