@@ -7,9 +7,8 @@ promoted: true
 weight: 12
 ---
 
-Physics, climate, machine learning
-
 Lorenz postdoc fellow at the MIT department of Earth and Planetary Science
 
+Physics, Climate, Machine Learning
 
 [Website](https:https://yaniyuval.wixsite.com/janniy)
