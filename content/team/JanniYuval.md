@@ -1,7 +1,7 @@
 ---
 title: "Janni Yuval"
 draft: false
-image: "images/team/Yani.jpg"
+image: "images/team/Janni.png"
 jobtitle: " "
 promoted: true
 weight: 14
