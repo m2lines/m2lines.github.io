@@ -1,7 +1,7 @@
 ---
 title: "Arthur Guillaumin"
 draft: false
-image: "  "
+image: "images/team/Arthur.jpeg"
 jobtitle: ""
 linkedinurl: ""
 promoted: true
