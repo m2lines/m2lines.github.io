@@ -1,7 +1,7 @@
 ---
 title: "Aurelie Albert"
 draft: false
-image: "images/team/Aurelie.jpeg"
+image: "images/team/Aurelie.jpg"
 jobtitle: " "
 promoted: true
 weight: 12
