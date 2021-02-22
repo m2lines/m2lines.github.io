@@ -39,9 +39,9 @@ Apply for any of the following four positions at https://www.princeton.edu/acad-
 
 ### NCAR
 
-* 1 postdoc will be hired to work on sea ice and ice-atmosphere interactions. This will include work on characterizing the heterogeneity in sea ice characteristics, including snow and ice thickness, and developing parameterizations of the thermodynamic influence of this heterogeneity. Link should appear by early February, email Marika Holland for more info.
+* 1 postdoc will be hired to work on sea ice and ice-atmosphere interactions. This will include work on characterizing the heterogeneity in sea ice characteristics, including snow and ice thickness, and developing parameterizations of the thermodynamic influence of this heterogeneity. Email Marika Holland for more info. Apply at: https://ucar.wd5.myworkdayjobs.com/en-US/UCAR_Careers/job/Mesa-Lab-Building/Postdoctoral-Fellow-I_REQ-2021-21-1
 
-* 1 postdoc will be hired to analyze atmospheric analysis increments to learn flow-dependent random and systematic errors with emphasis on near-surface processes over the ocean. Link should appear by early February, email Judith Berner for more info.
+* 1 postdoc will be hired to analyze atmospheric analysis increments to learn flow-dependent random and systematic errors with emphasis on near-surface processes over the ocean. Email Judith Berner for more info. Apply at: https://ucar.wd5.myworkdayjobs.com/en-US/UCAR_Careers/job/Mesa-Lab-Building/Postdoctoral-Fellow-I_REQ-2021-22-1
 
 ### Future openings:
 
