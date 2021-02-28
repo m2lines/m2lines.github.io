@@ -7,9 +7,7 @@ promoted: true
 weight: 12
 ---
 
-Informatique Banque Populaire
+CNRS, IGE
 
-Data scientist, Sébastien Derégnaucourt's Lab
+Data scientist, Oceanography
 
-
-[Website](https:https://www.researchgate.net/profile/Aurelie-Albert)
