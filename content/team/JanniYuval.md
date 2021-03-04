@@ -11,4 +11,4 @@ MIT
 
 Physics, Climate, Machine Learning
 
-[Website](https:https://yaniyuval.wixsite.com/janniy)
+[Website](https://yaniyuval.wixsite.com/janniy)
