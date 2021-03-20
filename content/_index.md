@@ -11,5 +11,4 @@ Welcome to M&#x00B2LInES: a large international collaborative project for improv
 
 Our team includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL. 
 
-[Under Construction]
 
