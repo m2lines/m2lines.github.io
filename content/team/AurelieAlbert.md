@@ -2,7 +2,7 @@
 title: "Aurelie Albert"
 draft: false
 image: "images/team/Aurelie.jpg"
-jobtitle: " "
+jobtitle: "Research engineer, NEMO "
 promoted: true
 weight: 12
 ---
