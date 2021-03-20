@@ -9,11 +9,11 @@ Multiple positions are available as part of a new international project, M&#x00B
 
 ## Open positions: 
 
-01/20/2021: The links for applications will be updated as they become available. 
+03/20/2021: The links for applications will be updated as they become available. 
 
 ### NYU 
 
-* 1 Project manager will be hired to collaborate with faculty and researchers on advancing the scientific goals of M&#x00B2LInES, interface with the funders, and support the lead institution on day-to-day activities related to this and other funded projects. For more info + application: [https://apply.interfolio.com/83080](https://apply.interfolio.com/83080)
+* 1 Project manager will be hired to collaborate with faculty and researchers on advancing the scientific goals of M&#x00B2LInES, interface with the funders, and support the lead institution on day-to-day activities related to this and other funded projects. Position already filled.
 
 * 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery. For more info + application: [https://apply.interfolio.com/83078](https://apply.interfolio.com/83078) 
 
@@ -23,7 +23,7 @@ Multiple positions are available as part of a new international project, M&#x00B
 
 * 1 postdoc, at Lamont Doherty Earth Observatory, will be hired to develop data-driven parameterizations for ocean sub-gridscale tracer transport and air-sea interaction, focusing on upper-ocean mesoscale processes. Link should appear by early February, email Ryan Abernathey for more info. 
 
-* 1 postdoc, Dept. Of Earth and Environmental Engineering, will be hired to work on the atmospheric boundary layer, with a focus on stable boundary layers and the surface interaction with sea ice and its heterogeneity.   Link should appear by early February, email Pierre Gentine for more info.
+* 1 postdoc, Dept. Of Earth and Environmental Engineering, will be hired to work on the atmospheric boundary layer, with a focus on stable boundary layers and the surface interaction with sea ice and its heterogeneity.  [Apply here](https://findajob.agu.org/job/8014276/postdoc-position-in-stable-boundary-layer-and-machine-learning/?TrackID=26&utm_source=rss&utm_medium=feed&utm_campaign=general)
 
 ### Princeton University
 
