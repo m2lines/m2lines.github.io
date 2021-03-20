@@ -2,7 +2,7 @@
 title: "Arthur Guillaumin"
 draft: false
 image: "images/team/Arthur.jpeg"
-jobtitle: ""
+jobtitle: "Postdoc: parameterization of ocean mesoscales"
 linkedinurl: ""
 promoted: true
 weight: 12
