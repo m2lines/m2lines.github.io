@@ -1,6 +1,6 @@
 ---
 title: M&#x00B2LInES: Multiscale Machine Learning In coupled Earth System Modeling 
-featured_image: "images/seaofokhotsk.a2016039.0305.250m.jpg"
+featured_image: "images/background-slide-m2lines.key"
 description: "A large international collaborative project for improving climate projections using scientific machine learning"
 feature_image_absolute: true # edit /assets/scss/components/_intro-image.scss for full control
 intro_image_hide_on_mobile: true
