@@ -1,1 +1,4 @@
-theme = \"ananke\"
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
