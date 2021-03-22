@@ -2,7 +2,7 @@
 title: "Mitch Bushuk"
 draft: false
 image: "images/team/Mitch.png"
-jobtitle: ""
+jobtitle: "Research Scientist"
 promoted: true
 weight: 5
 ---

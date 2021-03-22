@@ -2,7 +2,7 @@
 title: "Paul O'Gorman"
 draft: false
 image: "images/team/Paul.jpeg"
-jobtitle: ""
+jobtitle: "PI"
 promoted: true
 weight: 6
 ---

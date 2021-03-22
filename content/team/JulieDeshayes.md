@@ -2,7 +2,7 @@
 title: "Julie Deshayes"
 draft: false
 image: "images/team/Julie.jpg"
-jobtitle: ""
+jobtitle: "PI"
 promoted: true
 weight: 7
 ---

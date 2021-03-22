@@ -2,7 +2,7 @@
 title: "Pierre Gentine"
 draft: false
 image: "images/team/Pierre.jpeg"
-jobtitle: ""
+jobtitle: "PI"
 promoted: true
 weight: 5
 ---

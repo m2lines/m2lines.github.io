@@ -2,7 +2,7 @@
 title: "Brandon Reichl"
 draft: false
 image: "images/team/Brandon.png"
-jobtitle: ""
+jobtitle: "Research Scientist"
 promoted: true
 weight: 5
 ---

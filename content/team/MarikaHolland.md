@@ -2,7 +2,7 @@
 title: "Marika Holland"
 draft: false
 image: "images/team/Marika.jpg"
-jobtitle: ""
+jobtitle: "PI"
 promoted: true
 weight: 5
 ---

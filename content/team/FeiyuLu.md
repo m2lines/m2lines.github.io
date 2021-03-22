@@ -2,7 +2,7 @@
 title: "Feiyu Lu"
 draft: false
 image: "images/team/Feiyu.jpg"
-jobtitle: ""
+jobtitle: "Research Scientist"
 promoted: true
 weight: 5
 ---

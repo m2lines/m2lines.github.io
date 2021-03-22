@@ -2,7 +2,7 @@
 title: "Julien Le Sommer"
 draft: false
 image: "images/team/Julien.jpg"
-jobtitle: ""
+jobtitle: "PI"
 linkedinurl: ""
 promoted: true
 weight: 7

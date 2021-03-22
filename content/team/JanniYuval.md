@@ -2,7 +2,7 @@
 title: "Janni Yuval"
 draft: false
 image: "images/team/Janni.png"
-jobtitle: "Postdoc in atmospheric convection"
+jobtitle: "Postdoc"
 promoted: true
 weight: 14
 ---

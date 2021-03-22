@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on M2LInES</title>
+    <link>/research/</link>
+    <description>Recent content in Research on M2LInES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>/research/research/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>/research/research/</guid>
+      <description>Our research themes are
+  Physics-aware interpretable Machine Learning Models for climate processes
+  Learning physics-aware parameterizations from high-resolution models and observational data
+  Learning structural uncertainty though existing data assimilation systems
+  Improving existing climate models and climate projections with machine learning parameterizations
+  </description>
+    </item>
+    
+  </channel>
+</rss>
