@@ -9,7 +9,7 @@ weight: 2
 ---
 
 
-Princeton University, Affiliate NOAA-GFDL, Ocean division
+Princeton University, Affiliate NOAA-GFDL in Ocean division
 
 Oceanography, Model Development
 

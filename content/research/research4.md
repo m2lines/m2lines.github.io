@@ -3,7 +3,9 @@ title: "Implementing in climate models"
 draft: false
 featured: true
 weight: 4
+heroHeading: 'Research themes'
 heroSubHeading: ''
+heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 ---
 
 

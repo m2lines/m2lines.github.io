@@ -8,7 +8,7 @@ promoted: true
 weight: 12
 ---
 
-Courant Institute, NYU
+NYU, Courant Institute
 
 Machine learning, Statistics
 

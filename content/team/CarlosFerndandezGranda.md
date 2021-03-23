@@ -8,7 +8,7 @@ promoted: true
 Website: https://math.nyu.edu/~cfgranda/
 weight: 3
 ---
-NYU, Courant Institute, Center for Data Science
+NYU, Courant Institute + Center for Data Science
 
 Machine Learning, Signal Processing
 

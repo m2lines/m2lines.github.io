@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on M²LInES</title>
+    <title>M²LInES</title>
     <link>/research/</link>
-    <description>Recent content in Research on M²LInES</description>
+    <description>Recent content on M²LInES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
