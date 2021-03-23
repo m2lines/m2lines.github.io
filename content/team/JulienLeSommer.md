@@ -5,6 +5,7 @@ image: "images/team/Julien.jpg"
 jobtitle: "PI"
 linkedinurl: ""
 promoted: true
+Website: https://lesommer.github.io/
 weight: 7
 ---
 
@@ -12,4 +13,4 @@ L'Institut des Géosciences de l'Environnement (IGE)
 
 Ocean Fine Scale Processes, Ocean Circulation Models
 
-[Website](https://lesommer.github.io/)
+

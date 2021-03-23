@@ -5,6 +5,7 @@ draft: false
 image: "images/team/LaureZanna.jpg"
 jobtitle: "Director of M2LInES"
 promoted: true
+Website: https://laurezanna.github.io
 weight: 1
 ---
 
@@ -13,4 +14,4 @@ NYU, Courant Institute + Center for Data Science
 
 Climate Dynamics, Machine Learning 
 
-[Website](https://laurezanna.github.io) 
+

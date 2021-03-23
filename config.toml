@@ -12,8 +12,8 @@ theme = "hugo-hero-theme"
   show_call_box = true
 
  [params.logo]
-  mobile = 'images/ice-logo.jpg'
-  desktop = 'images/ice-logo.jpg'
+  mobile = 'images/tmp-logo-m2lines.png'
+  desktop = 'images/tmp-logo-m2lines.png'
   desktop_height = "48px"
   mobile_height = "24px"
   alt = "MSML"

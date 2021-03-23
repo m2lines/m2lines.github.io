@@ -5703,33 +5703,16 @@ ol {
 .lock-scroll {
   overflow: hidden; }
 
-ul.social {
-  height: inherit;
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  align-items: center;
-  justify-content: flex-start; }
-  ul.social svg {
-    fill: currentColor;
-    height: 16px;
-    width: 16px; }
-  ul.social li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    margin-right: 30px; }
-    ul.social li:last-of-type {
-      margin: 0; }
-    ul.social li a {
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-size: auto;
-      padding: 8px;
-      display: block; }
-      ul.social li a span {
-        font-size: 24px; }
+.social {
+  display: block; }
+  .social img {
+    width: 20px;
+    height: 20px; }
+  .social a {
+    padding: 10px;
+    display: inline-block; }
+    .social a:hover {
+      opacity: 0.8; }
 
 .hamburger {
   padding: 10px 0 10px 10px;
@@ -5814,12 +5797,24 @@ ul.social {
 
 .content ul,
 .content ol {
-  margin-top: 10px;
   margin-bottom: 20px; }
-  .content ul li,
-  .content ol li {
-    margin-bottom: 5px;
-    margin-left: 20px; }
+  .content ul ul,
+  .content ul ol,
+  .content ol ul,
+  .content ol ol {
+    margin-bottom: 0; }
+
+.content ul {
+  list-style: disc; }
+
+.content ol {
+  list-style: decimal; }
+
+.content li {
+  margin-bottom: 5px;
+  line-height: 1.56;
+  margin-left: 20px;
+  color: #5C5A5A; }
 
 .content a {
   text-decoration: underline; }
@@ -6082,6 +6077,47 @@ ul.social {
 
 .bg-secondary {
   background-color: #43454d; }
+
+.team-summary {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row; }
+  .team-summary .team-image {
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+    border-radius: 50%;
+    overflow: hidden; }
+    .team-summary .team-image img {
+      width: 60px; }
+  .team-summary .team-meta {
+    flex: 1; }
+    .team-summary .team-meta h2 {
+      margin: 0;
+      font-size: 22px;
+      font-weight: normal; }
+    .team-summary .team-meta p {
+      color: #000000;
+      text-transform: uppercase;
+      margin: 0;
+      font-size: 12px;
+      font-weight: 500; }
+  .team-summary .team-content {
+    margin-top: 20px;
+    flex: 1 0 100%; }
+
+.team-summary-large {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 3px; }
+  .team-summary-large .team-image {
+    height: 90px;
+    width: 90px;
+    margin-right: 20px;
+    border-radius: 50%;
+    overflow: hidden; }
+    .team-summary-large .team-image img {
+      width: 90px; }
 
 .page-services-single .content > p:first-of-type {
   font-size: 1.2rem;

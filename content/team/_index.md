@@ -1,9 +1,8 @@
 ---
 title: 'Team'
-heroHeading: 'Meet the team'
+heroHeading: 'Meet the M2LInES team'
 heroSubHeading: ''
-heroBackground: './static/images/seaofokhotsk.a2016039.0305.250m.jpg'
+heroBackground: 'images/seaofokhotsk.a2016039.0305.250m.jpg'
 ---
 
-# Meet The Team
 
