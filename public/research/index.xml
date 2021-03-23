@@ -8,17 +8,39 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Research</title>
-      <link>/research/research/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <title>Learning from high resolution data</title>
+      <link>/research/research1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/research/</guid>
-      <description>Our research themes are
-  Physics-aware interpretable Machine Learning Models for climate processes
-  Learning physics-aware parameterizations from high-resolution models and observational data
-  Learning structural uncertainty though existing data assimilation systems
-  Improving existing climate models and climate projections with machine learning parameterizations
-  </description>
+      <guid>/research/research1/</guid>
+      <description>Learning parameterizations from high-resolution models and observational data:   The goal is to drive reduction of intrinsic structural model errors to increase the skill in modelled sea/ice-surface fields on timescales of hours to centuries in global climate models. Diagnose and reduce the structural error associated with inaccurate numerics and missing/incomplete physics, such as due to small-scale physics Learning from new datasets implementation of climate models with modelling centers, and validation.</description>
+    </item>
+    
+    <item>
+      <title>Developing physics-aware Machine Learning algorithms</title>
+      <link>/research/research2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research2/</guid>
+      <description>Development of physics-aware interpretable Machine Learning algorithms for climate processes   We will be using Machine learning algorithm to deriving subgrid parameterizations or bias correction tendencies from coarse-grained HR simulations, and DA increments as well as classification and dimensionality reduction for interpretability. Use of both advanced data-driven deterministic (discriminative) and stochastic (generative) ML models, and the emphasis on physics-aware, interpretable and generalizable subgrid ML models. To aid with interpretability, traditional ML tools such as feature importance, saliency map and heatmaps are used to understand which variables explain the output most and for dimensionality reduction, (nonlinear) principal component analysis (PCA) or clustering are used.</description>
+    </item>
+    
+    <item>
+      <title>Learning from the errors of the models</title>
+      <link>/research/research3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research3/</guid>
+      <description> Learning structural uncertainty though existing data assimilation systems:   Improve our understanding and representation of subgrid processes in global climate models, thereby reducing biases and providing more reliable climate projections;  </description>
+    </item>
+    
+    <item>
+      <title>Implementing in climate models</title>
+      <link>/research/research4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research4/</guid>
+      <description>Implementing our machine learning parametrization in climate models to enhance climate projections   Derive new physics-aware and observation-informed ML tools for subgrid parameterizations and multi-scale analysis of climate-relevant data. Analyze data to improve our understanding of the impact of subgrid processes on surface biases and implement subgrid parameterizations or bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM, CM4, CESM). Assess the mean, variance and extremes of surface temperatures, precipitation, winds and currents, which are crucial diagnostics of the climate system on timescales of days to decades.</description>
     </item>
     
   </channel>

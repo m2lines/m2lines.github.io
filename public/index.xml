@@ -18,6 +18,15 @@ Climate Dynamics, Machine Learning</description>
     </item>
     
     <item>
+      <title>Learning from high resolution data</title>
+      <link>/research/research1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research1/</guid>
+      <description>Learning parameterizations from high-resolution models and observational data:   The goal is to drive reduction of intrinsic structural model errors to increase the skill in modelled sea/ice-surface fields on timescales of hours to centuries in global climate models. Diagnose and reduce the structural error associated with inaccurate numerics and missing/incomplete physics, such as due to small-scale physics Learning from new datasets implementation of climate models with modelling centers, and validation.</description>
+    </item>
+    
+    <item>
       <title>Alistair Adcroft</title>
       <link>/team/alistairadcroft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,6 +34,15 @@ Climate Dynamics, Machine Learning</description>
       <guid>/team/alistairadcroft/</guid>
       <description>Princeton University, Affiliate NOAA-GFDL, Ocean division
 Oceanography, Model Development</description>
+    </item>
+    
+    <item>
+      <title>Developing physics-aware Machine Learning algorithms</title>
+      <link>/research/research2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research2/</guid>
+      <description>Development of physics-aware interpretable Machine Learning algorithms for climate processes   We will be using Machine learning algorithm to deriving subgrid parameterizations or bias correction tendencies from coarse-grained HR simulations, and DA increments as well as classification and dimensionality reduction for interpretability. Use of both advanced data-driven deterministic (discriminative) and stochastic (generative) ML models, and the emphasis on physics-aware, interpretable and generalizable subgrid ML models. To aid with interpretability, traditional ML tools such as feature importance, saliency map and heatmaps are used to understand which variables explain the output most and for dimensionality reduction, (nonlinear) principal component analysis (PCA) or clustering are used.</description>
     </item>
     
     <item>
@@ -45,6 +63,24 @@ Machine Learning, Signal Processing</description>
       <guid>/team/joan-bruna/</guid>
       <description>NYU, Courant Institute, Computer Science, Center for Data Science
 Machine Learning, Signal Processing</description>
+    </item>
+    
+    <item>
+      <title>Learning from the errors of the models</title>
+      <link>/research/research3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research3/</guid>
+      <description> Learning structural uncertainty though existing data assimilation systems:   Improve our understanding and representation of subgrid processes in global climate models, thereby reducing biases and providing more reliable climate projections;  </description>
+    </item>
+    
+    <item>
+      <title>Implementing in climate models</title>
+      <link>/research/research4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research4/</guid>
+      <description>Implementing our machine learning parametrization in climate models to enhance climate projections   Derive new physics-aware and observation-informed ML tools for subgrid parameterizations and multi-scale analysis of climate-relevant data. Analyze data to improve our understanding of the impact of subgrid processes on surface biases and implement subgrid parameterizations or bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM, CM4, CESM). Assess the mean, variance and extremes of surface temperatures, precipitation, winds and currents, which are crucial diagnostics of the climate system on timescales of days to decades.</description>
     </item>
     
     <item>
@@ -192,7 +228,7 @@ Physics, Climate, Machine Learning</description>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>/about/</guid>
-      <description>M&amp;amp;#x00B2LInES is an international research program with the goal to improve climate projections and reduce climate model biases, especially at the air-sea interface, using scientific machine learning. Our project will develop interpretable machine learning models to deepen our understanding of complex processes in the climate system. This innovative effort will leverage the availability of big data from high-resolution simulations and data assimilation products with machine learning models to improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models.</description>
+      <description>M2LInES is an international research program with the goal to improve climate projections and reduce climate model biases, especially at the air-sea interface, using scientific machine learning. Our project will develop interpretable machine learning models to deepen our understanding of complex processes in the climate system. This innovative effort will leverage the availability of big data from high-resolution simulations and data assimilation products with machine learning models to improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models.</description>
     </item>
     
     <item>
@@ -205,26 +241,14 @@ Physics, Climate, Machine Learning</description>
     </item>
     
     <item>
-      <title>Jobs</title>
-      <link>/jobs/</link>
+      <title>Open position</title>
+      <link>/jobs/jobs/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
-      <guid>/jobs/</guid>
-      <description>M&amp;amp;#x00B2LInES: Multiscale Machine Learning In coupled Earth System Modeling Multiple positions are available as part of a new international project, M&amp;amp;#x00B2LInES. The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning. We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/research/research/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/research/research/</guid>
-      <description>Our research themes are
-  Physics-aware interpretable Machine Learning Models for climate processes
-  Learning physics-aware parameterizations from high-resolution models and observational data
-  Learning structural uncertainty though existing data assimilation systems
-  Improving existing climate models and climate projections with machine learning parameterizations
-  </description>
+      <guid>/jobs/jobs/</guid>
+      <description>03/20/2021: The links for applications will be updated as they become available.
+NYU   3 Postdocs in Machine Learning for climate modelling will be hired to develop 1) advanced scale- and physics-aware deep learning algorithms; 2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery. For more info + application: https://apply.interfolio.com/83078
+  1 postdoc in Ocean Mesoscale Processes and Air-sea Coupling will be hired to focus on deepening our understanding of air-sea coupling and mesoscale eddy momentum and energy in the ocean, and their parameterizations via machine learning.</description>
     </item>
     
   </channel>
