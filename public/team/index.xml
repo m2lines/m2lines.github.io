@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on M²LInES</title>
+    <link>/team/</link>
+    <description>Recent content in Team on M²LInES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate><atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laure Zanna</title>
+      <link>/team/laure-zanna/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/laure-zanna/</guid>
+      <description>NYU, Courant Institute + Center for Data Science
+Climate Dynamics, Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>Alistair Adcroft</title>
+      <link>/team/alistairadcroft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/alistairadcroft/</guid>
+      <description>Princeton University, Affiliate NOAA-GFDL, Ocean division
+Oceanography, Model Development</description>
+    </item>
+    
+    <item>
+      <title>Carlos Fernandez-Granda</title>
+      <link>/team/carlosferndandezgranda/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/carlosferndandezgranda/</guid>
+      <description>NYU, Courant Institute, Center for Data Science
+Machine Learning, Signal Processing</description>
+    </item>
+    
+    <item>
+      <title>Joan Bruna</title>
+      <link>/team/joan-bruna/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/joan-bruna/</guid>
+      <description>NYU, Courant Institute, Computer Science, Center for Data Science
+Machine Learning, Signal Processing</description>
+    </item>
+    
+    <item>
+      <title>Ryan Abernathey</title>
+      <link>/team/ryanabernathy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/ryanabernathy/</guid>
+      <description>Lamont/Columbia University
+Earth and Environmental Sciences</description>
+    </item>
+    
+    <item>
+      <title>Brandon Reichl</title>
+      <link>/team/brandonreichl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/brandonreichl/</guid>
+      <description>NOAA-GFDL, Ocean division
+Geophysical Fluid Dynamics</description>
+    </item>
+    
+    <item>
+      <title>Feiyu Lu</title>
+      <link>/team/feiyulu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/feiyulu/</guid>
+      <description>Princeton University, Affiliate NOAA-GFDL, Seasonal-decadal division
+Data assimilation, Seasonal prediction</description>
+    </item>
+    
+    <item>
+      <title>Judith Berner</title>
+      <link>/team/judithberner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/judithberner/</guid>
+      <description>National Center for Atmospheric Research
+Mesoscale &amp;amp; Microscale Meteorology</description>
+    </item>
+    
+    <item>
+      <title>Marika Holland</title>
+      <link>/team/marikaholland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/marikaholland/</guid>
+      <description>National Center for Atmospheric Research
+Paleo and Polar Climate Research</description>
+    </item>
+    
+    <item>
+      <title>Mitch Bushuk</title>
+      <link>/team/mitchbushuk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/mitchbushuk/</guid>
+      <description>UCAR, Affiliate NOAA-GFDL, Ocean division
+Sea Ice Predictability, Polar Oceanography</description>
+    </item>
+    
+    <item>
+      <title>Pierre Gentine</title>
+      <link>/team/pierregentine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/pierregentine/</guid>
+      <description>Columbia University
+Earth and Environmental Engineering</description>
+    </item>
+    
+    <item>
+      <title>Paul O&#39;Gorman</title>
+      <link>/team/paulogorman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/paulogorman/</guid>
+      <description>MIT
+Atmospheric Science</description>
+    </item>
+    
+    <item>
+      <title>Julie Deshayes</title>
+      <link>/team/juliedeshayes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/juliedeshayes/</guid>
+      <description>IPSL
+Physical Oceanography</description>
+    </item>
+    
+    <item>
+      <title>Julien Le Sommer</title>
+      <link>/team/julienlesommer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/julienlesommer/</guid>
+      <description>L&amp;rsquo;Institut des Géosciences de l&amp;rsquo;Environnement (IGE)
+Ocean Fine Scale Processes, Ocean Circulation Models</description>
+    </item>
+    
+    <item>
+      <title>Arthur Guillaumin</title>
+      <link>/team/arthurguillaumin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/arthurguillaumin/</guid>
+      <description>Courant Institute, NYU
+Machine learning, Statistics</description>
+    </item>
+    
+    <item>
+      <title>Janni Yuval</title>
+      <link>/team/janniyuval/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/janniyuval/</guid>
+      <description>MIT
+Physics, Climate, Machine Learning</description>
+    </item>
+    
+  </channel>
+</rss>

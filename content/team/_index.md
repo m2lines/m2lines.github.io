@@ -1,9 +1,8 @@
 ---
 title: 'Team'
-intro_image: ""
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+heroHeading: 'Meet the M2LInES team'
+heroSubHeading: ''
+heroBackground: 'images/ishan-seefromthesky-eWSh-bkaKU8-unsplash.jpg'
 ---
 
-# Meet The Team
 

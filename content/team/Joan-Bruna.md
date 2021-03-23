@@ -6,6 +6,7 @@ image: "images/team/Joan Bruna.jpeg"
 jobtitle: "PI"
 linkedinurl: ""
 promoted: true
+Website: https://cims.nyu.edu/~bruna/
 weight: 3
 ---
 
@@ -13,4 +14,4 @@ NYU, Courant Institute, Computer Science, Center for Data Science
 
 Machine Learning, Signal Processing
 
-[Website](https://cims.nyu.edu/~bruna/) 
+
