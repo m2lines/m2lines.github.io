@@ -16,7 +16,6 @@ theme = "hugo-hero-theme"
   desktop = 'images/tmp-logo-m2lines.png'
   desktop_height = "48px"
   mobile_height = "24px"
-  alt = "MSML"
 
   [params.homepage_meta_tags]
     meta_description = "Bla bla bla"

@@ -5,18 +5,6 @@
     <link>/jobs/</link>
     <description>Recent content in Jobs on M2LInES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="/jobs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Open position</title>
-      <link>/jobs/jobs/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/jobs/jobs/</guid>
-      <description>03/20/2021: The links for applications will be updated as they become available.
-NYU   3 Postdocs in Machine Learning for climate modelling will be hired to develop 1) advanced scale- and physics-aware deep learning algorithms; 2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery. For more info + application: https://apply.interfolio.com/83078
-  1 postdoc in Ocean Mesoscale Processes and Air-sea Coupling will be hired to focus on deepening our understanding of air-sea coupling and mesoscale eddy momentum and energy in the ocean, and their parameterizations via machine learning.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/jobs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
