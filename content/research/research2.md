@@ -3,6 +3,9 @@
 title: "Developing physics-aware Machine Learning algorithms"
 draft: false
 featured: true
+heroHeading: 'Research themes'
+heroSubHeading: ''
+heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 weight: 2
 ---
 

@@ -10,7 +10,7 @@ Website: https://cims.nyu.edu/~bruna/
 weight: 3
 ---
 
-NYU, Courant Institute, Computer Science, Center for Data Science
+NYU, Courant Institute + Computer Science + Center for Data Science
 
 Machine Learning, Signal Processing
 

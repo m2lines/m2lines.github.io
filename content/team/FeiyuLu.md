@@ -9,7 +9,7 @@ weight: 5
 ---
 
 
-Princeton University, Affiliate NOAA-GFDL, Seasonal-decadal division
+Princeton University, Affiliate NOAA-GFDL in Seasonal-decadal division
 
 Data assimilation, Seasonal prediction
 
