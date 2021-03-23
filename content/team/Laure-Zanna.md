@@ -12,6 +12,6 @@ weight: 1
 
 NYU, Courant Institute + Center for Data Science
 
-Climate Dynamics, Machine Learning 
+*Climate Dynamics, Machine Learning*
 
 

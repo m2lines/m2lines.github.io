@@ -5,12 +5,12 @@ image: "images/team/Judith.jpeg"
 jobtitle: "PI"
 promoted: true
 Website: https://staff.ucar.edu/users/berner
-weight: 5
+weight: 6
 ---
 
 
 National Center for Atmospheric Research
 
-Mesoscale and Microscale Meteorology
+*Mesoscale and Microscale Meteorology*
 
 

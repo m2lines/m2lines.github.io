@@ -5,11 +5,11 @@ image: "images/team/Arthur.jpeg"
 jobtitle: "Postdoc"
 linkedinurl: ""
 promoted: true
-weight: 12
+weight: 13
 ---
 
 NYU, Courant Institute
 
-Machine learning, Statistics
+*Machine learning, Statistics*
 
 

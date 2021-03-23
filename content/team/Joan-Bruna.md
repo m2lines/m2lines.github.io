@@ -7,11 +7,11 @@ jobtitle: "PI"
 linkedinurl: ""
 promoted: true
 Website: https://cims.nyu.edu/~bruna/
-weight: 3
+weight: 4
 ---
 
 NYU, Courant Institute + Computer Science + Center for Data Science
 
-Machine Learning, Signal Processing
+*Machine Learning, Signal Processing*
 
 
