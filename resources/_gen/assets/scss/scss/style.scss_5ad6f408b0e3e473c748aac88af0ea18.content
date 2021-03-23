@@ -5606,7 +5606,8 @@ ol {
     justify-content: flex-start; }
     .main-menu > ul > li {
       list-style: none;
-      font-size: 0.9rem; }
+      font-size: 0.9rem;
+      font-weight: bold; }
       .main-menu > ul > li > a {
         padding: 10px 14px 10px 14px;
         display: inline-block;
