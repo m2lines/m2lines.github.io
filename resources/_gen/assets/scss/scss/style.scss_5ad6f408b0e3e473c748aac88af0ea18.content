@@ -5571,7 +5571,7 @@ ol {
   @media (min-width: 576px) {
     .logo {
       display: block;
-      width: 120px; } }
+      width: 65px; } }
   .logo img {
     width: 100%;
     height: auto; }

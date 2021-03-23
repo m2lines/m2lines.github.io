@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "M2LInES"
+title = "M²LInES"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -19,7 +19,7 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Bla bla bla"
-    meta_og_title = "M2LInES"
+    meta_og_title = "M²LInES"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
