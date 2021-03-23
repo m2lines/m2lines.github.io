@@ -6,10 +6,10 @@ image: "images/team/Carlos.jpg"
 jobtitle: "Head of Machine Learning"
 promoted: true
 Website: https://math.nyu.edu/~cfgranda/
-weight: 3
+weight: 4
 ---
 NYU, Courant Institute + Center for Data Science
 
-Machine Learning, Signal Processing
+*Machine Learning, Signal Processing*
 
 

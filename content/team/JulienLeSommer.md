@@ -6,11 +6,11 @@ jobtitle: "PI"
 linkedinurl: ""
 promoted: true
 Website: https://lesommer.github.io/
-weight: 7
+weight: 8
 ---
 
 L'Institut des Géosciences de l'Environnement (IGE)
 
-Ocean Fine Scale Processes, Ocean Circulation Models
+*Ocean Fine Scale Processes, Ocean Circulation Models*
 
 

@@ -5,11 +5,11 @@ image: "images/team/Ryan.jpg"
 jobtitle: "Head of Big Data"
 promoted: true
 Website: https://rabernat.github.io/
-weight: 4
+weight: 5
 ---
 
 
 Lamont/Columbia University
 
-Earth and Environmental Sciences
+*Earth and Environmental Sciences*
 

@@ -5,11 +5,11 @@ image: "images/team/Pierre.jpeg"
 jobtitle: "PI"
 promoted: true
 Website: https://www.eee.columbia.edu/faculty/pierre-gentine
-weight: 5
+weight: 6
 ---
 
 
 Columbia University
 
-Earth and Environmental Engineering
+*Earth and Environmental Engineering*
 

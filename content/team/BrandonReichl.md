@@ -5,12 +5,12 @@ image: "images/team/Brandon.png"
 jobtitle: "Research Scientist"
 promoted: true
 Website: https://breichl.github.io/
-weight: 5
+weight: 6
 ---
 
 
 NOAA-GFDL in Ocean division
 
-Geophysical Fluid Dynamics
+*Geophysical Fluid Dynamics*
 
 

@@ -5,11 +5,11 @@ image: "images/team/Janni.png"
 jobtitle: "Postdoc"
 promoted: true
 Website: https://yaniyuval.wixsite.com/janniy
-weight: 14
+weight: 15
 ---
 
 MIT 
 
-Physics, Climate, Machine Learning
+*Physics, Climate, Machine Learning*
 
 

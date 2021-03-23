@@ -5,12 +5,12 @@ image: "images/team/Marika.jpg"
 jobtitle: "PI"
 promoted: true
 Website: https://staff.ucar.edu/users/mholland
-weight: 5
+weight: 6
 ---
 
 
 National Center for Atmospheric Research
 
-Paleo and Polar Climate Research 
+*Paleo and Polar Climate Research*
 
 

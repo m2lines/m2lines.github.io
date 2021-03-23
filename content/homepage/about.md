@@ -1,6 +1,6 @@
 ---
 title: 'About Us'
-weight: 2
+weight: 1
 background: ''
 button: 'About Us'
 buttonLink: 'about'
