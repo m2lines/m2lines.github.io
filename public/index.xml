@@ -23,7 +23,9 @@ Climate Dynamics, Machine Learning</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research1/</guid>
-      <description>Learning physics-aware parameterizations from high-resolution simulations and observational data:  We will diagnose small-scale physical processes from high resolution simulations and observational data. Those processes cannot be captured by traditional models, which operate on a bigger scale.</description>
+      <description>Learning physics-aware parameterizations from high-resolution data.
+We will diagnose small-scale physical processes from high-resolution simulations and observational data. Those processes cannot be captured by traditional models, which operate on a bigger scale. In particular we will be focusing on:
+ Boundary layer in the atmosphere Mesoscale buoyancy for the ocean (10-100km) Sumbesoscale processes (1-10km) for the upper ocean Atmospheric convection Mesoscale momentum and air-sea interactions  </description>
     </item>
     
     <item>
@@ -42,8 +44,10 @@ Oceanography, Model Development</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research2/</guid>
-      <description>Development of physics-aware interpretable Machine Learning algorithms for climate processes  Learning from the high resolution data as well as from model errors (Data Assimilation Increments) we will develop Machine Learning algorithms that are &amp;ldquo;physics aware&amp;rdquo;.
-Our transformative methodology will rely on a range of ML algortithms, including with strict physical constraints or with embeded physics for improved interpretability, and generalizations. Those ML models will be used to improve our understanding of subgrid processes surface biases and will be implemented as subgrid parameterizations or as bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM,CM4, CESM).</description>
+      <description>Development of physics-aware interpretable Machine Learning algorithms for climate processes
+Learning from the high resolution data as well as from model errors (Data Assimilation Increments) we will develop Machine Learning algorithms that are &amp;ldquo;physics aware&amp;rdquo;.
+Our transformative methodology will rely on a range of ML algortithms, including with strict physical constraints or with embeded physics for improved interpretability, and generalizations.
+Those ML models will be used to improve our understanding of subgrid processes surface biases and will be implemented as subgrid parameterizations or as bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM,CM4, CESM).</description>
     </item>
     
     <item>
@@ -72,7 +76,10 @@ Machine Learning, Signal Processing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research3/</guid>
-      <description>Learning unaccounted physical processes though existing data assimilation systems:  Data assimilation produce a state estimate by merging a short-range dynamical forecast with observations. The analysis increment is the difference between the forecasted and corrected model state and thus contains information on the discrepancy between the model and observations. This gives us valuable information on physical processes that are systematically unaccounted for in traditional models. Combined with analysis from high resolution simulations, this analysis will improve our understanding and representation of subgrid processes in global climate models, thereby reducing biases and providing more reliable climate projections.</description>
+      <description>Learning unaccounted physical processes though existing data assimilation systems:
+Data assimilation produce a state estimate by merging a short-range dynamical forecast with observations.
+The analysis increment is the difference between the forecasted and corrected model state and thus contains information on the discrepancy between the model and observations. This gives us valuable information on physical processes that are systematically unaccounted for in traditional models.
+Combined with analysis from high resolution simulations, this analysis will improve our understanding and representation of subgrid processes in global climate models, thereby reducing biases and providing more reliable climate projections.</description>
     </item>
     
     <item>
@@ -81,7 +88,9 @@ Machine Learning, Signal Processing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research4/</guid>
-      <description> Implementing our machine learning parametrization in climate models to enhance climate projections New parametrizations will be implemented in ocean models and tested in multiple climate models. The aim of the Machine Learning parameterizations for coarse-resolution models will be to achieve comparable accuracy to high-resolution global simulations or observations.  </description>
+      <description>Implementing our machine learning parametrization in climate models to enhance climate projections
+New parametrizations will be implemented in ocean models and tested in multiple climate models.
+The aim of the Machine Learning parameterizations for coarse-resolution models will be to achieve comparable accuracy to high-resolution global simulations or observations.</description>
     </item>
     
     <item>
