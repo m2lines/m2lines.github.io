@@ -49,6 +49,11 @@ theme = "hugo-hero-theme"
     url = "/research/"
     weight = 4
 
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 5
+
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
