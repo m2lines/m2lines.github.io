@@ -20,3 +20,6 @@ In particular we will be focusing on:
 * Sumbesoscale processes (1-10km) for the upper ocean
 * Atmospheric convection
 * Mesoscale momentum and air-sea interactions
+
+
+Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research [here](https://vimeo.com/510830389) with Ryan Abernathey, head of big data at M²LInES 

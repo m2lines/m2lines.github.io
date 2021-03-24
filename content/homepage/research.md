@@ -1,7 +1,7 @@
 ---
 title: 'Research'
 weight: 2
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/dominik-schroder-FIKD9t5_5zQ-unsplash.jpg'
 button: 'More about our research'
 buttonLink: 'research'
 ---
