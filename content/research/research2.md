@@ -16,4 +16,9 @@ Learning from the high resolution data as well as from model errors (Data Assimi
 Our transformative methodology will rely on a range of ML algortithms, including with strict physical constraints or with embeded physics for improved interpretability, and generalizations. 
 
 
-Those ML models will be used to improve our understanding of subgrid processes surface biases and will be implemented as subgrid parameterizations or as bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM,CM4, CESM). 
+Those ML models will be used to improve our understanding of subgrid processes surface biases and will be implemented as subgrid parameterizations or as bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM,CM4, CESM).
+
+
+Learn more about physics-guided Machine Learning in [this talk](https://www.youtube.com/watch?v=T60OmRD102s) by Pierre Gentine, PI at M²LInES
+
+Learn more about equations discovery for ocean mesoscale parametrizations [here](https://youtu.be/9YQnW9ylacU?t=20685) with Laure Zanna, director of M²LInES

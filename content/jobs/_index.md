@@ -21,7 +21,7 @@ heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'
 
 ### Princeton University
 
-Apply for any of the following four positions at https://www.princeton.edu/acad-positions/position/19081.
+Apply for any of the following four positions [here](https://www.princeton.edu/acad-positions/position/19081).
 
 * 1 postdoc to apply machine learning techniques to develop a parameterization of model bias correction in the context of an ocean data assimilation system.  
 
