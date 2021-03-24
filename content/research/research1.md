@@ -1,9 +1,9 @@
 ---
-title: "Learning from high resolution simulations and data"
+title: 'Learning from high resolution simulations and data'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Research themes'
+heroHeading: 'Learning from high resolution simulations and data'
 heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 ---
@@ -22,4 +22,5 @@ In particular we will be focusing on:
 * Mesoscale momentum and air-sea interactions
 
 
+**Learn more:**
 Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research [here](https://vimeo.com/510830389) with Ryan Abernathey, head of big data at M²LInES 

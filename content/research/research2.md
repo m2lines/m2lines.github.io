@@ -1,9 +1,9 @@
 
 ---
-title: "Developing physics-aware Machine Learning algorithms"
+title: 'Developing physics-aware Machine Learning algorithms'
 draft: false
 featured: true
-heroHeading: 'Research themes'
+heroHeading: 'Developing physics-aware Machine Learning algorithms'
 heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 weight: 2
@@ -19,6 +19,8 @@ Our transformative methodology will rely on a range of ML algortithms, including
 Those ML models will be used to improve our understanding of subgrid processes surface biases and will be implemented as subgrid parameterizations or as bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM,CM4, CESM).
 
 
-Learn more about physics-guided Machine Learning in [this talk](https://www.youtube.com/watch?v=T60OmRD102s) by Pierre Gentine, PI at M²LInES
+**Learn more:**
 
-Learn more about equations discovery for ocean mesoscale parametrizations [here](https://youtu.be/9YQnW9ylacU?t=20685) with Laure Zanna, director of M²LInES
+Learn about physics-guided Machine Learning in [this talk](https://www.youtube.com/watch?v=T60OmRD102s) by Pierre Gentine, PI at M²LInES
+
+Learn about equations discovery for ocean mesoscale parametrizations [here](https://youtu.be/9YQnW9ylacU?t=20685) with Laure Zanna, director of M²LInES
