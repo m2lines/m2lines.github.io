@@ -3,7 +3,7 @@ title: "Johanna Goldman"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/JohannaGoldman.jpg"
-jobtitle: "Project Manager of M²LInES"
+jobtitle: "Project Manager"
 promoted: true
 weight: 2
 ---
