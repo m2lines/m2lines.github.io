@@ -15,12 +15,13 @@ We will diagnose small-scale physical processes from high-resolution simulations
 In particular we will be focusing on:
 
 
-* Boundary layer in the atmosphere
-* Mesoscale buoyancy for the ocean (10-100km)
-* Sumbesoscale processes (1-10km) for the upper ocean
-* Atmospheric convection
-* Mesoscale momentum and air-sea interactions
+* Atmospheric convection and clouds (O'Gorman)
+* Atmospheric boundary layer processes at the ocean and sea-ice interface (Gentine)
+* Ocean mesoscale buoyancy fluxes (Abernathey)
+* Ocean submesoscale processes (LeSommer)
+* Ocean mesoscale momentum, energy and air-sea interactions (Zanna)
+* Vertical mixing (Adcroft/Reichl)
 
 
 **Learn more:**
-Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research [here](https://vimeo.com/510830389) with Ryan Abernathey, head of big data at M²LInES 
+Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research [here](https://vimeo.com/510830389) with Ryan Abernathey, head of big data at M²LInES. 
