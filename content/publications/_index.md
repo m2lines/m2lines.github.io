@@ -38,8 +38,6 @@ Yang T, Sun F, Gentine P, Liu W, Wang H, Yin J, et al. Evaluation and machine le
 
 ### 2018
 
-Berner J, Sardeshmukh PD, Christensen HM. On the Dynamical Mechanisms Governing El Niño–Southern Oscillation Irregularity. J Clim 2018. [link](https://doi.org/10.1175/JCLI-D-18-0243.1).
-
 O’Gorman PA, Dwyer JG. Using Machine Learning to Parameterize Moist Convection: Potential for Modeling of Climate, Climate Change, and Extreme Events. J Adv Model Earth Syst 2018. [link](https://doi.org/10.1029/2018MS001351).
 
 Gentine P, Pritchard M, Rasp S, Reinaudi G, Yacalis G. Could Machine Learning Break the Convection Parameterization Deadlock? Geophys Res Lett 2018. [link](https://doi.org/10.1029/2018GL078202).
@@ -57,13 +55,6 @@ Zanna L, Porta Mana P, Anstey J, David T, Bolton T. Scale-aware deterministic an
 ### 2014
 
 Porta Mana P, Zanna L. Toward a stochastic parameterization of ocean mesoscale eddies. Ocean Model 2014. [link](https://doi.org/10.1016/j.ocemod.2014.04.002).
-
-### 2012
-
-Delworth TL, Rosati A, Anderson W, Adcroft AJ, Balaji V, Benson R, et al. Simulated Climate and Climate Change in the GFDL CM2.5 High-Resolution Coupled Climate Model. J Clim 2012. [link](https://doi.org/10.1175/JCLI-D-11-00316.1).
-
-Bruna J, Mallat S. Invariant Scattering Convolution Networks. ArXiv12031513 Cs 2012. [link](https://arxiv.org/pdf/1203.1513.pdf)
-
 
 
 
