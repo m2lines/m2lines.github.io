@@ -9,9 +9,14 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ### 2021
 Guillaumin A, Zanna L. Stochastic Deep Learning parameterization of Ocean Momentum Forcing. Essoar 2021. [link](https://doi.org/10.1002/essoar.10506419.1).
 
+O’Gorman PA, Li Z, Boos WR, Yuval J. Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution. Philosophical Transactions of the Royal Society A 2021. [link](https://doi.org/10.1098/rsta.2019.0543)
+
+Yuval J, Hill CN, O'Gorman PA. Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision. Geophysical Research Letter 2021. [link](https://doi.org/10.1029/2020GL091363)
 
 ### 2020
 Yuval J, O’Gorman PA. Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions. Nature communications 2020. [link](https://doi.org/10.1038/s41467-020-17142-3).
+
+Zanna L, Bolton T. Data‐Driven Equation Discovery of Ocean Mesoscale Closures. Geophysical Research Letters 2020.[link](https://doi.org/10.1029/2020GL088376)
 
 ### 2019
 
