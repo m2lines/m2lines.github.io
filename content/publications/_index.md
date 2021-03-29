@@ -9,9 +9,14 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ### 2021
 Guillaumin A, Zanna L. Stochastic Deep Learning parameterization of Ocean Momentum Forcing. Essoar 2021. [link](https://doi.org/10.1002/essoar.10506419.1).
 
+O’Gorman PA, Li Z, Boos WR, Yuval J. Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution. Philosophical Transactions of the Royal Society A 2021. [link](https://doi.org/10.1098/rsta.2019.0543)
+
+Yuval J, Hill CN, O'Gorman PA. Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision. Geophysical Research Letter 2021. [link](https://doi.org/10.1029/2020GL091363)
 
 ### 2020
 Yuval J, O’Gorman PA. Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions. Nature communications 2020. [link](https://doi.org/10.1038/s41467-020-17142-3).
+
+Zanna L, Bolton T. Data‐Driven Equation Discovery of Ocean Mesoscale Closures. Geophysical Research Letters 2020.[link](https://doi.org/10.1029/2020GL088376)
 
 ### 2019
 
@@ -33,8 +38,6 @@ Yang T, Sun F, Gentine P, Liu W, Wang H, Yin J, et al. Evaluation and machine le
 
 ### 2018
 
-Berner J, Sardeshmukh PD, Christensen HM. On the Dynamical Mechanisms Governing El Niño–Southern Oscillation Irregularity. J Clim 2018. [link](https://doi.org/10.1175/JCLI-D-18-0243.1).
-
 O’Gorman PA, Dwyer JG. Using Machine Learning to Parameterize Moist Convection: Potential for Modeling of Climate, Climate Change, and Extreme Events. J Adv Model Earth Syst 2018. [link](https://doi.org/10.1029/2018MS001351).
 
 Gentine P, Pritchard M, Rasp S, Reinaudi G, Yacalis G. Could Machine Learning Break the Convection Parameterization Deadlock? Geophys Res Lett 2018. [link](https://doi.org/10.1029/2018GL078202).
@@ -52,13 +55,6 @@ Zanna L, Porta Mana P, Anstey J, David T, Bolton T. Scale-aware deterministic an
 ### 2014
 
 Porta Mana P, Zanna L. Toward a stochastic parameterization of ocean mesoscale eddies. Ocean Model 2014. [link](https://doi.org/10.1016/j.ocemod.2014.04.002).
-
-### 2012
-
-Delworth TL, Rosati A, Anderson W, Adcroft AJ, Balaji V, Benson R, et al. Simulated Climate and Climate Change in the GFDL CM2.5 High-Resolution Coupled Climate Model. J Clim 2012. [link](https://doi.org/10.1175/JCLI-D-11-00316.1).
-
-Bruna J, Mallat S. Invariant Scattering Convolution Networks. ArXiv12031513 Cs 2012. [link](https://arxiv.org/pdf/1203.1513.pdf)
-
 
 
 
