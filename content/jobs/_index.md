@@ -17,10 +17,10 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### Columbia University
 
-* 1 postdoc / research scientist at Lamont Doherty Earth Observatory will be hired to develop data-driven parameterizations for ocean sub-gridscale tracer transport and air-sea interaction, focusing on upper-ocean mesoscale processes.  
-[Apply at postdoc level](https://pa334.peopleadmin.com/postings/7450) (for candidates with < 2.5 years of postdoc experience).  
-[Apply at associate research scientist level](https://pa334.peopleadmin.com/postings/7451) (for candidates with > 2.5 years of postdoc experience).  
-  
+* 1 postdoc / research scientist at Lamont Doherty Earth Observatory will be hired to develop data-driven parameterizations for ocean sub-gridscale tracer transport and air-sea interaction, focusing on upper-ocean mesoscale processes.   
+[Apply at postdoc level](https://pa334.peopleadmin.com/postings/7450) (for candidates with < 2.5 years of postdoc experience)   
+[Apply at associate research scientist level](https://pa334.peopleadmin.com/postings/7451) (for candidates with > 2.5 years of postdoc experience)   
+   
 * 1 postdoc, Dept. Of Earth and Environmental Engineering, will be hired to work on the atmospheric boundary layer, with a focus on stable boundary layers and the surface interaction with sea ice and its heterogeneity.  [Apply here](https://findajob.agu.org/job/8014276/postdoc-position-in-stable-boundary-layer-and-machine-learning/?TrackID=26&utm_source=rss&utm_medium=feed&utm_campaign=general)
 
 ### Princeton University
