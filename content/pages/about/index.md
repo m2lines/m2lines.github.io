@@ -7,6 +7,7 @@ heroSubHeading: "Our goal is to improve climate projections and reduce climate m
 heroBackground: 'images/gulfstream_tir_2013099_lrg.jpg'
 ---
 
+Read more in our [press release](https://www.nyu.edu/about/news-publications/news/2021/march/international-collaboration-will-use-artificial-intelligence-to-.html)
 <div>
 {{< content-strip-left "/pages/about" "content1" >}}
 </div>
