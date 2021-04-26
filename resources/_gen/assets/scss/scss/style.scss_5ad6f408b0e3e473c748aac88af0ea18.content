@@ -5499,7 +5499,7 @@ ol {
       .footer ul li.copyright {
         font-weight: bold;
         color: #c4c5cb;
-        display: none; }
+        display: inline-block; }
         @media (min-width: 768px) {
           .footer ul li.copyright {
             display: inline-block; } }
@@ -5576,6 +5576,20 @@ ol {
     width: 100%;
     height: auto; }
   .logo a {
+    display: block;
+    width: 100%;
+    height: 100%; }
+
+.logof {
+  display: none; }
+  @media (min-width: 576px) {
+    .logof {
+      display: block;
+      width: 400px; } }
+  .logof img {
+    width: 100%;
+    height: auto; }
+  .logof a {
     display: block;
     width: 100%;
     height: 100%; }

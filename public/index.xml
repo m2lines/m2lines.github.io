@@ -14,7 +14,7 @@
       
       <guid>/team/laure-zanna/</guid>
       <description>NYU, Courant Institute + Center for Data Science
-Climate Dynamics, Machine Learning</description>
+Climate and Ocean Dynamics, Machine Learning</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ Climate Dynamics, Machine Learning</description>
       <guid>/research/research1/</guid>
       <description>Learning physics-aware parameterizations from high-resolution data.
 We will diagnose small-scale physical processes from high-resolution simulations and observational data. Those processes cannot be captured by traditional models, which operate on a bigger scale. In particular we will be focusing on:
- Boundary layer in the atmosphere Mesoscale buoyancy for the ocean (10-100km) Sumbesoscale processes (1-10km) for the upper ocean Atmospheric convection Mesoscale momentum and air-sea interactions  Learn more: Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research here with Ryan Abernathey, head of big data at M²LInES</description>
+ Atmospheric convection and clouds (O&amp;rsquo;Gorman) Atmospheric boundary layer processes at the ocean and sea-ice interface (Gentine) Ocean mesoscale buoyancy fluxes (Abernathey) Ocean submesoscale processes (LeSommer) Ocean mesoscale momentum, energy and air-sea interactions (Zanna) Vertical mixing (Adcroft/Reichl)  Learn more: Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research here with Ryan Abernathey, head of big data at M²LInES.</description>
     </item>
     
     <item>
@@ -45,9 +45,9 @@ Project Management, Oceanography, Sciences Communication</description>
       
       <guid>/research/research2/</guid>
       <description>Development of physics-aware interpretable Machine Learning algorithms for climate processes
-Learning from the high resolution data as well as from model errors (Data Assimilation Increments) we will develop Machine Learning algorithms that are &amp;ldquo;physics aware&amp;rdquo;.
-Our transformative methodology will rely on a range of ML algortithms, including with strict physical constraints or with embeded physics for improved interpretability, and generalizations.
-Those ML models will be used to improve our understanding of subgrid processes surface biases and will be implemented as subgrid parameterizations or as bias corrections, respectively, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM,CM4, CESM).</description>
+Learning from the high resolution data as well as from model errors (Data Assimilation Increments) we will develop Machine Learning algorithms that are physics- and scale-aware.
+Our transformative methodology will rely on a range of ML algorithms (e.g., convolutional neural networks, equation-discovery), including with strict physical constraints, or with embeded physics for improved interpretability, and generalizations.
+Those ML models will be used to deepen our understanding of subgrid processes, and will be implemented as subgrid parameterizations or as bias corrections, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM, CM4, CESM).</description>
     </item>
     
     <item>
@@ -229,7 +229,7 @@ Physics, Climate, Machine Learning</description>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>/about/</guid>
-      <description></description>
+      <description>Read more in our press release</description>
     </item>
     
   </channel>
