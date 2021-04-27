@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-Developing physics-aware Machine Learning algorithms
+##### Developing physics-aware Machine Learning algorithms
