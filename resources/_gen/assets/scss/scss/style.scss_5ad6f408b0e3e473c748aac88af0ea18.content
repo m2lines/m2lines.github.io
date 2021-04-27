@@ -5585,7 +5585,7 @@ ol {
   @media (min-width: 576px) {
     .logof {
       display: block;
-      width: 400px; } }
+      width: 500px; } }
   .logof img {
     width: 100%;
     height: auto; }
@@ -6192,6 +6192,10 @@ ol {
 
 .page-work-single .work-image img {
   width: 100%;
+  height: auto; }
+
+.page-work-single .work-image-small img {
+  width: 25%;
   height: auto; }
 
 .page-work-single .content > p:first-of-type {

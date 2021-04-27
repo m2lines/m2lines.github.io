@@ -229,7 +229,34 @@ Physics, Climate, Machine Learning</description>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>/about/</guid>
-      <description>Read more in our press release</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/services/axe1/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/axe1/</guid>
+      <description>Learning from high resolution data and from the errors of the models</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/services/axe2/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/axe2/</guid>
+      <description>Developing physics-aware Machine Learning algorithms</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/services/axe3/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/axe3/</guid>
+      <description>Implementing in climate models</description>
     </item>
     
   </channel>

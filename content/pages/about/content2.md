@@ -1,10 +1,9 @@
 ---
-title: 'Machine Learning'
-weight: 2
+title: 'International team'
 date: 2018-12-06T09:29:16+10:00
-background: 'images/linus-nylund-At_r0TuqL8o-unsplash.jpg'
+weight: 2
+background: 'images/gulfstream_tir_2013099_lrg.jpg'
 align: left
-color: white
 ---
 
-Our project will develop interpretable Machine Learning models to deepen our understanding of complex processes in the climate system.
+Our international team is based in the US and in France and includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL.
