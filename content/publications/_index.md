@@ -7,6 +7,8 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 
 ### 2021
+Frezat H, Balarac G, Le Sommer J, Fablet R, Lguensat R. Physical invariance in neural networks for subgrid-scale scalar flux modeling. Physical Review Fluids 2021. [link](https://doi.org/10.1103/PhysRevFluids.6.024607)
+
 Guillaumin A, Zanna L. Stochastic Deep Learning parameterization of Ocean Momentum Forcing. Essoar 2021. [link](https://doi.org/10.1002/essoar.10506419.1).
 
 O’Gorman PA, Li Z, Boos WR, Yuval J. Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution. Philosophical Transactions of the Royal Society A 2021. [link](https://doi.org/10.1098/rsta.2019.0543)
