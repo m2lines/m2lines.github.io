@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "M²LInES"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+sectionPagesMenu = "content"
 
 [params]
   google_analytics_id=""
@@ -30,9 +31,11 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
 	name = "About"
+	identifier = "about"
 	url = "/about/"
     weight = 1
 
+    
 [[menu.main]]
     name = "Jobs"
     url = "/jobs/"

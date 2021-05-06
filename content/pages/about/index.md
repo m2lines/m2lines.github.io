@@ -19,3 +19,6 @@ heroBackground: 'images/gulfstream_tir_2013099_lrg.jpg'
 <div>
 {{< content-strip-left "/pages/about" "content4" >}}
 </div>
+<div>
+{{< content-strip-left "/pages/about" "content5" >}}
+</div>
