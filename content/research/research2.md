@@ -20,8 +20,8 @@ Those ML models will be used to deepen our understanding of subgrid processes, a
 
 **Learn more:**
 
-Learn about Blending Physics and Machine Learning for Climate Projections in [this talk](https://www.imsi.institute/videos/laure-zanna/) with Laure Zanna, Lead PI of M²LInES
+- Learn about Blending Physics and Machine Learning for Climate Projections in [this talk](https://www.imsi.institute/videos/laure-zanna/) with Laure Zanna, Lead PI of M²LInES
 
-Learn about physics-guided Machine Learning in [this talk](https://www.youtube.com/watch?v=T60OmRD102s) by Pierre Gentine, PI at M²LInES
+- Learn about physics-guided Machine Learning in [this talk](https://www.youtube.com/watch?v=T60OmRD102s) by Pierre Gentine, PI at M²LInES
 
-Learn about discovering equations from data for ocean mesoscale parametrizations [here](https://youtu.be/9YQnW9ylacU?t=20685) with Laure Zanna, Lead PI of M²LInES
+- Learn about discovering equations from data for ocean mesoscale parametrizations [here](https://youtu.be/9YQnW9ylacU?t=20685) with Laure Zanna, Lead PI of M²LInES

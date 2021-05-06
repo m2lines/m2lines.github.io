@@ -1,17 +1,13 @@
 .content {
-  ul,
   ol {
+  	list-style: decimal;
     margin-bottom: 20px;
-    ul,
-    ol {
       margin-bottom: 0;
     }
-  }
   ul {
-    list-style: disc;
-  }
-  ol {
-    list-style: decimal;
+    list-style-type: disc;
+    margin-top:10px;
+    margin-bottom:20px;
   }
   li {
     margin-bottom: 5px;
