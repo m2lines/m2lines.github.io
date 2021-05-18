@@ -4,7 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'About Us'
 heroSubHeading: "Our goal is to uncover new physical processes, improve climate projections and reduce climate model biases"
-heroBackground: 'images/gulfstream_tir_2013099_lrg.jpg'
+heroBackground: 'images/gulfstream_tir_2013099_lr-smaller.jpg'
 ---
 
 <div>
