@@ -57,6 +57,10 @@ sectionPagesMenu = "content"
     url = "/publications/"
     weight = 5
 
+[[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 6
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
