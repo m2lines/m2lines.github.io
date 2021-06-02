@@ -2,7 +2,7 @@
 title: 'International team'
 date: 2018-12-06T09:29:16+10:00
 weight: 2
-background: 'images/gulfstream_tir_2013099_lrg.jpg'
+background: 'images/gulfstream_tir_2013099_lr-smaller.jpeg'
 align: left
 ---
 
