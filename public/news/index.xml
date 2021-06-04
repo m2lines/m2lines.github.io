@@ -7,12 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> New paper out by M²LInES members</title>
-      <link>/news/arthurpaper/</link>
+      <title> 2021 CESM workshop</title>
+      <link>/news/cesmworkshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/news/arthurpaper/</guid>
-      <description></description>
+      <guid>/news/cesmworkshop/</guid>
+      <description>Register for the 26th Annual CESM Workshop on June 14-17. In particular, there will be a session on Machine Learning for CESM on June 17. Info and agenda here</description>
+    </item>
+    
+    <item>
+      <title> Call for Papers: Machine learning application to Earth system modeling</title>
+      <link>/news/5jamescall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/5jamescall/</guid>
+      <description>M²LInES members Janni Yuval, Pierre Gentine and Laure Zanna are part of the organizers of a special collection at JAMES (Journal of Advances in Modeling Earth Systems) that will include both new ML methodologies developed for advancing Earth system science and ML applications to Earth system modeling. More information here</description>
+    </item>
+    
+    <item>
+      <title> New M²LInES-related paper</title>
+      <link>/news/2julienpaper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2julienpaper/</guid>
+      <description>Read their paper here</description>
+    </item>
+    
+    <item>
+      <title> New M²LInES-related paper</title>
+      <link>/news/3pierrepaper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/3pierrepaper1/</guid>
+      <description>Read their paper here</description>
+    </item>
+    
+    <item>
+      <title> New M²LInES-related paper</title>
+      <link>/news/4pierrepaper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/4pierrepaper2/</guid>
+      <description>Read their paper here</description>
+    </item>
+    
+    <item>
+      <title> New paper by M²LInES members</title>
+      <link>/news/1arthurpaper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/1arthurpaper/</guid>
+      <description>In this paper, M²LInES postdoc Arthur Guillaumin and lead PI Laure Zanna developed a stochastic deep learning parametrization that is trained on high-resolution data from CM2.6, a coupled climate model. Read their paper here</description>
     </item>
     
   </channel>

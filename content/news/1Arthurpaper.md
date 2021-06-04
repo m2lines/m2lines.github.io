@@ -1,9 +1,9 @@
 ---
-title: ' New paper by M²LInES members'
+title: ' New paper by M²LInES members Guillaumin and Zanna'
 heroHeading: ''
 heroSubHeading: 'New publication by M²LInES postdoc Arthur Guillaumin and lead PI Laure Zanna'
 heroBackground: ''
-thumbnail:  'images/news/Arthur-fig2.png'
+thumbnail:  'images/news/Arthur-fig2-thumb.png'
 images: ['images/news/Arthur-fig2.png']
 link: 'https://www.essoar.org/doi/10.1002/essoar.10506419.1' 
 ---
