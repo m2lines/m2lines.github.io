@@ -7,6 +7,10 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 
 ### 2021
+Mooers G, Pritchard M, Beucler T, Ott J, Yacalis G, Baldi P, Gentine P. (2020). Assessing the Potential of Deep Learning for Emulating Cloud Superparameterization in Climate Models with Real-Geography Boundary Conditions. Journal of Advances in Modeling Earth Systems 2021 [link]( https://doi.org/10.1029/2020MS002385)
+
+Beucler T, Pritchard M, Rasp S, Ott J, Baldi P, Gentine P. Enforcing analytic constraints in neural networks emulating physical systems. Physical Review Letters 2021. [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098302)
+
 Frezat H, Balarac G, Le Sommer J, Fablet R, Lguensat R. Physical invariance in neural networks for subgrid-scale scalar flux modeling. Physical Review Fluids 2021. [link](https://doi.org/10.1103/PhysRevFluids.6.024607)
 
 Guillaumin A, Zanna L. Stochastic Deep Learning parameterization of Ocean Momentum Forcing. Essoar 2021. [link](https://doi.org/10.1002/essoar.10506419.1).
@@ -16,6 +20,7 @@ O’Gorman PA, Li Z, Boos WR, Yuval J. Response of extreme precipitation to unif
 Yuval J, Hill CN, O'Gorman PA. Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision. Geophysical Research Letter 2021. [link](https://doi.org/10.1029/2020GL091363)
 
 ### 2020
+
 Yuval J, O’Gorman PA. Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions. Nature communications 2020. [link](https://doi.org/10.1038/s41467-020-17142-3).
 
 Zanna L, Bolton T. Data‐Driven Equation Discovery of Ocean Mesoscale Closures. Geophysical Research Letters 2020.[link](https://doi.org/10.1029/2020GL088376)
