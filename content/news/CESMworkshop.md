@@ -1,5 +1,5 @@
 ---
-title: ' 2021 CESM workshop'
+title: ' 2021 CESM workshop: M²LInES team members presenting on June 17th'
 heroHeading: ''
 heroSubHeading: '2021 CESM workshop'
 heroBackground: ''
