@@ -9,4 +9,4 @@ link: 'https://agupubs.onlinelibrary.wiley.com/hub/journal/19422466/features/cal
 ---
 
 M²LInES members Janni Yuval, Pierre Gentine and Laure Zanna are part of the organizers of a special collection at JAMES (Journal of Advances in Modeling Earth Systems) that will include both new ML methodologies developed for advancing Earth system science and ML applications to Earth system modeling. 
-*Papers submissions are open.* The community is invited to contribute. More information [here](https://agupubs.onlinelibrary.wiley.com/hub/journal/19422466/features/call-for-papers)
+**Papers submissions are open.** The community is invited to contribute. More information [here](https://agupubs.onlinelibrary.wiley.com/hub/journal/19422466/features/call-for-papers)
