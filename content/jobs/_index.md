@@ -5,7 +5,7 @@ heroSubHeading: ''
 heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'
 ---
 
-05/18/2021: The links for applications will be updated as they become available. 
+06/16/2021: The links for applications will be updated as they become available. 
 
 M²LInES affirms the value of differing perspectives in Sciences. As such, we strongly encourage applications from women, racial and ethnic minorities, and other individuals who are under-represented in the profession, across color, creed, race, ethnic and national origin, physical ability, gender and sexual identity, or any other legally protected basis. 
 
@@ -26,15 +26,7 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### Princeton University
 
-Apply for any of the following four positions [here](https://www.princeton.edu/acad-positions/position/19081).
-
-* 1 postdoc to apply machine learning techniques to develop a parameterization of model bias correction in the context of an ocean data assimilation system.  
-
-* 1 postdoc to apply machine learning techniques to improve the representation of vertical mixing in the ocean surface boundary layer for climate model applications.  
-
-* 1 postdoc to apply machine learning techniques to a sea ice data assimilation system with the goal of improving structural errors in a coupled sea ice model.  
-
-* 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. 
+* 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. [Apply here]( ttps://www.princeton.edu/acad-positions/position/20861)
 
 
 ### Future openings:
