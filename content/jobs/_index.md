@@ -11,7 +11,7 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### NYU 
 
-* 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery. For more info + application: [https://apply.interfolio.com/83078](https://apply.interfolio.com/83078) 
+* 1 postdoc in deep learning for climate science.  [Apply here](https://apply.interfolio.com/89069) 
 
 * 1 postdoc in Air-Sea & Ocean Mesoscale Turbulence Parameterization with Machine Learning. [Apply here](https://apply.interfolio.com/83079) 
 
