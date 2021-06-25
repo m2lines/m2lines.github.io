@@ -53,17 +53,5 @@ Rasp S, Pritchard MS, Gentine P. Deep learning to represent subgrid processes in
 
 Zanna L, Brankart JM, Huber M, Leroux S, Penduff T, Williams PD. Uncertainty and scale interactions in ocean ensembles: From seasonal forecasts to multidecadal climate predictions. Q J R Meteorol Soc 2018. [link](https://doi.org/10.1002/qj.3397).
 
-### 2017
-
-Anstey JA, Zanna L. A deformation-based parametrization of ocean mesoscale eddy reynolds stresses. Ocean Model 2017. [link](https://doi.org/10.1016/j.ocemod.2017.02.004).
-
-Zanna L, Porta Mana P, Anstey J, David T, Bolton T. Scale-aware deterministic and stochastic parametrizations of eddy-mean flow interaction. Ocean Model 2017. [link](https://doi.org/10.1016/j.ocemod.2017.01.004)
-
-### 2014
-
-Porta Mana P, Zanna L. Toward a stochastic parameterization of ocean mesoscale eddies. Ocean Model 2014. [link](https://doi.org/10.1016/j.ocemod.2014.04.002).
-
-
-
 
 
