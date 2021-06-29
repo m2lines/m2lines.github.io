@@ -207,5 +207,35 @@ Sea Ice Modelling and Predictability</description>
 Atmospheric Science, Machine Learning</description>
     </item>
     
+    <item>
+      <title>Tarun Verma</title>
+      <link>/team/tarunverma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/tarunverma/</guid>
+      <description>Starting October 2021
+Climate Dynamics, Predictability, and Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>Aakash Sane</title>
+      <link>/team/aakashsane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/aakashsane/</guid>
+      <description>Starting July 2021
+Physical Oceanography, Coastal and Biogeochemical Modelling</description>
+    </item>
+    
+    <item>
+      <title>Will Chapman</title>
+      <link>/team/willchapman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/willchapman/</guid>
+      <description>Starting Jan 2022
+Atmospheric Dynamics and Machine learning</description>
+    </item>
+    
   </channel>
 </rss>

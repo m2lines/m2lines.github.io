@@ -13,8 +13,8 @@ sectionPagesMenu = "content"
   show_call_box = true
 
  [params.logo]
-  mobile = '/images/tmp-logo-m2lines.png'
-  desktop = '/images/tmp-logo-m2lines.png'
+  mobile = '/images/newlogo.png'
+  desktop = '/images/newlogo.png'
   desktop_height = "48px"
   mobile_height = "24px"
 
