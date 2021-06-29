@@ -25,7 +25,11 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### Princeton University
 
+<<<<<<< HEAD
+* 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. [Apply here]( ttps://www.princeton.edu/acad-positions/position/20861)
+=======
 * 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. [Apply here](https://www.princeton.edu/acad-positions/position/20861)
+>>>>>>> 9fdfce9625bc09ca6ae69e6c1221d6d9fb16ea56
 
 
 ### Future openings:
