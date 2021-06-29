@@ -18,3 +18,9 @@ Below is a representation of the physical processes that will be studied by the 
 
 ![title](research-images/physical-processes-simple.png)
 
+<<<<<<< HEAD
+=======
+##### The **M²LInES** initiative is using the wealth of newly available datasets and **machine learning** to deepen our understanding and better capture these unaccounted physical processes. These machine learning models will guide physics-discovery and help reduce the imprecision of existing climate simulations by **providing high-resolution dynamics from low-resolution observables**. 
+
+###### Our data and code repository will be hosted [here](https://github.com/m2lines)
+>>>>>>> 9fdfce9625bc09ca6ae69e6c1221d6d9fb16ea56

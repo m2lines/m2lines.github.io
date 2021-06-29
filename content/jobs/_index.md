@@ -11,7 +11,7 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### NYU 
 
-* 3 Postdocs in Machine Learning for climate modelling will be hired to  develop 1) advanced scale- and physics-aware deep learning algorithms;  2) probabilistic deep learning algorithms; 3) interpretable machine learning-based toolkits for physics-discovery. For more info + application: [https://apply.interfolio.com/83078](https://apply.interfolio.com/83078) 
+* 1 postdoc in Deep Learning for Climate Science.  [Apply here](https://apply.interfolio.com/89069) 
 
 * 1 postdoc in Air-Sea & Ocean Mesoscale Turbulence Parameterization with Machine Learning. [Apply here](https://apply.interfolio.com/83079) 
 
@@ -22,11 +22,14 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
   + [Apply at postdoc level](https://pa334.peopleadmin.com/postings/7450) (for candidates with < 2.5 years of postdoc experience)   
   + [Apply at associate research scientist level](https://pa334.peopleadmin.com/postings/7451) (for candidates with > 2.5 years of postdoc experience)   
    
-* 1 postdoc, Dept. Of Earth and Environmental Engineering, will be hired to work on the atmospheric boundary layer, with a focus on stable boundary layers and the surface interaction with sea ice and its heterogeneity.  [Apply here](https://findajob.agu.org/job/8014276/postdoc-position-in-stable-boundary-layer-and-machine-learning/?TrackID=26&utm_source=rss&utm_medium=feed&utm_campaign=general)
 
 ### Princeton University
 
+<<<<<<< HEAD
 * 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. [Apply here]( ttps://www.princeton.edu/acad-positions/position/20861)
+=======
+* 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. [Apply here](https://www.princeton.edu/acad-positions/position/20861)
+>>>>>>> 9fdfce9625bc09ca6ae69e6c1221d6d9fb16ea56
 
 
 ### Future openings:
