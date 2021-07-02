@@ -4,7 +4,7 @@ draft: false
 image: "/images/team/Tarun.jpg"
 jobtitle: "Postdoc"
 promoted: true
-weight: 19
+weight: 20
 ---
 
 
