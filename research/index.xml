@@ -9,5 +9,8 @@ Combined with analysis from high resolution simulations, this analysis will impr
 New parametrizations will be implemented in ocean models and tested in multiple climate models.
 The aim of the Machine Learning parameterizations for coarse-resolution models will be to achieve comparable accuracy to high-resolution global simulations or observations.
 Learn more: Learn more about the challenges in modelling the oceans for climate in this presentation by Alistair Adcroft, M²LInES head of modeling</description></item><item><title>Public repository and data access</title><link>/research/coding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/coding/</guid><description>Codes and data access
-Our codes are hosted on our Github repository. Upcoming codes will be linked to this repository as they become available.
+Our codes are hosted on our Github repository.
+Codes from Yuval et al. 2021: 1, 2, 3
+Codes from Guillaumin and Zanna 2021: 1, 2
+Upcoming codes will be linked to this repository as they become available.
 All of the datasets used in M²LInES publications will be made openly available. When possible, they will be hosted on Pangeo</description></item></channel></rss>
