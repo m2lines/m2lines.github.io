@@ -8,7 +8,14 @@ heroSubHeading: 'Public repository and data access'
 heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
 ---
 
+<<<<<<< HEAD
 ##### Codes
+=======
+
+#### Codes
+
+
+>>>>>>> 7a5f63d4badf816dd163b952b45debd7d41d3b27
 Our codes are hosted on our Github [repository](https://github.com/m2lines). 
 
 Codes from Yuval et al. 2021: [1](https://github.com/m2lines/Neural_nework_parameterization), [2](https://github.com/m2lines/momentum_parameterization), [3](https://github.com/m2lines/subgrid_parameterization)
@@ -17,7 +24,7 @@ Codes from Guillaumin and Zanna 2021: [1](https://github.com/arthurBarthe/subgri
 
 Upcoming codes will be linked to this repository as they become available.
 
-##### Datasets
+#### Datasets
 
 All of the datasets used in M²LInES publications will be made openly available. When possible, they will be hosted on [Pangeo](https://pangeo.io/)
 
