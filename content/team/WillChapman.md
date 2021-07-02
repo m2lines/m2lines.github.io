@@ -4,13 +4,13 @@ draft: false
 image: "/images/team/Will_Chapman.jpeg"
 jobtitle: "Postdoc"
 promoted: true
-weight: 21
+weight: 23
 Website: https://willychap.github.io/
 ---
 
 
-Starting Jan 2022
+Starting January 2022
 
-*Atmospheric Dynamics and Machine learning*
+*Atmospheric Dynamics and Machine Learning*
 
 
