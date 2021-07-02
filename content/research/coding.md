@@ -8,8 +8,6 @@ heroSubHeading: 'Public repository and data access'
 heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
 ---
 
-#### Codes and data access
-
 ##### Codes
 Our codes are hosted on our Github [repository](https://github.com/m2lines). 
 
