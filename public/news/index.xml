@@ -6,7 +6,16 @@
     <description>Recent content in  News on M²LInES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 09:29:16 +1000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 09:29:16 +1000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Upcoming Seminar by Laure Zanna at One World Mathematics of Climate - 7/6 </title>
+      <link>/news/oneworld/</link>
+      <pubDate>Fri, 02 Jul 2021 09:29:16 +1000</pubDate>
+      
+      <guid>/news/oneworld/</guid>
+      <description>M²LInES lead PI Laure Zanna will give a seminar at the One World Mathematics of Climate on July 6th 12pm EST. She will talk about some of the machine learning work on ocean eddy parameterization and the work being done at M²LInES. Tune in here</description>
+    </item>
+    
     <item>
       <title> M²LInES-related paper by postdoc Will Gregory</title>
       <link>/news/willpaper/</link>

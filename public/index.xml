@@ -109,9 +109,11 @@ Learn more: Learn more about the challenges in modelling the oceans for climate 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/coding/</guid>
-      <description>Codes and data access
-Our codes are hosted on our Github repository. Upcoming codes will be linked to this repository as they become available.
-All of the datasets used in M²LInES publications will be made openly available. When possible, they will be hosted on Pangeo</description>
+      <description>Codes Our codes are hosted on our Github repository.
+Codes from Yuval et al. 2021: 1, 2, 3
+Codes from Guillaumin and Zanna 2021: 1, 2
+Upcoming codes will be linked to this repository as they become available.
+Datasets All of the datasets used in M²LInES publications will be made openly available. When possible, they will be hosted on Pangeo</description>
     </item>
     
     <item>
@@ -312,6 +314,15 @@ Sea ice predictability and Machine Learning</description>
       <guid>/team/willchapman/</guid>
       <description>Starting January 2022
 Atmospheric Dynamics and Machine Learning</description>
+    </item>
+    
+    <item>
+      <title> Upcoming Seminar by Laure Zanna at One World Mathematics of Climate - 7/6 </title>
+      <link>/news/oneworld/</link>
+      <pubDate>Fri, 02 Jul 2021 09:29:16 +1000</pubDate>
+      
+      <guid>/news/oneworld/</guid>
+      <description>M²LInES lead PI Laure Zanna will give a seminar at the One World Mathematics of Climate on July 6th 12pm EST. She will talk about some of the machine learning work on ocean eddy parameterization and the work being done at M²LInES. Tune in here</description>
     </item>
     
     <item>
