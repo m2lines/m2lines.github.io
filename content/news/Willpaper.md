@@ -14,4 +14,4 @@ Incoming M²LInES postdoc Will Gregory is the lead author in this new publicatio
 ##### This work has 3 important implications: 1) a daily freeboard product allows them, for the first time, to assess radar freeboard (and ultimately sea ice thickness) variability on sub-weekly timescales -- it takes up to 1 month for each satellite to generate pan-Arctic coverage alone. 2) The method allows them to derive estimates of radar freeboard correlation length scales, which together with the daily freeboards, could be useful in sea ice data assimilation systems. 3) Their analysis of daily radar freeboards with snowfall data appears to challenge the assumption of full penetration of Ku-band radar through snow. 
 
 
-##### Read their paper [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098302)
+##### Read their paper [here](https://tc.copernicus.org/articles/15/2857/2021/tc-15-2857-2021.html)
