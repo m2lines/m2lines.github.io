@@ -5,7 +5,7 @@ heroSubHeading: ''
 heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'
 ---
 
-06/16/2021: The links for applications will be updated as they become available. 
+07/09/2021: The links for applications will be updated as they become available. 
 
 M²LInES affirms the value of differing perspectives in Sciences. As such, we strongly encourage applications from women, racial and ethnic minorities, and other individuals who are under-represented in the profession, across color, creed, race, ethnic and national origin, physical ability, gender and sexual identity, or any other legally protected basis. 
 
@@ -27,10 +27,12 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 * 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. [Apply here](https://www.princeton.edu/acad-positions/position/20861)
 
+### CNRS-IGE
+* 1 postdoc in computational oceanography: physics-aware subgrid closures with machine learning. [Apply here](https://emploi.cnrs.fr/Offres/CDD/UMR5001-VALLAN0-059/Default.aspx?lang=EN)
+
 
 ### Future openings:
 
-There will be positions opening later at MIT (on atmospheric deep convection), CNRS-IPSL (on validation and testing of ocean parameterizations in IPSL climate model) and CNRS-IGE (on submesoscale parameterizations). 
-
+There will be positions opening later at MIT (on atmospheric deep convection) and CNRS-IPSL (on validation and testing of ocean parameterizations in IPSL climate model).
 
 
