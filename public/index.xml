@@ -18,14 +18,14 @@ Climate and Ocean Dynamics, Machine Learning</description>
     </item>
     
     <item>
-      <title>Learning from high resolution simulations and data</title>
+      <title>Deepening our understanding of key climate processes</title>
       <link>/research/research1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research1/</guid>
-      <description>Learning physics-aware parameterizations from high-resolution data.
-We will diagnose small-scale physical processes from high-resolution simulations and observational data. Those processes cannot be captured by traditional models, which operate on a bigger scale. In particular we will be focusing on:
- Atmospheric convection and clouds (O&amp;rsquo;Gorman) Atmospheric boundary layer processes at the ocean and sea-ice interface (Gentine) Ocean mesoscale buoyancy fluxes (Abernathey) Ocean submesoscale processes (LeSommer) Ocean mesoscale momentum, energy and air-sea interactions (Zanna) Vertical mixing (Adcroft/Reichl)  Learn more: Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research here with Ryan Abernathey, head of big data at M²LInES.</description>
+      <description>We will be deepening our understanding of key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.
+From high-resolution simulations and observational data We will diagnose small-scale physical processes such as:
+ Atmospheric convection and clouds (O&amp;rsquo;Gorman) Atmospheric boundary layer processes at the ocean and sea-ice interface (Gentine) Ocean mesoscale buoyancy fluxes (Abernathey) Ocean submesoscale processes (LeSommer) Ocean mesoscale momentum, energy and air-sea interactions (Zanna) Vertical mixing (Adcroft/Reichl)  We will also learn from the data resulting from model errors.</description>
     </item>
     
     <item>
@@ -39,13 +39,12 @@ Project Management, Oceanography, Sciences Communication</description>
     </item>
     
     <item>
-      <title>Developing physics-aware Machine Learning algorithms</title>
+      <title>Developing new physics-aware machine learning tools</title>
       <link>/research/research2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research2/</guid>
-      <description>Development of physics-aware interpretable Machine Learning algorithms for climate processes
-Learning from the high resolution data as well as from model errors (Data Assimilation Increments) we will develop Machine Learning algorithms that are physics- and scale-aware.
+      <description>Learning from the high resolution data, as well as from model errors (Data Assimilation Increments), we will develop Machine Learning algorithms that are physics- and scale-aware to accelerate climate science discovery .
 Our transformative methodology will rely on a range of ML algorithms (e.g., convolutional neural networks, equation-discovery), including with strict physical constraints, or with embeded physics for improved interpretability, and generalizations.
 Those ML models will be used to deepen our understanding of subgrid processes, and will be implemented as subgrid parameterizations or as bias corrections, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM, CM4, CESM).</description>
     </item>
@@ -61,14 +60,14 @@ Oceanography, Model Development</description>
     </item>
     
     <item>
-      <title>Learning from the errors of the models</title>
+      <title>Improving coupled climate models</title>
       <link>/research/research3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research3/</guid>
-      <description>Learning unaccounted physical processes though existing data assimilation systems
-Data assimilation produce a state estimate by merging a short-range dynamical forecast with observations. The analysis increment is the difference between the forecasted and corrected model state and thus contains information on the discrepancy between the model and observations. This gives us valuable information on physical processes that are systematically unaccounted for in traditional models.
-Combined with analysis from high resolution simulations, this analysis will improve our understanding and representation of subgrid processes in global climate models, thereby reducing biases and providing more reliable climate projections.</description>
+      <description>Our machine learning parameterizations will be implemented in coupled climate models from leading modeling centers(NCAR, GFDL, IPSL) to enhance climate projections
+The aim of the Machine Learning parameterizations for coarse-resolution models will be to achieve comparable accuracy to high-resolution global simulations or observations.
+Learn more: Learn more about the challenges in modelling the oceans for climate in this presentation by Alistair Adcroft, M²LInES head of modeling</description>
     </item>
     
     <item>
@@ -89,31 +88,6 @@ Machine Learning, Signal Processing</description>
       <guid>/team/joan-bruna/</guid>
       <description>NYU, Courant Institute + Computer Science + Center for Data Science
 Machine Learning, Signal Processing</description>
-    </item>
-    
-    <item>
-      <title>Implementing in climate models</title>
-      <link>/research/research4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/research4/</guid>
-      <description>Implementing our machine learning parametrization in climate models to enhance climate projections
-New parametrizations will be implemented in ocean models and tested in multiple climate models.
-The aim of the Machine Learning parameterizations for coarse-resolution models will be to achieve comparable accuracy to high-resolution global simulations or observations.
-Learn more: Learn more about the challenges in modelling the oceans for climate in this presentation by Alistair Adcroft, M²LInES head of modeling</description>
-    </item>
-    
-    <item>
-      <title>Public repository and data access</title>
-      <link>/research/coding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/coding/</guid>
-      <description>Codes Our codes are hosted on our Github repository.
-Codes from Yuval et al. 2021: 1, 2, 3
-Codes from Guillaumin and Zanna 2021: 1, 2
-Upcoming codes will be linked to this repository as they become available.
-Datasets All of the datasets used in M²LInES publications will be made openly available. When possible, they will be hosted on Pangeo</description>
     </item>
     
     <item>
@@ -322,7 +296,7 @@ Atmospheric Dynamics and Machine Learning</description>
       <pubDate>Fri, 02 Jul 2021 09:29:16 +1000</pubDate>
       
       <guid>/news/oneworld/</guid>
-      <description>M²LInES lead PI Laure Zanna will give a seminar at the One World Mathematics of Climate on July 6th 12pm EST. She will talk about some of the machine learning work on ocean eddy parameterization and the work being done at M²LInES. Tune in here</description>
+      <description>M²LInES lead PI Laure Zanna will give a seminar at the One World Mathematics of Climate on July 6th 12pm EST. She will talk about some of the machine learning work on ocean eddy parameterization and about the work being done at M²LInES. Tune in here</description>
     </item>
     
     <item>
@@ -422,7 +396,7 @@ This work has 3 important implications: 1) a daily freeboard product allows them
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>/services/axe1/</guid>
-      <description>Learning from high resolution data and from the errors of the models </description>
+      <description>Deepening our understanding of key climate processes, such as ocean mixing, clouds, convection, using data </description>
     </item>
     
     <item>
@@ -431,7 +405,7 @@ This work has 3 important implications: 1) a daily freeboard product allows them
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>/services/axe2/</guid>
-      <description>Developing physics-aware Machine Learning algorithms </description>
+      <description>Developing new physics-aware machine learning tools for accelerating climate science discovery </description>
     </item>
     
     <item>
@@ -440,7 +414,7 @@ This work has 3 important implications: 1) a daily freeboard product allows them
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>/services/axe3/</guid>
-      <description>Implementing in climate models </description>
+      <description>Improving coupled climate models from leading modeling centers (NCAR, GFDL, and IPSL). </description>
     </item>
     
   </channel>

@@ -1,17 +1,16 @@
 
 ---
-title: 'Developing physics-aware Machine Learning algorithms'
+title: 'Developing new physics-aware machine learning tools'
 draft: false
 featured: true
-heroHeading: 'Developing physics-aware Machine Learning algorithms'
+heroHeading: 'Developing new physics-aware machine learning tools'
 heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 weight: 2
 ---
 
-Development of physics-aware interpretable Machine Learning algorithms for climate processes
 
-Learning from the high resolution data as well as from model errors (Data Assimilation Increments) we will develop Machine Learning algorithms that are physics- and scale-aware. 
+Learning from the high resolution data, as well as from model errors (Data Assimilation Increments), we will develop Machine Learning algorithms that are physics- and scale-aware to accelerate climate science discovery . 
 
 Our transformative methodology will rely on a range of ML algorithms (e.g., convolutional neural networks, equation-discovery), including with strict physical constraints, or with embeded physics for improved interpretability, and generalizations. 
 

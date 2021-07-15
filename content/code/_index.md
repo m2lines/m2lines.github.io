@@ -1,9 +1,6 @@
 ---
-title: 'Public repository and data access'
-draft: false
-featured: true
-weight: 5
-heroHeading: ''
+title: ' Code'
+heroHeading: 'Code'
 heroSubHeading: 'Public repository and data access'
 heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
 ---
