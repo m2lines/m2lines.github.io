@@ -1,24 +1,18 @@
 ---
-title: 'Learning from the errors of the models'
+title: 'Improving coupled climate models'
 draft: false
 featured: true
 weight: 3
-heroHeading: 'Learning from the errors of the models'
+heroHeading: 'Improving coupled climate models'
 heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 ---
 
 
-Learning unaccounted physical processes though existing data assimilation systems
+Our machine learning parameterizations will be implemented in coupled climate models from leading modeling centers(NCAR, GFDL, IPSL) to enhance climate projections
 
-Data assimilation produce a state estimate by merging a short-range dynamical forecast with observations. The analysis increment is the difference between the forecasted and corrected model state and thus contains information on the discrepancy between the model and observations. This gives us valuable information on physical processes that are systematically unaccounted for in traditional models. 
-
-Combined with analysis from high resolution simulations, this analysis will improve our understanding and representation of subgrid processes in global climate models, thereby reducing biases and providing more reliable climate projections. 
+The aim of the Machine Learning parameterizations for coarse-resolution models will be to achieve comparable accuracy to high-resolution global simulations or observations. 
 
 
-In particular, in this analysis we will be focusing on:
-* Atmospheric processes
-* Vertical mixing
-* Ocean mesoscale and submesoscale processes
-* Sea-ice parametrization
-* Air-sea-ice fluxes 
+**Learn more:**
+Learn more about the challenges in modelling the oceans for climate in this [presentation](https://www.pathlms.com/siam/courses/10878/sections/14374/video_presentations/127453) by Alistair Adcroft, M²LInES head of modeling 
