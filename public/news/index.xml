@@ -6,7 +6,17 @@
     <description>Recent content in  News on M²LInES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 09:29:16 +1000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jul 2021 09:29:16 +1000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Article in Eos by Yuval et al. - Call for Papers on Machine Learning and Earth System Modeling</title>
+      <link>/news/articlejamescall/</link>
+      <pubDate>Wed, 14 Jul 2021 09:29:16 +1000</pubDate>
+      
+      <guid>/news/articlejamescall/</guid>
+      <description>M²LInES members Janni Yuval is the lead author in this article inviting scientists to contribute to a journal special collection. The collection will focus on the use of new machine learning methodologies and applications of machine learning to Earth system modeling. Pierre Gentine and Laure Zanna are co-authors of the article.
+Link to contribute here</description>
+    </item>
+    
     <item>
       <title> Upcoming Seminar by Laure Zanna at One World Mathematics of Climate - 7/6 </title>
       <link>/news/oneworld/</link>
