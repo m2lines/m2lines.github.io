@@ -4,7 +4,7 @@ title: ' Upcoming Seminar by Laure Zanna at One World Mathematics of Climate - 7
 heroHeading: ''
 heroSubHeading: 'One World Mathematics of Climate Seminar'
 heroBackground: ''
-thumbnail:  'images/news/OneWorldseminar.jpeg'
+thumbnail:  'images/news/OneWorldsemina-thumb.jpeg'
 images: ['images/news/OneWorldseminar.jpeg']
 link: 'https://sites.google.com/view/oneworldmathsofclimate' 
 ---
