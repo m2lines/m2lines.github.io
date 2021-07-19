@@ -16,6 +16,7 @@
 {{ end }}
 
 {{ define "footer_js" }}
+
 {{ $library := resources.Get "js/libs/library.js" }}
 {{ $services := resources.Get "js/pages/services.js" }}
 {{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}

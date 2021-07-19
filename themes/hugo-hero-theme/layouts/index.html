@@ -39,6 +39,7 @@
 </div>
 
 
+
 		
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
@@ -75,7 +76,21 @@
     </div>
   </div>
 </div>
-{{ end }}
 
+
+<div id="home" class="bg-info bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center">
+        <h2>Subscribe to our newsletter</h2>
+        <p>Sign up for our newsletter and receive our latest updates.
+</p>
+        <a class="button" href="https://github.us1.list-manage.com/subscribe/post?u=c81830f2905baad1c7b2d8c8b&amp;id=5b8c433eb4">subscribe</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}
 {{ define "footer_js" }}
 {{ end }}
