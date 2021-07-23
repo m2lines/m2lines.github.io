@@ -2,7 +2,7 @@
 date: 2021-03-08T09:29:16+10:00
 title: ' New paper on deep learning parametrization by Guillaumin and Zanna'
 heroHeading: ''
-heroSubHeading: 'New publication by M²LInES postdoc Arthur Guillaumin and lead PI Laure Zanna'
+heroSubHeading: 'New publication on deep learning parametrization by M²LInES postdoc Arthur Guillaumin and lead PI Laure Zanna'
 heroBackground: ''
 thumbnail:  'images/news/Arthur-fig2-thumb.png'
 images: ['images/news/Arthur-fig2.png']
