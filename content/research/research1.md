@@ -20,6 +20,7 @@ We will diagnose small-scale physical processes such as:
 * Ocean submesoscale processes (LeSommer)
 * Ocean mesoscale momentum, energy and air-sea interactions (Zanna)
 * Vertical mixing (Adcroft/Reichl)
+* Sea-ice heterogeneity and its influence on air-sea-ice interactions (Holland)
 
 ##### We will also learn from the data resulting from model errors. 
 
