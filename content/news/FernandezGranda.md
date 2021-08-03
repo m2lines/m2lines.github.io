@@ -4,7 +4,7 @@ title: "Adaptive Denoising via GainTuning - Carlos Fernandez-Granda"
 heroHeading: ''
 heroSubHeading: "Adaptive Denoising via GainTuning - Carlos Fernandez-Granda"
 thumbnail:  'images/news/Carlos-fig-thumb.png'
-images: ['images/news/Carlos-fig']
+images: ['images/news/Carlos-fig.png']
 link: 'https://arxiv.org/abs/2107.12815' 
 ---
 
