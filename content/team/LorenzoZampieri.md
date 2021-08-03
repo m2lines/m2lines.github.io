@@ -9,7 +9,7 @@ weight: 19
 ---
 
 
-Starting Fall 2021
+Starting August 2021
 
 *Sea Ice Modelling and Predictability*
 

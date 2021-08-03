@@ -4,7 +4,7 @@ draft: false
 image: "/images/team/WillGregory.jpeg"
 jobtitle: "Postdoc"
 promoted: true
-weight: 22
+weight: 26
 Website:  https://www.ucl.ac.uk/earth-sciences/people/research-students/william-gregory
 ---
 
