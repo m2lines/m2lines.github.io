@@ -8,7 +8,7 @@ heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 ---
 
-We will be deepening our understanding of key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.    
+We will enhance our understanding of key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.    
   
 ##### From high-resolution simulations and observational data
 We will diagnose small-scale physical processes such as:
