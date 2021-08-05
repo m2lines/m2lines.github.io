@@ -24,7 +24,7 @@ We will diagnose small-scale physical processes such as:
 
 ##### We will also learn from the data resulting from model errors, or data assimilation increments, illustrated in the figure below:  
 
-![DAschematics](/images/research/DAillustration-logo-small.png)
+![DAschematics](/images/research/DAillustration-logo.png)
 
 ###### In particular, in this analysis we will be focusing on:
 
