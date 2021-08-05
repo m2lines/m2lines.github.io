@@ -12,7 +12,7 @@ We will enhance our understanding of key climate processes using two types of da
  
  M²LInES will be focusing on processes happening in the ocean, atmosphere and sea-ice. Below is a representation of the physical processes that will be studied by the team:
 
-![title](research-images/physical-processes-simple.png)
+![title](/images/research/physical-processes-simple.png)
 
 ##### From high-resolution simulations and observational data
 We will diagnose small-scale physical processes such as:
