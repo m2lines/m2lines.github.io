@@ -14,7 +14,9 @@ Our codes are hosted on our Github [repository](https://github.com/m2lines).
    * [Momentum Parametrization](https://github.com/m2lines/momentum_parameterization): Neural Network Parameterization of subgrid momentum
    * [Subgrid Parametrization](https://github.com/m2lines/subgrid_parameterization): Use of machine learning to achieve stable and accurate simulations of the atmosphere
 
-- Codes from Guillaumin and Zanna 2021: [1](https://github.com/arthurBarthe/subgrid), [2](https://github.com/m2lines/swe_stochastic_param)
+- Codes from Guillaumin and Zanna 2021: 
+    * [Subgrid](https://github.com/arthurBarthe/subgrid)
+    * [SWE Stochastic Parametrization](https://github.com/m2lines/swe_stochastic_param): Shallow Water Equations on a square basin with stochastic deep learning parameterization of subgrid momentum forcing
 
 Upcoming codes will be linked to this repository as they become available.
 
