@@ -13,8 +13,6 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 * 1 postdoc in Deep Learning for Climate Science.  [Apply here](https://apply.interfolio.com/89069) 
 
-* 1 postdoc in Air-Sea & Ocean Mesoscale Turbulence Parameterization with Machine Learning. [Apply here](https://apply.interfolio.com/83079) 
-
 
 ### Princeton University
 
