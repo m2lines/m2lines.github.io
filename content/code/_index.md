@@ -12,7 +12,6 @@ Our codes are hosted on our Github [repository](https://github.com/m2lines).
 - Codes from [Yuval et al. 2021](https://doi.org/10.1029/2020GL091363): 
    * [Neural Network Parametrization](https://github.com/m2lines/Neural_nework_parameterization)
    * [Momentum Parametrization](https://github.com/m2lines/momentum_parameterization): Neural Network Parameterization of subgrid momentum
-   * [Subgrid Parametrization](https://github.com/m2lines/subgrid_parameterization): Use of machine learning to achieve stable and accurate simulations of the atmosphere
 
 - Codes from [Guillaumin and Zanna 2021](https://doi.org/10.1029/2021MS002534): 
     * [Subgrid](https://github.com/arthurBarthe/subgrid)
