@@ -8,9 +8,10 @@ heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 ---
 
-We will enhance our understanding of key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.    
+Despite drastic improvements in climate model development, current simulations have difficulty capturing the interactions among different processes in the atmosphere, oceans, and ice and how they affect the Earth’s climate; this can hinder projections of temperature, rainfall, and sea level. 
+M²LInES will be focusing on understanding these key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.    
  
- M²LInES will be focusing on processes happening in the ocean, atmosphere and sea-ice. Below is a representation of the physical processes that will be studied by the team:
+Below is a representation of the physical processes that will be studied by the team:
 
 ![title](/images/research/physical-processes-simple.png)
 
@@ -32,10 +33,10 @@ We will diagnose small-scale physical processes such as:
 
 ###### In particular, in this analysis we will be focusing on:
 
-* Atmospheric processes
+* Atmospheric processes (Berner)
 * Vertical mixing
 * Ocean mesoscale and submesoscale processes
-* Sea-ice parametrization
+* Sea-ice parametrization (Bushuk)
 * Air-sea-ice fluxes 
 
 **Learn more:**
