@@ -157,6 +157,8 @@
   </url><url>
     <loc>/research/</loc>
   </url><url>
+    <loc>/talks/</loc>
+  </url><url>
     <loc>/blog/</loc>
   </url><url>
     <loc>/code/</loc>
@@ -168,5 +170,7 @@
     <loc>/publications/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/tags/talks/</loc>
   </url>
 </urlset>

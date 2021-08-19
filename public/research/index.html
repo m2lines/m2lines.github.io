@@ -11,7 +11,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/style.min.c3f1e42545acb0650d9dad36f282f1bcc6c3a3391345688ade5809612ad1d49d.css">
+  <link rel="stylesheet" href="/css/style.min.345d5a6f99c56351ba933936024cd873ebbf19fd5169f0f3f2ff72433009c72d.css">
   
 
   
@@ -44,8 +44,8 @@
       </a>
     </li>
     
-    <li class="menu-item-research active">
-      <a href="/research/">
+    <li class="menu-item-research">
+      <a href="">
         
         <span>Research</span>
       </a>
@@ -90,68 +90,92 @@
     <div class="logo-mobile">
       <a href="/"><img alt="M²LInES homepagee" src="/images/newlogo.png" /></a>
     </div>
-    <div id="main-menu" class="main-menu">
-  <ul>
     
-    
-    <li class="menu-item-about">
-      <a href="/about/">
-        
-        <span>About</span>
-      </a>
-    </li>
-    
-    <li class="menu-item-jobs">
-      <a href="/jobs/">
-        
-        <span>Jobs</span>
-      </a>
-    </li>
-    
-    <li class="menu-item-team">
-      <a href="/team/">
-        
-        <span>Team</span>
-      </a>
-    </li>
-    
-    <li class="menu-item-research active">
-      <a href="/research/">
-        
-        <span>Research</span>
-      </a>
-    </li>
-    
-    <li class="menu-item-code">
-      <a href="/code/">
-        
-        <span>Code</span>
-      </a>
-    </li>
-    
-    <li class="menu-item-publications">
-      <a href="/publications/">
-        
-        <span>Publications</span>
-      </a>
-    </li>
-    
-    <li class="menu-item-news">
-      <a href="/news/">
-        
-        <span>News</span>
-      </a>
-    </li>
-    
-    <li class="menu-item-blog">
-      <a href="/blog/">
-        
-        <span>Blog</span>
-      </a>
-    </li>
-    
-  </ul>
-</div>
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1"></span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/jobs/">
+				
+				<span class="menu__text">Jobs</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/team/">
+				
+				<span class="menu__text">Team</span>
+				
+			</a>
+		</li>
+		<li class="menu__item menu__dropdown menu__item--active">
+			<a class="menu__link" href="">
+				
+				<span class="menu__text">Research</span>
+				<label class="drop-icon" for="Research">▾</label>
+				
+			</a>
+			<input type="checkbox" id="Research">
+			<ul class="submenu__list">
+				
+					<li class="menu__item menu__item--active">
+					<a class="menu__link" href="/research/">
+						
+						<span class="menu__text">themes</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/tags/talks/">
+						
+						<span class="menu__text">Talks</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/code/">
+				
+				<span class="menu__text">Code</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/publications/">
+				
+				<span class="menu__text">Publications</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/news/">
+				
+				<span class="menu__text">News</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/blog/">
+				
+				<span class="menu__text">Blog</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
     <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
   <span class="hamburger-box">
     <span class="hamburger-inner"></span>
@@ -180,8 +204,8 @@
         <h2 id="project-goal">Project Goal</h2>
 <p>Scientists rely on computer simulations - or <strong>climate models</strong> - to describe the complex evolution of atmosphere, ocean, and ice systems. These climate models break the components of the climate system into a series of <strong>grid boxes</strong> to imitate how the ocean, atmosphere, and ice are changing and interact with each other. The issue is that the number of grid boxes selected is <strong>limited by computer power</strong>. Currently, climate models for multi-decade projections use grid box sizes measuring approximately 50 km to 100 km (roughly 30 to 60 miles). As a result, physical processes that occur on <strong>scales that are smaller than the grid box</strong> (e.g., clouds, turbulence, and ocean mixing) of climate models are not well captured.</p>
 <p>The <strong>M²LInES</strong> initiative is using the wealth of newly available datasets and <strong>machine learning</strong> to deepen our understanding and better capture these unaccounted physical processes. These machine learning models will guide physics-discovery and help reduce the imprecision of existing climate simulations by <strong>providing high-resolution dynamics from low-resolution observables</strong>.</p>
-<p>Below is a representation of the physical processes that will be studied by the M²LInES team</p>
-<p><img src="research-images/physical-processes-simple.png" alt="title"></p>
+<p>Below is a schematic of our workplan:</p>
+<p><img src="research-images/workplan.png" alt="workplan"></p>
 
       </div>
     </div>
@@ -199,7 +223,7 @@
     <h2 class="service-title">
       <a href="/research/research1/">Deepening our understanding of key climate processes</a>
     </h2>
-    <p>We will be deepening our understanding of key climate processes using two types of data: 1. Data from high-resolution...</p>
+    <p>We will enhance our understanding of key climate processes using two types of data: 1. Data from high-resolution...</p>
   </div>
 </div>
 </div>
@@ -221,7 +245,7 @@
     <h2 class="service-title">
       <a href="/research/research3/">Improving coupled climate models</a>
     </h2>
-    <p>Our machine learning parameterizations will be implemented in coupled climate models from leading modeling centers(NCAR,...</p>
+    <p>Predicting future climate conditions on earth, and in particular, the impacts of climate change, would not be possible...</p>
   </div>
 </div>
 </div>

@@ -1,42 +1,196 @@
-.main-menu {
+/* Main menu */
+.no-js .menu__btn {
   display: none;
-  @include media-breakpoint-up(md) {
-    display: block;
+}
+
+.menu__btn {
+  display: block;
+  width: 100%;
+  padding: 0;
+  font: inherit;
+  color: $primary;
+  border: 0;
+  outline: 0;
+}
+
+.menu__btn-title {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  padding: 0.625rem 0.9375rem;
+  font-weight: 700;
+  text-align: right;
+  text-transform: uppercase;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+:focus > .menu__btn-title {
+  box-shadow: inset 0 0 1px 3px $primary;
+}
+
+button:not(:-moz-focusring):focus > .menu__btn-title {
+  box-shadow: none;
+}
+
+.menu__btn:focus,
+.menu__btn-title:focus {
+  outline: 0;
+  color: #ffffff;
+   background: $primary;
+}
+
+.js .menu__btn--active {
+  color: #ffffff;
+   background: $primary;
+}
+
+.menu__list,
+.submenu__list {
+  list-style: none;
+ color: $primary;
+}
+
+.menu__item:hover > a {
+  color: #ffffff;
+   background: $primary;
+}
+
+.menu__item:first-child {
+  border: 0;
+}
+
+.menu__item--active {
+  background: $primary;
+  color: #ffffff;
+}
+
+.menu__link {
+  display: block;
+  padding: 10px 15px;
+  padding: 0.625rem 0.9375rem;
+  font-weight: 700;
+  color: $primary;
+   background: #ffffff;
+  text-transform: uppercase;
+}
+
+.menu__list .menu__item .submenu__list {
+  background: none;
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  max-width: 15rem;
+  transition: all 0.5s ease;
+  display: none;
+}
+
+.menu__item.menu__dropdown input[type="checkbox"] {
+  display: none;
+}
+
+.menu__list .menu__item:hover > .submenu__list,
+.menu__list .menu__item:focus-within > .submenu__list,
+.menu__list .menu__item .submenu__list:hover,
+.menu__list .menu__item .submenu__list:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+.menu__link:hover {
+  color: #ffffff;
+}
+
+.js .menu__list {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  visibility: hidden;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: top left;
+  transform-origin: top left;
+}
+
+.js .menu__list--active {
+  visibility: visible;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+}
+
+.menu__list--transition {
+  transition: visibility 0.15s ease, transform 0.15s ease,
+    -webkit-transform 0.15s ease;
+}
+
+@media screen and (min-width: 767px) {
+ 
+  .menu__btn {
+    display: none;
   }
-  > ul {
+
+  .menu__list,
+  .js .menu__list {
+    position: relative;
+    display: -webkit-flex;
     display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    > li {
-      list-style: none;
-      font-size: 0.9rem;
-	font-weight: bold;
-      > a {
-        padding: 10px 14px 10px 14px;
-        display: inline-block;
-        font-weight: regular;
-        text-transform: uppercase;
-        text-decoration: none;
-        color: $primary;
-        &:hover {
-          background: $primary;
-          color: #ffffff;
-          text-decoration: none;
-        }
-      }
-      &.active {
-        > a {
-          background: $primary;
-          text-decoration: none;
-          color: #ffffff;
-          &:hover {
-            text-decoration: none;
-            background: $primary;
-            transition: all 225ms ease-in 0s;
-            color: #ffffff;
-          }
-        }
-      }
-    }
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    visibility: visible;
+    border: 0;
+    -webkit-transform: none;
+    transform: none;
+  }
+
+}
+
+@media screen and (max-width: 767px) {
+  .menu__item.menu__dropdown .drop-icon {
+    position: absolute;
+    right: 1rem;
+    top: auto;
+  }
+
+  .menu__item.menu__dropdown input[type="checkbox"] + .submenu__list {
+    display: none;
+  }
+
+  .menu__item.menu__dropdown input[type="checkbox"]:checked + .submenu__list {
+    border: none;
+    padding-left: 20px;
+    visibility: visible;
+    opacity: 1;
+    display: block;
+    position: relative;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .menu__item.menu__dropdown .drop-icon {
+    position: absolute;
+    right: 1rem;
+    top: auto;
+  }
+
+  .menu__item.menu__dropdown input[type="checkbox"] + .submenu__list {
+    display: none;
+  }
+
+  .menu__item.menu__dropdown input[type="checkbox"]:checked + .submenu__list {
+    border: none;
+    padding-left: 20px;
+    visibility: visible;
+    opacity: 1;
+    display: block;
+    position: relative;
+    max-width: 100%;
   }
 }

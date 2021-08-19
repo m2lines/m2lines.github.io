@@ -23,9 +23,9 @@ Climate and Ocean Dynamics, Machine Learning</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research1/</guid>
-      <description>We will be deepening our understanding of key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.
-From high-resolution simulations and observational data We will diagnose small-scale physical processes such as:
- Atmospheric convection and clouds (O&amp;rsquo;Gorman) Atmospheric boundary layer processes at the ocean and sea-ice interface (Gentine) Ocean mesoscale buoyancy fluxes (Abernathey) Ocean submesoscale processes (LeSommer) Ocean mesoscale momentum, energy and air-sea interactions (Zanna) Vertical mixing (Adcroft/Reichl) Sea-ice heterogeneity and its influence on air-sea-ice interactions (Holland)  We will also learn from the data resulting from model errors.</description>
+      <description>We will enhance our understanding of key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.
+M²LInES will be focusing on processes happening in the ocean, atmosphere and sea-ice. Below is a representation of the physical processes that will be studied by the team:
+From high-resolution simulations and observational data We will diagnose small-scale physical processes such as:</description>
     </item>
     
     <item>
@@ -65,9 +65,8 @@ Oceanography, Model Development</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/research3/</guid>
-      <description>Our machine learning parameterizations will be implemented in coupled climate models from leading modeling centers(NCAR, GFDL, IPSL) to enhance climate projections
-The aim of the Machine Learning parameterizations for coarse-resolution models will be to achieve comparable accuracy to high-resolution global simulations or observations.
-Learn more: Learn more about the challenges in modelling the oceans for climate in this presentation by Alistair Adcroft, M²LInES head of modeling</description>
+      <description>Predicting future climate conditions on earth, and in particular, the impacts of climate change, would not be possible without climate models. Climate models are complex mathematical representations of the physical processes happening in each of the climate system components: ocean, atmosphere, sea-ice and land surface, as well as their interactions with each other.
+Climate models divide the globe into three dimensional grid cells representing a specific location and elevation. The resolution of the models, their “level of detail”, is dependent on the size chosen for the grid cells: the smaller the grid size the higher the resolution.</description>
     </item>
     
     <item>
@@ -329,12 +328,12 @@ Sea ice predictability and Machine Learning</description>
     </item>
     
     <item>
-      <title>Does a sophisticated description of sea-ice physics in models leads to more realistic models? Lorenzo Zampieri </title>
+      <title>Impact of Sea-Ice Model Complexity on model performance by Lorenzo Zampieri </title>
       <link>/news/zampierijames/</link>
       <pubDate>Thu, 29 Jul 2021 09:29:16 +1000</pubDate>
       
       <guid>/news/zampierijames/</guid>
-      <description>Incoming postdoc Lorenzo Zampieri Available to read in open access here.</description>
+      <description>Incoming postdoc Lorenzo Zampieri demonstrates in this article how increased sea-ice model complexity can improve the simulated sea-ice concentration and snow thickness. Available to read in open access here.</description>
     </item>
     
     <item>
@@ -517,6 +516,15 @@ This work has 3 important implications: 1) a daily freeboard product allows them
       
       <guid>/services/axe3/</guid>
       <description>Improving coupled climate models from leading modeling centers (NCAR, GFDL, and IPSL). </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>test</description>
     </item>
     
   </channel>
