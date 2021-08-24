@@ -5746,6 +5746,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
     -webkit-transform: none;
     transform: none; } }
 
+.menu__item.menu__dropdown .drop-icon {
+  margin-bottom: 0; }
+
 @media screen and (max-width: 767px) {
   .menu__item.menu__dropdown .drop-icon {
     position: absolute;
