@@ -11,12 +11,12 @@
     margin-bottom: 20px;
       margin-bottom: 0;
     }
-  ul {
+  ul:not(.menu__list):not(.submenu__list) {
     list-style-type: disc;
     margin-top:10px;
     margin-bottom:20px;
   }
-  li {
+  li:not(.menu__item) {
     margin-bottom: 5px;
     line-height: 1.56;
     margin-left: 20px;
