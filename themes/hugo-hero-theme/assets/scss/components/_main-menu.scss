@@ -16,8 +16,14 @@
 .menu__btn-title {
   position: relative;
   display: block;
-  padding: 10px 15px;
-  padding: 0.625rem 0.9375rem;
+
+  //padding: 10px 15px;
+  //padding: 0.625rem 0.9375rem;
+  padding: 0;
+  // TODO: this element doesn't seem to be doing anything, and giving it
+  // padding currently pushes the menu off the header, but maybe it's important
+  // for accessibility? will ask / resolve before merging!
+
   font-weight: 700;
   text-align: right;
   text-transform: uppercase;
