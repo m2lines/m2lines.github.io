@@ -54,7 +54,7 @@ sectionPagesMenu = "content"
 
 [[menu.main]]
 	identifier = "themes"
-    name = "themes"
+    name = "Themes"
     url = "/research/"
     parent = "research"
     weight = 1
