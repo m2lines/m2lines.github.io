@@ -50,6 +50,7 @@ sectionPagesMenu = "content"
 [[menu.main]]
 	identifier = "research"
     name = "Research"
+    url = "/research/"
     weight = 4
 
 [[menu.main]]
