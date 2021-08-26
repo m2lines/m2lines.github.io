@@ -48,9 +48,23 @@ sectionPagesMenu = "content"
 
 
 [[menu.main]]
+	identifier = "research"
     name = "Research"
-    url = "/research/"
     weight = 4
+
+[[menu.main]]
+	identifier = "themes"
+    name = "Themes"
+    url = "/research/"
+    parent = "research"
+    weight = 1
+    
+[[menu.main]]
+	identifier = "talks"
+    name = "Talks"
+    url = "/research/Talks/"
+    parent = "research"
+    weight = 2
     
 [[menu.main]]
     name = "Code"
