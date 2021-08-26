@@ -62,7 +62,7 @@ sectionPagesMenu = "content"
 [[menu.main]]
 	identifier = "talks"
     name = "Talks"
-    url = "/tags/Talks/"
+    url = "/research/Talks/"
     parent = "research"
     weight = 2
     
