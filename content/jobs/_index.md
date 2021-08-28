@@ -9,11 +9,6 @@ heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'
 
 M²LInES affirms the value of differing perspectives in Sciences. As such, we strongly encourage applications from women, racial and ethnic minorities, and other individuals who are under-represented in the profession, across color, creed, race, ethnic and national origin, physical ability, gender and sexual identity, or any other legally protected basis. 
 
-### NYU 
-
-* 1 postdoc in Deep Learning for Climate Science.  [Apply here](https://apply.interfolio.com/89069) 
-
-
 ### Princeton University
 
 * 1 postdoc to implement existing machine-learned parameterizations in the MOM6 ocean model and to further develop/implement machine-learned parameterizations of missing processes and model bias in both MOM6 and the sea-ice model SIS2. [Apply here](https://www.princeton.edu/acad-positions/position/20861)
