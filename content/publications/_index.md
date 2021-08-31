@@ -11,9 +11,9 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 * Mooers G, Pritchard M, Beucler T, Ott J, Yacalis G, Baldi P, Gentine P. **Assessing the Potential of Deep Learning for Emulating Cloud Superparameterization in Climate Models with Real-Geography Boundary Conditions.** _Journal of Advances in Modeling Earth Systems_ 2021 [link]( https://doi.org/10.1029/2020MS002385)
 
-* Beucler T, Pritchard M, Rasp S, Ott J, Baldi P, Gentine P. **Enforcing analytic constraints in neural networks emulating physical systems.** _Physical Review Letters_ 2021. [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098302) (ArXiv [link](https://arxiv.org/abs/1909.00912))
+* Beucler T, Pritchard M, Rasp S, Ott J, Baldi P, Gentine P. **Enforcing analytic constraints in neural networks emulating physical systems.** _Physical Review Letters_ 2021. [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098302) (author [link](https://gentinelab.eee.columbia.edu/sites/default/files/content/PhysRevLett.126.098302.pdf))
 
-* Frezat H, Balarac G, Le Sommer J, Fablet R, Lguensat R. **Physical invariance in neural networks for subgrid-scale scalar flux modeling.** _Physical Review Fluids_ 2021. [link](https://doi.org/10.1103/PhysRevFluids.6.024607) (ArXiv [link](https://arxiv.org/abs/2010.04663))
+* Frezat H, Balarac G, Le Sommer J, Fablet R, Lguensat R. **Physical invariance in neural networks for subgrid-scale scalar flux modeling.** _Physical Review Fluids_ 2021. [link](https://doi.org/10.1103/PhysRevFluids.6.024607) (author [link](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN?path=%2F2021#pdfviewer))
 
 * Guillaumin A, Zanna L. **Stochastic Deep Learning parameterization of Ocean Momentum Forcing.** _Journal of Advances in Modeling Earth Systems (Accepted)_ 2021. [link](https://doi.org/10.1002/essoar.10506419.1).
 
