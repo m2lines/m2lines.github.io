@@ -7,6 +7,10 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 
 ### 2021
+* Zanna L, Bolton T. **Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). [link](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch20)
+
+* Gentine P, Eyring V, Beucler T. **Deep Learning for the Parametrization of Subgrid Processes in Climate Models** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). [link](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch21)
+  
 * Yuval J, O'Gorman PA. **Neural-network parameterization of subgrid momentum transport in the atmosphere.** _J Earth and Space Science Open Archive_ [link](https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1)
 
 * Mooers G, Pritchard M, Beucler T, Ott J, Yacalis G, Baldi P, Gentine P. **Assessing the Potential of Deep Learning for Emulating Cloud Superparameterization in Climate Models with Real-Geography Boundary Conditions.** _Journal of Advances in Modeling Earth Systems_ 2021 [link]( https://doi.org/10.1029/2020MS002385)
@@ -15,7 +19,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 * Frezat H, Balarac G, Le Sommer J, Fablet R, Lguensat R. **Physical invariance in neural networks for subgrid-scale scalar flux modeling.** _Physical Review Fluids_ 2021. [link](https://doi.org/10.1103/PhysRevFluids.6.024607) (author [link](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN?path=%2F2021#pdfviewer))
 
-* Guillaumin A, Zanna L. **Stochastic Deep Learning parameterization of Ocean Momentum Forcing.** _Journal of Advances in Modeling Earth Systems (Accepted)_ 2021. [link](https://doi.org/10.1002/essoar.10506419.1).
+* Guillaumin A, Zanna L. **Stochastic Deep Learning parameterization of Ocean Momentum Forcing.** _Journal of Advances in Modeling Earth Systems (Accepted)_ 2021. [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002534).
 
 * O’Gorman PA, Li Z, Boos WR, Yuval J. **Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution.** _Philosophical Transactions of the Royal Society A_ 2021. [link](https://doi.org/10.1098/rsta.2019.0543) (or [link](https://halo.mit.edu/src/ogorman_quasi_global_hires_precip_extremes_2021.pdf))
 
@@ -25,7 +29,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 * Yuval J, O’Gorman PA. **Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions.** _Nature communications_ 2020. [link](https://doi.org/10.1038/s41467-020-17142-3).
 
-* Zanna L, Bolton T. **Data‐Driven Equation Discovery of Ocean Mesoscale Closures.** _Geophysical Research Letters_ 2020.[link](https://doi.org/10.1029/2020GL088376) (ESSOAr [link](https://www.essoar.org/doi/10.1002/essoar.10503535.1))
+* Zanna L, Bolton T. **Data‐Driven Equation Discovery of Ocean Mesoscale Closures.** _Geophysical Research Letters_ 2020.[link](https://doi.org/10.1029/2020GL088376) (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2020.pdf))
 
 ### 2019
 
