@@ -21,7 +21,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 * Guillaumin A, Zanna L. **Stochastic Deep Learning parameterization of Ocean Momentum Forcing.** _Journal of Advances in Modeling Earth Systems (Accepted)_ 2021. [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002534).
 
-* O’Gorman PA, Li Z, Boos WR, Yuval J. **Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution.** _Philosophical Transactions of the Royal Society A_ 2021. [link](https://doi.org/10.1098/rsta.2019.0543) (or [link](https://halo.mit.edu/src/ogorman_quasi_global_hires_precip_extremes_2021.pdf))
+* O’Gorman PA, Li Z, Boos WR, Yuval J. **Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution.** _Philosophical Transactions of the Royal Society A_ 2021. [link](https://doi.org/10.1098/rsta.2019.0543) (or author [link](https://halo.mit.edu/src/ogorman_quasi_global_hires_precip_extremes_2021.pdf))
 
 * Yuval J, Hill CN, O'Gorman PA. **Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision.** _Geophysical Research Letter_ 2021. [link](https://doi.org/10.1029/2020GL091363)
 
