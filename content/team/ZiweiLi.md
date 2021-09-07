@@ -4,7 +4,7 @@ draft: false
 image: "/images/team/Ziwei.png"
 jobtitle: "Postdoc"
 promoted: true
-Website:  https://ziweili.scripts.mit.edu/ziweili/
+Website:  https://ziweili.page/
 weight: 21
 ---
 
