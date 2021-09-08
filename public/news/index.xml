@@ -6,7 +6,18 @@
     <description>Recent content in  News on M²LInES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jul 2021 09:29:16 +1000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 09:29:16 +1000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> UN AI for Good: AI and Climate Science seminars </title>
+      <link>/news/aiforgood/</link>
+      <pubDate>Wed, 25 Aug 2021 09:29:16 +1000</pubDate>
+      
+      <guid>/news/aiforgood/</guid>
+      <description>UN AI for Good has announced their line up for their Fall/Winter Seminars. You can find the list of speakers for the AI and Climate Science seminars here.
+In particular several M²LInES team members will be presenting on the following dates:
+ Paul O’Gorman - Nov 3rd Laure Zanna - Nov 10th. Pierre Gentine - Nov 17th  </description>
+    </item>
+    
     <item>
       <title>Adaptive Denoising via GainTuning - Carlos Fernandez-Granda</title>
       <link>/news/fernandezgranda/</link>
