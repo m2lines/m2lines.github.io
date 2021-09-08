@@ -319,6 +319,17 @@ Sea ice predictability and Machine Learning</description>
     </item>
     
     <item>
+      <title> UN AI for Good: AI and Climate Science seminars </title>
+      <link>/news/aiforgood/</link>
+      <pubDate>Wed, 25 Aug 2021 09:29:16 +1000</pubDate>
+      
+      <guid>/news/aiforgood/</guid>
+      <description>UN AI for Good has announced their line up for their Fall/Winter Seminars. You can find the list of speakers for the AI and Climate Science seminars here.
+In particular several M²LInES team members will be presenting on the following dates:
+ Paul O’Gorman - Nov 3rd Laure Zanna - Nov 10th. Pierre Gentine - Nov 17th  </description>
+    </item>
+    
+    <item>
       <title>Adaptive Denoising via GainTuning - Carlos Fernandez-Granda</title>
       <link>/news/fernandezgranda/</link>
       <pubDate>Thu, 29 Jul 2021 09:29:16 +1000</pubDate>
@@ -516,15 +527,6 @@ This work has 3 important implications: 1) a daily freeboard product allows them
       
       <guid>/services/axe3/</guid>
       <description>Improving coupled climate models from leading modeling centers (NCAR, GFDL, and IPSL). </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/talks/</guid>
-      <description>test</description>
     </item>
     
   </channel>

@@ -8,5 +8,10 @@
         "name": "Twitter",
         "link": "https://twitter.com/M2LInES",
         "image": "images/twitter.svg"
+    },
+     {
+        "name": "Github",
+        "link": "https://github.com/m2lines",
+        "image": "images/GitHub-Mark-Light-64px.png"
     }
 ]
