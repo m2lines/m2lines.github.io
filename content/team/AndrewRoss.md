@@ -9,7 +9,7 @@ weight: 18
 ---
 
 
-Starting August 2021
+NYU
 
 *Machine Learning, Interpretability*
 
