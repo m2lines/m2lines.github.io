@@ -9,7 +9,7 @@ weight: 21
 ---
 
 
-Starting October 2021
+NYU, Courant Institute
 
 *Atmospheric Science, Machine Learning*
 
