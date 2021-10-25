@@ -1,7 +1,7 @@
 ---
 title: "Anastasiia Gorbunova"
 draft: false
-image: "/favicon.png"
+image: "/images/team/Anastasia.jpg"
 jobtitle: "Postdoc"
 promoted: true
 Website:  
