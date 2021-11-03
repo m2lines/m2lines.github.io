@@ -9,8 +9,11 @@ tags:
 
 ## Upcoming talks
 Nov 1-4 2021 - KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/)
+
 Nov 10 2021 - AI For Good : Bridging observations and numerical modelling of the ocean using machine learning with Laure Zanna. [Register](https://aiforgood.itu.int/event/ai-and-climate-science-julien-brajard-laure-zanna/)
+
 Nov 17 2021 - AI For Good :Better Better — machine learning for improved climate models and projections with Pierre Gentine. [Register](https://aiforgood.itu.int/event/ai-and-climate-science-veronika-eyring-pierre-gentine/)
+
 Nov 30th 2021 - DOE AI4ESP workshop. Plenary talk by Laure Zanna at 12pm ET. [Register](https://www.zoomgov.com/webinar/register/WN__baDpUvjQ3O_a7pJ6E_lMA)
 Oct 25th - Dec 3rd 2021 - DOE AI4ESP workshop. More information at this [website](https://www.ai4esp.org/workshop/) 
 
