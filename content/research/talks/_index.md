@@ -8,7 +8,6 @@ tags:
 ---
 
 ## Upcoming talks
-**Nov 1-4 2021** - KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/)
 
 **Nov 10 2021** - AI For Good : Bridging observations and numerical modelling of the ocean using machine learning with Laure Zanna. [Register](https://aiforgood.itu.int/event/ai-and-climate-science-julien-brajard-laure-zanna/)
 
@@ -27,6 +26,8 @@ JupyterCon 2020: Ryan Abernathey on Cloud Native Repositories for Big Scientific
 OceanCloud: Transforming oceanography with a new approach to data and computing by Ryan Abernathey [link](https://vimeo.com/508434363)
 
 #### Machine Learning for Physics discovery
+KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/)
+
 AI for Good: Improving rainfall and water-cycle projections through machine learning - Paul O' Gorman and Janni Yuval. A recording will be avalaible on the [Youtube channel](https://www.youtube.com/aiforgood)
 
 DOE AI4ESP workshop - [Plenary talk](https://www.ai4esp.org/workshop/) by Pierre Gentine 
