@@ -9,8 +9,6 @@ tags:
 
 ## Upcoming talks
 
-**Nov 10 2021** - AI For Good : Bridging observations and numerical modelling of the ocean using machine learning with Laure Zanna. [Register](https://aiforgood.itu.int/event/ai-and-climate-science-julien-brajard-laure-zanna/)
-
 **Nov 17 2021** - AI For Good :Better Better — machine learning for improved climate models and projections with Pierre Gentine. [Register](https://aiforgood.itu.int/event/ai-and-climate-science-veronika-eyring-pierre-gentine/)
 
 **Nov 30th 2021** - DOE AI4ESP workshop. Plenary talk by Laure Zanna at 12pm ET. [Register](https://www.zoomgov.com/webinar/register/WN__baDpUvjQ3O_a7pJ6E_lMA)
@@ -26,9 +24,11 @@ JupyterCon 2020: Ryan Abernathey on Cloud Native Repositories for Big Scientific
 OceanCloud: Transforming oceanography with a new approach to data and computing by Ryan Abernathey [link](https://vimeo.com/508434363)
 
 #### Machine Learning for Physics discovery
+AI For Good : Bridging observations and numerical modelling of the ocean using machine learning with Laure Zanna. Check it [here](https://www.youtube.com/watch?v=BLF4w-4JUe4)
+
 KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/)
 
-AI for Good: Improving rainfall and water-cycle projections through machine learning - Paul O' Gorman and Janni Yuval. A recording will be avalaible on the [Youtube channel](https://www.youtube.com/aiforgood)
+AI for Good: Improving rainfall and water-cycle projections through machine learning - Paul O' Gorman and Janni Yuval. A recording is be avalaible [here](https://www.youtube.com/watch?v=ehHywbGSaBk)
 
 DOE AI4ESP workshop - [Plenary talk](https://www.ai4esp.org/workshop/) by Pierre Gentine 
 
