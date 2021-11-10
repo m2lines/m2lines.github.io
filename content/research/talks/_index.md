@@ -30,6 +30,8 @@ KITP Conference: Machine Learning for Climate. Talks are available [here](https:
 
 AI for Good: Improving rainfall and water-cycle projections through machine learning - Paul O' Gorman and Janni Yuval. A recording is be avalaible [here](https://www.youtube.com/watch?v=ehHywbGSaBk)
 
+Podcast "Climate Now" from Nov 2nd 2021 on "Improving Climate Models with Machine Learning" with Laure Zanna. [Listen](https://podcasts.apple.com/us/podcast/climate-now/id1565404483) 
+
 DOE AI4ESP workshop - [Plenary talk](https://www.ai4esp.org/workshop/) by Pierre Gentine 
 
 One World Mathematics [presentation](https://www.youtube.com/watch?v=bH_A1nvwiDI): Climate Modeling in the Age of Machine Learning - Laure Zanna
