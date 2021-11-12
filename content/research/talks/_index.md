@@ -36,6 +36,7 @@ tags:
   * **Laure Zanna** - Podcast "Climate Now" from Nov 2nd 2021 on "Improving Climate Models with Machine Learning". [Listen](https://podcasts.apple.com/us/podcast/climate-now/id1565404483) 
   * DOE AI4ESP workshop. [Program](https://www.ai4esp.org/workshop/). In particular: 
     * **Pierre Gentine** Potential of Machine Learning for Climate Modeling. [Video](https://youtu.be/YLWD1tqE4FA?t=1042)
+  * **Paul O' Gorman** - ESSICUMD: Changing Precipitation and the Potential for Machine Learning To Improve Climate Predictions. [Video](https://www.youtube.com/watch?v=4evNO_WM5Ko)
   * **Pierre Gentine** KGML 2021: Hybrid modeling (Physics + Machine Learning)to improve predictions of the hydrological cycle. [Video](https://www.youtube.com/watch?v=1wIH_NKU3JE)
   * **Laure Zanna** One World Mathematics: Climate Modeling in the Age of Machine Learning. [Video](https://www.youtube.com/watch?v=bH_A1nvwiDI)
   * **Laure Zanna** 2021 CESM Ocean Model: Discovering equations from data for ocean mesoscale parametrizations. [Video](https://youtu.be/9YQnW9ylacU?t=20685)
@@ -55,7 +56,13 @@ tags:
 - *2021* 
   * KITP Conference: Machine Learning for Climate. 
     * **Alistair Adcroft**: Towards using machine learning in real climate models.  [Video](https://online.kitp.ucsb.edu/online/climate-c21/adcroft/)
+
+- *2020*
+  * **Marika Holland** - Climate Modeling to Understand a Changing Arctic. [Video](https://www.youtube.com/watch?v=C1H7MkDTZ7g)
+  * **Marika Holland** - CAMEE Research Seminar: using Climate Models to predict changing Arctic sea ice. [Video](https://www.youtube.com/watch?v=RHAMrCs09W4)
   
 - *2019* 
   * **Alistair Adcroft** - Challenges in modelling the oceans for climate. [Video](https://www.pathlms.com/siam/courses/10878/sections/14374/video_presentations/127453). 
   * **Julie Deshayes** on the Oceanic Change (in French) [here](https://www.youtube.com/watch?v=Jl_KeM34gfI).
+  * **Marika Holland** - IASC Medal 2019: Perspectives on Predicting Arctic Sea Ice From Seasons to Centuries. [Video](https://www.youtube.com/watch?v=c-HtcOtgySU&t=48s)
+ 
