@@ -5,6 +5,9 @@ themesDir = "themes"
 theme = "hugo-hero-theme"
 sectionPagesMenu = "content"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   google_analytics_id=""
   google_tag_manager_id = "" 
