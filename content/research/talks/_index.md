@@ -8,14 +8,17 @@ tags:
 ---
 
 ## Upcoming talks
+---
 
 - **Nov 30th 2021** 
   * **Laure Zanna** - DOE AI4ESP workshop. Plenary talk at 12pm EST. [Register](https://www.zoomgov.com/webinar/register/WN__baDpUvjQ3O_a7pJ6E_lMA)
 
 - **Oct 25th - Dec 3rd 2021** 
   * **Multiple Speakers** DOE AI4ESP workshop. More information at this [website](https://www.ai4esp.org/workshop/).
+<br>
 
 ## Past talks
+---
 ### Big Data
 - *2021* 
   * **Ryan Abernathey** - Pangeo Forge. [Video](https://vimeo.com/510830389)
