@@ -9,7 +9,7 @@ weight: 23
 ---
 
 
-Starting October 2021
+Princeton University
 
 *Ocean modelling, Machine learning, Data assimilation*
 
