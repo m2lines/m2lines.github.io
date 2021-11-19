@@ -9,9 +9,6 @@ tags:
 
 ## Upcoming talks
 
-- **Nov 17 2021** 
-  * **Pierre Gentine** - AI For Good: Better Better — machine learning for improved climate models and projections at 11am EST. [Register](https://aiforgood.itu.int/event/ai-and-climate-science-veronika-eyring-pierre-gentine/)
-
 - **Nov 30th 2021** 
   * **Laure Zanna** - DOE AI4ESP workshop. Plenary talk at 12pm EST. [Register](https://www.zoomgov.com/webinar/register/WN__baDpUvjQ3O_a7pJ6E_lMA)
 
@@ -29,6 +26,7 @@ tags:
 
 ### Machine Learning for Physics discovery
 - *2021*
+  * **Pierre Gentine** - AI For Good: Better Better — machine learning for improved climate models and projections. [Video](https://www.youtube.com/watch?v=SYC7ZVLxomI)
   * **Laure Zanna** - AI For Good: Bridging observations and numerical modelling of the ocean using machine learning. [Video](https://www.youtube.com/watch?v=BLF4w-4JUe4)
   * KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/). In particular: 
     * **Laure Zanna** -	Machine Learning for Ocean Closures: Advances and Lessons. [Video](https://online.kitp.ucsb.edu/online/climate-c21/zanna/)
