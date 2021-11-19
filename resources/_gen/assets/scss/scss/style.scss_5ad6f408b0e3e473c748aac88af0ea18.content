@@ -5836,6 +5836,10 @@ ol {
   color: #fff;
   border: 2px solid #fff; }
 
+.button-inline {
+  padding: 3px 7px;
+  font-size: 11px; }
+
 .title-1 {
   color: #2B547E;
   font-size: 2.4rem;
