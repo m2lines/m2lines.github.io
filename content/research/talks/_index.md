@@ -10,6 +10,9 @@ tags:
 ## Upcoming talks
 ---
 
+- *AGU - Dec 13th-17th 2021* 
+  Find the list of talks and posters by our team members in our latest newsletter. <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
+  
 - *Nov 30th 2021* 
   * **Laure Zanna** - DOE AI4ESP workshop. Plenary talk at 12pm EST. <a class="button button-inline" href="https://www.zoomgov.com/webinar/register/WN__baDpUvjQ3O_a7pJ6E_lMA">Register</a>
 
