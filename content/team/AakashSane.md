@@ -9,8 +9,8 @@ Website: https://aakashsane.gitlab.io/
 ---
 
 
-NOAA-GFDL  
+Princeton University, Affiliate NOAA-GFDL in Ocean Division  
 
-*Physical Oceanography, Coastal and Biogeochemical Modelling*
+*Ocean Surface Boundary Layer, Machine Learning*
 
 
