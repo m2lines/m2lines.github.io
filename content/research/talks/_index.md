@@ -13,12 +13,6 @@ tags:
 - *AGU - Dec 13th-17th 2021* 
   Find the list of talks and posters by our team members in our latest newsletter. <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
   
-- *Nov 30th 2021* 
-  * **Laure Zanna** - DOE AI4ESP workshop. Plenary talk at 12pm EST. <a class="button button-inline" href="https://www.zoomgov.com/webinar/register/WN__baDpUvjQ3O_a7pJ6E_lMA">Register</a>
-
-- *Oct 25th - Dec 3rd 2021* 
-  * **Multiple Speakers** - DOE AI4ESP workshop. More information at this [website](https://www.ai4esp.org/workshop/).
-
 <br>
 
 ## Past talks
@@ -43,6 +37,7 @@ tags:
   * **Laure Zanna** - Podcast "Climate Now" from Nov 2nd 2021 on "Improving Climate Models with Machine Learning". <a class="button button-inline" href="https://podcasts.apple.com/us/podcast/climate-now/id1565404483">Listen </a>
   * DOE AI4ESP workshop. [Program](https://www.ai4esp.org/workshop/). In particular: 
     * **Pierre Gentine** - Potential of Machine Learning for Climate Modeling. <a class="button button-inline" href="https://youtu.be/YLWD1tqE4FA?t=1042">Video</a>
+    * **Laure Zanna** - AI for Oceans: Improving Climate Projections. <a class="button button-inline" href="https://www.youtube.com/watch?v=c82K9vQrV1Q">Video</a>
   * **Paul O' Gorman** - ESSICUMD: Changing Precipitation and the Potential for Machine Learning To Improve Climate Predictions. <a class="button button-inline" href="https://www.youtube.com/watch?v=4evNO_WM5Ko">Video</a>
   * **Pierre Gentine** KGML 2021: Hybrid modeling (Physics + Machine Learning)to improve predictions of the hydrological cycle. <a class="button button-inline" href="https://www.youtube.com/watch?v=1wIH_NKU3JE">Video</a>
   * **Laure Zanna** - One World Mathematics: Climate Modeling in the Age of Machine Learning. <a class="button button-inline" href="https://www.youtube.com/watch?v=bH_A1nvwiDI">Video</a>
