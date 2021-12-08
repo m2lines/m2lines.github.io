@@ -54,13 +54,15 @@ tags:
 ### Machine Learning tools 
 
 - *2021* 
+  * **Joan Bruna** - MSRI Summer School, Mathematics of Deep Learning. <a class="button button-inline" href="https://www.youtube.com/watch?v=ImQ0YHryxfg">Part 1</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=8P6FLdNh7xo&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=20">Part 2</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=iJGq-vcETUQ&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=21">Part 3</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=7TXaQz6jSuM&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=24">Part 4</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=00c168rl-TA&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=25">Part 5</a>
   * **Joan Bruna** - IPAM: Sparse Linear Programming and (simple) neural networks. <a class="button button-inline" href="https://www.youtube.com/watch?v=zF2boWRsvMU">Video</a>
   * **Joan Bruna** - Paris AI Research Institute - Mathematical aspects of neural network approximation and learning. <a class="button button-inline" href="https://www.youtube.com/watch?v=CjtXrWJj16c">Video</a>
 
 ### Climate models and implementation
 - *2021* 
+  * **Judith Berner** - S2S predictability and uncertainty. <a class="button button-inline" href="https://online.kitp.ucsb.edu/online/climate-c21/adcroft/">Video</a>
   * KITP Conference: Machine Learning for Climate. 
-    * **Alistair Adcroft** - Towards using machine learning in real climate models.  <a class="button button-inline" href="https://online.kitp.ucsb.edu/online/climate-c21/adcroft/">Video</a>
+    * **Alistair Adcroft** - Towards using machine learning in real climate models.  <a class="button button-inline" href="https://www.youtube.com/watch?v=Yp5ueV3yOM8">Video</a>
 
 - *2020*
   * **Marika Holland** - Climate Modeling to Understand a Changing Arctic. <a class="button button-inline" href="https://www.youtube.com/watch?v=C1H7MkDTZ7g">Video</a>
