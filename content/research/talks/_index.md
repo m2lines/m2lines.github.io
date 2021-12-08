@@ -10,6 +10,9 @@ tags:
 ## Upcoming talks
 ---
 
+- *NeurIPS - Machine Learning and the Physical Sciences Dec 13th 2021*
+  **Laure Zanna** invited talk on "The future of climate modeling in the age of machine learning" at 4:10pm EST.  <a class="button button-inline" href="https://ml4physicalsciences.github.io/2021/">More Info</a>
+  
 - *AGU - Dec 13th-17th 2021* 
   Find the list of talks and posters by our team members in our latest newsletter. <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
   
