@@ -7,6 +7,9 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 
 ### 2021
+* Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **Climate-Invariant Machine Learning** arXiv preprint arXiv:2112.08440. 2021 [link](https://arxiv.org/abs/2112.08440)
+
+
 * Zanna L, Bolton T. **Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). [link](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch20)
 
 * Gentine P, Eyring V, Beucler T. **Deep Learning for the Parametrization of Subgrid Processes in Climate Models** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). [link](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch21)
