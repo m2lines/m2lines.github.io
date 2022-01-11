@@ -9,7 +9,7 @@ Website: https://willychap.github.io/
 ---
 
 
-Starting January 2022
+National Center for Atmospheric Research
 
 *Atmospheric Dynamics and Machine Learning*
 
