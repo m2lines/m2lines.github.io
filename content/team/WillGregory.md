@@ -9,7 +9,7 @@ Website:  https://www.ucl.ac.uk/earth-sciences/people/research-students/william-
 ---
 
 
-Starting January 2022
+Princeton University
 
 *Sea ice predictability and Machine Learning*
 
