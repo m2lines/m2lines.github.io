@@ -11,8 +11,6 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### NYU
 
-* 1 postdoc position in Machine Learning for Climate Extremes. The postdoc will work on the development of generalizable deep learning algorithms, with a focus on extreme events and uncertainty quantification. [Apply here](https://apply.interfolio.com/94597)
-
 * 1 Faculty Fellow position to develop independent ideas at the interface between Machine Learning and Climate Science. Starting September 2022. [Apply here](https://apply.interfolio.com/97037)
 
 ### Future openings:
