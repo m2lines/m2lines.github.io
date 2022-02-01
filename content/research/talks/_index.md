@@ -10,11 +10,9 @@ tags:
 ## Upcoming talks
 ---
 
-- *NeurIPS - Machine Learning and the Physical Sciences Dec 13th 2021*
-  **Laure Zanna** invited talk on "The future of climate modeling in the age of machine learning" at 4:10pm EST.  <a class="button button-inline" href="https://ml4physicalsciences.github.io/2021/">More Info</a>
-  
-- *AGU - Dec 13th-17th 2021* 
-  Find the list of talks and posters by our team members in our latest newsletter. <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
+- The National Academies Board on Atmospheric Sciences and Climate will hold a workshop on AI for Earth Sciences Feb 7-11: **Laure Zanna** will be moderating; **Pierre Gentine** and **Ryan Abernathey** will be presenting. <a class="button button-inline" href="https://www.nationalacademies.org/event/02-07-2022/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges-a-workshop">More Info</a>
+
+- *The Artificial Intelligence for Good Group* - **Pierre Gentine** will be presenting on March 9th on *Can Artificial Intelligence Help Us Better Project Climate Change?* <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/283244412/">Register</a>
   
 <br>
 
@@ -32,6 +30,9 @@ tags:
 
 ### Machine Learning for Physics discovery
 - *2021*
+ * **AGU** - Dec 13th-17th 2021 
+  Find the list of talks and posters by our team members in our latest newsletter. <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
+  * **Laure Zanna** - NeurIPS - Machine Learning and the Physical Sciences: The future of climate modeling in the age of machine learning (invited).  <a class="button button-inline" href="https://ml4physicalsciences.github.io/2021/">More Info</a>
   * **Pierre Gentine** - AI For Good: Better Better — machine learning for improved climate models and projections. <a class="button button-inline" href="https://www.youtube.com/watch?v=SYC7ZVLxomI">Video</a>
   * **Laure Zanna** - AI For Good: Bridging observations and numerical modelling of the ocean using machine learning. <a class="button button-inline" href="https://www.youtube.com/watch?v=BLF4w-4JUe4">Video</a>
   * KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/). In particular: 
