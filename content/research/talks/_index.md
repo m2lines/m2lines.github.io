@@ -12,6 +12,24 @@ tags:
 
 - The National Academies Board on Atmospheric Sciences and Climate will hold a workshop on AI for Earth Sciences Feb 7-11: **Laure Zanna** will be moderating; **Pierre Gentine** and **Ryan Abernathey** will be presenting. <a class="button button-inline" href="https://www.nationalacademies.org/event/02-07-2022/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges-a-workshop">More Info</a>
 
+- *Ocean Science Meeting 2022* Talks and posters by team members (all times in EST): 
+  * Feb 28th
+    * **Andrew Ross** talk on *Evaluating machine learning parameterizations of ocean subgrid forcing* at 11:30 AM - 12:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/6122">Abstract</a>
+    *  **Aakash Sane** talk on *Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks* at 9:00 AM - 10:00 AM  <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7577">Abstract</a>
+    *  **Brandon Reichl** talk on *A potential energy analysis of ocean surface mixed layers* at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2569">Abstract</a>
+  * Mar 1st
+    * **Lorenzo Zampieri** talk on *Correcting the 2m temperature bias over winter sea ice in the ECMWF Reanalysis v5 (ERA5) by learning from buoys and infrared remote sensing measurements* at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7250">Abstract</a>
+    * **Dhruv Balwada** talk on *Tracer Ventilation, Stirring, and Variability in the Antarctic Circumpolar Current* at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5116">Abstract</a>
+  * Mar 2nd
+    * **Julien Le Sommer** poster on *Intercomparison of basin-to-global scale submesoscale permitting ocean models at SWOT cross-overs* at 9:00 PM - 11:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5719">Abstract</a>
+  * Mar 3rd
+    * **Ryan Abernathey** Innovative on *OpenOceanCloud: A New Approach to Ocean Data and Computing* at 2:30 PM - 4:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7164">Abstract</a>
+    * **Alistair Adcroft** Poster on *NeverWorld2 model and dataset for studying mesoscale turbulence* at 7:00 PM - 9:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7110">Abstract</a>
+    * **Brandon Reichl** Poster on *Contribution of upper-ocean mixing to equatorial thermocline and circulation biases in GFDL’s Fourth Generation Climate Models*  at 9:00 PM - 11:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2570">Abstract</a> 
+    * **Mitch Bushuk** talk on *Mechanisms of Regional Arctic Sea Ice Predictability in Dynamical Seasonal Forecast Systems* at 11:30 AM - 12:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7840">Abstract</a>
+  * Mar 4th
+    * **Ryan Abernathey** talk on *Data-Driven Estimation of Eddy Transfer Coefficients in a Primitive Equation Model* at 6:00 PM - 7:00 PM <a class="button button-inline" href="hhttps://osm2022.secure-platform.com/a/gallery/rounds/3/details/7203">Abstract</a>
+    * **Laure Zanna** talk on *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models* at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7573">Abstract</a>
 - *The Artificial Intelligence for Good Group* - **Pierre Gentine** will be presenting on March 9th on *Can Artificial Intelligence Help Us Better Project Climate Change?* <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/283244412/">Register</a>
   
 <br>
