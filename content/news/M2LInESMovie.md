@@ -15,6 +15,6 @@ Check out the movie made about our project! It summarizes our goals and challeng
 
 </br>
 
-#### A short version of the movie was featured on AGU TV: 
+#### A short version of the movie was featured on AGU TV (starting at 5:17): 
 
 {{< youtube  id="bpjuSWd4KGs?t=318" >}}
