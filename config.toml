@@ -1,4 +1,5 @@
-baseURL = "/"
+baseURL = "https://m2lines.github.io/"
+relativeURLs = "True"
 languageCode = "en-us"
 title = "M²LInES"
 themesDir = "themes"
