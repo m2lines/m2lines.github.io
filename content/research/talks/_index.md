@@ -6,6 +6,7 @@ heroBackground: '/images/headway-F2KRf_QfCqw-unsplash.jpeg'
 tags:
   - "talks"
 ---
+<span class="iconify" data-icon="codicon:markdown"></span>
 
 ## Upcoming talks
 ---
@@ -40,45 +41,45 @@ tags:
 ## Past talks
 ---
 * :bar_chart: Big data related talks
-* :computer: Machine Learning related talks
+* &#xe30a; Machine Learning related talks
 * :fireworks: Physics discovery related talks
 * :earth_americas: Modeling related talks
 
 ## *2021* 
- * **Joan Bruna** - Deep Learning Barcelona on "Geometric Deep Learning: Prospects and Challenges". :computer: <a class="button button-inline" href="https://www.youtube.com/watch?v=LJHzEM8_6k8">Video</a> 
+ * **Joan Bruna** - Deep Learning Barcelona on "Geometric Deep Learning: Prospects and Challenges". :computer: Dec 22nd <a class="button button-inline" href="https://www.youtube.com/watch?v=LJHzEM8_6k8">Video</a> 
  * **AGU** - Dec 13th-17th 2021 
   Find the list of talks and posters by our team members in our latest newsletter. :bar_chart: :computer: :fireworks: <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
-* **Laure Zanna** - NeurIPS - Machine Learning and the Physical Sciences: The future of climate modeling in the age of machine learning (invited). :computer: :fireworks: <a class="button button-inline" href="https://ml4physicalsciences.github.io/2021/">More Info</a>
-* **Judith Berner** - S2S predictability and uncertainty. :fireworks: :earth_americas: <a class="button button-inline" href="https://www.youtube.com/watch?v=Yp5ueV3yOM8">Video</a>
-* **Pierre Gentine** - AI For Good: Better Better — machine learning for improved climate models and projections. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=SYC7ZVLxomI">Video</a>
-* **Laure Zanna** - AI For Good: Bridging observations and numerical modelling of the ocean using machine learning. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=BLF4w-4JUe4">Video</a>
-* KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/). In particular: 
-    * **Laure Zanna** -	Machine Learning for Ocean Closures: Advances and Lessons. :computer: :fireworks: <a class="button button-inline" href="https://online.kitp.ucsb.edu/online/climate-c21/zanna/">Video</a>
-    * **Alistair Adcroft** - Towards using machine learning in real climate models. :computer: :earth_americas: <a class="button button-inline" href="https://online.kitp.ucsb.edu/online/climate-c21/adcroft/">Video</a>
-* **Paul O' Gorman and Janni Yuval** - AI for Good: Improving rainfall and water-cycle projections through machine learning. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=ehHywbGSaBk">Video</a>
-* **Laure Zanna** - Podcast "Climate Now" from Nov 2nd 2021 on "Improving Climate Models with Machine Learning". :computer: :fireworks: <a class="button button-inline" href="https://podcasts.apple.com/us/podcast/climate-now/id1565404483">Listen </a>
+* **Laure Zanna** - NeurIPS - Machine Learning and the Physical Sciences: The future of climate modeling in the age of machine learning (invited). :computer: :fireworks: Dec 13th <a class="button button-inline" href="https://ml4physicalsciences.github.io/2021/">More Info</a>
+* **Judith Berner** - S2S predictability and uncertainty. :fireworks: :earth_americas: Dec 7th <a class="button button-inline" href="https://www.youtube.com/watch?v=Yp5ueV3yOM8">Video</a>
+* **Pierre Gentine** - AI For Good: Better Better — machine learning for improved climate models and projections. :computer: :fireworks: Nov 17th <a class="button button-inline" href="https://www.youtube.com/watch?v=SYC7ZVLxomI">Video</a>
+* **Laure Zanna** - AI For Good: Bridging observations and numerical modelling of the ocean using machine learning. :computer: :fireworks: Nov 10th <a class="button button-inline" href="https://www.youtube.com/watch?v=BLF4w-4JUe4">Video</a>
+* **Paul O' Gorman and Janni Yuval** - AI for Good: Improving rainfall and water-cycle projections through machine learning. :computer: :fireworks: Nov 3rd <a class="button button-inline" href="https://www.youtube.com/watch?v=ehHywbGSaBk">Video</a>
 * DOE AI4ESP workshop. [Program](https://www.ai4esp.org/workshop/). In particular: 
-    * **Pierre Gentine** - Potential of Machine Learning for Climate Modeling. :computer: :fireworks: <a class="button button-inline" href="https://youtu.be/YLWD1tqE4FA?t=1042">Video</a>
-    * **Laure Zanna** - AI for Oceans: Improving Climate Projections. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=c82K9vQrV1Q">Video</a>
- * **Paul O' Gorman** - ESSICUMD: Changing Precipitation and the Potential for Machine Learning To Improve Climate Predictions. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=4evNO_WM5Ko">Video</a>
- * **Pierre Gentine** KGML 2021: Hybrid modeling (Physics + Machine Learning)to improve predictions of the hydrological cycle. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=1wIH_NKU3JE">Video</a>
- * **Laure Zanna** - One World Mathematics: Climate Modeling in the Age of Machine Learning. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=bH_A1nvwiDI">Video</a>
- *  **Joan Bruna** - MSRI Summer School, Mathematics of Deep Learning. :computer: <a class="button button-inline" href="https://www.youtube.com/watch?v=ImQ0YHryxfg">Part 1</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=8P6FLdNh7xo&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=20">Part 2</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=iJGq-vcETUQ&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=21">Part 3</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=7TXaQz6jSuM&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=24">Part 4</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=00c168rl-TA&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=25">Part 5</a>
-* **Joan Bruna** - IPAM: Sparse Linear Programming and (simple) neural networks. :computer: <a class="button button-inline" href="https://www.youtube.com/watch?v=zF2boWRsvMU">Video</a>
-* **Joan Bruna** - Paris AI Research Institute - Mathematical aspects of neural network approximation and learning. :computer: <a class="button button-inline" href="https://www.youtube.com/watch?v=CjtXrWJj16c">Video</a>
-* **Laure Zanna** - 2021 CESM Ocean Model: Discovering equations from data for ocean mesoscale parametrizations. :computer: :fireworks: <a class="button button-inline" href="https://youtu.be/9YQnW9ylacU?t=20685">Video</a>
-* **Ryan Abernathey** - Pangeo Forge. :bar_chart: <a class="button button-inline" href="https://vimeo.com/510830389">Video</a> 
-* **Ryan Abernathey** - OceanCloud: Transforming oceanography with a new approach to data and computing. :bar_chart: <a class="button button-inline" href="https://vimeo.com/508434363">Video</a>
+    * **Pierre Gentine** - Potential of Machine Learning for Climate Modeling. :computer: :fireworks: Nov 2nd <a class="button button-inline" href="https://youtu.be/YLWD1tqE4FA?t=1042">Video</a>
+    * **Laure Zanna** - AI for Oceans: Improving Climate Projections. :computer: :fireworks: Dec 1st <a class="button button-inline" href="https://www.youtube.com/watch?v=c82K9vQrV1Q">Video</a>
+* **Laure Zanna** - Podcast "Climate Now" - Improving Climate Models with Machine Learning. :computer: :fireworks: Nov 2nd <a class="button button-inline" href="https://podcasts.apple.com/us/podcast/climate-now/id1565404483">Listen </a>
+* KITP Conference: Machine Learning for Climate. Talks are available [here](https://online.kitp.ucsb.edu/online/climate-c21/). In particular: 
+    * **Laure Zanna** -	Machine Learning for Ocean Closures: Advances and Lessons. :computer: :fireworks: Nov 1st <a class="button button-inline" href="https://online.kitp.ucsb.edu/online/climate-c21/zanna/">Video</a>
+    * **Alistair Adcroft** - Towards using machine learning in real climate models. :computer: :earth_americas: Nov 1st <a class="button button-inline" href="https://online.kitp.ucsb.edu/online/climate-c21/adcroft/">Video</a>
+ * **Paul O' Gorman** - ESSICUMD: Changing Precipitation and the Potential for Machine Learning To Improve Climate Predictions. :computer: :fireworks: Oct 14th <a class="button button-inline" href="https://www.youtube.com/watch?v=4evNO_WM5Ko">Video</a>
+ * **Pierre Gentine** KGML 2021: Hybrid modeling (Physics + Machine Learning)to improve predictions of the hydrological cycle. :computer: :fireworks: Aug 13th <a class="button button-inline" href="https://www.youtube.com/watch?v=1wIH_NKU3JE">Video</a>
+ *  **Joan Bruna** - MSRI Summer School, Mathematics of Deep Learning. :computer: Aug 5-7th <a class="button button-inline" href="https://www.youtube.com/watch?v=ImQ0YHryxfg">Part 1</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=8P6FLdNh7xo&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=20">Part 2</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=iJGq-vcETUQ&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=21">Part 3</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=7TXaQz6jSuM&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=24">Part 4</a> <a class="button button-inline" href="https://www.youtube.com/watch?v=00c168rl-TA&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9&index=25">Part 5</a>
+* **Laure Zanna** - One World Mathematics: Climate Modeling in the Age of Machine Learning. :computer: :fireworks: July 6th <a class="button button-inline" href="https://www.youtube.com/watch?v=bH_A1nvwiDI">Video</a>
+* **Joan Bruna** - IPAM: Sparse Linear Programming and (simple) neural networks. :computer: Mar 4th <a class="button button-inline" href="https://www.youtube.com/watch?v=zF2boWRsvMU">Video</a>
+* **Joan Bruna** - Paris AI Research Institute - Mathematical aspects of neural network approximation and learning. :computer: Feb 11th <a class="button button-inline" href="https://www.youtube.com/watch?v=CjtXrWJj16c">Video</a>
+* **Ryan Abernathey** - Pangeo Forge. :bar_chart: Feb 10th <a class="button button-inline" href="https://vimeo.com/510830389">Video</a> 
+* **Ryan Abernathey** - OceanCloud: Transforming oceanography with a new approach to data and computing. :bar_chart: Feb 4th <a class="button button-inline" href="https://vimeo.com/508434363">Video</a>
+* **Laure Zanna** - 2021 CESM Ocean Model: Discovering equations from data for ocean mesoscale parametrizations. :computer: :fireworks: Feb 3rd <a class="button button-inline" href="https://youtu.be/9YQnW9ylacU?t=20685">Video</a>
 
 ## *2020*
-  * **Ryan Abernathey** - JupyterCon 2020: Cloud Native Repositories for Big Scientific Data. :bar_chart: <a class="button button-inline" href="https://www.youtube.com/watch?v=lg7-qi4dEZ8">Video</a>
-  * **Laure Zanna** - IMSI: Blending Physics and Machine Learning for Climate Projections. :computer: :fireworks: <a class="button button-inline" href="https://www.imsi.institute/videos/blending-physics-and-machine-learning-to-improve-climate-projections/">Video</a>
-  * **Pierre Gentine** - AI4ESS Summer School: Physics-guided Machine Learning. :computer: :fireworks: <a class="button button-inline" href="https://www.youtube.com/watch?v=T60OmRD102s">Video</a>
-  * **Marika Holland** - Climate Modeling to Understand a Changing Arctic. :fireworks: :earth_americas: <a class="button button-inline" href="https://www.youtube.com/watch?v=C1H7MkDTZ7g">Video</a>
-  * **Marika Holland** - CAMEE Research Seminar: using Climate Models to predict changing Arctic sea ice. :fireworks: :earth_americas: <a class="button button-inline" href="https://www.youtube.com/watch?v=RHAMrCs09W4">Video</a>
-  
+ * **Ryan Abernathey** - JupyterCon 2020: Cloud Native Repositories for Big Scientific Data. :bar_chart: Nov 3rd <a class="button button-inline" href="https://www.youtube.com/watch?v=lg7-qi4dEZ8">Video</a>
+ * **Marika Holland** - CAMEE Research Seminar: using Climate Models to predict changing Arctic sea ice. :fireworks: :earth_americas: Oct 23rd <a class="button button-inline" href="https://www.youtube.com/watch?v=RHAMrCs09W4">Video</a>
+ * **Laure Zanna** - IMSI: Blending Physics and Machine Learning for Climate Projections. :computer: :fireworks: Oct 9th <a class="button button-inline" href="https://www.imsi.institute/videos/blending-physics-and-machine-learning-to-improve-climate-projections/">Video</a>
+ * **Pierre Gentine** - AI4ESS Summer School: Physics-guided Machine Learning. :computer: :fireworks: Jun 26th <a class="button button-inline" href="https://www.youtube.com/watch?v=T60OmRD102s">Video</a>
+ * **Marika Holland** - Climate Modeling to Understand a Changing Arctic. :fireworks: :earth_americas: Mar 17th <a class="button button-inline" href="https://www.youtube.com/watch?v=C1H7MkDTZ7g">Video</a>
+   
 ## *2019* 
-  * **Alistair Adcroft** - Challenges in modelling the oceans for climate. :fireworks: :earth_americas: <a class="button button-inline" href="https://www.pathlms.com/siam/courses/10878/sections/14374/video_presentations/127453">Video</a> 
-  * **Julie Deshayes** on the Oceanic Change (in French). :fireworks: :earth_americas: <a class="button button-inline" href="https://www.youtube.com/watch?v=Jl_KeM34gfI">Video</a>
-  * **Marika Holland** - IASC Medal 2019: Perspectives on Predicting Arctic Sea Ice From Seasons to Centuries. :fireworks: :earth_americas: <a class="button button-inline" href="https://www.youtube.com/watch?v=c-HtcOtgySU&t=48s">Video</a>
+ * **Marika Holland** - IASC Medal 2019: Perspectives on Predicting Arctic Sea Ice From Seasons to Centuries. :fireworks: :earth_americas: May 31st <a class="button button-inline" href="https://www.youtube.com/watch?v=c-HtcOtgySU&t=48s">Video</a>
+ * **Julie Deshayes** on the Oceanic Change (in French). :fireworks: :earth_americas: May 22nd <a class="button button-inline" href="https://www.youtube.com/watch?v=Jl_KeM34gfI">Video</a>
+ * **Alistair Adcroft** - Challenges in modelling the oceans for climate. :fireworks: :earth_americas: Feb <a class="button button-inline" href="https://www.pathlms.com/siam/courses/10878/sections/14374/video_presentations/127453">Video</a> 
  
