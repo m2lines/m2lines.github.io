@@ -42,7 +42,7 @@ tags:
 * :bar_chart: Big data related talks
 * <i class="fas fa-laptop-code"></i> Machine Learning related talks
 * :fireworks: Physics discovery related talks
-* :earth_americas: Modeling related talks
+* &#127758; Modeling related talks
 
 ## *2021* 
  * **Joan Bruna** - Deep Learning Barcelona on "Geometric Deep Learning: Prospects and Challenges". :computer: Dec 22nd <a class="button button-inline" href="https://www.youtube.com/watch?v=LJHzEM8_6k8">Video</a> 
