@@ -6,7 +6,6 @@ heroBackground: '/images/headway-F2KRf_QfCqw-unsplash.jpeg'
 tags:
   - "talks"
 ---
-<span class="iconify" data-icon="codicon:markdown"></span>
 
 ## Upcoming talks
 ---
@@ -41,7 +40,7 @@ tags:
 ## Past talks
 ---
 * :bar_chart: Big data related talks
-* &#xe30a; Machine Learning related talks
+* <i class="fas fa-laptop-code"></i> Machine Learning related talks
 * :fireworks: Physics discovery related talks
 * :earth_americas: Modeling related talks
 
