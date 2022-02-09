@@ -24,7 +24,7 @@ tags:
     * **Julien Le Sommer** - *Intercomparison of basin-to-global scale submesoscale permitting ocean models at SWOT cross-overs* (poster) at 9:00 PM - 11:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5719">Abstract</a>
   * Mar 3rd
      * **Mitch Bushuk** - *Mechanisms of Regional Arctic Sea Ice Predictability in Dynamical Seasonal Forecast Systems* (talk) at 11:30 AM - 12:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7840">Abstract</a>
-     * * **Ryan Abernathey** - *OpenOceanCloud: A New Approach to Ocean Data and Computing* (innovative) at 2:30 PM - 4:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7164">Abstract</a>
+     * **Ryan Abernathey** - *OpenOceanCloud: A New Approach to Ocean Data and Computing* (innovative) at 2:30 PM - 4:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7164">Abstract</a>
     * **Alistair Adcroft** - *NeverWorld2 model and dataset for studying mesoscale turbulence* (poster) at 7:00 PM - 9:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7110">Abstract</a>
     * **Brandon Reichl** - *Contribution of upper-ocean mixing to equatorial thermocline and circulation biases in GFDL’s Fourth Generation Climate Models*  (poster) at 9:00 PM - 11:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2570">Abstract</a> 
 
