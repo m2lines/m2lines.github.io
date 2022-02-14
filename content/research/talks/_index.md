@@ -18,8 +18,8 @@ tags:
     *  **Brandon Reichl** - *A potential energy analysis of ocean surface mixed layers* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2569">Abstract</a>
     *  **Andrew Ross** - *Evaluating machine learning parameterizations of ocean subgrid forcing* (talk) at 11:30 AM - 12:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/6122">Abstract</a>
   * Mar 1st
-    * **Lorenzo Zampieri** - *Correcting the 2m temperature bias over winter sea ice in the ECMWF Reanalysis v5 (ERA5) by learning from buoys and infrared remote sensing measurements* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7250">Abstract</a>
-    * **Dhruv Balwada** - *Tracer Ventilation, Stirring, and Variability in the Antarctic Circumpolar Current* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5116">Abstract</a>
+    * **Lorenzo Zampieri** - *A machine learning correction model for the warm bias over Arctic sea ice in atmospheric reanalyses* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5116">Abstract</a>
+    * **Dhruv Balwada** - *Tracer Ventilation, Stirring, and Variability in the Antarctic Circumpolar Current* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7250">Abstract</a>
   * Mar 2nd
     * **Julien Le Sommer** - *Intercomparison of basin-to-global scale submesoscale permitting ocean models at SWOT cross-overs* (poster) at 9:00 PM - 11:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5719">Abstract</a>
   * Mar 3rd
