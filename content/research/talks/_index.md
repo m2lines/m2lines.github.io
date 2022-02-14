@@ -10,13 +10,12 @@ tags:
 ## Upcoming talks
 ---
 
-- The National Academies Board on Atmospheric Sciences and Climate will hold a workshop on AI for Earth Sciences Feb 7-11: **Laure Zanna** will be moderating; **Pierre Gentine** and **Ryan Abernathey** will be presenting. <a class="button button-inline" href="https://www.nationalacademies.org/event/02-07-2022/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges-a-workshop">More Info</a>
-
 - *Ocean Science Meeting 2022* Talks and posters by team members (all times in EST): 
   * Feb 28th
     *  **Aakash Sane** - *Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks* (talk) at 9:00 AM - 10:00 AM  <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7577">Abstract</a>
     *  **Brandon Reichl** - *A potential energy analysis of ocean surface mixed layers* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2569">Abstract</a>
     *  **Andrew Ross** - *Evaluating machine learning parameterizations of ocean subgrid forcing* (talk) at 11:30 AM - 12:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/6122">Abstract</a>
+    *  **Dhruv Balwada and collaborators** - *Direct observational estimate of the dual kinetic energy cascade and its seasonality at the surface ocean from surface drifters* (talk) at 2:30 PM - 3:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5462">Abstract</a>
   * Mar 1st
     * **Lorenzo Zampieri** - *A machine learning correction model for the warm bias over Arctic sea ice in atmospheric reanalyses* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5116">Abstract</a>
     * **Dhruv Balwada** - *Tracer Ventilation, Stirring, and Variability in the Antarctic Circumpolar Current* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7250">Abstract</a>
@@ -39,13 +38,16 @@ tags:
 
 ## Past talks
 ---
-* &#128202; Big data related talks
-* &#128187; Machine Learning related talks
-* &#127878; Physics discovery related talks
-* &#127758; Modeling related talks
+Themes of the talks: 
+* &#128202; Big data 
+* &#128187; Machine Learning 
+* &#127878; Physics discovery 
+* &#127758; Modeling 
 
 ## *2021* 
- * **Joan Bruna** - Deep Learning Barcelona: *Geometric Deep Learning: Prospects and Challenges*. &#128187; Dec 22nd <a class="button button-inline" href="https://www.youtube.com/watch?v=LJHzEM8_6k8">Video</a> 
+* **Ryan Abernathey** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128202; &#128187; &#127878; Feb 10th
+* **Pierre Gentine** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128187; &#127878; Feb 7th
+* **Joan Bruna** - Deep Learning Barcelona: *Geometric Deep Learning: Prospects and Challenges*. &#128187; Dec 22nd <a class="button button-inline" href="https://www.youtube.com/watch?v=LJHzEM8_6k8">Video</a> 
  * **AGU** - Dec 13th-17th 2021 
   Find the list of talks and posters by our team members in our latest newsletter. &#128202; &#128187; &#127878; <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
 * **Laure Zanna** - NeurIPS: *Machine Learning and the Physical Sciences: The future of climate modeling in the age of machine learning (invited)*. &#128187; &#127878; Dec 13th <a class="button button-inline" href="https://ml4physicalsciences.github.io/2021/">More Info</a>
