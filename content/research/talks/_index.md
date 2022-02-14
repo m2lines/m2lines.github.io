@@ -29,7 +29,6 @@ tags:
 
   * Mar 4th
     * **Laure Zanna** - *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7573">Abstract</a>
-    * **Ryan Abernathey** - *Data-Driven Estimation of Eddy Transfer Coefficients in a Primitive Equation Model* (talk) at 6:00 PM - 7:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7203">Abstract</a>
    
    
 - **Pierre Gentine** - The Artificial Intelligence for Good Group -  *Can Artificial Intelligence Help Us Better Project Climate Change?* on March 9th <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/283244412/">Register</a>
