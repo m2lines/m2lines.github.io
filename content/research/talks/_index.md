@@ -42,6 +42,7 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
+* **Ryan Abernathey** - Ocean Data Conference: *OpenOceanCloud - Transforming oceanography with a new approach to data and computing* &#128202; Feb 15th <a class="button button-inline" href="https://vimeo.com/670782104">Video</a> 
 * **Ryan Abernathey** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128202; &#128187; &#127878; Feb 10th
 * **Pierre Gentine** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128187; &#127878; Feb 7th
 * **Laure Zanna** - UW Data-driven methods in science and engineering seminar: *Data-driven turbulence closures for ocean and climate models: advances and challenges*. &#128187; &#127878; Feb 4th <a class="button button-inline" href="https://www.youtube.com/watch?v=JB7LpUJlxc0&feature=youtu.be">Video</a> 
