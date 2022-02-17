@@ -41,9 +41,12 @@ Themes of the talks:
 * &#127878; Physics discovery 
 * &#127758; Modeling 
 
-## *2021* 
+## *2022* 
 * **Ryan Abernathey** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128202; &#128187; &#127878; Feb 10th
 * **Pierre Gentine** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128187; &#127878; Feb 7th
+* **Laure Zanna** - UW Data-driven methods in science and engineering seminar: *Data-driven turbulence closures for ocean and climate models: advances and challenges*. &#128187; &#127878; Feb 4th <a class="button button-inline" href="https://www.youtube.com/watch?v=JB7LpUJlxc0&feature=youtu.be">Video</a> 
+
+## *2021* 
 * **Joan Bruna** - Deep Learning Barcelona: *Geometric Deep Learning: Prospects and Challenges*. &#128187; Dec 22nd <a class="button button-inline" href="https://www.youtube.com/watch?v=LJHzEM8_6k8">Video</a> 
  * **AGU** - Dec 13th-17th 2021 
   Find the list of talks and posters by our team members in our latest newsletter. &#128202; &#128187; &#127878; <a class="button button-inline" href="https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter">Newsletter</a>
