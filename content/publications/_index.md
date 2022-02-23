@@ -19,7 +19,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ## Relevant publications by our team
 
 ### 2021
-* Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein).
+* Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2021.pdf))
 
 * Gentine P, Eyring V, Beucler T. **[Deep Learning for the Parametrization of Subgrid Processes in Climate Models](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch21)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein).
   
