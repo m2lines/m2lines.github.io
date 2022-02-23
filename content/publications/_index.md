@@ -10,6 +10,8 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ### 2021
 * Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **[Climate-Invariant Machine Learning](https://arxiv.org/abs/2112.08440)** arXiv preprint arXiv:2112.08440. 2021
 
+* Wang P, Yuval J, O'Gorman PA. **[Non-local parameterization of atmospheric subgrid processes with neural networks](https://arxiv.org/abs/2201.00417)** arXiv preprint arXiv:2201.00417. 2022
+
 * Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R **[A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps](https://arxiv.org/abs/2111.06841?context=cs)** arXiv preprint arXiv:2111.06841. 2021
 
 * Yuval J, O'Gorman PA. **[Neural-network parameterization of subgrid momentum transport in the atmosphere.](https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1)** _J Earth and Space Science Open Archive_ 
