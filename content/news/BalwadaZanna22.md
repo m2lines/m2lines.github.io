@@ -1,12 +1,12 @@
 ---
-date: 2022-02-01T09:29:16+10:00
-title: ' Aakash Sane - Evaluating Coupled Climate Model Parameterizations via Skill at Reproducing the Monsoon Intraseasonal Oscillation'
+date: 2022-03-01T09:29:16+10:00
+title: ' Balwada and Zanna article in SIAM news - Machine Learning for Multiscale Systems: From Turbulence to Climate Prediction'
 heroHeading: ''
-heroSubHeading: 'Aakash Sane - Evaluating Coupled Climate Model Parameterizations via Skill at Reproducing the Monsoon Intraseasonal Oscillation'
+heroSubHeading: 'Balwada and Zanna article in SIAM news - Machine Learning for Multiscale Systems: From Turbulence to Climate Prediction'
 heroBackground: ''
-thumbnail:  'images/news/SanePaper2022.png'
-images: ['images/news/SanePaper2022.png']
-link: 'https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0337.1/JCLI-D-21-0337.1.xml' 
+thumbnail:  'images/news/BalwadaZannaSIAM.png'
+images: ['images/news/BalwadaZannaSIAM.png']
+link: 'https://sinews.siam.org/Details-Page/machine-learning-for-multiscale-systems-from-turbulence-to-climate-prediction' 
 ---
 
-Aakash Sane is a co-author in this [paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0337.1/JCLI-D-21-0337.1.xml) showing that ocean models having Langmuir turbulence and submesoscale restratification parameterizations give the most accurate simulation of monsoon intraseasonal oscillation events.
+Dhruv Balwada and Laure Zanna published an [article](https://sinews.siam.org/Details-Page/machine-learning-for-multiscale-systems-from-turbulence-to-climate-prediction) in SIAM news, detailing current insights on using Machine Learning for multiscale systems, particularly in the context of Climate prediction. 
