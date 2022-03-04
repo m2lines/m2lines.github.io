@@ -9,25 +9,6 @@ tags:
 
 ## Upcoming talks
 ---
-
-- *Ocean Science Meeting 2022* Talks and posters by team members (all times in EST): 
-  * Feb 28th
-    *  **Aakash Sane** - *Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks* (talk) at 9:00 AM - 10:00 AM  <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7577">Abstract</a>
-    *  **Brandon Reichl** - *A potential energy analysis of ocean surface mixed layers* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2569">Abstract</a>
-    *  **Andrew Ross** - *Evaluating machine learning parameterizations of ocean subgrid forcing* (talk) at 11:30 AM - 12:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/6122">Abstract</a>
-    *  **Dhruv Balwada and collaborators** - *Direct observational estimate of the dual kinetic energy cascade and its seasonality at the surface ocean from surface drifters* (talk) at 2:30 PM - 3:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5462">Abstract</a>
-  * Mar 1st
-    * **Lorenzo Zampieri** - *A machine learning correction model for the warm bias over Arctic sea ice in atmospheric reanalyses* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/5116">Abstract</a>
-    * **Dhruv Balwada** - *Tracer Ventilation, Stirring, and Variability in the Antarctic Circumpolar Current* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7250">Abstract</a>
-  * Mar 3rd
-     * **Mitch Bushuk** - *Mechanisms of Regional Arctic Sea Ice Predictability in Dynamical Seasonal Forecast Systems* (talk) at 11:30 AM - 12:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7840">Abstract</a>
-     * **Ryan Abernathey** - *OpenOceanCloud: A New Approach to Ocean Data and Computing* (innovative) at 2:30 PM - 4:30 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7164">Abstract</a>
-    * **Alistair Adcroft** - *NeverWorld2 model and dataset for studying mesoscale turbulence* (poster) at 7:00 PM - 9:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7110">Abstract</a>
-    * **Brandon Reichl** - *Contribution of upper-ocean mixing to equatorial thermocline and circulation biases in GFDL’s Fourth Generation Climate Models*  (poster) at 9:00 PM - 11:00 PM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2570">Abstract</a> 
-
-  * Mar 4th
-    * **Laure Zanna** - *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models* (talk) at 10:00 AM - 11:00 AM <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7573">Abstract</a>
-   
    
 - **Pierre Gentine** - The Artificial Intelligence for Good Group -  *Can Artificial Intelligence Help Us Better Project Climate Change?* on March 9th <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/283244412/">Register</a>
   
@@ -42,6 +23,15 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
+* **Laure Zanna** - Ocean Sciences Meeting 2022. *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models*  &#128187; &#127878; &#127758; Mar 4th <a class="button button-inline" href="https://youtu.be/ydiCxUliaG0">Video</a>
+ * **Mitch Bushuk** - Ocean Sciences Meeting 2022. *Mechanisms of Regional Arctic Sea Ice Predictability in Dynamical Seasonal Forecast Systems* &#127878; Mar 3rd <a class="button button-inline" href="https://youtu.be/M3ypY9vPRpQ">Video</a>
+* **Ryan Abernathey** -  Ocean Sciences Meeting 2022. *OpenOceanCloud: A New Approach to Ocean Data and Computing* &#128202; Mar 3rd <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7164">Abstract</a>
+* **Lorenzo Zampieri** - Ocean Sciences Meeting 2022. *A machine learning correction model for the warm bias over Arctic sea ice in atmospheric reanalyses* &#128187; &#127878; Mar 1st <a class="button button-inline" href="https://youtu.be/3SYWCtuzrKk">Video</a>
+* **Dhruv Balwada** - Ocean Sciences Meeting 2022. *Tracer Ventilation, Stirring, and Variability in the Antarctic Circumpolar Current* &#127878; Mar 1st <a class="button button-inline" href="https://youtu.be/gTOzmE7_-mU">Video</a>
+*  **Aakash Sane** - Ocean Sciences Meeting 2022. *Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks* &#128187; &#127878; Feb 28th <a class="button button-inline" href="https://youtu.be/_mEUDl9OCSo">Video</a>
+*  **Brandon Reichl** - Ocean Sciences Meeting 2022. *A potential energy analysis of ocean surface mixed layers* &#127878; Feb 28th <a class="button button-inline" href="https://youtu.be/pCdiWFwICr0">Video</a>
+*  **Andrew Ross** - Ocean Sciences Meeting 2022. *Evaluating machine learning parameterizations of ocean subgrid forcing* &#128187; &#127878; Feb 28th <a class="button button-inline" href="https://youtu.be/fIIAqrFOUSM">Video</a>
+*  **Dhruv Balwada** - Ocean Sciences Meeting 2022. *Direct observational estimate of the dual kinetic energy cascade and its seasonality at the surface ocean from surface drifters* &#127878; Feb 28th <a class="button button-inline" href="https://youtu.be/OKZl9IjWSHA">Video</a>
 * **Ryan Abernathey** - Ocean Data Conference: *OpenOceanCloud - Transforming oceanography with a new approach to data and computing* &#128202; Feb 15th <a class="button button-inline" href="https://vimeo.com/670782104">Video</a> 
 * **Ryan Abernathey** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128202; &#128187; &#127878; Feb 10th
 * **Pierre Gentine** - The National Academies Board on Atmospheric Sciences and Climate: workshop AI for Earth Sciences. &#128187; &#127878; Feb 7th
