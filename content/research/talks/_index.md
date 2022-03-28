@@ -10,7 +10,7 @@ tags:
 ## Upcoming talks
 ---
    
-- **Pierre Gentine** - The Artificial Intelligence for Good Group -  *Can Artificial Intelligence Help Us Better Project Climate Change?* on March 9th <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/283244412/">Register</a>
+- **Pierre Gentine** - The Artificial Intelligence for Good Group -  *Can Artificial Intelligence Help Us Better Project Climate Change?* on May 4th <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/284498454/">Register</a>
   
 <br>
 
