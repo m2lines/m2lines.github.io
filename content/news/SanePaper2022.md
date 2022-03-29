@@ -1,6 +1,6 @@
 ---
 date: 2022-02-01T09:29:16+10:00
-title: ' Aakash Sane - Evaluating Coupled Climate Model Parameterizations via Skill at Reproducing the Monsoon Intraseasonal Oscillation'
+title: ' Aakash Sane - Evaluating Coupled Climate Model Parameterizations'
 heroHeading: ''
 heroSubHeading: 'Aakash Sane - Evaluating Coupled Climate Model Parameterizations via Skill at Reproducing the Monsoon Intraseasonal Oscillation'
 heroBackground: ''
