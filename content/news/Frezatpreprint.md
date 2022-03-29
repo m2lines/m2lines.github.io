@@ -1,6 +1,6 @@
 ---
 date: 2022-01-01T09:29:16+10:00
-title: 'A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps'
+title: 'Hugo Frezat - A posteriori learning of quasi-geostrophic turbulence parametrization'
 heroHeading: ''
 heroSubHeading: 'A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps'
 heroBackground: ''
