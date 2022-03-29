@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400|Open+Sans:400,700");
+img {
+  max-width: 100%;
+  height: auto; }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -5838,7 +5842,7 @@ ol {
 
 .button-inline {
   padding: 3px 7px;
-  font-size: 11px; }
+  font-size: 9px; }
 
 .title-1 {
   color: #2B547E;

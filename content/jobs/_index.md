@@ -19,4 +19,3 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 There will be positions opening later at MIT (on atmospheric deep convection) and CNRS-IPSL (on validation and testing of ocean parameterizations in IPSL climate model).
 
-
