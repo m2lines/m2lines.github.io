@@ -1,6 +1,6 @@
 ---
 date: 2022-03-01T09:29:16+10:00
-title: ' Dhruv Balwada and Laure Zanna article in SIAM news - Machine Learning for Multiscale Systems: From Turbulence to Climate Prediction'
+title: ' Dhruv Balwada and Laure Zanna article in SIAM news'
 heroHeading: ''
 heroSubHeading: 'Dhruv Balwada and Laure Zanna article in SIAM news - Machine Learning for Multiscale Systems: From Turbulence to Climate Prediction'
 heroBackground: ''
