@@ -12,6 +12,8 @@ tags:
 
 ### 2022
 
+* 04/01/2022 - [M²LInES newsletter - April 2022](https://mailchi.mp/2db4ee09fcf6/m2lines-april-2022-newsletter)
+
 * 02/24/2022 - [M²LInES newsletter - OSM22 special](https://mailchi.mp/11a5a98d21a3/m2lines-newsletter-osm22)
 
 * 02/01/2022 -  [M²LInES newsletter - February 2022](https://mailchi.mp/cb9b5c06b78c/m2lines-february-2022)
