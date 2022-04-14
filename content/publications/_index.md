@@ -10,6 +10,8 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ### 2022
 * Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R. **[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.48550/arXiv.2204.03911)** arXiv preprint arXiv:2204.03911. 2022 
 
+* Loose N, Abernathey R, Grooms I, Busecke J, Guillaumin A, Yankovsky E, Marques G, Steinberg J, Ross AS, Khatri H, Bachman S, Zanna L,
+ Martin P. **[GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data.](https://doi.org/10.21105/joss.03947)**, Journal of Open Source Software 7(70), p.3947. 2022 
 
 ### 2021
 * Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **[Climate-Invariant Machine Learning](https://arxiv.org/abs/2112.08440)** arXiv preprint arXiv:2112.08440. 2021
