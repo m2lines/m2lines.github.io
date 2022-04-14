@@ -7,6 +7,10 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ## M²LInES research papers
 
+### 2022
+* Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R. **[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.48550/arXiv.2204.03911)** arXiv preprint arXiv:2204.03911. 2022 
+
+
 ### 2021
 * Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **[Climate-Invariant Machine Learning](https://arxiv.org/abs/2112.08440)** arXiv preprint arXiv:2112.08440. 2021
 
