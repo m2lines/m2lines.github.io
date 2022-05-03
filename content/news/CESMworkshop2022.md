@@ -6,7 +6,7 @@ heroSubHeading: '2022 CESM workshop'
 heroBackground: ''
 thumbnail:  'images/news/CESM-thumbnail.jpg'
 images: ['images/news/cesm-workshop-2021.jpeg']
-link: 'https://www.cesm.ucar.edu/events/workshops/2021/#agenda' 
+link: 'https://www.cesm.ucar.edu/events/workshops/2022/' 
 ---
 
 Registration is open for the 2022 CESM Workshop on June 13-16, 2022.
