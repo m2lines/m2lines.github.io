@@ -13,7 +13,9 @@ Your can find most of our past talks, and much more, on our <a class="button but
 ---
    
 - **Pierre Gentine** - The Artificial Intelligence for Good Group -  *Can Artificial Intelligence Help Us Better Project Climate Change?* on May 4th <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/284498454/">Register</a>
-  
+
+- **Laure Zanna** will be giving a joing plenary talk with Galen McKinley on M²LInES and LEAP on June 13th at the 2022 CESM Workshop. Info and registration at this [website](https://www.cesm.ucar.edu/events/workshops/2022/)
+
 <br>
 
 ## Past talks
