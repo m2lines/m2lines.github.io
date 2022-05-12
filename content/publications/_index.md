@@ -8,33 +8,35 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ## M²LInES research papers
 
 ### 2022
+* Zampieri L, Arduini G, Holland M, Keeley S, Mogensen KS, Tietsche S. **[A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses](https://doi.org/10.1002/essoar.10511269.1)** Earth and Space Science Open Archive. 2022
+
 * Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R. **[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.48550/arXiv.2204.03911)** arXiv preprint arXiv:2204.03911. 2022 
 
 * Loose N, Abernathey R, Grooms I, Busecke J, Guillaumin A, Yankovsky E, Marques G, Steinberg J, Ross AS, Khatri H, Bachman S, Zanna L,
  Martin P. **[GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data.](https://doi.org/10.21105/joss.03947)**, Journal of Open Source Software 7(70), p.3947. 2022 
 
 ### 2021
-* Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **[Climate-Invariant Machine Learning](https://arxiv.org/abs/2112.08440)** arXiv preprint arXiv:2112.08440. 2021
+* Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **[Climate-Invariant Machine Learning](https://doi.org/10.48550/arXiv.2112.08440)** arXiv preprint arXiv:2112.08440. 2021
 
-* Wang P, Yuval J, O'Gorman PA. **[Non-local parameterization of atmospheric subgrid processes with neural networks](https://arxiv.org/abs/2201.00417)** arXiv preprint arXiv:2201.00417. 2022
+* Wang P, Yuval J, O'Gorman PA. **[Non-local parameterization of atmospheric subgrid processes with neural networks](https://doi.org/10.48550/arXiv.2201.00417)** arXiv preprint arXiv:2201.00417. 2022
 
-* Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R **[A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps](https://arxiv.org/abs/2111.06841?context=cs)** arXiv preprint arXiv:2111.06841. 2021
+* Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R **[A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps](https://doi.org/10.48550/arXiv.2111.06841)** arXiv preprint arXiv:2111.06841. 2021
 
 * Yuval J, O'Gorman PA. **[Neural-network parameterization of subgrid momentum transport in the atmosphere.](https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1)** _J Earth and Space Science Open Archive_ 
 
-* Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
+* Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
 
 ## Relevant publications by our team
 
 ### 2021
-* Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2021.pdf))
+* Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://doi.org/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2021.pdf))
 
-* Gentine P, Eyring V, Beucler T. **[Deep Learning for the Parametrization of Subgrid Processes in Climate Models](https://onlinelibrary.wiley.com/doi/10.1002/9781119646181.ch21)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein).
+* Gentine P, Eyring V, Beucler T. **[Deep Learning for the Parametrization of Subgrid Processes in Climate Models](https://doi.org/10.1002/9781119646181.ch21)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein).
   
 * Mooers G, Pritchard M, Beucler T, Ott J, Yacalis G, Baldi P, Gentine P. **[Assessing the Potential of Deep Learning for Emulating Cloud Superparameterization in Climate Models with Real-Geography Boundary Conditions.]( https://doi.org/10.1029/2020MS002385)**
  _Journal of Advances in Modeling Earth Systems_ 2021
 
-* Beucler T, Pritchard M, Rasp S, Ott J, Baldi P, Gentine P. **[Enforcing analytic constraints in neural networks emulating physical systems.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098302)** _Physical Review Letters_ 2021. (author [link](https://gentinelab.eee.columbia.edu/sites/default/files/content/PhysRevLett.126.098302.pdf))
+* Beucler T, Pritchard M, Rasp S, Ott J, Baldi P, Gentine P. **[Enforcing analytic constraints in neural networks emulating physical systems.](https://doi.org/10.1103/PhysRevLett.126.098302)** _Physical Review Letters_ 2021. (author [link](https://gentinelab.eee.columbia.edu/sites/default/files/content/PhysRevLett.126.098302.pdf))
 
 * Frezat H, Balarac G, Le Sommer J, Fablet R, Lguensat R. **[Physical invariance in neural networks for subgrid-scale scalar flux modeling.](https://doi.org/10.1103/PhysRevFluids.6.024607)** _Physical Review Fluids_ 2021. (author [link](https://mycore.core-cloud.net/index.php/s/lQCP7AfbolI7klN?path=%2F2021#pdfviewer))
 
@@ -54,17 +56,17 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 * Held IM, Guo H, Adcroft A, Dunne JP, Horowitz LW, Krasting J, et al. **[Structure and Performance of GFDL’s CM4.0 Climate Model.](https://doi.org/10.1029/2019MS001829)** _J Adv Model Earth Syst_ 2019. 
 
-* Robinson NH, Hamman J, Abernathey R. **[Science needs to rethink how it interacts with big data: Five principles for effective scientific big data systems.](https://arxiv.org/abs/1908.03356v1)** _ArXiv190803356 Cs_ 2019.
+* Robinson NH, Hamman J, Abernathey R. **[Science needs to rethink how it interacts with big data: Five principles for effective scientific big data systems.](https://doi.org/10.48550/arXiv.1908.03356)** _ArXiv190803356 Cs_ 2019.
 
-* Beucler T, Rasp S, Pritchard M, Gentine P. **[Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling.](https://arxiv.org/pdf/1906.06622.pdf)** _ArXiv190606622 Phys_ 2019.
+* Beucler T, Rasp S, Pritchard M, Gentine P. **[Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling.](https://doi.org/10.48550/arXiv.1906.06622)** _ArXiv190606622 Phys_ 2019.
 
-* Izacard G, Mohan S, Fernandez-Granda C. **[Data-driven Estimation of Sinusoid Frequencies.](https://papers.nips.cc/paper/2019/file/d0010a6f34908640a4a6da2389772a78-Paper.pdf)** _Advances in Neural Information Processing Systems_ 2019. 
+* Izacard G, Mohan S, Fernandez-Granda C. **[Data-driven Estimation of Sinusoid Frequencies.](https://doi.org/10.48550/arXiv.1906.00823)** _Advances in Neural Information Processing Systems_ 2019. 
 
-* Mohan S, Kadkhodaie Z, Simoncelli EP, Fernandez-Granda C. **[Robust and interpretable blind image denoising via bias-free convolutional neural networks](https://www.cns.nyu.edu/pub/lcv/mohanKadkhodaie19b.pdf)** 2019.
+* Mohan S, Kadkhodaie Z, Simoncelli EP, Fernandez-Granda C. **[Robust and interpretable blind image denoising via bias-free convolutional neural networks](https://doi.org/10.48550/arXiv.1906.05478)** 2019.
 
 * Zhao WL, Gentine P, Reichstein M, Zhang Y, Zhou S, Wen Y, et al. **[Physics-constrained machine learning of evapotranspiration.](https://doi.org/10.1029/2019GL085291)** _Geophysical Research Letter_ 2019. (ResearchGate [link](https://www.researchgate.net/publication/337868554_Physics-Constrained_Machine_Learning_of_Evapotranspiration))
 
-* Yang T, Sun F, Gentine P, Liu W, Wang H, Yin J, et al. **[Evaluation and machine learning improvement of global hydrological model-based flood simulations.](https://iopscience.iop.org/article/10.1088/1748-9326/ab4d5e)** _Environ Res Lett_ 2019.
+* Yang T, Sun F, Gentine P, Liu W, Wang H, Yin J, et al. **[Evaluation and machine learning improvement of global hydrological model-based flood simulations.](https://doi.org/10.1088/1748-9326/ab4d5e)** _Environ Res Lett_ 2019.
 
 ### 2018
 
