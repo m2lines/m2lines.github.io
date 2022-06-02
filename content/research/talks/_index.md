@@ -12,8 +12,6 @@ Your can find most of our past talks, and much more, on our <a class="button but
 ## Upcoming talks
 ---
    
-- **Pierre Gentine** - The Artificial Intelligence for Good Group -  *Can Artificial Intelligence Help Us Better Project Climate Change?* on May 4th <a class="button button-inline" href="https://www.meetup.com/new-york-artificial-intelligence-for-good-meetup-group/events/284498454/">Register</a>
-
 - **Laure Zanna** will be giving a joing plenary talk with Galen McKinley on M²LInES and LEAP on June 13th at the 2022 CESM Workshop. Info and registration at this [website](https://www.cesm.ucar.edu/events/workshops/2022/)
 
 <br>
@@ -27,6 +25,7 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
+* **Pierre Gentine** - The Artificial Intelligence for Good Group. *Can Artificial Intelligence Help Us Better Project Climate Change?* &#128187; &#127878; &#127758; May 4th 2022
 * **Laure Zanna** - Ocean Sciences Meeting 2022. *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models*  &#128187; &#127878; &#127758; Mar 4th <a class="button button-inline" href="https://youtu.be/ydiCxUliaG0">Video</a>
  * **Mitch Bushuk** - Ocean Sciences Meeting 2022. *Mechanisms of Regional Arctic Sea Ice Predictability in Dynamical Seasonal Forecast Systems* &#127878; Mar 3rd <a class="button button-inline" href="https://youtu.be/M3ypY9vPRpQ">Video</a>
 * **Ryan Abernathey** -  Ocean Sciences Meeting 2022. *OpenOceanCloud: A New Approach to Ocean Data and Computing* &#128202; Mar 3rd <a class="button button-inline" href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7164">Abstract</a>
