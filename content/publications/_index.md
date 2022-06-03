@@ -8,6 +8,8 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ## M²LInES research papers
 
 ### 2022
+* Liu S, Kaku A, Zhu W, Leibovich M, Mohan S, Yu B, Huang H, Zanna L, Razavian N, Niles-Weed J, Fernandez-Granda C. **[Deep Probability Estimation](doi.org/10.48550/arXiv.2111.10734)**, *accepted in ICML*, 2022. 
+
 * Zampieri L, Arduini G, Holland M, Keeley S, Mogensen KS, Tietsche S. **[A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses](https://doi.org/10.1002/essoar.10511269.1)** Earth and Space Science Open Archive. 2022
 
 * Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R. **[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.48550/arXiv.2204.03911)** arXiv preprint arXiv:2204.03911. 2022 
