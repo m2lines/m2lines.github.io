@@ -25,6 +25,7 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
+* **Andrew Ross** - Panel discussion on the future of model interpretability at the ICLR workshop on AI for Earth and Space Science. [Website](https://iclr.cc/virtual/2022/workshop/4550) (You can find the panel on the top main video at 7:49:25)
 * **Pierre Gentine** - The Artificial Intelligence for Good Group. *Can Artificial Intelligence Help Us Better Project Climate Change?* &#128187; &#127878; &#127758; May 4th 2022
 * **Laure Zanna** - Ocean Sciences Meeting 2022. *Online implementation of Machine Learning Eddy Parameterizations in a Hierarchy of Ocean Models*  &#128187; &#127878; &#127758; Mar 4th <a class="button button-inline" href="https://youtu.be/ydiCxUliaG0">Video</a>
  * **Mitch Bushuk** - Ocean Sciences Meeting 2022. *Mechanisms of Regional Arctic Sea Ice Predictability in Dynamical Seasonal Forecast Systems* &#127878; Mar 3rd <a class="button button-inline" href="https://youtu.be/M3ypY9vPRpQ">Video</a>
