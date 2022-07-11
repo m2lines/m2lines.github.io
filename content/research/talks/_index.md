@@ -11,8 +11,7 @@ Your can find most of our past talks, and much more, on our <a class="button but
 
 ## Upcoming talks
 ---
-   
-- **Laure Zanna** will be giving a joing plenary talk with Galen McKinley on M²LInES and LEAP on June 13th at the 2022 CESM Workshop. Info and registration at this [website](https://www.cesm.ucar.edu/events/workshops/2022/)
+- **Laure Zanna** will be giving a plenary talk at the SIAM conference on Mathematics for Planet Earth on July 13th. More info at this [website](https://www.siam.org/conferences/cm/conference/mpe22?_ga=2.193046573.1207615065.1657569935-11076920.1657569935)    
 
 <br>
 
@@ -25,7 +24,7 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
-
+- **Laure Zanna** 2022 CESM Workshop - joint plenary talk with Galen McKinley on M²LInES and LEAP. &#128187; &#127878; &#127758; June 13th  <a class="button button-inline" href="https://youtu.be/q_gGIL-Kvgs?list=PLfdKzSc-V-WAYHR8sPfddkCbnwnfuBb1A&t=11550">Video</a>
 * **Laure Zanna** - NCAR Mesoscale & Microscale Meteorology Laboratory. *Machine Learning for Mesoscale Closures in Ocean Models.* &#128187; &#127878; &#127758; June 2nd <a class="button button-inline" href="https://www.youtube.com/watch?v=qRSXSkjvFcE">Video</a>
 * **Pierre Gentine** - The Artificial Intelligence for Good Group. *Can Artificial Intelligence Help Us Better Project Climate Change?* &#128187; &#127878; &#127758; May 4th
 * **Andrew Ross** - Panel discussion on the future of model interpretability at the ICLR workshop on AI for Earth and Space Science. [Website](https://iclr.cc/virtual/2022/workshop/4550) (You can find the panel on the top main video at 7:49:25). April 29th
