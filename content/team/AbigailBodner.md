@@ -2,7 +2,7 @@
 title: "Abigail Bodner"
 draft: false
 image: "/images/team/AbigailBodner.jpg"
-jobtitle: "Affiliate"
+jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 27
 Website:  https://abodner.github.io/
