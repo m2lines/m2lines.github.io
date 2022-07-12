@@ -2,7 +2,7 @@
 title: "Mario Herrero-Gonzalez"
 draft: false
 image: "/images/team/Mario.png"
-jobtitle: "Affiliate"
+jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 29
 Website:  
