@@ -2,7 +2,7 @@
 title: "Karl Otness"
 draft: false
 image: "/images/team/karl.jpg"
-jobtitle: "Affiliate"
+jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 30
 Website:  
