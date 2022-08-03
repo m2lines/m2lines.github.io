@@ -8,6 +8,9 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ## M²LInES research papers
 
 ### 2022
+* Ross AS, Li Z, Perezhogin P, Fernandez-Granda C, Zanna L. **[Benchmarking of machine learning ocean subgrid parameterizations in an idealized model
+](https://doi.org/10.1002/essoar.10511742.1)** _J Earth and Space Science Open Archive_ 
+
 * Liu S, Kaku A, Zhu W, Leibovich M, Mohan S, Yu B, Huang H, Zanna L, Razavian N, Niles-Weed J, Fernandez-Granda C. **[Deep Probability Estimation](doi.org/10.48550/arXiv.2111.10734)**, *accepted in ICML*, 2022. 
 
 * Zampieri L, Arduini G, Holland M, Keeley S, Mogensen KS, Tietsche S. **[A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses](https://doi.org/10.1002/essoar.10511269.1)** Earth and Space Science Open Archive. 2022
