@@ -12,6 +12,8 @@ tags:
 
 ### 2022
 
+* 08/01/2022 - [M²LInES newsletter - August 2022 ](https://mailchi.mp/de41e2fa4f3a/m2lines-august-2022)
+
 * 07/05/2022 - [M²LInES newsletter - July 2022 ](https://mailchi.mp/559244aacd7f/m2lines-july-newsletter)
 
 * 06/06/2022 - [M²LInES newsletter - June 2022 ](https://mailchi.mp/b6ce90c1f066/m2lines-june-2022-newsletter)
