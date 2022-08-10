@@ -25,6 +25,7 @@ Themes of the talks:
 ## *2022* 
 * **Laure Zanna** Hammers and Nails 2022 - *Ai for Climate Physics* &#128187; &#127878; &#127758; ; August 4th. [Slides](https://www.dropbox.com/s/31n3h2wjm7kcrkz/hammers_nails_plenary_2022.pdf?dl=0)
 * **Laure Zanna** SIAM conference on Mathematics for Planet Earth - plenary talk &#128187; &#127878; &#127758; ; July 13th. More info at this [website](https://www.siam.org/conferences/cm/conference/mpe22?_ga=2.193046573.1207615065.1657569935-11076920.1657569935)    
+* **Janni Yuval** 23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics *Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation* &#128187; &#127878; June 16th.
 * **Laure Zanna** 2022 CESM Workshop - joint plenary talk with Galen McKinley on M²LInES and LEAP. &#128187; &#127878; &#127758; June 13th  <a class="button button-inline" href="https://youtu.be/q_gGIL-Kvgs?list=PLfdKzSc-V-WAYHR8sPfddkCbnwnfuBb1A&t=11550">Video</a>
 * **Laure Zanna** - NCAR Mesoscale & Microscale Meteorology Laboratory. *Machine Learning for Mesoscale Closures in Ocean Models.* &#128187; &#127878; &#127758; June 2nd <a class="button button-inline" href="https://www.youtube.com/watch?v=qRSXSkjvFcE">Video</a>
 * **Pierre Gentine** - The Artificial Intelligence for Good Group. *Can Artificial Intelligence Help Us Better Project Climate Change?* &#128187; &#127878; &#127758; May 4th
