@@ -1,7 +1,7 @@
 ---
 title: "Sara Shamekh"
 draft: false
-image: "/images/team/Sara.jpg"
+image: "/images/team/sara.jpg"
 jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 36
