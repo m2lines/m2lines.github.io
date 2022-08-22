@@ -11,6 +11,6 @@ weight: 6
 
 UCAR, Affiliate NOAA-GFDL in Ocean division
 
-*Sea Ice - HR data - Predictability*
+*Sea Ice - Data Assimilation - Predictability*
 
 
