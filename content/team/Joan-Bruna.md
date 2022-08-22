@@ -12,6 +12,6 @@ weight: 4
 
 NYU, Courant Institute + Computer Science + Center for Data Science
 
-*Machine Learning, Signal Processing*
+*ML - Signal Processing*
 
 
