@@ -11,6 +11,6 @@ Website:
 
 NYU, Courant Institute
 
-*Machine Learning, Parametrization*
+*ML - Machine Learning, Parametrization*
 
 
