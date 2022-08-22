@@ -11,6 +11,6 @@ Website:  https://abodner.github.io/
 
 NYU, Courant Institute
 
-*Ocean - HR - Ocean surface processes, Ocean modeling*
+*Ocean - HR data - Ocean surface processes, Ocean modeling*
 
 
