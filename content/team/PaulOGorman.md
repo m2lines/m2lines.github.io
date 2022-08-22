@@ -11,6 +11,6 @@ weight: 7
 
 MIT
 
-*Atmospheric Science*
+*Atm - HR data*
 
 
