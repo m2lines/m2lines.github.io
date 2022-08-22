@@ -11,6 +11,6 @@ weight: 21
 
 NYU, Courant Institute
 
-*Atmospheric Science, Machine Learning*
+*Atm - Ocean - Machine Learning*
 
 
