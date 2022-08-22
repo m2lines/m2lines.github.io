@@ -11,5 +11,5 @@ weight: 6
 
 Columbia University
 
-*Earth and Environmental Engineering*
+*Atm - HR data*
 
