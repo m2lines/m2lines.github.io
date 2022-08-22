@@ -11,6 +11,6 @@ Website: https://aakashsane.gitlab.io/
 
 Princeton University, Affiliate NOAA-GFDL in Ocean Division  
 
-*Ocean - HR - Ocean Surface Boundary Layer, Machine Learning*
+*Ocean - HR data - Ocean Surface Boundary Layer, Machine Learning*
 
 
