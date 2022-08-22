@@ -11,6 +11,6 @@ Website:
 
 Columbia University
 
-*Atmospheric Science and Machine Learning*
+*Atm - HR data - ML*
 
 
