@@ -10,6 +10,6 @@ Website:  http://efmh.berkeley.edu/alexconnolly/
 
 Columbia University  
 
-*Atmospheric Boundary Layer and Machine Learning*
+*Atm - HR - Atmospheric Boundary Layer and Machine Learning*
 
 
