@@ -11,6 +11,6 @@ Website:  https://www.ucl.ac.uk/earth-sciences/people/research-students/william-
 
 Princeton University, Affiliate NOAA-GFDL
 
-*Sea ice - HR data - ML - predictability*
+*Sea ice - Data Assimilation - ML - predictability*
 
 
