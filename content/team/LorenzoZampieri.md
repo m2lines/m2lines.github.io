@@ -11,6 +11,6 @@ weight: 19
 
 National Center for Atmospheric Research
 
-*Sea Ice Modelling and Predictability*
+*Sea Ice - HR data and observations - Modelling and Predictability*
 
 
