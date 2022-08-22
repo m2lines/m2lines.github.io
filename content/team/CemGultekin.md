@@ -11,6 +11,6 @@ Website:
 
 NYU, Courant Institute 
 
-*Interpretability and Deep Learning*
+*ML - Interpretability and Deep Learning*
 
 
