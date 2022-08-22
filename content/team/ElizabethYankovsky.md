@@ -11,6 +11,6 @@ Website:
 
 NYU, Courant Institute
 
-*Ocean Modeling, Mesoscale and Submesoscale Turbulence; Arctic Dynamics*
+*Ocean - HR data - Mesoscale and Submesoscale Turbulence; Arctic Dynamics*
 
 
