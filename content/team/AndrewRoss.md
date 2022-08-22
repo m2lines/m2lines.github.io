@@ -11,6 +11,6 @@ weight: 18
 
 NYU, Courant Institute 
 
-*Machine Learning, Interpretability*
+*ML - Interpretability*
 
 
