@@ -11,6 +11,6 @@ Website:
 
 L’Institut des Géosciences de l’Environnement (IGE)
 
-*Turbulence paramezizations, Machine learning*
+*Ocean - HR data - ML - Turbulence paramezizations*
 
 
