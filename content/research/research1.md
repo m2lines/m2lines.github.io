@@ -19,13 +19,13 @@ Below is a representation of the physical processes that will be studied by the 
 We will diagnose small-scale physical processes such as:
 
 
-* Atmospheric convection and clouds (O'Gorman)
-* Atmospheric boundary layer processes at the ocean and sea-ice interface (Gentine)
-* Ocean mesoscale buoyancy fluxes (Abernathey)
-* Ocean submesoscale processes (Le Sommer)
-* Ocean mesoscale momentum, energy and air-sea interactions (Zanna)
-* Vertical mixing (Adcroft/Reichl)
-* Sea-ice heterogeneity and its influence on air-sea-ice interactions (Holland)
+* Atmospheric convection and clouds (O'Gorman, Yuval)
+* Atmospheric boundary layer processes at the ocean and sea-ice interface (Gentine, Connolly)
+* Ocean mesoscale buoyancy fluxes (Abernathey, Balwada)
+* Ocean submesoscale processes (Le Sommer, Gorbunova)
+* Ocean mesoscale momentum, energy and air-sea interactions (Zanna, Perezhogin)
+* Vertical mixing (Adcroft, Reichl, Sane)
+* Sea-ice heterogeneity and its influence on air-sea-ice interactions (Holland, Zampieri)
 
 ##### We will also learn from the data resulting from model errors, or data assimilation increments, illustrated in the figure below:  
 
@@ -33,10 +33,10 @@ We will diagnose small-scale physical processes such as:
 
 ###### In particular, in this analysis we will be focusing on:
 
-* Atmospheric processes (Berner) 
-* Ocean processes (Lu)
-* Sea-ice parametrization (Bushuk)
-* Air-sea-ice fluxes (Berner/Holland/Bushuk)
+* Atmospheric processes (Berner, Chapman) 
+* Ocean processes (Lu, Verma)
+* Sea-ice parametrization (Bushuk, Gregory)
+* Air-sea-ice fluxes (Berner, Holland, Bushuk, Chapman, Verma, Gregory)
 
 **Learn more:**
 Come discover Pangeo Forge and how it can help us solve complex problems in climate and weather research [here](https://vimeo.com/510830389) with Ryan Abernathey, head of big data at M²LInES. 
