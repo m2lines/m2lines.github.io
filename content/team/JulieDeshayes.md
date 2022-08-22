@@ -11,6 +11,6 @@ weight: 8
 
 IPSL
 
-*Physical Oceanography*
+*Ocean - Models and model tuning*
 
 
