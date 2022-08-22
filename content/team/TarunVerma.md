@@ -10,6 +10,6 @@ weight: 20
 
 Princeton University
 
-*Climate Dynamics, Predictability, and Machine Learning*
+*Ocean - HR data - Predictability, and Machine Learning*
 
 
