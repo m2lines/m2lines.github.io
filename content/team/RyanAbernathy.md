@@ -11,5 +11,5 @@ weight: 5
 
 Lamont/Columbia University
 
-*Ocean - HR data *
+*Ocean - HR data*
 
