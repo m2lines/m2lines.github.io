@@ -11,6 +11,6 @@ Website: https://willychap.github.io/
 
 National Center for Atmospheric Research
 
-*Atmospheric Dynamics and Machine Learning*
+*Atm - Data Assimilation - ML*
 
 
