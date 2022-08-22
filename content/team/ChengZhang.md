@@ -11,6 +11,6 @@ weight: 23
 
 Princeton University
 
-*Ocean modelling, Machine learning, Data assimilation*
+*Ocean - Modelling, Machine learning, Data assimilation*
 
 
