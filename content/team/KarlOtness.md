@@ -11,6 +11,6 @@ Website:
 
 NYU, Courant Institute
 
-*Machine Learning, Simulation*
+*ML - Simulation*
 
 
