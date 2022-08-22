@@ -11,6 +11,6 @@ weight: 24
 
 L'Institut des Géosciences de l'Environnement (IGE)
 
-*Computational fluid mechanics, turbulence statistics*
+*Ocean - HR - Computational fluid mechanics, turbulence statistics*
 
 
