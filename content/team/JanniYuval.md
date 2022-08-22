@@ -10,6 +10,6 @@ weight: 15
 
 MIT 
 
-*Physics, Climate, Machine Learning*
+*Atm - HR data - Climate, Machine Learning*
 
 
