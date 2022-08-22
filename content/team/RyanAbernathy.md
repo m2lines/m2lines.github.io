@@ -11,5 +11,5 @@ weight: 5
 
 Lamont/Columbia University
 
-*Earth and Environmental Sciences*
+*Ocean - HR data *
 
