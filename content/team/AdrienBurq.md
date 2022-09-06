@@ -11,6 +11,6 @@ Website:
 
 Columbia University
 
-*Atm - HR data - ML*
+*Atm -  ML*
 
 
