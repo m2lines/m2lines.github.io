@@ -11,6 +11,6 @@ weight: 6
 
 National Center for Atmospheric Research
 
-*Sea-Ice - HR data and observations*
+*Sea-Ice parameterizations*
 
 
