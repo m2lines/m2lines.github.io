@@ -11,6 +11,6 @@ weight: 7
 
 MIT
 
-*Atm - HR data*
+*Atm - Convection*
 
 
