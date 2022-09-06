@@ -11,6 +11,6 @@ weight: 25
 
 NYU, Courant Institute
 
-*Ocean - HR data - ML, Momentum closures in ocean, Large-eddy simulation*
+*Ocean -  ML, Momentum closures in ocean, Large-eddy simulation*
 
 
