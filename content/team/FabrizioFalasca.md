@@ -11,6 +11,6 @@ Website:
 
 NYU, Courant Institute
 
-*Ocean - HR data - Data mining, Complex systems, Dynamical systems*
+*Ocean - Data mining, Complex systems, Dynamical systems*
 
 
