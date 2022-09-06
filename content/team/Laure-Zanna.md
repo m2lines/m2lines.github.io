@@ -12,6 +12,6 @@ weight: 1
 
 NYU, Courant Institute + Center for Data Science
 
-*Ocean - HR data and Data Assimilation - Machine Learning*
+*Ocean - Climate - Machine Learning*
 
 
