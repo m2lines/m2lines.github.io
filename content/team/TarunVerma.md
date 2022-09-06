@@ -10,6 +10,6 @@ weight: 20
 
 Princeton University
 
-*Ocean - HR data - Predictability, and Machine Learning*
+*Ocean - Predictability, and Machine Learning*
 
 
