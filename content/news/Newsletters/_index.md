@@ -12,6 +12,8 @@ tags:
 
 ### 2022
 
+* 11/01/2022 - [M²LInES newsletter - November 2022](https://mailchi.mp/ea5545ba3ad9/m2lines-newsletter-november-2022)
+
 * 10/03/2022 - [M²LInES newsletter - October 2022](https://mailchi.mp/1b79e3c3f118/m2lines-newsletter-october-2022)
 
 * 09/16/2022 - [M²LInES newsletter - September 2022 Research Roundup](https://mailchi.mp/23f67eb58497/m2lines-september-newsletter)
