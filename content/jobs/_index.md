@@ -11,11 +11,12 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### NYU
 
+* 1 Postdoctoral Associate position in Ocean and Climate Modeling. Available immediately. [Apply here](apply.interfolio.com/117150)
+
 * 2 Postdocs/Research Associates in Climate Physics & Machine Learning. Available immediately. [Apply here](http://apply.interfolio.com/105690)
 
 * 1 Postdoc/Research Associate in Machine Learning/Scientific Computing for high-dimensional systems. Available immediately. [Apply here](https://apply.interfolio.com/104868)
 
-* 1 Faculty Fellow position to develop independent ideas at the interface between Machine Learning and Climate Science. Starting September 2022. [Apply here](https://apply.interfolio.com/97037)
 
 ### Future openings:
 
