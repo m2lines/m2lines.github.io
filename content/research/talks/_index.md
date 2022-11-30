@@ -11,6 +11,7 @@ Your can find most of our past talks, and much more, on our <a class="button but
 
 ## Upcoming talks
 ---
+On December 7th 12pm EST **Pierre Gentine** will be giving a hybrid talk at Columbia on the challenges in data science & climate. Register [here](https://www.eventbrite.com/e/physics-to-machine-learning-and-machine-learning-back-to-physics-tickets-461810556807)
 
 <br>
 
