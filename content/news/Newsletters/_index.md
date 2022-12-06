@@ -12,6 +12,8 @@ tags:
 
 ### 2022
 
+* 12/05/2022 - [M²LInES newsletter - December 2022 AGU Special](https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special)
+
 * 11/01/2022 - [M²LInES newsletter - November 2022](https://mailchi.mp/ea5545ba3ad9/m2lines-newsletter-november-2022)
 
 * 10/03/2022 - [M²LInES newsletter - October 2022](https://mailchi.mp/1b79e3c3f118/m2lines-newsletter-october-2022)
