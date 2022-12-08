@@ -11,7 +11,8 @@ Your can find most of our past talks, and much more, on our <a class="button but
 
 ## Upcoming talks
 ---
-On December 7th 12pm EST **Pierre Gentine** will be giving a hybrid talk at Columbia on the challenges in data science & climate. Register [here](https://www.eventbrite.com/e/physics-to-machine-learning-and-machine-learning-back-to-physics-tickets-461810556807)
+You can find all the talks and posters our members will be giving at the AGU Fall meeting in our most recent [newsletter](https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special).
+You can also download the schedule for the talks by following this [link](https://drive.google.com/file/d/16zgh5TfVuZfuz7CVSh_MuiUmKM0jXPvU/view?usp=share_link).
 
 <br>
 
@@ -24,6 +25,7 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
+* **Pierre Gentine** - Columbia Center of AI Technology - *Physics to Machine Learning and Machine Learning Back to Physics* &#128187; &#127878; ; December 7th 
 * **Laure Zanna** - Hammers and Nails 2022 - *Ai for Climate Physics* &#128187; &#127878; &#127758; ; August 4th. [Slides](https://www.dropbox.com/s/31n3h2wjm7kcrkz/hammers_nails_plenary_2022.pdf?dl=0)
 * **Laure Zanna** - SIAM conference on Mathematics for Planet Earth - plenary talk &#128187; &#127878; &#127758; ; July 13th. More info at this [website](https://www.siam.org/conferences/cm/conference/mpe22?_ga=2.193046573.1207615065.1657569935-11076920.1657569935)    
 * **Janni Yuval** - 23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics *Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation* &#128187; &#127878; June 16th.
