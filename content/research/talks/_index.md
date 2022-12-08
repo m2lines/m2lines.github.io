@@ -11,7 +11,7 @@ Your can find most of our past talks, and much more, on our <a class="button but
 
 ## Upcoming talks
 ---
-You can find all the talks and posters our members will be giving at the AGU Fall meeting in our most recent [newsletter](https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special).
+**AGU Fall meeting 2022 - Dec 12th-16th** You can find all the talks and posters our members will be giving at the AGU Fall meeting in our most recent [newsletter](https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special).
 You can also download the schedule for the talks by following this [link](https://drive.google.com/file/d/16zgh5TfVuZfuz7CVSh_MuiUmKM0jXPvU/view?usp=share_link).
 
 <br>
