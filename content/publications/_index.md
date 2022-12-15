@@ -9,7 +9,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2022
 * Ross AS, Li Z, Perezhogin P, Fernandez-Granda C, Zanna L. **[Benchmarking of machine learning ocean subgrid parameterizations in an idealized model
-](https://github.com/m2lines/m2lines.github.io/blob/master/static/files/Ross-et-al-2022-submitted.pdf)** _J Earth and Space Science Open Archive_ _(preprint)_
+](https://doi.org/10.1029/2022MS003258)** JAMES _(accepted)_
 
 * Chen L, Bruna J. **[On Gradient Descent Convergence beyond the Edge of Stability](https://doi.org/10.48550/arXiv.2206.04172)**. arXiv preprint arXiv:2206.04172, 2022 _(preprint)_
 
