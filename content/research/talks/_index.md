@@ -25,7 +25,10 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
+* **Ryan Abernathey** - Climate Change AI Webinar Series - *Climate Science and AI in Big Tech* &#128202; &#128187; &#127878; ; December 15th [link](https://www.eventbrite.com/e/climate-science-and-ai-in-big-tech-tickets-473453621527)
 * **Pierre Gentine** - Columbia Center of AI Technology - *Physics to Machine Learning and Machine Learning Back to Physics* &#128187; &#127878; ; December 7th 
+* **Laure Zanna** and Steven Brunton - Nature Reviews Physics + Alan Turing Institute - *Machine learning in fluid dynamics and climate physics* &#128187; &#127878; ; October 5th [Video](https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ)
+* **Laure Zanna** - LEAP Seminar - *Machine Learning for Ocean and Climate Modeling: advances, challenges and outlook* &#128187; &#127878; ; September 22nd [Video](https://www.youtube.com/watch?v=3y00LhyACV4)
 * **Laure Zanna** - Hammers and Nails 2022 - *Ai for Climate Physics* &#128187; &#127878; &#127758; ; August 4th. [Slides](https://www.dropbox.com/s/31n3h2wjm7kcrkz/hammers_nails_plenary_2022.pdf?dl=0)
 * **Laure Zanna** - SIAM conference on Mathematics for Planet Earth - plenary talk &#128187; &#127878; &#127758; ; July 13th. More info at this [website](https://www.siam.org/conferences/cm/conference/mpe22?_ga=2.193046573.1207615065.1657569935-11076920.1657569935)    
 * **Janni Yuval** - 23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics *Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation* &#128187; &#127878; June 16th.
