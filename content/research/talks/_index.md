@@ -11,8 +11,6 @@ Your can find most of our past talks, and much more, on our <a class="button but
 
 ## Upcoming talks
 ---
-**AGU Fall meeting 2022 - Dec 12th-16th** You can find all the talks and posters our members will be giving at the AGU Fall meeting in our most recent [newsletter](https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special).
-You can also download the schedule for the talks by following this [link](https://drive.google.com/file/d/16zgh5TfVuZfuz7CVSh_MuiUmKM0jXPvU/view?usp=share_link).
 
 <br>
 
@@ -25,11 +23,14 @@ Themes of the talks:
 * &#127758; Modeling 
 
 ## *2022* 
-* **Ryan Abernathey** - Climate Change AI Webinar Series - *Climate Science and AI in Big Tech* &#128202; &#128187; &#127878; ; December 15th [link](https://www.eventbrite.com/e/climate-science-and-ai-in-big-tech-tickets-473453621527)
+
+* **Lorenzo Zampieri** - Arctic Model Parameterization Development - *On the design strategy of subgrid parameterizations in modern sea ice models.* &#128187; &#127878; December 22nd;  <a class="button button-inline" href="https://youtu.be/fcMyaTDp2C0?t=2030">Video</a> 
+* **Ryan Abernathey** - Climate Change AI Webinar Series - *Climate Science and AI in Big Tech* &#128202; &#128187; &#127878; ; December 15th <a class="button button-inline" href="https://www.youtube.com/watch?v=hcuahoLpDog">Video</a> 
+**AGU Fall meeting 2022 - Dec 12th-16th** You can find all the talks and posters our members gave at the AGU Fall meeting in our most recent [newsletter](https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special).
 * **Pierre Gentine** - Columbia Center of AI Technology - *Physics to Machine Learning and Machine Learning Back to Physics* &#128187; &#127878; ; December 7th 
-* **Laure Zanna** and Steven Brunton - Nature Reviews Physics + Alan Turing Institute - *Machine learning in fluid dynamics and climate physics* &#128187; &#127878; ; October 5th [Video](https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ)
-* **Laure Zanna** - LEAP Seminar - *Machine Learning for Ocean and Climate Modeling: advances, challenges and outlook* &#128187; &#127878; ; September 22nd [Video](https://www.youtube.com/watch?v=3y00LhyACV4)
-* **Laure Zanna** - Hammers and Nails 2022 - *Ai for Climate Physics* &#128187; &#127878; &#127758; ; August 4th. [Slides](https://www.dropbox.com/s/31n3h2wjm7kcrkz/hammers_nails_plenary_2022.pdf?dl=0)
+* **Laure Zanna** and Steven Brunton - Nature Reviews Physics + Alan Turing Institute - *Machine learning in fluid dynamics and climate physics* &#128187; &#127878; ; October 5th <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Video</a> 
+* **Laure Zanna** - LEAP Seminar - *Machine Learning for Ocean and Climate Modeling: advances, challenges and outlook* &#128187; &#127878; ; September 22nd <a class="button button-inline" href="https://www.youtube.com/watch?v=3y00LhyACV4">Video</a>  
+* **Laure Zanna** - Hammers and Nails 2022 - *Ai for Climate Physics* &#128187; &#127878; &#127758; ; August 4th. <a class="button button-inline" href="https://www.dropbox.com/s/31n3h2wjm7kcrkz/hammers_nails_plenary_2022.pdf?dl=0">Slides</a> 
 * **Laure Zanna** - SIAM conference on Mathematics for Planet Earth - plenary talk &#128187; &#127878; &#127758; ; July 13th. More info at this [website](https://www.siam.org/conferences/cm/conference/mpe22?_ga=2.193046573.1207615065.1657569935-11076920.1657569935)    
 * **Janni Yuval** - 23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics *Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation* &#128187; &#127878; June 16th.
 * **Laure Zanna** - 2022 CESM Workshop - joint plenary talk with Galen McKinley on M²LInES and LEAP. &#128187; &#127878; &#127758; June 13th  <a class="button button-inline" href="https://youtu.be/q_gGIL-Kvgs?list=PLfdKzSc-V-WAYHR8sPfddkCbnwnfuBb1A&t=11550">Video</a>
