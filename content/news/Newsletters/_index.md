@@ -10,6 +10,11 @@ tags:
 
  Links to our past newsletters are below.
 
+### 2023
+
+* 01/03/2023 - [M²LInES newsletter - January 2023](https://mailchi.mp/5b801dd5a61a/m2lines-newsletter-january-2023)
+
+
 ### 2022
 
 * 12/05/2022 - [M²LInES newsletter - December 2022 AGU Special](https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special)
