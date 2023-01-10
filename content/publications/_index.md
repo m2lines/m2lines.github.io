@@ -9,7 +9,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2022
 * Ross AS, Li Z, Perezhogin P, Fernandez-Granda C, Zanna L. **[Benchmarking of machine learning ocean subgrid parameterizations in an idealized model
-](https://doi.org/10.1029/2022MS003258)** JAMES _(accepted)_
+](https://doi.org/10.1029/2022MS003258)** JAMES 
 
 * Chen L, Bruna J. **[On Gradient Descent Convergence beyond the Edge of Stability](https://doi.org/10.48550/arXiv.2206.04172)**. arXiv preprint arXiv:2206.04172, 2022 _(preprint)_
 
@@ -34,6 +34,10 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 * Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
 
 ## Relevant publications by our team
+
+### 2022
+* Bhouri MA, Gentine P. **[History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96](https://doi.org/10.48550/arXiv.2210.14488)** arXiv preprint arXiv:2210.14488 _(preprint)_
+
 
 ### 2021
 * Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://doi.org/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2021.pdf))
