@@ -9,6 +9,8 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2023 
 
+* Perezhogin P, Fernandez-Granda C, Zanna L. **[Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model](https://arxiv.org/pdf/2302.07984.pdf)** Preprint submitted to JAMES. 2023
+* 
 * Ross AS, Li Z, Perezhogin P, Fernandez-Granda C, Zanna L. **[Benchmarking of machine learning ocean subgrid parameterizations in an idealized model
 ](https://doi.org/10.1029/2022MS003258)** JAMES. 2023
 
