@@ -21,7 +21,12 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 * 1 Postdoc/Research Associate in Machine Learning/Scientific Computing for high-dimensional systems. Available immediately. [Apply here](https://apply.interfolio.com/104868)
 
 
-### Future openings:
+### CNRS-IGE 
 
-There will be a position opening later at CNRS-IPSL (on validation and testing of ocean parameterizations in IPSL climate model).
+* 1 research engineer on hybrid physics-based / AI-based ocean modeling. Available immediately. [Apply here](https://emploi.cnrs.fr/Offres/CDD/UMR5001-ALEVIA-008/Default.aspx?lang=EN)
+
+* 1 Postdoctoral researcher on machine learning based eddy closures for ocean models.  Available immediately. [Apply here](https://emploi.cnrs.fr/Offres/CDD/UMR5001-ALEVIA-009/Default.aspx?lang=EN)
+ 
+
+
 
