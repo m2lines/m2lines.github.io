@@ -7,4 +7,4 @@ align: right
 color: white
 ---
 
-Our project will develop interpretable Machine Learning models to deepen our understanding of complex processes in the climate system.
+Our project leads the developement of machine learning models for climate physics, and ultimately of interpretable data-driven models to deepen our understanding of complex multiscale processes in the climate system.
