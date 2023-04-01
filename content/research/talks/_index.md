@@ -25,7 +25,7 @@ Themes of the talks:
 ## *2023* 
 
 * **Laure Zanna** - UN AI for Good - * Transforming Climate Modeling with AI: hype or Reality?* &#128187; &#127878; ; March 29th <a class="button button-inline" href="https://www.youtube.com/watch?v=SRDb7X30DYc">Video</a> 
-* 
+
 
 ## *2022* 
 
