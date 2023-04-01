@@ -22,6 +22,11 @@ Themes of the talks:
 * &#127878; Physics discovery 
 * &#127758; Modeling 
 
+## *2023* 
+
+* **Laure Zanna** - UN AI for Good - * Transforming Climate Modeling with AI: hype or Reality?* &#128187; &#127878; ; March 29th <a class="button button-inline" href="https://www.youtube.com/watch?v=SRDb7X30DYc">Video</a> 
+* 
+
 ## *2022* 
 
 * **Lorenzo Zampieri** - Arctic Model Parameterization Development - *On the design strategy of subgrid parameterizations in modern sea ice models.* &#128187; &#127878; December 22nd;  <a class="button button-inline" href="https://youtu.be/fcMyaTDp2C0?t=2030">Video</a> 
