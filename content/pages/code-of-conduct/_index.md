@@ -36,7 +36,7 @@ _____
 - Take care of your **choice of medium for communicating sensitive matters**.
 
 - English is the official language during meetings, group interactions and communications. 
-- 
+
 - Make a point in learning people’s names and how to pronounce them correctly.  
 
 - Meetings and interactions:
