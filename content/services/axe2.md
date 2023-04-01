@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Developing new physics-aware machine learning tools for accelerating climate science discovery
+##### Developing new physics-aware multiscale machine learning tools for accelerating climate science discovery
