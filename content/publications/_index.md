@@ -24,29 +24,27 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 :blue_book: Liu S, Kaku A, Zhu W, Leibovich M, Mohan S, Yu B, Huang H, Zanna L, Razavian N, Niles-Weed J, Fernandez-Granda C. **[Deep Probability Estimation](https://proceedings.mlr.press/v162/liu22f/liu22f.pdf)**, Proceedings of the 39th International Conference on Machine Learning, PMLR 162:13746-13781, 2022. 
 
-* Loose N, Abernathey R, Grooms I, Busecke J, Guillaumin A, Yankovsky E, Marques G, Steinberg J, Ross AS, Khatri H, Bachman S, Zanna L,
+:notebook: Loose N, Abernathey R, Grooms I, Busecke J, Guillaumin A, Yankovsky E, Marques G, Steinberg J, Ross AS, Khatri H, Bachman S, Zanna L,
  Martin P. **[GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data.](https://doi.org/10.21105/joss.03947)**, Journal of Open Source Software 7(70), p.3947. 2022 
 
 :notebook: Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R. **[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.1029/2022MS003124)** JAMES. 2022
 
-* Zampieri L, Arduini G, Holland M, Keeley S, Mogensen KS, Tietsche S. **[A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses](https://doi.org/10.1002/essoar.10511269.1)** _J Earth and Space Science Open Archive. 2022_ _(preprint)_
+:notebook: Zampieri L, Arduini G, Holland M, Keeley S, Mogensen KS, Tietsche S. **[A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses](https://doi.org/10.1002/essoar.10511269.1)** _J Earth and Space Science Open Archive. 2022_ _(preprint)_
 
-* Chen L, Bruna J. **[On Gradient Descent Convergence beyond the Edge of Stability](https://doi.org/10.48550/arXiv.2206.04172)**. arXiv preprint arXiv:2206.04172, 2022 _(preprint)_
+:page_facing_up: Chen L, Bruna J. **[On Gradient Descent Convergence beyond the Edge of Stability](https://doi.org/10.48550/arXiv.2206.04172)**. arXiv preprint arXiv:2206.04172, 2022 _(preprint)_
+
+:page_facing_up: Bhouri MA, Gentine P. **[History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96](https://doi.org/10.48550/arXiv.2210.14488)** arXiv preprint arXiv:2210.14488 _(preprint)_
 
 ### 2021
-* Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **[Climate-Invariant Machine Learning](https://doi.org/10.48550/arXiv.2112.08440)** arXiv preprint arXiv:2112.08440. 2021 _(preprint)_
+:page_facing_up: Beucler T, Pritchard M, Yuval J, Gupta A, Peng L, Rasp S, Ahmed F, O'Gorman PA, Neelin JD, Lutsko NJ, Gentine P. **[Climate-Invariant Machine Learning](https://doi.org/10.48550/arXiv.2112.08440)** arXiv preprint arXiv:2112.08440. 2021 _(preprint)_
 
-* Wang P, Yuval J, O'Gorman PA. **[Non-local parameterization of atmospheric subgrid processes with neural networks](https://doi.org/10.48550/arXiv.2201.00417)** arXiv preprint arXiv:2201.00417. 2022 _(preprint)_
+:page_facing_up: Wang P, Yuval J, O'Gorman PA. **[Non-local parameterization of atmospheric subgrid processes with neural networks](https://doi.org/10.48550/arXiv.2201.00417)** arXiv preprint arXiv:2201.00417. 2022 _(preprint)_
 
-* Yuval J, O'Gorman PA. **[Neural-network parameterization of subgrid momentum transport in the atmosphere.](https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1)** _J Earth and Space Science Open Archive_  _(preprint)_
+:page_facing_up: Yuval J, O'Gorman PA. **[Neural-network parameterization of subgrid momentum transport in the atmosphere.](https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1)** _J Earth and Space Science Open Archive_  _(preprint)_
 
-* Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
+:notebook: Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
 
 ## Relevant publications by our team
-
-### 2022
-* Bhouri MA, Gentine P. **[History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96](https://doi.org/10.48550/arXiv.2210.14488)** arXiv preprint arXiv:2210.14488 _(preprint)_
-
 
 ### 2021
 * Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://doi.org/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2021.pdf))
