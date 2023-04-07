@@ -9,6 +9,8 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2023 
 
+:blue_book: Otness K, Zanna L, Bruna J. **[Data-driven multiscale modeling of subgrid parameterizations in climate models](https://arxiv.org/pdf/2303.17496)**. Preprint arXiv:2303.17496 submitted to ICLR Workshop on Climate Change AI. 2023**
+
 :page_facing_up: Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. Preprint submitted to EDS. 2023
 
 * Perezhogin P, Fernandez-Granda C, Zanna L. **[Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model](https://arxiv.org/pdf/2302.07984.pdf)**. Preprint submitted to JAMES. 2023
@@ -18,14 +20,14 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2022
 
-* Christensen H, Zanna L. **[Parametrization in Weather and Climate Models](https://doi.org/10.1093/acrefore/9780190228620.013.826)**. Oxford Research Encyclopedia of Climate Science. 2022
+:notebook: Christensen H, Zanna L. **[Parametrization in Weather and Climate Models](https://doi.org/10.1093/acrefore/9780190228620.013.826)**. Oxford Research Encyclopedia of Climate Science. 2022
 
-* Liu S, Kaku A, Zhu W, Leibovich M, Mohan S, Yu B, Huang H, Zanna L, Razavian N, Niles-Weed J, Fernandez-Granda C. **[Deep Probability Estimation](https://proceedings.mlr.press/v162/liu22f/liu22f.pdf)**, Proceedings of the 39th International Conference on Machine Learning, PMLR 162:13746-13781, 2022. 
+:blue_book: Liu S, Kaku A, Zhu W, Leibovich M, Mohan S, Yu B, Huang H, Zanna L, Razavian N, Niles-Weed J, Fernandez-Granda C. **[Deep Probability Estimation](https://proceedings.mlr.press/v162/liu22f/liu22f.pdf)**, Proceedings of the 39th International Conference on Machine Learning, PMLR 162:13746-13781, 2022. 
 
 * Loose N, Abernathey R, Grooms I, Busecke J, Guillaumin A, Yankovsky E, Marques G, Steinberg J, Ross AS, Khatri H, Bachman S, Zanna L,
  Martin P. **[GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data.](https://doi.org/10.21105/joss.03947)**, Journal of Open Source Software 7(70), p.3947. 2022 
 
-* Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R. **[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.1029/2022MS003124)** JAMES. 2022
+:notebook: Frezat H, Le Sommer J, Fablet R, Balarac G, Lguensat R. **[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.1029/2022MS003124)** JAMES. 2022
 
 * Zampieri L, Arduini G, Holland M, Keeley S, Mogensen KS, Tietsche S. **[A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses](https://doi.org/10.1002/essoar.10511269.1)** _J Earth and Space Science Open Archive. 2022_ _(preprint)_
 
