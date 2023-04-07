@@ -5,6 +5,7 @@ title = "M²LInES"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 sectionPagesMenu = "content"
+enableEmoji = true
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -12,7 +13,6 @@ sectionPagesMenu = "content"
 [params]
   google_analytics_id=""
   google_tag_manager_id = "" 
-  enableEmoji = true
 
  [params.homepage]
   show_call_box = true
