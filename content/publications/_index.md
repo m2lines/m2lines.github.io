@@ -9,14 +9,14 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2023 
 
-:blue_book: Otness K, Zanna L, Bruna J. **[Data-driven multiscale modeling of subgrid parameterizations in climate models](https://arxiv.org/pdf/2303.17496)**. Preprint arXiv:2303.17496 submitted to ICLR Workshop on Climate Change AI. 2023**
+:blue_book: Otness K, Zanna L, Bruna J. **[Data-driven multiscale modeling of subgrid parameterizations in climate models](https://arxiv.org/pdf/2303.17496)**. Preprint arXiv:2303.17496 submitted to ICLR Workshop on Climate Change AI. 2023
 
-:page_facing_up: Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. Preprint submitted to EDS. 2023
+:page_facing_up: Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. Preprint arxiv.org:2211.04608 submitted to EDS. 2023
 
-* Perezhogin P, Fernandez-Granda C, Zanna L. **[Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model](https://arxiv.org/pdf/2302.07984.pdf)**. Preprint submitted to JAMES. 2023
+:page_facing_up:  Perezhogin P, Fernandez-Granda C, Zanna L. **[Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model](https://arxiv.org/pdf/2302.07984.pdf)**. Preprint submitted to JAMES. 2023
 
-* Ross AS, Li Z, Perezhogin P, Fernandez-Granda C, Zanna L. **[Benchmarking of machine learning ocean subgrid parameterizations in an idealized model
-](https://doi.org/10.1029/2022MS003258)**. JAMES. 2023
+:notebook: Ross AS, Li Z, Perezhogin P, Fernandez-Granda C, Zanna L. **[Benchmarking of machine learning ocean subgrid parameterizations in an idealized model
+](https://doi.org/10.1029/2022MS003258)**. doi.org/10.1029/2022MS003258 JAMES. 2023
 
 ### 2022
 
