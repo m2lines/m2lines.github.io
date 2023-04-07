@@ -9,9 +9,9 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2023 
 
-:blue_book: Otness K, Zanna L, Bruna J. **[Data-driven multiscale modeling of subgrid parameterizations in climate models](https://arxiv.org/pdf/2303.17496)**. Preprint arXiv:2303.17496 submitted to ICLR Workshop on Climate Change AI. 2023
+:blue_book: Otness K, Zanna L, Bruna J. **[Data-driven multiscale modeling of subgrid parameterizations in climate models](https://arxiv.org/pdf/2303.17496)**. arXiv:2303.17496. Preprint submitted to ICLR Workshop on Climate Change AI. 2023
 
-:page_facing_up: Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. Preprint arxiv.org:2211.04608 submitted to EDS. 2023
+:page_facing_up: Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. arxiv.org:2211.04608. Preprint submitted to EDS. 2023
 
 :page_facing_up:  Perezhogin P, Fernandez-Granda C, Zanna L. **[Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model](https://arxiv.org/pdf/2302.07984.pdf)**. Preprint submitted to JAMES. 2023
 
