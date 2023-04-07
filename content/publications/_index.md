@@ -9,7 +9,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2023 
 
-* Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. Preprint submitted to EDS. 2023
+:page_facing_up: Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. Preprint submitted to EDS. 2023
 
 * Perezhogin P, Fernandez-Granda C, Zanna L. **[Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model](https://arxiv.org/pdf/2302.07984.pdf)**. Preprint submitted to JAMES. 2023
 
