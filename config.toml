@@ -12,6 +12,7 @@ sectionPagesMenu = "content"
 [params]
   google_analytics_id=""
   google_tag_manager_id = "" 
+  enableEmoji = "True"
 
  [params.homepage]
   show_call_box = true
