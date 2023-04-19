@@ -1,16 +1,16 @@
 ---
-title: "Shubham Gupta"
+title: "Shantanu Acharya"
 draft: false
-image: "/images/team/Shubham.jpeg"
+image: "/images/team/Shantanu.jpeg"
 jobtitle: "Affiliate, Graduate Student "
 promoted: true
-weight: 44
+weight: 45
 Website:  
 ---
 
 
-NYU, Tandon School of Engineering
+NYU, Courant Institute
 
-*Computer Vision, representation learning*
+*Deep Learning - Computer Vision and Speech Recognition*
 
 
