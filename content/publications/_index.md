@@ -9,6 +9,8 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ### 2023 
 
+:orange_book: Chemke R, Yuval J. **[Human-induced weakening of the Northern Hemisphere tropical circulation](https://www.nature.com/articles/s41586-023-05903-1)** Nature. 2023
+
 :blue_book: Otness K, Zanna L, Bruna J. **[Data-driven multiscale modeling of subgrid parameterizations in climate models](https://arxiv.org/pdf/2303.17496)**. arXiv:2303.17496. Preprint submitted to ICLR Workshop on Climate Change AI. 2023
 
 :page_facing_up: Falasca F, Brettin A, Zanna L, Griffies SM, Yin J, Zhao M. **[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**. arxiv.org:2211.04608. Preprint submitted to EDS. 2023
@@ -19,6 +21,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ](https://doi.org/10.1029/2022MS003258)**. doi.org/10.1029/2022MS003258 JAMES. 2023
 
 ### 2022
+:page_facing_up: Shamekh S, Lamb K.D, Huang Y, Gentine P. **[Implicit learning of convective organization explains precipitation stochasticity](https://doi.org/10.1002/essoar.10512517.1)** In review. 2022
 
 :orange_book: Christensen H, Zanna L. **[Parametrization in Weather and Climate Models](https://doi.org/10.1093/acrefore/9780190228620.013.826)**. Oxford Research Encyclopedia of Climate Science. 2022
 
