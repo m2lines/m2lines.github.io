@@ -9,8 +9,8 @@ Website:  https://www.griffinmooers.com/
 ---
 
 
-*Incoming*
+*Incoming at MIT*
 
-*aAtm - Machine Learning - Data Analysis*
+*Atm - Machine Learning - Data Analysis*
 
 
