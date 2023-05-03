@@ -7,7 +7,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ## M²LInES research publications
 
-If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Cliamte modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub https://github.com/m2lines/L96_demo. 
+If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub https://github.com/m2lines/L96_demo. 
 
 ### 2023 
 
