@@ -2,9 +2,9 @@
 title: "Julius Busecke"
 draft: false
 image: "/images/team/Julius.jpeg"
-jobtitle: "Senior Staff Associate"
+jobtitle: "Lead of Open Research"
 promoted: true
-weight: 48
+weight: 16
 Website:  https://jbusecke.github.io/
 ---
 
