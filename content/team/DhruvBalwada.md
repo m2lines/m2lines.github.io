@@ -2,7 +2,7 @@
 title: "Dhruv Balwada"
 draft: false
 image: "/images/team/Dhruvbalwada.jpeg"
-jobtitle: "Assistant Research Professor"
+jobtitle: "Lead Scientist"
 promoted: true
 Website:  https://dhruvbalwada.github.io/
 weight: 22
