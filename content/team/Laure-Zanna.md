@@ -5,7 +5,7 @@ draft: false
 image: "images/team/LaureZanna.jpg"
 jobtitle: "Scientific Director & Lead PI"
 promoted: true
-Website: https://laurezanna.github.io
+Website: https://zanna-researchteam.github.io/
 weight: 1
 ---
 
