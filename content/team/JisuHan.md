@@ -11,6 +11,6 @@ Website:
 
 Columbia University 
 
-*Atm/Ocean Large Eddy Simulations, CliMA*
+*Atm/Ocean Large Eddy Simulations*
 
 
