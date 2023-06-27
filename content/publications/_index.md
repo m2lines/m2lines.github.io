@@ -10,6 +10,13 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub https://github.com/m2lines/L96_demo.
 
 ### 2023
+{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
+<br/>
+Aakash Sane, Brandon Reichl, Alistair Adcroft, Laure Zanna **[Parameterizing vertical mixing coefficients in the Ocean 
+Surface Boundary Layer using Neural Networks](https://doi.org/10.48550/arXiv.2306.09045)** ArXiv 2023.
+
+<br/>
+<br/>
 
 {{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
 <br/>
@@ -86,7 +93,7 @@ Ross AS, Li Z, Perezhogin P, Fernandez-Granda C, Zanna L. **[Benchmarking of mac
 
 {{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
 <br/>
-Cheng Zhang and Pavel Perezhogin and Cem Gultekin and Alistair Adcroft and Carlos Fernandez-Granda and Laure Zanna**[Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model](https://arxiv.org/abs/2303.00962)** Preprint submitted to JAMES 2023
+Cheng Zhang and Pavel Perezhogin and Cem Gultekin and Alistair Adcroft and Carlos Fernandez-Granda and Laure Zanna **[Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model](https://arxiv.org/abs/2303.00962)** Preprint submitted to JAMES 2023
 
 <br/>
 <br/>
