@@ -18,12 +18,12 @@ heroBackground: ' '
 
 * Yuval J, O'Gorman PA. **[Neural-network parameterization of subgrid momentum transport in the atmosphere.](https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1)** _J Earth and Space Science Open Archive_  _(preprint)_
 
-* Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
+* Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021.
 
 * Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://doi.org/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2021.pdf))
 
 * Gentine P, Eyring V, Beucler T. **[Deep Learning for the Parametrization of Subgrid Processes in Climate Models](https://doi.org/10.1002/9781119646181.ch21)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein).
-  
+
 * Mooers G, Pritchard M, Beucler T, Ott J, Yacalis G, Baldi P, Gentine P. **[Assessing the Potential of Deep Learning for Emulating Cloud Superparameterization in Climate Models with Real-Geography Boundary Conditions.]( https://doi.org/10.1029/2020MS002385)**
  _Journal of Advances in Modeling Earth Systems_ 2021
 
@@ -43,15 +43,15 @@ heroBackground: ' '
 
 ### 2019
 
-* Bolton T, Zanna L. **[Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization.](https://doi.org/10.1029/2018MS001472)** _J Adv Model Earth Syst_ 2019. 
+* Bolton T, Zanna L. **[Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization.](https://doi.org/10.1029/2018MS001472)** _J Adv Model Earth Syst_ 2019.
 
-* Held IM, Guo H, Adcroft A, Dunne JP, Horowitz LW, Krasting J, et al. **[Structure and Performance of GFDL’s CM4.0 Climate Model.](https://doi.org/10.1029/2019MS001829)** _J Adv Model Earth Syst_ 2019. 
+* Held IM, Guo H, Adcroft A, Dunne JP, Horowitz LW, Krasting J, et al. **[Structure and Performance of GFDL’s CM4.0 Climate Model.](https://doi.org/10.1029/2019MS001829)** _J Adv Model Earth Syst_ 2019.
 
 * Robinson NH, Hamman J, Abernathey R. **[Science needs to rethink how it interacts with big data: Five principles for effective scientific big data systems.](https://doi.org/10.48550/arXiv.1908.03356)** _ArXiv190803356 Cs_ 2019.
 
 * Beucler T, Rasp S, Pritchard M, Gentine P. **[Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling.](https://doi.org/10.48550/arXiv.1906.06622)** _ArXiv190606622 Phys_ 2019.
 
-* Izacard G, Mohan S, Fernandez-Granda C. **[Data-driven Estimation of Sinusoid Frequencies.](https://doi.org/10.48550/arXiv.1906.00823)** _Advances in Neural Information Processing Systems_ 2019. 
+* Izacard G, Mohan S, Fernandez-Granda C. **[Data-driven Estimation of Sinusoid Frequencies.](https://doi.org/10.48550/arXiv.1906.00823)** _Advances in Neural Information Processing Systems_ 2019.
 
 * Mohan S, Kadkhodaie Z, Simoncelli EP, Fernandez-Granda C. **[Robust and interpretable blind image denoising via bias-free convolutional neural networks](https://doi.org/10.48550/arXiv.1906.05478)** 2019.
 
@@ -63,8 +63,8 @@ heroBackground: ' '
 
 * O’Gorman PA, Dwyer JG. **[Using Machine Learning to Parameterize Moist Convection: Potential for Modeling of Climate, Climate Change, and Extreme Events.](https://doi.org/10.1029/2018MS001351)** _J Adv Model Earth Syst_ 2018.
 
-* Gentine P, Pritchard M, Rasp S, Reinaudi G, Yacalis G. **[Could Machine Learning Break the Convection Parameterization Deadlock?](https://doi.org/10.1029/2018GL078202)** _Geophys Res Lett_ 2018. 
+* Gentine P, Pritchard M, Rasp S, Reinaudi G, Yacalis G. **[Could Machine Learning Break the Convection Parameterization Deadlock?](https://doi.org/10.1029/2018GL078202)** _Geophys Res Lett_ 2018.
 
-* Rasp S, Pritchard MS, Gentine P. **[Deep learning to represent subgrid processes in climate models.](https://doi.org/10.1073/pnas.1810286115)** _Proc Natl Acad Sci_ 2018. 
+* Rasp S, Pritchard MS, Gentine P. **[Deep learning to represent subgrid processes in climate models.](https://doi.org/10.1073/pnas.1810286115)** _Proc Natl Acad Sci_ 2018.
 
-* Zanna L, Brankart JM, Huber M, Leroux S, Penduff T, Williams PD. **[Uncertainty and scale interactions in ocean ensembles: From seasonal forecasts to multidecadal climate predictions.](https://doi.org/10.1002/qj.3397)** _Q J R Meteorol Soc_ 2018. 
+* Zanna L, Brankart JM, Huber M, Leroux S, Penduff T, Williams PD. **[Uncertainty and scale interactions in ocean ensembles: From seasonal forecasts to multidecadal climate predictions.](https://doi.org/10.1002/qj.3397)** _Q J R Meteorol Soc_ 2018.

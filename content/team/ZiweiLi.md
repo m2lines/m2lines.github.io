@@ -12,5 +12,3 @@ weight: 21
 NYU, Courant Institute
 
 *Atm - Ocean - Machine Learning*
-
-

@@ -12,5 +12,3 @@ Website:  https://jbusecke.github.io/
 Columbia University
 
 *Ocean - Climate Data - Open Source Software*
-
-

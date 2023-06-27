@@ -7,7 +7,7 @@ I welcome contributions to help improve this theme. Bug reports, feature request
 If you find a bug in this template you can:
 
 * Report it as an issue
-* Feel free to submit a PR fixing the bug 🤩 
+* Feel free to submit a PR fixing the bug 🤩
 
 ## Pull Requests
 

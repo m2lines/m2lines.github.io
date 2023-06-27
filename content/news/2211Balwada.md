@@ -6,7 +6,7 @@ heroSubHeading: 'Direct observational evidence of an oceanic dual kinetic energy
 heroBackground: ''
 thumbnail:  'images/news/2211Balwada-thumb.png'
 images: ['images/news/2211Balwada.png']
-link: 'https://doi.org/10.1126/sciadv.abq2566' 
+link: 'https://doi.org/10.1126/sciadv.abq2566'
 ---
 
 In this [article](https://doi.org/10.1126/sciadv.abq2566), led by **Dhruv Balwada**, ocean drifter observations show wave and turbulence merge and split flows, simultaneously transferring energy to large and small scales.

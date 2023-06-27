@@ -49,4 +49,3 @@ You can then use the Hugo command line tools to do stuff like
 hugo new content/<name of your page>.md # create a new page
 hugo server -D # serve the website on http://localhost:1313/.
 ```
-

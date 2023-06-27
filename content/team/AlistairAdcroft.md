@@ -12,5 +12,3 @@ weight: 3
 Princeton University, Affiliate NOAA-GFDL in Ocean division
 
 *Ocean - Model Development*
-
-

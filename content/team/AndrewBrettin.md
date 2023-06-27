@@ -12,5 +12,3 @@ Website:  https://andrewbrettin.github.io/
 NYU, Courant Institute
 
 *Ocean -  Sea level variability*
-
-

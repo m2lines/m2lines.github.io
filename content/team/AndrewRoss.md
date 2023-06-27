@@ -9,8 +9,6 @@ weight: 18
 ---
 
 
-NYU, Courant Institute 
+NYU, Courant Institute
 
 *ML - Interpretability*
-
-

@@ -12,5 +12,3 @@ weight: 13
 NYU, Courant Institute
 
 *Machine learning, Statistics*
-
-

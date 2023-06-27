@@ -9,5 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Deepening our understanding of key climate processes, such as ocean mixing, clouds, convection, using data 
-
+##### Deepening our understanding of key climate processes, such as ocean mixing, clouds, convection, using data

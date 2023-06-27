@@ -6,8 +6,7 @@ heroSubHeading: 'Non-Linear Dimensionality Reduction with a Variational Encoder 
 heroBackground: ''
 thumbnail:  'images/news/2208-Behrens.png'
 images: ['images/news/2208-Behrens.png']
-link: 'https://doi.org/10.1029/2022MS003130' 
+link: 'https://doi.org/10.1029/2022MS003130'
 ---
 
 Pierre Gentine and Tom Beucler are co-authors in this [article](https://doi.org/10.1029/2022MS003130), which demonstrates that Variational Encoder Decoder structures (VED) are capable of learning and accurately reproducing convective processes in an aquaplanet superparameterized climate model simulation, while enabling interpretability and better understanding of sub-grid-scale physical processes.
-

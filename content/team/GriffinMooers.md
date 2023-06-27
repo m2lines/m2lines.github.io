@@ -12,5 +12,3 @@ Website:  https://www.griffinmooers.com/
 *Incoming at MIT*
 
 *Atm - Machine Learning - Data Analysis*
-
-

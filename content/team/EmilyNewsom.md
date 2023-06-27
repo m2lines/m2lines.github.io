@@ -9,7 +9,7 @@ Website:  https://emilyrosenewsom.github.io/emilyrosenewsom/
 ---
 
 
-NYU, Courant Institute 
+NYU, Courant Institute
 
 
 *Climate Physics and Diagnostics*

@@ -12,5 +12,3 @@ weight: 6
 National Center for Atmospheric Research
 
 *Atm - Data Assimilation - Mesoscale and Microscale Meteorology*
-
-

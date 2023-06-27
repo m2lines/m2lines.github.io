@@ -12,5 +12,3 @@ weight: 22
 Lamont/Columbia University
 
 *Ocean macro-turbulence and tracer transport*
-
-
