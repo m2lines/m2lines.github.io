@@ -58,3 +58,7 @@ tags:
 * 08/02/2021 - [M²LInES newsletter - August 2021](https://mailchi.mp/6c353c6991e5/m2lines-august-newsletter)
 
 * 06/29/2021 - [M²LInES newsletter - June/July 2021](https://mailchi.mp/1fabec1cb5be/m2lines)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6ed7ff57809caf8124e053a747f48b23f5c3f017
