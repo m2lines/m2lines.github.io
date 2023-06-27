@@ -9,8 +9,6 @@ Website: https://aakashsane.gitlab.io/
 ---
 
 
-Princeton University, Affiliate NOAA-GFDL in Ocean Division  
+Princeton University, Affiliate NOAA-GFDL in Ocean Division
 
 *Ocean Surface Boundary Layer, Machine Learning*
-
-

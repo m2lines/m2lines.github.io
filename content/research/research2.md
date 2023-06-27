@@ -10,9 +10,9 @@ weight: 2
 ---
 
 
-Learning from the high resolution data, as well as from model errors (Data Assimilation Increments), we will develop Machine Learning algorithms that are physics- and scale-aware to accelerate climate science discovery . 
+Learning from the high resolution data, as well as from model errors (Data Assimilation Increments), we will develop Machine Learning algorithms that are physics- and scale-aware to accelerate climate science discovery .
 
-Our transformative methodology will rely on a range of ML algorithms (e.g., convolutional neural networks, equation-discovery), including with strict physical constraints, or with embeded physics for improved interpretability, and generalizations. 
+Our transformative methodology will rely on a range of ML algorithms (e.g., convolutional neural networks, equation-discovery), including with strict physical constraints, or with embeded physics for improved interpretability, and generalizations.
 
 Those ML models will be used to deepen our understanding of subgrid processes, and will be implemented as subgrid parameterizations or as bias corrections, in coarser resolution ocean (NEMO and MOM6) and coupled climate models (IPSLCM, CM4, CESM).
 

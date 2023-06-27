@@ -7,13 +7,13 @@
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 {{ if .Content }}
 
-<div class="container pt-6 pt-md-10">
+<div class="container pt-6 pt-md-5">
   <div class="row">
     {{ partial "subscribe.html" }}
      </div>
 </div>
 
-<div class="container pt-6 pt-md-10">
+<div class="container pt-3 pt-md-10">
   <div class="row">
     <div class="col-12">
       <div class="page-intro">
@@ -24,14 +24,22 @@
 </div>
 {{ end }}
 
-<div class="container pb-6 pt-6 pb-md-10 pt-md-10">
-  <div class="row">
-    {{ range .Pages.ByWeight }}
-    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
-    {{ end }}
+<style>
+
+  .summary-content {
+    height: 100%;
+    overflow: hidden;
+  }
+  </style>
+
+  <div class="container pb-3 pt-3 pb-md-5 pt-md-5">
+    <div class="row">
+      {{ range .Pages.ByWeight }}
+      <div class="col-12 col-md-6 mb-2">
+        {{ .Render "summary" }}
+      </div>
+      {{ end }}
+    </div>
   </div>
-</div>
 
-
-
-{{ end }}
+  {{ end }}

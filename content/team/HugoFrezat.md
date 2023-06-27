@@ -5,12 +5,10 @@ image: "/images/team/Hugo.png"
 jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 32
-Website:  
+Website:
 ---
 
 
 L’Institut des Géosciences de l’Environnement (IGE)
 
 *Ocean -  ML - Turbulence paramezizations*
-
-

@@ -1,7 +1,7 @@
 <div class="work work-summary">
   {{ if .Params.thumbnail }}
-  <div class="work-image">
-    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+  <div class="work-image item mx-auto">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}" class=""/></a>
   </div>
   {{ end }}
   <div class="work-content">
@@ -10,3 +10,21 @@
     </h2>
   </div>
 </div>
+
+<style>
+  .fixed-height-image {
+    scale: 0.85; /* Adjust the height value */
+  }
+  .work-title {
+    margin: 0;
+    padding: 0;
+}
+  .work-image {
+    margin: 0;
+    padding: 0;
+  }
+  .work-content {
+    margin: 0;
+    padding: 0;
+}
+  </style>

@@ -12,7 +12,7 @@ enableEmoji = true
 
 [params]
   google_analytics_id=""
-  google_tag_manager_id = "" 
+  google_tag_manager_id = ""
 
  [params.homepage]
   show_call_box = true
@@ -40,7 +40,7 @@ enableEmoji = true
 	url = "/about/"
     weight = 1
 
-    
+
 [[menu.main]]
     name = "Jobs"
     url = "/jobs/"
@@ -63,14 +63,14 @@ enableEmoji = true
     url = "/research/"
     parent = "research"
     weight = 1
-    
+
 [[menu.main]]
 	identifier = "talks"
     name = "Talks"
     url = "/research/Talks/"
     parent = "research"
     weight = 2
-    
+
 [[menu.main]]
     name = "Code"
     url = "/Code/"
@@ -85,21 +85,21 @@ enableEmoji = true
     name = "News"
     identifier = "news"
     weight = 7
-    
+
 [[menu.main]]
 	identifier = "Our news"
     name = "Our news"
     url = "/news/"
     parent = "news"
     weight = 1
-    
+
 [[menu.main]]
 	identifier = "Newsletters"
     name = "Newsletters"
     url = "/news/Newsletters/"
     parent = "news"
     weight = 2
-        
+
 #[[menu.main]]
 #    name = "Blog"
 #    url = "/blog/"

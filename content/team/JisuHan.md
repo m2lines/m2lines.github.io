@@ -5,12 +5,10 @@ image: "/images/team/Jisu.jpg"
 jobtitle: "Affiliate, GS"
 promoted: true
 weight: 51
-Website: 
+Website:
 ---
 
 
-Columbia University 
+Columbia University
 
 *Atm/Ocean Large Eddy Simulations*
-
-

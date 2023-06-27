@@ -14,7 +14,7 @@ tags:
 
 * 06/13/2023 - [M²LInES newsletter - June 2023](https://mailchi.mp/3e13c2d1b09e/m2lines-june2023-newsletter)
 
-* 05/11/2023 - [M²LInES newsletter - May 2023](https://mailchi.mp/89ec798d18b2/m2lines-may2023-newsletter) 
+* 05/11/2023 - [M²LInES newsletter - May 2023](https://mailchi.mp/89ec798d18b2/m2lines-may2023-newsletter)
 
 * 01/03/2023 - [M²LInES newsletter - January 2023](https://mailchi.mp/5b801dd5a61a/m2lines-newsletter-january-2023)
 
@@ -45,7 +45,7 @@ tags:
 
 * 01/01/2022 - [M²LInES newsletter - January 2022](https://mailchi.mp/a57b46b053b0/m2lines-january-2022)
 
-### 2021 
+### 2021
 
 * 12/01/2021 - [M²LInES newsletter - December 2021 AGU special](https://mailchi.mp/29ddfae980e7/m2lines-december-newsletter)
 
@@ -57,5 +57,8 @@ tags:
 
 * 08/02/2021 - [M²LInES newsletter - August 2021](https://mailchi.mp/6c353c6991e5/m2lines-august-newsletter)
 
-* 06/29/2021 - [M²LInES newsletter - June/July 2021](https://mailchi.mp/1fabec1cb5be/m2lines) 
- 
+* 06/29/2021 - [M²LInES newsletter - June/July 2021](https://mailchi.mp/1fabec1cb5be/m2lines)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6ed7ff57809caf8124e053a747f48b23f5c3f017

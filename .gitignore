@@ -1,2 +1,4 @@
 public/*
 *.sw[a-z]
+.hugo_build.lock
+resources/_gen/*

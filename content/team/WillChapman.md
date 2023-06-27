@@ -12,5 +12,3 @@ Website: https://willychap.github.io/
 National Center for Atmospheric Research
 
 *Atm - Data Assimilation - ML*
-
-

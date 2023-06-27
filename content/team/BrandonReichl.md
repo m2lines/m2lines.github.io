@@ -12,5 +12,3 @@ weight: 6
 NOAA-GFDL in Ocean division
 
 *Ocean - Geophysical Fluid Dynamics*
-
-

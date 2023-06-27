@@ -12,4 +12,3 @@ weight: 6
 Columbia University
 
 *Atm Processes*
-

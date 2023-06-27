@@ -12,5 +12,3 @@ weight: 6
 National Center for Atmospheric Research
 
 *Sea-Ice parameterizations*
-
-

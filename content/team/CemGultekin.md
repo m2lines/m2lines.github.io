@@ -5,12 +5,10 @@ image: "/images/team/CemGultekin.jpeg"
 jobtitle: "Graduate Student"
 promoted: true
 weight: 20
-Website: 
+Website:
 ---
 
 
-NYU, Courant Institute 
+NYU, Courant Institute
 
 *ML - Interpretability and Deep Learning*
-
-
