@@ -1,8 +1,8 @@
 ---
 title: 'Publications Archive'
-heroHeading: ''
-heroSubHeading: ''
-heroBackground: ''
+heroHeading: ' '
+heroSubHeading: ' '
+heroBackground: ' '
 ---
 
 <!-- ## M²LInES research publications archive -->
@@ -18,7 +18,7 @@ heroBackground: ''
 
 * Yuval J, O'Gorman PA. **[Neural-network parameterization of subgrid momentum transport in the atmosphere.](https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1)** _J Earth and Space Science Open Archive_  _(preprint)_
 
-* :orange_book: Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
+* Guillaumin A, Zanna L. **[Stochastic Deep Learning parameterization of Ocean Momentum Forcing.](https://doi.org/10.1029/2021MS002534)** _Journal of Advances in Modeling Earth Systems_ 2021. 
 
 * Zanna L, Bolton T. **[Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models.](https://doi.org/10.1002/9781119646181.ch20)** In _Deep learning for the Earth Sciences_ 2021 (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein). (author [link](https://laurezanna.github.io/files/Zanna-Bolton-2021.pdf))
 
