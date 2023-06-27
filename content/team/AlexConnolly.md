@@ -8,8 +8,6 @@ weight: 16
 Website:  http://efmh.berkeley.edu/alexconnolly/
 ---
 
-Columbia University  
+Columbia University
 
 *Atmospheric Boundary Layer and Machine Learning*
-
-

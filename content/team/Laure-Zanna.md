@@ -13,5 +13,3 @@ weight: 1
 NYU, Courant Institute + Center for Data Science
 
 *Ocean - Climate - Machine Learning*
-
-

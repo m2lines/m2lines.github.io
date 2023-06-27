@@ -5,12 +5,10 @@ image: "/images/team/LeoLiu.jpeg"
 jobtitle: "Affiliate, Undergraduate Student "
 promoted: true
 weight: 45
-Website:  
+Website:
 ---
 
 
 NYU, Courant Institute
 
 *Data engineering*
-
-

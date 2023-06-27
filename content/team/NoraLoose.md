@@ -12,5 +12,3 @@ Website:  https://noraloose.github.io/
 Princeton University
 
 *Ocean - Eddy parameterizations, Modeling, ML*
-
-

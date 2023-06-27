@@ -9,8 +9,6 @@ weight: 2
 ---
 
 
-NYU, Courant Institute 
+NYU, Courant Institute
 
 *Project Management, Oceanography, Sciences Communication*
-
-

@@ -11,5 +11,3 @@ weight: 20
 Princeton University
 
 *Ocean - Predictability, and Machine Learning*
-
-

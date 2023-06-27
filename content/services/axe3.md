@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Improving coupled climate models from leading modeling centers (NCAR, GFDL, and IPSL). 
+##### Improving coupled climate models from leading modeling centers (NCAR, GFDL, and IPSL).

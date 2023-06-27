@@ -9,9 +9,7 @@ Website:  https://chris-pedersen.github.io/
 ---
 
 
-NYU, Courant Institute 
+NYU, Courant Institute
 
 
 *Deep Learning - Simulations*
-
-

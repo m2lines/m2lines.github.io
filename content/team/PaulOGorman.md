@@ -12,5 +12,3 @@ weight: 7
 MIT
 
 *Atm - Convection*
-
-

@@ -5,12 +5,10 @@ image: "/images/team/Adrien.jpg"
 jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 33
-Website:  
+Website:
 ---
 
 
 Columbia University
 
 *Atm -  ML*
-
-

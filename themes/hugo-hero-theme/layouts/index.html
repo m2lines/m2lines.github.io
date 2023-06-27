@@ -30,7 +30,7 @@
     <div class="row justify-content-center">
       <div class="col-12 col-md-8 text-center">
         <h2>About us</h2>
-        <p>Learn more about our project.  
+        <p>Learn more about our project.
 </p>
         <a class="button" href="{{ .Site.BaseURL }}about">More about us</a>
       </div>
@@ -40,7 +40,7 @@
 
 
 
-		
+
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
 
@@ -69,7 +69,7 @@
     <div class="row justify-content-center">
       <div class="col-12 col-md-8 text-center">
         <h2>Our Team</h2>
-        <p>Our international team of dedicated researchers has expertise in Climate Science, Machine Learning and Numerical Modeling. 
+        <p>Our international team of dedicated researchers has expertise in Climate Science, Machine Learning and Numerical Modeling.
 </p>
         <a class="button" href="{{ .Site.BaseURL }}team">Meet the team</a>
       </div>
