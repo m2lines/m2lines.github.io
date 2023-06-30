@@ -12,7 +12,7 @@ If you are interested in understanding how M²LInES is using machine learning to
 ### 2023
 {{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
 <br/>
-Aakash Sane, Brandon Reichl, Alistair Adcroft, Laure Zanna **[Parameterizing vertical mixing coefficients in the Ocean 
+Aakash Sane, Brandon Reichl, Alistair Adcroft, Laure Zanna **[Parameterizing vertical mixing coefficients in the Ocean
 Surface Boundary Layer using Neural Networks](https://doi.org/10.48550/arXiv.2306.09045)** ArXiv 2023.
 
 <br/>
