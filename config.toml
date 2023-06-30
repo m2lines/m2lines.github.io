@@ -47,8 +47,23 @@ enableEmoji = true
     weight = 2
 
 [[menu.main]]
+    identifier = "team"
     name = "Team"
     url = "/team/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "current"
+    name = "Current members"
+    url = "/team/"
+    parent = "team"
+    weight = 3
+
+[[menu.main]]
+    identifier = "former"
+    name = "Former members"
+    url = "/team/former"
+    parent = "team"
     weight = 3
 
 
@@ -77,9 +92,22 @@ enableEmoji = true
     weight = 5
 
 [[menu.main]]
+    identifier = "publications"
     name = "Publications"
     url = "/publications/"
     weight = 6
+
+[[menu.main]]
+    name = "Latest"
+    url = "/publications/"
+    parent = "publications"
+    weight = 1
+
+[[menu.main]]
+    name = "Archive"
+    url = "/publications/archive"
+    parent = "publications"
+    weight = 2
 
 [[menu.main]]
     name = "News"
