@@ -144,7 +144,7 @@ J*AMES. 2023.* **DOI**: 10.1029/2022MS003258
 <br/>
 
 {{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Subel, Adam, Guan, Yifei, Chattopadhyay, Ashesh, Hassanzadeh, Pedram**
+**Adam Subel, Yifei Guan, Ashesh Chattopadhyay, Pedram Hassanzadeh**
 
 **[Explaining the physics of transfer learning in data-driven turbulence modeling](https://academic.oup.com/pnasnexus/article/2/3/pgad015/6998042)**
 
