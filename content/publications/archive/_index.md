@@ -1,8 +1,8 @@
 ---
 title: 'Publications Archive'
-heroHeading: ' '
-heroSubHeading: ' '
-heroBackground: ' '
+heroHeading: 'Publications Archive'
+heroSubHeading: ''
+heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ---
 
 <!-- ## M²LInES research publications archive -->

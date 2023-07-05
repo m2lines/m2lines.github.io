@@ -11,6 +11,7 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 ### 2023
 {{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
+
 **Aakash Sane, Brandon G. Reichl, Alistair Adcroft, Laure Zanna**
 
 **[Parameterizing vertical mixing coefficients in the Ocean
