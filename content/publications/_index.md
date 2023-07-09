@@ -10,230 +10,299 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub https://github.com/m2lines/L96_demo.
 
 ### 2023
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
 
-**Aakash Sane, Brandon G. Reichl, Alistair Adcroft, Laure Zanna**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Aakash Sane, Brandon G. Reichl, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://arxiv.org/abs/2304.03832"><strong>Parameterizing vertical mixing coefficients in the Ocean
+    Surface Boundary Layer using Neural Networks</strong></a><br>
+    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.09045
+  </p>
+</div>
 
-**[Parameterizing vertical mixing coefficients in the Ocean
-Surface Boundary Layer using Neural Networks](https://doi.org/10.48550/arXiv.2306.09045)**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Sungduk Yu, Walter M. Hannah, Liran Peng, Mohamed Aziz Bhouri, Ritwik Gupta, Jerry Lin, <br>
+    Björn Lütjens, Justus C. Will, Tom Beucler, Bryce E. Harrop, Benjamin R. Hillman, <br>
+    Andrea M. Jenney, Savannah L. Ferretti, Nana Liu, Anima Anandkumar, Noah D. Brenowitz, <br>
+    Veronika Eyring, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Carl Vondrick, Rose Yu, <br>
+    Laure Zanna, Ryan P. Abernathey, Fiaz Ahmed, David C. Bader, Pierre Baldi, Elizabeth A. Barnes,<br>
+    Gunnar Behrens, Christopher S. Bretherton, Julius J. M. Busecke, Peter M. Caldwell,<br>
+    Wayne Chuang, Yilun Han, Yu Huang, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath,<br>
+    Marat Khairoutdinov, Thorsten Kurth, Nicholas J. Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin,<br>
+    David A. Randall, Janni Yuval, Guang J. Zhang, Tian Zheng, Michael S. Pritchard <br>
+    </strong>
+    <a href="https://doi.org/10.48550/arXiv.2306.08754"><strong>ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid <br> multi-scale climate simulators</strong></a><br>
+    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.08754
+  </p>
+</div>
 
-*ArXiv 2023.* **DOI**: 10.48550/arXiv.2306.09045
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Karan Jakhar, Yifei Guan, Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.22541/essoar.168677212.21341231/v1"><strong>Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges.</strong></a><br>
+    <i>ESS Open Archive. 2023.</i> <strong>DOI</strong>: 10.22541/essoar.168677212.21341231/v1
+  </p>
+</div>
 
-<br/>
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Gustau Camps-Valls, Andreas Gerhardus, Urmi Ninad, Gherardo Varando, Georg Martius, <br>
+     Emili Balaguer-Ballester, Ricardo Vinuesa, Emiliano Diaz, Laure Zanna, Jakob Runge</strong><br>
+    <a href="https://arxiv.org/abs/2305.13341"><strong>Discovering Causal Relations and Equations from Data.</strong></a><br>
+    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2305.13341
+  </p>
+</div>
 
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Sungduk Yu, Walter M. Hannah, Liran Peng, Mohamed Aziz Bhouri, Ritwik Gupta, Jerry Lin, Björn Lütjens, Justus C. Will, Tom Beucler, Bryce E. Harrop, Benjamin R. Hillman, Andrea M. Jenney, Savannah L. Ferretti, Nana Liu, Anima Anandkumar, Noah D. Brenowitz, Veronika Eyring, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Carl Vondrick, Rose Yu, Laure Zanna, Ryan P. Abernathey, Fiaz Ahmed, David C. Bader, Pierre Baldi, Elizabeth A. Barnes, Gunnar Behrens, Christopher S. Bretherton, Julius J. M. Busecke, Peter M. Caldwell, Wayne Chuang, Yilun Han, Yu Huang, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas J. Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David A. Randall, Sara Shamekh, Akshay Subramaniam, Mark A. Taylor, Nathan M. Urban, Janni Yuval, Guang J. Zhang, Tian Zheng, Michael S. Pritchard**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Rei Chemke and Janni Yuval</strong><br>
+    <a href="https://www.nature.com/articles/s41586-023-05903-1"><strong>Human-induced weakening of the Northern Hemisphere tropical circulation</strong></a><br>
+    <i>Nature. 2023.</i> <strong>DOI</strong>: 10.1038/s41586-023-05903-1
+  </p>
+</div>
 
-**[ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators](https://doi.org/10.48550/arXiv.2306.08754)**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/Gregory_et_al.2023.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>William Gregory, Mitchell Bushuk, Alistair Adcroft, Yongfei Zhang, Laure Zanna</strong><br>
+<a href="https://arxiv.org/abs/2304.03832"><strong>Deep learning of systematic sea ice model errors from data assimilation increments</strong></a><br>
+<i>Preprint submitted to JAMES 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2304.03832
 
-*ArXiv 2023.* **DOI**: 10.48550/arXiv.2306.08754
+  </p>
+</div>
 
-<br>
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Janni Yuval and Paul A. O’Gorman</strong><br>
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003606"><strong>Neural-Network Parameterization of Subgrid Momentum Transport in the Atmosphere</strong></a><br>
+    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003606
+  </p>
+</div>
 
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Karan Jakhar, Yifei Guan, Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh, Laure Zanna**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Karl Otness, Laure Zanna, Joan Bruna</strong><br>
+    <a href="https://www.climatechange.ai/papers/iclr2023/60"><strong>Data-driven multiscale modeling of subgrid parameterizations in climate models</strong></a><br>
+    <i>arXiv:2303.17496. Preprint submitted to ICLR Workshop on Climate Change AI. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2303.17496
+  </p>
+</div>
 
-**[Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges.](https://doi.org/10.22541/essoar.168677212.21341231/v1)**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Fabrizio Falasca, Andrew Brettin, Laure Zanna, Stephen M. Griffies, Jianjun Yin, Ming Zhao</strong><br>
+    <a href="https://arxiv.org/abs/2211.04608"><strong>Exploring the non-stationarity of coastal sea level probability distributions</strong></a><br>
+    <i>arxiv.org:2211.04608. Preprint submitted to EDS. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2211.04608
+  </p>
+</div>
 
-*ESS Open Archive. 2023.* **DOI**: 10.22541/essoar.168677212.21341231/v1
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/Perezhogin_eddy.gif" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Pavel Perezhogin1, Laure Zanna, Carlos Fernandez-Granda</strong><br>
+    <a href="https://arxiv.org/abs/2302.07984"><strong>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</strong></a><br>
+    <i>Preprint submitted to JAMES. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2302.07984
+  </p>
+</div>
 
-<br/>
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/2208-Ross.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Andrew Ross, Ziwei Li, Pavel Perezhogin, Carlos Fernandez-Granda, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2022MS003258"><strong>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</strong></a><br>
+    <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2022MS003258
+  </p>
+</div>
 
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Gustau Camps-Valls, Andreas Gerhardus, Urmi Ninad, Gherardo Varando, Georg Martius, Emili Balaguer-Ballester, Ricardo Vinuesa, Emiliano Diaz, Laure Zanna, Jakob Runge**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/0523-Chengetal.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna</strong><br>
+    <a href="https://arxiv.org/abs/2303.00962)"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a <br> Numerical Ocean Circulation Model</strong></a><br>
+    <i>Preprint submitted to JAMES 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2303.00962
+  </p>
+</div>
 
-**[Discovering Causal Relations and Equations from Data](https://arxiv.org/abs/2305.13341)**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Qiyu Xiao, Dhruv Balwada, C. Spencer Jones, Mario Herrero-Gonzalez, K. Shafer Smith, Ryan Abernathey</strong><br>
+    <a href="https://essopenarchive.org/users/595672/articles/629531-reconstruction-of-surface-kinematics-from-sea-surface-height-using-neural-networks)"><strong>Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks</strong></a><br>
+    <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2022MS003258
+  </p>
+</div>
 
-*ArXiv 2023.* **DOI**: 10.48550/arXiv.2305.13341
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/Uchida2023.jpg" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Takaya Uchida, Dhruv Balwada, Quentin Jamet, William K. Dewar, Bruno Deremble, <br>
+     Thierry Penduff, Julien Le Sommer</strong><br>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1463500323000136?via%3Dihub)"><strong>Reconstruction of Cautionary tales from the mesoscale eddy transport tensor</strong></a><br>
+    <i>ScienceDirect 2023.</i> <strong>DOI</strong>: 10.1016/j.ocemod.2023.102172
+  </p>
+</div>
 
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Rei Chemke and Janni Yuval**
-
-**[Human-induced weakening of the Northern Hemisphere tropical circulation](https://www.nature.com/articles/s41586-023-05903-1)**
-
-*Nature. 2023.* **DOI**: 10.1038/s41586-023-05903-1
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-
-**William Gregory, Mitchell Bushuk, Alistair Adcroft, Yongfei Zhang, Laure Zanna**
-
-**[Deep learning of systematic sea ice model errors from data assimilation increments](https://arxiv.org/abs/2304.03832)**
-
-*Preprint submitted to JAMES 2023.* **DOI**: 10.48550/arXiv.2304.03832
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Janni Yuval and Paul A. O’Gorman**
-
-**[Neural-Network Parameterization of Subgrid Momentum Transport in the Atmosphere](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023MS003606)**
-
-*JAMES 2023.* **DOI**: 10.1029/2023MS003606
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Karl Otness, Laure Zanna, Joan Bruna**
-
-**[Data-driven multiscale modeling of subgrid parameterizations in climate models](https://www.climatechange.ai/papers/iclr2023/60)**.
-
-*arXiv:2303.17496. Preprint submitted to ICLR Workshop on Climate Change AI. 2023.* **DOI**: 10.48550/arXiv.2303.17496
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-
-**Fabrizio Falasca, Andrew Brettin, Laure Zanna, Stephen M. Griffies, Jianjun Yin, Ming Zhao**
-
-**[Exploring the non-stationarity of coastal sea level probability distributions](https://arxiv.org/abs/2211.04608)**.
-
-*arxiv.org:2211.04608. Preprint submitted to EDS. 2023.* **DOI**: 10.48550/arXiv.2211.04608
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Pavel Perezhogin1, Laure Zanna, Carlos Fernandez-Granda**
-
-**[Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model](https://arxiv.org/abs/2302.07984)**.
-
-*Preprint submitted to JAMES. 2023.* **DOI**: 10.48550/arXiv.2302.07984
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-
-**Andrew Ross, Ziwei Li, Pavel Perezhogin, Carlos Fernandez-Granda, Laure Zanna**
-
-**[Benchmarking of machine learning ocean subgrid parameterizations in an idealized model
-](https://doi.org/10.1029/2022MS003258)**
-
-*JAMES. 2023.* **DOI**: 10.1029/2022MS003258
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna**
-
-**[Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model](https://arxiv.org/abs/2303.00962)**
-
-*Preprint submitted to JAMES 2023.* **DOI**: 10.48550/arXiv.2303.00962
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Qiyu Xiao, Dhruv Balwada, C. Spencer Jones, Mario Herrero-Gonzalez, K. Shafer Smith, Ryan Abernathey**
-
-**[Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks
-](https://essopenarchive.org/users/595672/articles/629531-reconstruction-of-surface-kinematics-from-sea-surface-height-using-neural-networks)**.
-
-J*AMES. 2023.* **DOI**: 10.1029/2022MS003258
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-
-**Takaya Uchida, Dhruv Balwada, Quentin Jamet, William K. Dewar, Bruno Deremble, Thierry Penduff, Julien Le Sommer**
-
-**[Cautionary tales from the mesoscale eddy transport tensor](https://www.sciencedirect.com/science/article/abs/pii/S1463500323000136?via%3Dihub)**
-
-*ScienceDirect 2023.* **DOI**: 10.1016/j.ocemod.2023.102172
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Adam Subel, Yifei Guan, Ashesh Chattopadhyay, Pedram Hassanzadeh**
-
-**[Explaining the physics of transfer learning in data-driven turbulence modeling](https://academic.oup.com/pnasnexus/article/2/3/pgad015/6998042)**
-
-*PNAS NEXUS 2023.* **DOI**: 10.1093/pnasnexus/pgad015
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/2207-Subel.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Adam Subel, Yifei Guan, Ashesh Chattopadhyay, Pedram Hassanzadeh</strong><br>
+    <a href="https://academic.oup.com/pnasnexus/article/2/3/pgad015/6998042)"><strong>Explaining the physics of transfer learning in data-driven turbulence modeling</strong></a><br>
+    <i>PNAS NEXUS 2023.</i> <strong>DOI</strong>: 10.1093/pnasnexus/pgad015
+  </p>
+</div>
 
 <br/>
 
 ### 2022
 
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Peidong Wang, Janni Yuval, Paul A. O'Gorman**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/2204-Bruna.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Joan Bruna, Benjamin Peherstorfer, Eric Vanden-Eijnden</strong><br>
+    <a href="https://arxiv.org/abs/2203.01360)"><strong>Neural Galerkin Scheme with Active Learning for High-Dimensional Evolution Equations</strong></a><br>
+    <i>ArXiv 2022.</i> <strong>DOI</strong>: 10.48550/arXiv.2203.01360
+  </p>
+</div>
 
-**[Non-local parameterization of atmospheric subgrid processes with neural networks](https://arxiv.org/abs/2201.00417)**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Peidong Wang, Janni Yuval, Paul A. O'Gorman</strong><br>
+    <a href="https://arxiv.org/abs/2201.00417)"><strong>Non-local parameterization of atmospheric subgrid processes with neural networks</strong></a><br>
+    <i>Preprint submitted to JAMES 2022.</i> <strong>DOI</strong>: 10.1029/2022MS002984
+  </p>
+</div>
 
-*Preprint submitted to JAMES 2022.* **DOI**: 10.1029/2022MS002984
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/2211Shamekh.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Sara Shamekh, Kara D Lamb, Yu Huang, Pierre Gentine</strong><br>
+    <a href="https://doi.org/10.1002/essoar.10512517.1"><strong>Implicit learning of convective organization explains precipitation stochasticity</strong></a><br>
+    <i>In review. 2022.</i> <strong>DOI</strong>: 10.1002/essoar.10512517.1
+  </p>
+</div>
 
-<br/>
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Hannah Christensen and Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1093/acrefore/9780190228620.013.826"><strong>Parametrization in Weather and Climate Models</strong></a><br>
+    <i>Oxford Research Encyclopedia of Climate Science. 2022.</i> <strong>DOI</strong>: 10.1093/acrefore/9780190228620.013.826
+  </p>
+</div>
 
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Sara Shamekh, Kara D Lamb, Yu Huang, Pierre Gentine**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Sheng Liu, Aakash Kaku, Haoxiang Huang, Laure Zanna, Weicheng Zhu, Narges Razavian, <br>
+    Matan Leibovich, Sreyas Mohan, Boyang Yu, Jonathan Niles-Weed, Carlos Fernandez-Granda</strong><br>
+    <a href="https://proceedings.mlr.press/v162/liu22f/liu22f.pdf"><strong>Deep Probability Estimation</strong></a><br>
+    <i>Proceedings of the 39th International Conference on Machine Learning, PMLR 162:13746-13781, 2022.</i> <br> <strong>DOI</strong>: 10.48550/arXiv.2111.10734
+  </p>
+</div>
 
-**[Implicit learning of convective organization explains precipitation stochasticity](https://doi.org/10.1002/essoar.10512517.1)**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/GCMfilters.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arthur Guillaumin,  <br>
+     Elizabeth Yankovsky, Gustavo Marques, Jacob Steinberg, Andrew Slavin Ross, Hemant Khatri, <br>
+     Scott Bachman, Laure Zanna, Paige Martin</strong><br>
+    <a href="https://doi.org/10.21105/joss.03947"><strong>Deep Probability Estimation</strong></a><br>
+    <i>Journal of Open Source Software 7(70), p.3947. 2022.</i> <strong>DOI</strong>: 10.21105/joss.03947
+  </p>
+</div>
 
-*In review. 2022.* **DOI**: 10.1002/essoar.10512517.1
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Hugo Frezat, Julien Le Sommer, Ronan Fablet, Guillaume Balarac, Redouane Lguensat</strong><br>
+    <a href="https://doi.org/10.1029/2022MS003124"><strong>A posteriori learning for quasi-geostrophic turbulence parametrization</strong></a><br>
+    <i>JAMES. 2022.</i> <strong>DOI</strong>: 10.1029/2022MS003124
+  </p>
+</div>
 
-<br/>
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/news/0623-Zampieri.jpg" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Lorenzo Zampieri, Gabriele Arduini, Marika Holland, Sarah Keeley, Kristian S. Mogensen, <br>
+     Matthew D. Shupe, Steffen Tietsche</strong><br>
+    <a href="https://doi.org/10.1002/essoar.10511269.1"><strong>A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses</strong></a><br>
+    <i>J Earth and Space Science Open Archive. 2022 (preprint)</i> <strong>DOI</strong>: 10.1002/essoar.10511269.1
+  </p>
+</div>
 
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Hannah Christensen and Laure Zanna**
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Lei Chen and Joan Bruna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2206.04172"><strong>On Gradient Descent Convergence beyond the Edge of Stability</strong></a><br>
+    <i>ArXiv 2022</i> <strong>DOI</strong>: 10.48550/arXiv.2206.04172
+  </p>
+</div>
 
-**[Parametrization in Weather and Climate Models](https://doi.org/10.1093/acrefore/9780190228620.013.826)**.
-
-*Oxford Research Encyclopedia of Climate Science. 2022.* **DOI**: 10.1093/acrefore/9780190228620.013.826
-
-<br/>
-
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Sheng Liu, Aakash Kaku, Haoxiang Huang, Laure Zanna, Weicheng Zhu, Narges Razavian, Matan Leibovich, Sreyas Mohan, Boyang Yu, Jonathan Niles-Weed, Carlos Fernandez-Granda**
-
-**[Deep Probability Estimation](https://proceedings.mlr.press/v162/liu22f/liu22f.pdf)**,
-
-*Proceedings of the 39th International Conference on Machine Learning, PMLR 162:13746-13781, 2022.* **DOI**: 10.48550/arXiv.2111.10734
-
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arthur Guillaumin, Elizabeth Yankovsky, Gustavo Marques, Jacob Steinberg, Andrew Slavin Ross, Hemant Khatri, Scott Bachman, Laure Zanna, and Paige Martin**
-
-**[GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data.](https://doi.org/10.21105/joss.03947)**,
-
-*Journal of Open Source Software 7(70), p.3947. 2022.* **DOI**: 10.21105/joss.03947
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Hugo Frezat, Julien Le Sommer, Ronan Fablet, Guillaume Balarac, Redouane Lguensat**
-
-**[A posteriori learning for quasi-geostrophic turbulence parametrization](https://doi.org/10.1029/2022MS003124)**
-
-*JAMES. 2022.* **DOI**: 10.1029/2022MS003124
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-
-**Lorenzo Zampieri, Gabriele Arduini, Marika Holland, Sarah Keeley, Kristian S. Mogensen, Matthew D. Shupe, Steffen Tietsche**
-
-**[A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses](https://doi.org/10.1002/essoar.10511269.1)**
-
-*_J Earth and Space Science Open Archive. 2022_ _(preprint)_* **DOI**: 10.1002/essoar.10511269.1
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-**Lei Chen and Joan Bruna**
-
-**[On Gradient Descent Convergence beyond the Edge of Stability](https://doi.org/10.48550/arXiv.2206.04172)**.
-
-*ArXiv 2022* **DOI**: 10.48550/arXiv.2206.04172
-
-<br/>
-
-{{< figure src="/images/newlogo.png" width="100px" height="50px" class="float-left" style="padding: 0 10px 0 0;;">}}
-
-**Mohamed Aziz Bhouri and Pierre Gentine**
-
-**[History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96](https://doi.org/10.48550/arXiv.2210.14488)**
-
-*ArXiv 2022.* **DOI**: 10.48550/arXiv.2210.14488
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  </div>
+  <p>
+    <strong>Lei Chen and Joan Bruna</strong><br>
+    <a href="Mohamed Aziz Bhouri and Pierre Gentine"><strong>History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96</strong></a><br>
+    <i>ArXiv 2022.</i> <strong>DOI</strong>: 10.48550/arXiv.2210.14488
+  </p>
+</div>
