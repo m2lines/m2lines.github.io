@@ -22,7 +22,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
     <div onclick="window.open('https://www.youtube.com/watch?v=SRDb7X30DYc');">
+      <a href="#" class="fill-div">
       <img src="https://img.youtube.com/vi/SRDb7X30DYc/0.jpg" alt="Video Preview">
+      </a>
     </div>
   </div>
   <p>
@@ -35,7 +37,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -48,7 +52,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.imsi.institute/videos/neural-network-parameterization-of-subgrid-momentum-transport-learned-from-a-high-resolution-simulation/');">
+        <a href="#" class="fill-div">
         <img src="/images/talks/JY_f.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -61,7 +67,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=U7RY218Vp0E');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/U7RY218Vp0E/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -82,7 +90,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=fcMyaTDp2C0');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/fcMyaTDp2C0/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -95,7 +105,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=hcuahoLpDog');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/hcuahoLpDog/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -109,7 +121,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="">
+        <a href="#" class="fill-div">
         <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -122,7 +136,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
     <div onclick="window.open('https://www.youtube.com/watch?v=beO9Zcpa570');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/beO9Zcpa570/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -135,7 +151,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=3y00LhyACV4');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/3y00LhyACV4/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -148,7 +166,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="">
+        <a href="#" class="fill-div">
         <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -161,7 +181,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="">
+        <a href="#" class="fill-div">
         <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -175,7 +197,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=q_gGIL-Kvgs&list=PLfdKzSc-V-WAYHR8sPfddkCbnwnfuBb1A&t=11550s');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/q_gGIL-Kvgs/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -188,7 +212,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=qRSXSkjvFcE');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/qRSXSkjvFcE/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -201,7 +227,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="">
+        <a href="#" class="fill-div">
         <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -214,7 +242,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
       <div onclick="window.open('https://iclr.cc/virtual/2022/workshop/4550');">
+        <a href="#" class="fill-div">
         <img src="/images/talks/AR_22.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -227,7 +257,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=ydiCxUliaG0');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/ydiCxUliaG0/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -240,7 +272,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=M3ypY9vPRpQ');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/M3ypY9vPRpQ/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -253,7 +287,9 @@ Themes of the talks:
  <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="">
+        <a href="#" class="fill-div">
         <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -266,7 +302,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=3SYWCtuzrKk');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/3SYWCtuzrKk/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -279,7 +317,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=gTOzmE7_-mU');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/gTOzmE7_-mU/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -292,7 +332,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=pCdiWFwICr0');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/pCdiWFwICr0/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -305,7 +347,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=fIIAqrFOUSM');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/fIIAqrFOUSM/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -318,7 +362,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=OKZl9IjWSHA');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/OKZl9IjWSHA/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -331,7 +377,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://vimeo.com/670782104');">
+        <a href="#" class="fill-div">
         <img src="/images/talks/RA_22.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -344,7 +392,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -357,7 +407,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="">
+        <a href="#" class="fill-div">
         <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
@@ -370,7 +422,9 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=JB7LpUJlxc0');">
+        <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/JB7LpUJlxc0/1.jpg" alt="Video Preview">
+        </a>
       </div>
   </div>
   <p>
