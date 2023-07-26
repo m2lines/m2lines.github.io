@@ -82,7 +82,7 @@ enableEmoji = true
 [[menu.main]]
 	identifier = "talks"
     name = "Talks"
-    url = "/research/Talks/"
+    url = "/research/talks/"
     parent = "research"
     weight = 2
 
