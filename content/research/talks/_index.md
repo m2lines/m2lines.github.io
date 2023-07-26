@@ -114,7 +114,7 @@ Themes of the talks:
     <strong>Ryan Abernathey</strong><br>
     <em>Climate Science and AI in Big Tech</em><br>
     Climate Change AI Webinar Series - December 15th  &#128202; &#128187; <br>
-    <em>NOTE</em>: You can find all the talks and posters our members gave at the AGU Fall meeting in our most recent <a href="https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special">newsletter</a>.
+    <em>NOTE</em>: You can find all the talks and posters our members gave at the AGU Fall meeting in our December 2022 <a href="https://mailchi.mp/169d6f0c61f9/m2lines-december-newsletter-agu-special">newsletter</a>.
   </p>
 </div>
 
