@@ -47,8 +47,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.imsi.institute/videos/neural-network-parameterization-of-subgrid-momentum-transport-learned-from-a-high-resolution-simulation/');">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -58,12 +58,10 @@ Themes of the talks:
   </p>
 </div>
 
-* **Janni Yuval** - 23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics *Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation* &#128187; &#127878; June 2022.
-
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=U7RY218Vp0E');">
+        <img src="https://img.youtube.com/vi/U7RY218Vp0E/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -85,8 +83,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=fcMyaTDp2C0');">
+        <img src="https://img.youtube.com/vi/fcMyaTDp2C0/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -98,8 +96,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=hcuahoLpDog');">
+        <img src="https://img.youtube.com/vi/hcuahoLpDog/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -112,8 +110,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -125,7 +123,9 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <iframe width="200" height="100" src="https://www.youtube.com/embed/SRDb7X30DYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div onclick="window.open('https://www.youtube.com/watch?v=beO9Zcpa570');">
+        <img src="https://img.youtube.com/vi/beO9Zcpa570/0.jpg" alt="Video Preview">
+      </div>
   </div>
   <p>
     <strong>Laure Zanna</strong> and Steven Brunton<br>
@@ -136,8 +136,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=3y00LhyACV4');">
+        <img src="https://img.youtube.com/vi/3y00LhyACV4/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -149,21 +149,21 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
     <strong>Laure Zanna</strong><br>
-    <em>Ai for Climate Physics</em><br>
+    <em>AI for Climate Physics</em><br>
     Hammers and Nails - August 4th &#128187; &#127878; &#127758;
   </p>
 </div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -176,8 +176,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=q_gGIL-Kvgs&list=PLfdKzSc-V-WAYHR8sPfddkCbnwnfuBb1A&t=11550s');">
+        <img src="https://img.youtube.com/vi/q_gGIL-Kvgs/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -189,8 +189,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=qRSXSkjvFcE');">
+        <img src="https://img.youtube.com/vi/qRSXSkjvFcE/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -202,8 +202,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -215,8 +215,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://iclr.cc/virtual/2022/workshop/4550');">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -228,8 +228,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=ydiCxUliaG0');">
+        <img src="https://img.youtube.com/vi/ydiCxUliaG0/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -241,8 +241,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=M3ypY9vPRpQ');">
+        <img src="https://img.youtube.com/vi/M3ypY9vPRpQ/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -254,8 +254,8 @@ Themes of the talks:
 
  <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -267,8 +267,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=3SYWCtuzrKk');">
+        <img src="https://img.youtube.com/vi/3SYWCtuzrKk/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -280,8 +280,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=gTOzmE7_-mU');">
+        <img src="https://img.youtube.com/vi/gTOzmE7_-mU/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -293,8 +293,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=pCdiWFwICr0');">
+        <img src="https://img.youtube.com/vi/pCdiWFwICr0/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -306,8 +306,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=fIIAqrFOUSM');">
+        <img src="https://img.youtube.com/vi/fIIAqrFOUSM/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -319,8 +319,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=OKZl9IjWSHA');">
+        <img src="https://img.youtube.com/vi/OKZl9IjWSHA/0.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -332,8 +332,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://vimeo.com/670782104');">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -358,8 +358,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="">
+        <img src="/images/newlogo.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -371,8 +371,8 @@ Themes of the talks:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+      <div onclick="window.open('https://www.youtube.com/watch?v=JB7LpUJlxc0');">
+        <img src="https://img.youtube.com/vi/JB7LpUJlxc0/1.jpg" alt="Video Preview">
       </div>
   </div>
   <p>
