@@ -16,8 +16,8 @@ Themes of the talks:
 * &#127878; Physics discovery
 * &#127758; Modeling
 
-## Featured talks
----
+<h1 style="font-family: Helvetica, serif; text-align: center;">Featured talks</h1>
+<hr style="width: 100%; margin-top: 20px; border-color: #333;">
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
@@ -71,13 +71,11 @@ Themes of the talks:
   </p>
 </div>
 
-## Upcoming talks
----
+<!-- <h1 style="font-family: Helvetica, serif; text-align: center;">Upcoming talks</h1>
+<hr style="width: 100%; margin-top: 20px; border-color: #333;"> -->
 
-<br>
-
-## Recent talks
----
+<h1 style="font-family: Helvetica, serif; text-align: center;">Recent talks</h1>
+<hr style="width: 100%; margin-top: 20px; border-color: #333;">
 
 ## *2022*
 
