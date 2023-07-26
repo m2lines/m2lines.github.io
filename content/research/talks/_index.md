@@ -48,7 +48,7 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.imsi.institute/videos/neural-network-parameterization-of-subgrid-momentum-transport-learned-from-a-high-resolution-simulation/');">
-        <img src="/images/newlogo.png" alt="Video Preview">
+        <img src="/images/talks/JY_f.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -216,7 +216,7 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;margin-right: 10px;">
       <div onclick="window.open('https://iclr.cc/virtual/2022/workshop/4550');">
-        <img src="/images/newlogo.png" alt="Video Preview">
+        <img src="/images/talks/AR_22.png" alt="Video Preview">
       </div>
   </div>
   <p>
@@ -333,7 +333,7 @@ Themes of the talks:
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://vimeo.com/670782104');">
-        <img src="/images/newlogo.png" alt="Video Preview">
+        <img src="/images/talks/RA_22.png" alt="Video Preview">
       </div>
   </div>
   <p>
