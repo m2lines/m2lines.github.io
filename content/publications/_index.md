@@ -220,7 +220,7 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+    <img src="/images/publications/pwcm_22.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Hannah Christensen and Laure Zanna</strong><br>
