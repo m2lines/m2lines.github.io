@@ -12,8 +12,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 ### 2023
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/pvmc_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Aakash Sane, Brandon G. Reichl, Alistair Adcroft, Laure Zanna</strong><br>
@@ -24,19 +24,11 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/climsim_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
-    <strong>Sungduk Yu, Walter M. Hannah, Liran Peng, Mohamed Aziz Bhouri, Ritwik Gupta, Jerry Lin, <br>
-    Björn Lütjens, Justus C. Will, Tom Beucler, Bryce E. Harrop, Benjamin R. Hillman, <br>
-    Andrea M. Jenney, Savannah L. Ferretti, Nana Liu, Anima Anandkumar, Noah D. Brenowitz, <br>
-    Veronika Eyring, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Carl Vondrick, Rose Yu, <br>
-    Laure Zanna, Ryan P. Abernathey, Fiaz Ahmed, David C. Bader, Pierre Baldi, Elizabeth A. Barnes,<br>
-    Gunnar Behrens, Christopher S. Bretherton, Julius J. M. Busecke, Peter M. Caldwell,<br>
-    Wayne Chuang, Yilun Han, Yu Huang, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath,<br>
-    Marat Khairoutdinov, Thorsten Kurth, Nicholas J. Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin,<br>
-    David A. Randall, Janni Yuval, Guang J. Zhang, Tian Zheng, Michael S. Pritchard <br>
+    <strong>Sungduk Yu, ..., Michael S. Pritchard <br>
     </strong>
     <a href="https://doi.org/10.48550/arXiv.2306.08754"><strong>ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid <br> multi-scale climate simulators</strong></a><br>
     <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.08754
@@ -44,8 +36,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/lces_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Karan Jakhar, Yifei Guan, Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh, Laure Zanna</strong><br>
@@ -55,8 +47,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/dcre_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Gustau Camps-Valls, Andreas Gerhardus, Urmi Ninad, Gherardo Varando, Georg Martius, <br>
@@ -67,8 +59,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/hwnh_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Rei Chemke and Janni Yuval</strong><br>
@@ -78,8 +70,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/Gregory_et_al.2023.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/Gregory_et_al.2023.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>William Gregory, Mitchell Bushuk, Alistair Adcroft, Yongfei Zhang, Laure Zanna</strong><br>
@@ -90,8 +82,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/nnps_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Janni Yuval and Paul A. O’Gorman</strong><br>
@@ -101,8 +93,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/dmms_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Karl Otness, Laure Zanna, Joan Bruna</strong><br>
@@ -112,8 +104,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/encs_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Fabrizio Falasca, Andrew Brettin, Laure Zanna, Stephen M. Griffies, Jianjun Yin, Ming Zhao</strong><br>
@@ -123,8 +115,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/Perezhogin_eddy.gif" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/Perezhogin_eddy.gif" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Pavel Perezhogin1, Laure Zanna, Carlos Fernandez-Granda</strong><br>
@@ -134,8 +126,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/2208-Ross.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2208-Ross.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Andrew Ross, Ziwei Li, Pavel Perezhogin, Carlos Fernandez-Granda, Laure Zanna</strong><br>
@@ -145,8 +137,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/0523-Chengetal.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/0523-Chengetal.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna</strong><br>
@@ -156,8 +148,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/rsks_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Qiyu Xiao, Dhruv Balwada, C. Spencer Jones, Mario Herrero-Gonzalez, K. Shafer Smith, Ryan Abernathey</strong><br>
@@ -167,8 +159,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/Uchida2023.jpg" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/Uchida2023.jpg" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Takaya Uchida, Dhruv Balwada, Quentin Jamet, William K. Dewar, Bruno Deremble, <br>
@@ -179,8 +171,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/2207-Subel.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2207-Subel.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Adam Subel, Yifei Guan, Ashesh Chattopadhyay, Pedram Hassanzadeh</strong><br>
@@ -194,8 +186,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 ### 2022
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/2204-Bruna.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2204-Bruna.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Joan Bruna, Benjamin Peherstorfer, Eric Vanden-Eijnden</strong><br>
@@ -205,19 +197,19 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/npas_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Peidong Wang, Janni Yuval, Paul A. O'Gorman</strong><br>
-    <a href="https://arxiv.org/abs/2201.00417)"><strong>Non-local parameterization of atmospheric subgrid processes with neural networks</strong></a><br>
+    <a href="https://arxiv.org/abs/2201.00417"><strong>Non-local parameterization of atmospheric subgrid processes with neural networks</strong></a><br>
     <i>Preprint submitted to JAMES 2022.</i> <strong>DOI</strong>: 10.1029/2022MS002984
   </p>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/2211Shamekh.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2211Shamekh.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Sara Shamekh, Kara D Lamb, Yu Huang, Pierre Gentine</strong><br>
@@ -227,8 +219,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/pwcm_22.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Hannah Christensen and Laure Zanna</strong><br>
@@ -238,8 +230,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/dpe_22.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Sheng Liu, Aakash Kaku, Haoxiang Huang, Laure Zanna, Weicheng Zhu, Narges Razavian, <br>
@@ -250,8 +242,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/GCMfilters.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/GCMfilters.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arthur Guillaumin,  <br>
@@ -263,8 +255,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/aplq_22.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Hugo Frezat, Julien Le Sommer, Ronan Fablet, Guillaume Balarac, Redouane Lguensat</strong><br>
@@ -274,8 +266,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/news/0623-Zampieri.jpg" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/0623-Zampieri.jpg" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Lorenzo Zampieri, Gabriele Arduini, Marika Holland, Sarah Keeley, Kristian S. Mogensen, <br>
@@ -286,8 +278,8 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/ogdc_22.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <strong>Lei Chen and Joan Bruna</strong><br>
@@ -297,12 +289,12 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100%; height: 100%; object-fit: cover; clip-path: circle(50% at 50% 50%);">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/hbcs_22.png" style="width: 100px; height: 100px;">
   </div>
   <p>
-    <strong>Lei Chen and Joan Bruna</strong><br>
-    <a href="Mohamed Aziz Bhouri and Pierre Gentine"><strong>History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96</strong></a><br>
+    <strong>Mohamed Aziz Bhouri and Pierre Gentine</strong><br>
+    <a href="https://arxiv.org/abs/2210.14488"><strong>History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96</strong></a><br>
     <i>ArXiv 2022.</i> <strong>DOI</strong>: 10.48550/arXiv.2210.14488
   </p>
 </div>
