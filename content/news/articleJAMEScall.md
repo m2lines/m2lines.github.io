@@ -4,7 +4,7 @@ title: ' Article in Eos by Yuval et al. - Call for Papers on Machine Learning an
 heroHeading: 'Article in Eos by Yuval et al.'
 heroSubHeading: 'Call for Papers on Machine Learning and Earth System Modeling'
 heroBackground: ''
-thumbnail:  'images/news/Yuval-article-thumb.jpeg'
+thumbnail:  'images/news/Yuval-article.jpeg'
 images: ['images/news/Yuval-article.jpeg']
 link: 'https://eos.org/editors-vox/call-for-papers-on-machine-learning-and-earth-system-modeling'
 ---

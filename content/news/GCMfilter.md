@@ -4,7 +4,7 @@ title: ' GCM-Filters publication'
 heroHeading: ''
 heroSubHeading: 'GCM-Filters publication '
 heroBackground: ''
-thumbnail:  'images/news/GCM-filter-thumb.png'
+thumbnail:  'images/news/GCMfilters.png'
 images: ['images/news/GCMfilters.png']
 link: 'https://https://joss.theoj.org/papers/10.21105/joss.03947'
 ---

@@ -24,18 +24,10 @@
 </div>
 {{ end }}
 
-<style>
-
-  .summary-content {
-    height: 100%;
-    overflow: hidden;
-  }
-  </style>
-
   <div class="container pb-3 pt-3 pb-md-5 pt-md-5">
     <div class="row">
       {{ range .Pages.ByWeight }}
-      <div class="col-12 col-md-6 mb-2">
+      <div class="col-12 col-md-6 mb-1">
         {{ .Render "summary" }}
       </div>
       {{ end }}

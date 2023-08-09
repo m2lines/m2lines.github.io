@@ -4,7 +4,7 @@ title: ' 2022 CESM workshop: Info and submission deadline'
 heroHeading: ''
 heroSubHeading: '2022 CESM workshop'
 heroBackground: ''
-thumbnail:  'images/news/CESM-thumbnail.jpg'
+thumbnail:  'images/news/cesm-workshop-2021.jpeg'
 images: ['images/news/cesm-workshop-2021.jpeg']
 link: 'https://www.cesm.ucar.edu/events/workshops/2022/'
 ---

@@ -4,7 +4,7 @@ title: ' Will Gregory - Network connectivity article'
 heroHeading: ''
 heroSubHeading: 'Will Gregory - Network connectivity between the winter Arctic Oscillation and summer sea ice in CMIP6 models and observations '
 heroBackground: ''
-thumbnail:  'images/news/Gregory2022-thumb.png'
+thumbnail:  'images/news/Gregory2022.png'
 images: ['images/news/Gregory2022.png']
 link: 'https://doi.org/10.5194/tc-16-1653-2022'
 ---

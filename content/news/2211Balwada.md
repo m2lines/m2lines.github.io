@@ -4,7 +4,7 @@ title: ' Direct observational evidence of an oceanic dual kinetic energy cascade
 heroHeading: ''
 heroSubHeading: 'Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality'
 heroBackground: ''
-thumbnail:  'images/news/2211Balwada-thumb.png'
+thumbnail:  'images/news/2211Balwada.png'
 images: ['images/news/2211Balwada.png']
 link: 'https://doi.org/10.1126/sciadv.abq2566'
 ---

@@ -4,7 +4,7 @@ title: ' Call for Papers for JAMES'
 heroHeading: ''
 heroSubHeading: 'Call for Papers: Machine learning application to Earth system modeling'
 heroBackground: ''
-thumbnail:  'images/news/JAMEScall-thumb.jpg'
+thumbnail:  'images/news/JAMEScall.jpeg'
 images: ['images/news/JAMEScall.jpeg']
 link: 'https://agupubs.onlinelibrary.wiley.com/hub/journal/19422466/features/call-for-papers'
 ---

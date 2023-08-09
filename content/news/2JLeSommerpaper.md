@@ -4,7 +4,7 @@ title: ' Modelisation using neural network - paper by PI Le Sommer'
 heroHeading: ''
 heroSubHeading: 'New M²LInES-related paper on subgrid-scale modelisation using neural network '
 heroBackground: ''
-thumbnail:  'images/news/Julien-fig3-thumb.png'
+thumbnail:  'images/news/Julien-fig3.png'
 images: ['images/news/Julien-fig3.png']
 link: 'https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.024607'
 ---

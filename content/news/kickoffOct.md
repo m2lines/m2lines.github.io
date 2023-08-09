@@ -4,7 +4,7 @@ title: ' M²LInES Kickoff meeting'
 heroHeading: 'M²LInES Kickoff meeting'
 heroSubHeading: ''
 heroBackground: ''
-thumbnail:  'images/news/merged_screenshot_thumb.png'
+thumbnail:  'images/news/merged_screenshot.png'
 images: ['images/news/merged_screenshot.png']
 link: ''
 ---

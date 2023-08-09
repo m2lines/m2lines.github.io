@@ -5,7 +5,7 @@ heroHeading: ''
 heroSubHeading: 'Movie about M²LInES and featured on AGU TV!'
 heroBackground: ''
 thumbnail:  'images/news/m2linesmovie.png'
-images:
+images: ['images/news/m2linesmovie.png']
 link: 'https://www.youtube.com/watch?v=weKj7J86sr4'
 ---
 

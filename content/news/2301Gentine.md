@@ -1,6 +1,6 @@
 ---
-date: 2021-04-23T09:29:16+10:00
-title: 'Using deep learning to emulate cloud superparameterization - new paper by PI Gentine'
+date: 2023-01-03T09:29:16+10:00
+title: 'Emulating Cloud Superparameterization by Pierre Gentine'
 heroHeading: ''
 heroSubHeading: 'Using deep learning to emulate cloud superparameterization - New M²LInES-related paper'
 heroBackground: ''

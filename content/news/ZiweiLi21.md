@@ -4,7 +4,7 @@ title: 'Tropical precipitation clusters as islands on a rough water-vapor topogr
 heroHeading: ''
 heroSubHeading: 'Tropical precipitation clusters as islands on a rough water-vapor topography'
 heroBackground: ''
-thumbnail:  'images/news/ZiweiLi21-thumb.png'
+thumbnail:  'images/news/ZiweiLi21.png'
 images: ['images/news/ZiweiLi21.png']
 link: 'https://arxiv.org/abs/2108.04457'
 ---

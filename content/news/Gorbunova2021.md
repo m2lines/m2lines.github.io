@@ -4,7 +4,7 @@ title: ' Anastasiia Gorbunova - Eulerian spatiotemporal correlations in passive 
 heroHeading: ''
 heroSubHeading: 'Anastasiia Gorbunova - Eulerian spatiotemporal correlations in passive scalar turbulence '
 heroBackground: ''
-thumbnail:  'images/news/Gorbunova-thumb.png'
+thumbnail:  'images/news/Gorbunova.png'
 images: ['images/news/Gorbunova.png']
 link: 'https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.124606'
 ---

@@ -4,7 +4,7 @@ title: ' Deep Learning for Subgrid-Scale Turbulence Modeling in LES of the Conve
 heroHeading: ''
 heroSubHeading: 'Deep Learning for Subgrid-Scale Turbulence Modeling in Large-Eddy Simulations of the Convective Atmospheric Boundary Layer'
 heroBackground: ''
-thumbnail:  'images/news/Gentine22-thumb.png'
+thumbnail:  'images/news/Gentine22.png'
 images: ['images/news/Gentine22.png']
 link: ' https://doi.org/10.1029/2021MS002847'
 ---

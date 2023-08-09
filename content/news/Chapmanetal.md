@@ -4,7 +4,7 @@ title: ' Probabilistic Predictions from Deterministic Atmospheric River Forecast
 heroHeading: 'Probabilistic Predictions from Deterministic Atmospheric River Forecasts with Deep Learning'
 heroSubHeading: ''
 heroBackground: ''
-thumbnail:  'images/news/Chapmanetal_thumb.png'
+thumbnail:  'images/news/Chapmanetal.png'
 images: ['images/news/Chapmanetal.png']
 link: 'https://doi.org/10.1175/MWR-D-21-0106.1'
 ---

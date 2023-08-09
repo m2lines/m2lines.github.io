@@ -3,7 +3,7 @@ date: 2021-07-27T09:29:16+10:00
 title: "Estimating Ocean Surface Currents With Machine Learning - Ryan Abernathey"
 heroHeading: ''
 heroSubHeading: "Estimating Ocean Surface Currents With Machine Learning - Ryan Abernathey"
-thumbnail:  'images/news/Abernathey-article-thumb.jpg'
+thumbnail:  'images/news/Abernathey-article.png'
 images: ['images/news/Abernathey-article.png']
 link: 'https://doi.org/10.3389/fmars.2021.672477'
 ---

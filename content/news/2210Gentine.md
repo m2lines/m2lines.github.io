@@ -4,7 +4,7 @@ title: ' Comparing Storm Resolving Models and Climates via Unsupervised Machine 
 heroHeading: ''
 heroSubHeading: 'Comparing Storm Resolving Models and Climates via Unsupervised Machine Learning'
 heroBackground: ''
-thumbnail:  'images/news/2210Gentine-thumb.png'
+thumbnail:  'images/news/2210Gentine.png'
 images: ['images/news/2210Gentine.png']
 link: 'https://arxiv.org/pdf/2208.11843.pdf'
 ---

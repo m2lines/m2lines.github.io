@@ -4,7 +4,7 @@ title: "Neural network parametrization of a subgrid process - by Janni Yuval and
 heroHeading: ''
 heroSubHeading: "Neural network parametrization of a subgrid process - by Janni Yuval and Paul O'Gorman"
 heroBackground: ''
-thumbnail:  'images/news/yuval-fig1-thumb.jpg'
+thumbnail:  'images/news/yuval-fig1.png'
 images: ['images/news/yuval-fig1.png']
 link: 'https://www.essoar.org/doi/abs/10.1002/essoar.10507557.1'
 ---
