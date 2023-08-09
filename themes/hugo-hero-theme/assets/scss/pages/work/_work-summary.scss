@@ -2,6 +2,7 @@
   display: flex;
   align-items: flex-start;
   flex-direction: column;
+  border-bottom: 2px solid $primary;
   .work-image {
     max-height: 400px;
     overflow: hidden;
@@ -13,7 +14,7 @@
   .work-content {
     flex: 1;
     padding: 20px;
-    border-bottom: 2px solid $primary;
+    // border-bottom: 2px solid $primary;
     .work-title {
       font-family: $font-family-heading;
       font-size: 1.5rem;
