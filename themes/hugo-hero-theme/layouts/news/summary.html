@@ -1,7 +1,11 @@
-<div class="work work-summary">
+<div class="work work-summary responsive-widget">
   {{ if .Params.thumbnail }}
-  <div class="work-image item mx-auto">
-    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}" class=""/></a>
+  <div class="work-image item responsive-image">
+    <a href="{{ .RelPermalink }}">
+      <div class="image-container">
+        <img src="{{ .Params.thumbnail | relURL }}" class=""/>
+      </div>
+    </a>
   </div>
   {{ end }}
   <div class="work-content">
@@ -12,19 +16,19 @@
 </div>
 
 <style>
-  .fixed-height-image {
-    scale: 0.85; /* Adjust the height value */
+  .responsive-image {
+    width: auto;
+    max-width: 100%; /* Set the image to take up all available width */
+    max-height: calc(40vh - 100px);
+    padding-top: calc(17vh - 100px);
   }
-  .work-title {
-    margin: 0;
-    padding: 0;
-}
-  .work-image {
-    margin: 0;
-    padding: 0;
+  .responsive-widget {
+    height: 20vw; /* Fixed height relative to the screen */
+    display: flex;
+    align-items: center; /* Center vertically */
+    overflow: hidden; /* Hide any overflow content */
   }
-  .work-content {
-    margin: 0;
-    padding: 0;
-}
-  </style>
+  .image-container {
+    margin: 0 auto; /* Center horizontally */
+  }
+</style>
