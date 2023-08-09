@@ -4,7 +4,7 @@ title: ' On Gradient Descent Convergence beyond the Edge of Stability'
 heroHeading: ''
 heroSubHeading: 'On Gradient Descent Convergence beyond the Edge of Stability'
 heroBackground: ''
-thumbnail:  'images/news/2211Bruna-thumb.png'
+thumbnail:  'images/news/2211Bruna.png'
 images: ['images/news/2211Bruna.png']
 link: 'https://arxiv.org/abs/2206.04172'
 ---

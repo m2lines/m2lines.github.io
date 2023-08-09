@@ -4,7 +4,7 @@ title: ' Ocean currents break up a tabular iceberg'
 heroHeading: ''
 heroSubHeading: 'Ocean currents break up a tabular iceberg'
 heroBackground: ''
-thumbnail:  'images/news/2211Adcroft-thumb.jpg'
+thumbnail:  'images/news/2211Adcroft.jpg'
 images: ['images/news/2211Adcroft.jpg']
 link: 'https://doi.org/10.1126/sciadv.abq6974'
 ---

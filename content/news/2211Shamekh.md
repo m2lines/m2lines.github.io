@@ -4,7 +4,7 @@ title: ' Implicit learning of convective organization explains precipitation sto
 heroHeading: ''
 heroSubHeading: 'Implicit learning of convective organization explains precipitation stochasticity'
 heroBackground: ''
-thumbnail:  'images/news/2211Shamekh-thumb.png'
+thumbnail:  'images/news/2211Shamekh.png'
 images: ['images/news/2211Shamekh.png']
 link: 'https://doi.org/10.1002/essoar.10512517.1'
 ---

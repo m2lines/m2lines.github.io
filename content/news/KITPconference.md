@@ -4,7 +4,7 @@ title: ' KITP conference: Machine Learning for Climate'
 heroHeading: ''
 heroSubHeading: 'KITP conference: Machine Learning for Climate'
 heroBackground: ''
-thumbnail:  'images/news/climate-c21-logo-thumb.jpg'
+thumbnail:  'images/news/climate-c21-logo.jpg'
 images: ['images/news/climate-c21-logo.jpg']
 link: 'https://www.kitp.ucsb.edu/activities/climate-c21'
 ---

@@ -4,7 +4,7 @@ title: ' Neural Network emulating physical constraints - paper by PI Gentine'
 heroHeading: ''
 heroSubHeading: 'Constraints for Neural Network emulating physical constraints - paper by PI Gentine'
 heroBackground: ''
-thumbnail:  'images/news/Pierrepaper2-fig3-thumb.png'
+thumbnail:  'images/news/Pierrepaper2-fig3.png'
 images: ['images/news/Pierrepaper2-fig3.png']
 link: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098302'
 ---

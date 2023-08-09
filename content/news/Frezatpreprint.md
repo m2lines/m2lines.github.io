@@ -4,7 +4,7 @@ title: 'Hugo Frezat - A posteriori learning of quasi-geostrophic turbulence para
 heroHeading: ''
 heroSubHeading: 'A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps'
 heroBackground: ''
-thumbnail:  'images/news/Frezatpreprint.png'
+thumbnail:  'images/news/Frezat-al-2021b_summary_small.png'
 images: ['images/news/Frezat-al-2021b_summary_small.png']
 link: 'https://hal.archives-ouvertes.fr/hal-03456259/document'
 ---

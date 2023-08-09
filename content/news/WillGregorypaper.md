@@ -4,7 +4,7 @@ title: ' A Bayesian approach towards sea ice freeboard estimates - paper by Will
 heroHeading: ''
 heroSubHeading: 'A Bayesian approach towards sea ice freeboard estimates - paper by Will Gregory'
 heroBackground: ''
-thumbnail:  'images/news/WillGregory-figure-thumb.png'
+thumbnail:  'images/news/WillGregory-figure1.png'
 images: ['images/news/WillGregory-figure1.png']
 link: 'https://tc.copernicus.org/articles/15/2857/2021/tc-15-2857-2021.html'
 ---

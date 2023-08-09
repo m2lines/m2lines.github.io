@@ -4,7 +4,7 @@ title: ' A year-round satellite sea-ice thickness record from CryoSat-2'
 heroHeading: ''
 heroSubHeading: 'A year-round satellite sea-ice thickness record from CryoSat-2'
 heroBackground: ''
-thumbnail:  'images/news/2210Bushuk-thumb.png'
+thumbnail:  'images/news/2210Bushuk.png'
 images: ['images/news/2210Bushuk.png']
 link: 'https://doi.org/10.1038/s41586-022-05058-5'
 ---

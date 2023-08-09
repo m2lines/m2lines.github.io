@@ -4,7 +4,7 @@ title: ' 2021 CESM workshop: M²LInES team members presenting on June 17th'
 heroHeading: ''
 heroSubHeading: '2021 CESM workshop'
 heroBackground: ''
-thumbnail:  'images/news/CESM-thumbnail.jpg'
+thumbnail:  'images/news/cesm-workshop-2021.jpeg'
 images: ['images/news/cesm-workshop-2021.jpeg']
 link: 'https://www.cesm.ucar.edu/events/workshops/2021/#agenda'
 ---

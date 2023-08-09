@@ -4,7 +4,7 @@ title: ' Response of Northern Hemisphere Weather and Climate to Arctic Sea Ice D
 heroHeading: 'Response of Northern Hemisphere Weather and Climate to Arctic Sea Ice Decline: Resolution Independence in Polar Amplification Model Intercomparison Project (PAMIP) Simulations'
 heroSubHeading: ''
 heroBackground: ''
-thumbnail:  'images/news/Zampieri21_thumb.png'
+thumbnail:  'images/news/Zampieri21.png'
 images: ['images/news/Zampieri21.png']
 link: 'https://doi.org/10.1175/JCLI-D-19-1005.1'
 ---

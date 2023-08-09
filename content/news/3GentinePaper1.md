@@ -4,7 +4,7 @@ title: 'Using deep learning to emulate cloud superparameterization - new paper b
 heroHeading: ''
 heroSubHeading: 'Using deep learning to emulate cloud superparameterization - New M²LInES-related paper'
 heroBackground: ''
-thumbnail:  'images/news/Pierrepaper1-fig1-thumb.png'
+thumbnail:  'images/news/Pierrepaper1-fig1.png'
 images: ['images/news/Pierrepaper1-fig1.png']
 link: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002385'
 ---

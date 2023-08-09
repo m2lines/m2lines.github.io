@@ -4,7 +4,7 @@ title: ' s2s challenge'
 heroHeading: ''
 heroSubHeading: 's2s challenge '
 heroBackground: ''
-thumbnail:  'images/news/ML_model_schematic-thumb.jpg'
+thumbnail:  'images/news/ML_model_schematic.jpeg'
 images: ['images/news/ML_model_schematic.jpeg']
 link: 'https://s2s-ai-challenge.github.io/'
 ---

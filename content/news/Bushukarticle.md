@@ -3,7 +3,7 @@ date: 2021-07-27T09:29:16+10:00
 title: "Seasonal Prediction and Predictability of Regional Antarctic Sea Ice - Mitch Bushuk"
 heroHeading: ''
 heroSubHeading: "Seasonal Prediction and Predictability of Regional Antarctic Sea Ice - by Mitch Bushuk"
-thumbnail:  'images/news/Bushuk-fig-thumb.jpg'
+thumbnail:  'images/news/Bushuk-fig.png'
 images: ['images/news/Bushuk-fig.png']
 link: 'https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0965.1/JCLI-D-20-0965.1.xml'
 ---

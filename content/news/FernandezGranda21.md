@@ -4,7 +4,7 @@ title: 'Deep Probability Estimation'
 heroHeading: ''
 heroSubHeading: 'Deep Probability Estimation'
 heroBackground: ''
-thumbnail:  'images/news/FernandezGranda2-thumb.png'
+thumbnail:  'images/news/FernandezGranda21.png'
 images: ['images/news/FernandezGranda21.png']
 link: 'https://arxiv.org/pdf/2111.10734v1.pdf'
 ---

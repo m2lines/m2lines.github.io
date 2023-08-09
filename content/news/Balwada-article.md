@@ -3,7 +3,7 @@ date: 2021-07-28T09:29:16+10:00
 title: "Article by Dhruv Balwada et al. - Role of submesoscale flows on vertical fluxes"
 heroHeading: ''
 heroSubHeading: "Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation - Dhruv Balwada"
-thumbnail:  'images/news/Dhruv-fig1-thumb.jpg'
+thumbnail:  'images/news/Dhruv-fig1.png'
 images: ['images/news/Dhruv-fig1.png']
 link: 'https://doi.org/10.1175/JPO-D-21-0016.1'
 ---

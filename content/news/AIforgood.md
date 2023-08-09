@@ -4,7 +4,7 @@ title: ' UN AI for Good: AI and Climate Science seminars '
 heroHeading: 'UN AI for Good: AI and Climate Science seminars'
 heroSubHeading: ''
 heroBackground: ''
-thumbnail:  'images/news/Aiforgood-zoom-discovery-banner-1-thumb.png'
+thumbnail:  'images/news/Aiforgood-1920x1080-zoom-discovery-banner-1-1130x650.png'
 images: ['images/news/Aiforgood-1920x1080-zoom-discovery-banner-1-1130x650.png']
 link: 'https://aiforgood.itu.int/search-result-programme/?keyword=&category=357&event-venue=&enddate=&startdate=Select+year'
 ---

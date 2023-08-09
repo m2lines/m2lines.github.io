@@ -4,7 +4,7 @@ title: ' Lorenzo Zampieri - A machine learning correction model '
 heroHeading: ''
 heroSubHeading: 'Lorenzo Zampieri - A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses'
 heroBackground: ''
-thumbnail:  'images/news/Zampieri-thumb.png'
+thumbnail:  'images/news/Zampieri.png'
 images: ['images/news/Zampieri.png']
 link: 'https://doi.org/10.1002/essoar.10511269.1'
 ---
