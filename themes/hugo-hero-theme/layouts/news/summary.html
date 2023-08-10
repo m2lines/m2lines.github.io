@@ -1,9 +1,9 @@
 <div class="work work-summary responsive-widget">
   {{ if .Params.thumbnail }}
-  <div class="work-image item responsive-image">
+  <div class="work-image item ">
     <a href="{{ .RelPermalink }}">
       <div class="image-container">
-        <img src="{{ .Params.thumbnail | relURL }}" class=""/>
+        <img src="{{ .Params.thumbnail | relURL }}" class="responsive-image-container"/>
       </div>
     </a>
   </div>
@@ -16,11 +16,18 @@
 </div>
 
 <style>
-  .responsive-image {
+  .responsive-image-container {
     width: auto;
+    height: auto;
+    display: flex;
     max-width: 100%; /* Set the image to take up all available width */
     max-height: calc(40vh - 100px);
     padding-top: calc(17vh - 100px);
+  }
+  .responsive-image {
+    width: auto;
+    height: 100%;
+    max-height: 100%;
   }
   .responsive-widget {
     height: 20vw; /* Fixed height relative to the screen */
