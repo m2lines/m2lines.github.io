@@ -2,7 +2,7 @@
 title: "Arthur Guillaumin"
 draft: false
 image: "images/team/Arthur.jpeg"
-jobtitle: "Postdoc"
+jobtitle: "Affiliate"
 linkedinurl: ""
 promoted: true
 Website: https://laurezanna.github.io/author/arthur-guillaumin-he/him/
