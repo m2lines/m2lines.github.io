@@ -5,10 +5,10 @@ image: "/images/team/PraniN.jpeg"
 jobtitle: "Affiliate, GS"
 promoted: true
 weight: 50
-Website:
+Website: https://www.linkedin.com/in/prani-nalluri-292624199/
 ---
 
 
 Columbia University
 
-*Machine Learning, subgrid scale modeling, eddy parametrization, quasi-geostrophic models*
+*Ocean - Machine Learning - Climate Model Development - Subgrid-Scale Parametrization*

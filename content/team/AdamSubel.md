@@ -11,4 +11,4 @@ Website:
 
 NYU, Courant Institute
 
-*ML - Parametrization*
+*Ocean - Machine Learning*

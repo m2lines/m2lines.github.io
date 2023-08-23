@@ -4,11 +4,11 @@ draft: false
 image: "/images/team/PavelPerezhogin.png"
 jobtitle: "Postdoc"
 promoted: true
-Website:
+Website: https://www.researchgate.net/profile/Pavel-Perezhogin
 weight: 25
 ---
 
 
 NYU, Courant Institute
 
-*Ocean -  ML, Momentum closures in ocean, Large-eddy simulation*
+*Ocean - Machine Leaning - Climate Model Development*

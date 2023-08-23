@@ -11,4 +11,4 @@ weight: 7
 
 MIT
 
-*Atm - Convection*
+*Atmosphere - Machine Learning - Climate Model Development - Moist convection*

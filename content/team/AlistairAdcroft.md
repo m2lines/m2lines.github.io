@@ -4,11 +4,11 @@ draft: false
 image: "/images/team/Alistair.jpeg"
 jobtitle: "PI"
 promoted: true
-Website: https://www.gfdl.noaa.gov/alistair-adcroft-homepage/
+Website: https://adcroft.github.io
 weight: 3
 ---
 
 
 Princeton University, Affiliate NOAA-GFDL in Ocean division
 
-*Ocean - Model Development*
+*Ocean - Machine Learning - Climate Model Development*
