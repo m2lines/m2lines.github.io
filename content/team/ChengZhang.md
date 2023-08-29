@@ -6,9 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 Website:
 weight: 23
+tags: [Ocean, Machine learning, Data assimilation]
 ---
 
 
 Princeton University
-
-*Ocean - Modelling, Machine learning, Data assimilation*

@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 33
 Website:
+tags: [Atmosphere, Machine Learning]
 ---
 
 
 Columbia University
-
-*Atm -  ML*

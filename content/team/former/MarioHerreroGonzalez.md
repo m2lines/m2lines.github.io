@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 29
 Website:
+tags: [Data Assimilation, Deep Learning]
 ---
 
 
 Columbia University
-
-*Data Assimilation and Deep Learning*

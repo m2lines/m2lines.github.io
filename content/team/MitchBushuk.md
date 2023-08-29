@@ -6,9 +6,8 @@ jobtitle: "Lead Scientist"
 promoted: true
 Website: https://www.gfdl.noaa.gov/mitch-bushuk/
 weight: 6
+tags: [Sea Ice, Data Assimilation, Predictability]
 ---
 
 
 UCAR, Affiliate NOAA-GFDL in Ocean division
-
-*Sea Ice - Data Assimilation - Predictability*

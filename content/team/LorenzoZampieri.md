@@ -6,9 +6,8 @@ jobtitle: "Affiliate"
 promoted: true
 Website: https://www.awi.de/ueber-uns/organisation/mitarbeiter/lorenzo-zampieri.html
 weight: 19
+tags: [Sea Ice, HR data and observations, Modelling and Predictability]
 ---
 
 
 National Center for Atmospheric Research
-
-*Sea Ice - HR data and observations - Modelling and Predictability*

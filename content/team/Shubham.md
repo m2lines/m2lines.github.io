@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Graduate Student "
 promoted: true
 weight: 44
 Website: https://iamshubhamgupto.github.io
+tags: [Machine Learning, Deep Learning, Computer Vision]
 ---
 
 
 NYU, Tandon School of Engineering
-
-*Computer Vision, Representation learning*

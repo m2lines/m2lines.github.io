@@ -6,8 +6,7 @@ jobtitle: "Postdoc"
 promoted: true
 weight: 16
 Website:  http://efmh.berkeley.edu/alexconnolly
+tags: [Atmosphere, Machine Learning, Boundary Layer Turbulence]
 ---
 
 Columbia University
-
-*Atmosphere - Machine Learning - Boundary Layer Turbulence*

@@ -6,9 +6,8 @@ jobtitle: "Graduate Student"
 promoted: true
 weight: 20
 Website:
+tags: [Machine Learning, Interpretability, Deep Learning]
 ---
 
 
 NYU, Courant Institute
-
-*ML - Interpretability and Deep Learning*

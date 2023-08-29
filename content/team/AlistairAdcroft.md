@@ -6,9 +6,8 @@ jobtitle: "PI"
 promoted: true
 Website: https://adcroft.github.io
 weight: 3
+tags: [Ocean, Machine Learning, Climate Model Development]
 ---
 
 
 Princeton University, Affiliate NOAA-GFDL in Ocean division
-
-*Ocean - Machine Learning - Climate Model Development*

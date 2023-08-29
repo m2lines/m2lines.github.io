@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 36
 Website: sshamekh.com
+tags: [Atmoshpere, Machine Learning, Amospheric boundary layer]
 ---
 
 
 Columbia University
-
-*Atmoshpere - Machine Learning - Amospheric boundary layer*

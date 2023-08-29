@@ -6,9 +6,8 @@ jobtitle: "PI"
 promoted: true
 Website: https://www.eee.columbia.edu/faculty/pierre-gentine
 weight: 6
+tags: [Atmosphere]
 ---
 
 
 Columbia University
-
-*Atm Processes*

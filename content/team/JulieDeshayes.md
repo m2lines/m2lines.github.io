@@ -6,9 +6,8 @@ jobtitle: "PI"
 promoted: true
 Website: https://www.whoi.edu/profile/jdeshayes/
 weight: 8
+tags: [Ocean, Models, model tuning]
 ---
 
 
 IPSL
-
-*Ocean - Models and model tuning*

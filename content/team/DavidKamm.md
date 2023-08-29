@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Graduate Student "
 promoted: true
 weight: 41
 Website:
+tags: [Ocean, Eddy Parameterizations]
 ---
 
 
 IPSL
-
-*Ocean Modeling, Eddy Parameterizations*

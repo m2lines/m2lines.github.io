@@ -6,9 +6,8 @@ jobtitle: "Affiliate, GS"
 promoted: true
 weight: 51
 Website:
+tags: [Atmosphere, Ocean, Large Eddy Simulations]
 ---
 
 
 Columbia University
-
-*Atm/Ocean Large Eddy Simulations*

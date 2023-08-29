@@ -6,9 +6,8 @@ jobtitle: "Lead Scientist"
 promoted: true
 Website:  https://dhruvbalwada.github.io/
 weight: 22
+tags: [Ocean, macro-turbulence and tracer transport]
 ---
 
 
 Lamont/Columbia University
-
-*Ocean macro-turbulence and tracer transport*

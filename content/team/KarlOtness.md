@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 30
 Website:
+tags: [Machine Learning, Simulation]
 ---
 
 
 NYU, Courant Institute
-
-*ML - Simulation*

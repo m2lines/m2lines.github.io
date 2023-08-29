@@ -1,4 +1,4 @@
-<div class="team team-summary">
+<!-- <div class="team team-summary">
   {{ if .Params.image }}
   <div class="team-image">
     <img alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
@@ -13,4 +13,59 @@
     <p class="team-description">{{ .Params.Jobtitle }}</p>
   </div>
   <div class="team-content"></div>
+</div> -->
+
+<div class="team team-summary">
+  {{ if .Params.image }}
+  <div class="team-image">
+    <img alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
+  </div>
+  {{ end }}
+  <div class="team-meta">
+    {{ if .Params.Website }}
+    <h2 class="team-name"><a target="_blank" href="{{ .Params.Website }}">{{ .Title }}</a></h2>
+    {{ else }}
+    <h2 class="team-name">{{ .Title }}</h2>
+    {{ end }}
+    <p class="team-description">{{ .Params.Jobtitle }}</p>
+  </div>
+  <div class="team-content">
+    {{ with .Params.tags }}
+    <div class="team-tags">
+      {{ range . }}
+        {{ $tagLink := index $.Site.Data.tag_links . }}
+        {{ if $tagLink }}
+          <a href="{{ $tagLink }}" target="_blank" class="tag">{{ . }}</a>
+        {{ else }}
+          <span class="tag">{{ . }}</span>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
 </div>
+
+<!-- add css below -->
+<style>
+
+.tag {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 2px 6px;
+  background-color: #ffffff;
+  color: #080808;
+  font-size: 15px; /* Adjust font size as needed */
+  border: 1px solid #ffffff00;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, font-size 0.3s;
+}
+
+.tag:hover {
+  background-color: #080808;
+  color: #ffffff;
+  font-size: 16px; /* Increase font size on hover */
+}
+
+
+</style>
