@@ -5,10 +5,9 @@ image: "images/team/Arthur.jpeg"
 jobtitle: "Affiliate"
 linkedinurl: ""
 promoted: true
-Website: https://laurezanna.github.io/author/arthur-guillaumin-he/him/
+Website: https://www.qmul.ac.uk/maths/profiles/arthurguillaumin.html
 weight: 13
+tags: [Machine learning, Statistics]
 ---
 
 NYU, Courant Institute
-
-*Machine learning, Statistics*

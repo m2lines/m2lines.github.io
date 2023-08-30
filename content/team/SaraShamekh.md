@@ -5,10 +5,9 @@ image: "/images/team/sara.jpg"
 jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 36
-Website:
+Website: sshamekh.com
+tags: [Atmoshpere, Machine Learning, Amospheric boundary layer]
 ---
 
 
 Columbia University
-
-*Atm - Boundary Layer - ML*

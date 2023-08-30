@@ -49,3 +49,19 @@ You can then use the Hugo command line tools to do stuff like
 hugo new content/<name of your page>.md # create a new page
 hugo server -D # serve the website on http://localhost:1313/.
 ```
+
+### Updating Tags
+Member interests are defined in the form of tags which can link to personalized landing pages.
+Example for adding tag to a member and giving it a custom landing page:
+```
+---
+# the <user>.md
+tags: [A, B, C]
+---
+```
+Define the custom landing pages under `content/data/tag_links.yml`:
+```
+A: url-1
+B: url-2
+C: url-3
+```

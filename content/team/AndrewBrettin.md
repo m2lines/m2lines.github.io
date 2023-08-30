@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 28
 Website:  https://andrewbrettin.github.io/
+tags: [Ocean, Sea level variability]
 ---
 
 
 NYU, Courant Institute
-
-*Ocean -  Sea level variability*

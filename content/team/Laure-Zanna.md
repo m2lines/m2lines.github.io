@@ -7,9 +7,8 @@ jobtitle: "Scientific Director & Lead PI"
 promoted: true
 Website: https://zanna-researchteam.github.io/
 weight: 1
+tags: ['Ocean', 'Climate', 'Machine Learning']
 ---
 
 
 NYU, Courant Institute + Center for Data Science
-
-*Ocean - Climate - Machine Learning*

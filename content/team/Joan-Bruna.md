@@ -8,8 +8,7 @@ linkedinurl: ""
 promoted: true
 Website: https://cims.nyu.edu/~bruna/
 weight: 4
+tags: [Machine Learning, Signal Processing]
 ---
 
 NYU, Courant Institute + Computer Science + Center for Data Science
-
-*ML - Signal Processing*

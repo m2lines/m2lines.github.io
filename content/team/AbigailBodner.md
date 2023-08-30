@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 27
 Website:  https://abodner.github.io/
+tags: [Ocean, Machine Learning, Climate Model, Development, Turbulence]
 ---
 
 
 NYU, Courant Institute
-
-*Ocean surface processes, Ocean modeling*

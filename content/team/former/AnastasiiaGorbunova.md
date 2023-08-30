@@ -6,9 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 Website:
 weight: 24
+tags: [Ocean, Computational fluid mechanics, turbulence statistics]
 ---
 
 
 L'Institut des Géosciences de l'Environnement (IGE)
-
-*Ocean -  Computational fluid mechanics, turbulence statistics*

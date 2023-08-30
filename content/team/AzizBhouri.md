@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 31
 Website:
+tags: [Model order reduction, Physics-informed Machine Learning]
 ---
 
 
 Columbia University
-
-*Model order reduction and Physics-informed Machine Learning*

@@ -6,9 +6,8 @@ image: "images/team/JohannaGoldman.jpg"
 jobtitle: "Project Manager"
 promoted: true
 weight: 2
+tags: [Project Management, Oceanography, Sciences Communication]
 ---
 
 
 NYU, Courant Institute
-
-*Project Management, Oceanography, Sciences Communication*

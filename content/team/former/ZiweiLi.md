@@ -6,9 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 Website:  https://ziweili.page/
 weight: 2
+tags: [Atmosphere, Ocean, Machine Learning]
 ---
 
 
 NYU, Courant Institute
-
-*Atm - Ocean - Machine Learning*

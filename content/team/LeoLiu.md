@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Undergraduate Student "
 promoted: true
 weight: 45
 Website:
+tags: [Data engineering]
 ---
 
 
 NYU, Courant Institute
-
-*Data engineering*

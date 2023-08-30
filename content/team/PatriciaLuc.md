@@ -6,9 +6,8 @@ jobtitle: "Affiliate, Undergraduate Student "
 promoted: true
 weight: 42
 Website:
+tags: [Machine Learning, Subgrid Parametrizations]
 ---
 
 
 Columbia University
-
-*ML, Subgrid Parametrizations*
