@@ -42,7 +42,7 @@ enableEmoji = true
 
 
 [[menu.main]]
-    name = "Openings"
+    name = "Join us"
     url = "/jobs/"
     weight = 2
 
