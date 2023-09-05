@@ -1,4 +1,3 @@
-
 <div class="team team-summary">
   <div class="team-meta">
     {{ if .Params.Paper }}
@@ -25,14 +24,11 @@
       {{ with .Params.Code }}
         <a href="{{ . }}" target="_blank" class="tag">Code</a>
       {{ end }}
-
-
     </div>
     <div class="content-text">
       {{ .Content | markdownify | safeHTML }}
     </div>
     {{ end }}
-
   </div>
 </div>
 
@@ -61,7 +57,7 @@
 
 .team-content {
   /* Set a maximum width for the content */
-  max-width: 90%; /* Adjust as needed */
+  max-width: 100%; /* Adjust as needed */
 
   /* Allow content to wrap within the div */
   word-wrap: break-word;
