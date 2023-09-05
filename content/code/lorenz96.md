@@ -1,0 +1,6 @@
+---
+title: Machine Learning tutorial for Lorenz 96
+jobtitle: Tutorial
+Website: https://m2lines.github.io/L96_demo/intro.html
+code: https://github.com/m2lines/L96_demo
+---

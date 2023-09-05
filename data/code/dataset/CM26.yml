@@ -1,0 +1,11 @@
+name: CM2.6
+type: Cloud
+description: |
+  Datasets: hosted on globus. access e.g.:
+  ```
+  import xarray as xr
+  import gcsfs
+  fs = gcsfs.GCSFileSystem()
+  fs.ls("gs://leap-persistent-ro/groundpepper/GFDL_cm2.6")
+  ds = xr.open_dataset('gs://leap-persistent-ro/groundpepper/GFDL_cm2.6/GFDL_CM2_6_CONTROL_DAILY_SURF.zarr', engine='zarr')
+  ```
