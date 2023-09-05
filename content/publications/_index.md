@@ -17,7 +17,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Aakash Sane, Brandon G. Reichl, Alistair Adcroft, Laure Zanna</strong><br>
-    <a href="https://arxiv.org/abs/2304.03832"><strong>Parameterizing vertical mixing coefficients in the Ocean
+    <a href="https://arxiv.org/abs/2306.09045"><strong>Parameterizing vertical mixing coefficients in the Ocean
     Surface Boundary Layer using Neural Networks</strong></a><br>
     <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.09045
   </p>

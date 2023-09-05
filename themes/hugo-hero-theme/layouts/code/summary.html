@@ -1,13 +1,80 @@
-<div class="work work-summary">
-  {{ if .Params.thumbnail }}
-  <div class="work-image">
-    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+
+<div class="team team-summary">
+  <div class="team-meta">
+    {{ if .Params.Paper }}
+    <h2 class="team-name"><a target="_blank" href="{{ .Params.Paper }}">{{ .Title }}</a></h2>
+    {{ else }}
+    <h2 class="team-name">{{ .Title }}</h2>
+    {{ end }}
   </div>
-  {{ end }}
-  <div class="work-content">
-    <h2 class="work-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </h2>
-    {{ .Content | truncate 120 "..."  }}
+  <div class="team-content">
+    {{ if or .Params.Jobtitle .Params.Code .Params.Website .Params.Description .Params.Datasetused }}
+    <div class="team-tags">
+      {{ with .Params.Website }}
+        <a href="{{ . }}" target="_blank" class="tag">Website</a>
+      {{ end }}
+      {{ with .Params.Jobtitle }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+      {{ with .Params.Datasetused }}
+        <span class="tag">Dataset Used</span>
+      {{ end }}
+      {{ with .Params.Datasettype }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+      {{ with .Params.Code }}
+        <a href="{{ . }}" target="_blank" class="tag">Code</a>
+      {{ end }}
+
+
+    </div>
+    <div class="content-text">
+      {{ .Content | markdownify | safeHTML }}
+    </div>
+    {{ end }}
+
   </div>
 </div>
+
+
+<!-- add css below -->
+<style>
+
+.tag {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 2px 6px;
+  background-color: #ffffff;
+  color: #080808;
+  font-size: 15px; /* Adjust font size as needed */
+  border: 1px solid #ffffff00;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, font-size 0.3s;
+}
+
+.tag:hover {
+  background-color: #080808;
+  color: #ffffff;
+  font-size: 16px; /* Increase font size on hover */
+}
+
+.team-content {
+  /* Set a maximum width for the content */
+  max-width: 90%; /* Adjust as needed */
+
+  /* Allow content to wrap within the div */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+
+  /* Add scrollbars for content that exceeds the div's dimensions */
+  overflow: auto;
+  /* Optional: Define a maximum height for the div to trigger scrolling */
+  max-height: 300px; /* Adjust as needed */
+}
+
+.content-text {
+  font-size: 14px; /* Adjust the font size as needed */
+}
+
+</style>
