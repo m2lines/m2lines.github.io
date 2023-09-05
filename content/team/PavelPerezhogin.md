@@ -6,7 +6,7 @@ jobtitle: "Postdoc"
 promoted: true
 Website: https://www.researchgate.net/profile/Pavel-Perezhogin
 weight: 25
-tags: [Ocean, Machine Leaning, Climate Model Development]
+tags: [Ocean, Climate Model Development, Turbulence]
 ---
 
 

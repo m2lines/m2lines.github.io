@@ -6,7 +6,7 @@ jobtitle: "Lead Scientist"
 promoted: true
 Website: https://breichl.github.io/
 weight: 6
-tags: [Ocean, Geophysical Fluid Dynamics]
+tags: [Ocean, Climate Model Development, Air-Sea Interactions]
 ---
 
 

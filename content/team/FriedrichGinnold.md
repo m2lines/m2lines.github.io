@@ -6,7 +6,7 @@ jobtitle: "Affiliate, GS"
 promoted: true
 weight: 49
 Website:
-tags: [Machine Learning, Atmospheric Processes]
+tags: [Machine Learning, Atmosphere]
 ---
 
 
