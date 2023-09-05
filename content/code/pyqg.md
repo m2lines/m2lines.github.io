@@ -6,8 +6,7 @@ paper: 'https://onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003258'
 website: 'https://m2lines.github.io/MLwithQG/intro.html'
 code: 'https://github.com/m2lines/pyqg_parameterization_benchmarks'
 ---
-
-Datasets: hosted on globus, access as described [here](https://github.com/m2lines/pyqg_parameterization_benchmarks/blob/master/notebooks/dataset_description.ipynb), e.g.:
+Usage example:
 ```
 import xarray as xr
 import fsspec
