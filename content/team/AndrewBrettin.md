@@ -6,7 +6,7 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 28
 Website:  https://andrewbrettin.github.io/
-tags: [Ocean, Sea level variability]
+tags: [Ocean, Machine Learning]
 ---
 
 

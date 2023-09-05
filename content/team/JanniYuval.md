@@ -6,7 +6,7 @@ jobtitle: "Affiliate"
 promoted: true
 Website: https://yaniyuval.wixsite.com/janniy
 weight: 15
-tags: [Atmosphere,  Climate, Machine Learning]
+tags: [Atmosphere, Machine Learning, Climate Model Development]
 ---
 
 MIT

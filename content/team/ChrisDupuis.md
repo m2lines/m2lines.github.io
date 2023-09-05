@@ -6,7 +6,7 @@ jobtitle: "Affiliate, Staff Associate"
 promoted: true
 weight: 37
 Website:
-tags: [Atmospheric statistics, Software architecture, Principal component analysis]
+tags: [Atmosphere, Software architecture]
 ---
 
 

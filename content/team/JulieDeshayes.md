@@ -4,9 +4,9 @@ draft: false
 image: "images/team/Julie.jpg"
 jobtitle: "PI"
 promoted: true
-Website: https://www.whoi.edu/profile/jdeshayes/
+Website: https://juliedeshayes.github.io/
 weight: 8
-tags: [Ocean, Models, model tuning]
+tags: [Ocean, Climate Model Development, Coupled Physics]
 ---
 
 

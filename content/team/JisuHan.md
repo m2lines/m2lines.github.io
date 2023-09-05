@@ -6,7 +6,7 @@ jobtitle: "Affiliate, GS"
 promoted: true
 weight: 51
 Website:
-tags: [Atmosphere, Ocean, Large Eddy Simulations]
+tags: [Atmosphere, Ocean]
 ---
 
 

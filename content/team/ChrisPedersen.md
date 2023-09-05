@@ -6,7 +6,7 @@ jobtitle: "Postdoc"
 promoted: true
 weight: 39
 Website:  https://chris-pedersen.github.io/
-tags: [Deep Learning, Simulations]
+tags: [Ocean, Machine Learning]
 ---
 
 

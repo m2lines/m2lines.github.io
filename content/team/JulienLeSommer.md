@@ -7,7 +7,7 @@ linkedinurl: ""
 promoted: true
 Website: https://lesommer.github.io/
 weight: 8
-tags: [Ocean, Fine Scale Processes, Ocean Circulation Models]
+tags: [Ocean, Climate Model Development]
 ---
 
 L'Institut des Géosciences de l'Environnement (IGE)
