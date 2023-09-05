@@ -7,7 +7,7 @@
 <input type=checkbox id=Publications><ul class=submenu__list><li class=menu__item><a class=menu__link href=../../publications/><span class=menu__text>Latest</span></a></li><li class=menu__item><a class=menu__link href=../../publications/archive><span class=menu__text>Archive</span></a></li></ul></li><li class="menu__item menu__dropdown"><a class=menu__link href><span class=menu__text>News</span>
 <label class=drop-icon for=News>▾</label></a>
 <input type=checkbox id=News><ul class=submenu__list><li class=menu__item><a class=menu__link href=../../news/><span class=menu__text>Our news</span></a></li><li class=menu__item><a class=menu__link href=../../news/newsletters/><span class=menu__text>Newsletters</span></a></li></ul></li></ul></nav><button id=toggle-main-menu-mobile class="hamburger hamburger--slider" type=button>
-<span class=hamburger-box><span class=hamburger-inner></span></span></button></div></div><div class=container><div class="row justify-content-center"><div class="col-12 col-md-9"><h1>CM2.6</h1>Monday, Jan 1, 0001<div class=content><p>Datasets: hosted on globus. access e.g.:</p><pre><code>import xarray as xr
+<span class=hamburger-box><span class=hamburger-inner></span></span></button></div></div><div class=container><div class="row justify-content-center"><div class="col-12 col-md-9"><h1>CM2.6</h1>Monday, Jan 1, 0001<div class=content><p>Usage example:</p><pre><code>import xarray as xr
 import gcsfs
 fs = gcsfs.GCSFileSystem()
 fs.ls(&quot;gs://leap-persistent-ro/groundpepper/GFDL_cm2.6&quot;)
