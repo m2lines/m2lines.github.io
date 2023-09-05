@@ -12,14 +12,8 @@
       {{ with .Params.Website }}
         <a href="{{ . }}" target="_blank" class="tag">Website</a>
       {{ end }}
-      {{ with .Params.Jobtitle }}
-        <span class="tag">{{ . }}</span>
-      {{ end }}
       {{ with .Params.Datasetused }}
         <span class="tag">Dataset Used</span>
-      {{ end }}
-      {{ with .Params.Datasettype }}
-        <span class="tag">{{ . }}</span>
       {{ end }}
       {{ with .Params.Code }}
         <a href="{{ . }}" target="_blank" class="tag">Code</a>
