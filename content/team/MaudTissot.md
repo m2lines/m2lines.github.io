@@ -1,7 +1,7 @@
 ---
 title: "Maud Tissot"
 draft: false
-image: /images/newlogo.png
+image: /images/MaudTissot.jpeg
 jobtitle: "Graduate Student"
 promoted: true
 Website:
