@@ -1,11 +1,11 @@
 ---
 title: "Maud Tissot"
 draft: false
-image: /images/MaudTissot.jpeg
+image: /images/team/MaudTissot.jpeg
 jobtitle: "Graduate Student"
 promoted: true
 Website:
-weight: 6
+weight: 34
 tags: [Ocean, Machine Learning, Climate Model Development]
 ---
 
