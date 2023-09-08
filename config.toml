@@ -99,9 +99,9 @@ enableEmoji = true
 
 
 [[menu.main]]
-    identifier = "login"
+    identifier = "sitevisit"
     name = "Site Visit"
-    url = "/login/"
+    url = "/sitevisit/"
     weight = 7
 
 [[menu.main]]
