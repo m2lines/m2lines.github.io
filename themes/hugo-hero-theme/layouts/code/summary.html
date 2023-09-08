@@ -1,12 +1,19 @@
 <div class="team team-summary">
-  <div class="team-meta">
-    {{ if .Params.Paper }}
-    <h2 class="team-name"><a target="_blank" href="{{ .Params.Paper }}">{{ .Title }}</a></h2>
-    {{ else }}
-    <h2 class="team-name">{{ .Title }}</h2>
-    {{ end }}
+  {{ if .Params.image }}
+  <div class="team-image">
+    <img alt="Photo of {{ .Title }}" class="img-fluid" src="{{ .Params.image | relURL }}" />
   </div>
+  {{ end }}
+    <div class="team-meta">
+      {{ if .Params.Paper }}
+      <h2 class="team-name"><a target="_blank" href="{{ .Params.Paper }}">{{ .Title }}</a></h2>
+      {{ else }}
+      <h2 class="team-name">{{ .Title }}</h2>
+      {{ end }}
+    </div>
+
   <div class="team-content">
+
     {{ if or .Params.Jobtitle .Params.Code .Params.Website .Params.Description .Params.Datasetused }}
     <div class="team-tags">
       {{ with .Params.Website }}
@@ -63,5 +70,37 @@
 .content-text {
   font-size: 14px; /* Adjust the font size as needed */
 }
+
+.circular-image {
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    border-radius: 50%; /* Makes the container circular */
+}
+
+.circular-image img {
+    width: 100%; /* Make sure the image fills the container */
+    height: auto;
+    border-radius: 50%; /* Clip the image to a circle */
+    object-fit: cover; /* Maintain aspect ratio while cropping */
+}
+.team-name {
+  font-size: 20px;
+  margin: 0;
+  text-align: left; /* Align text to the left within the .team-name element */
+}
+
+.team-meta {
+  display: flex;
+  align-items: flex-start; /* Vertically align content at the top */
+}
+
+.team-header {
+  display: flex;
+  align-items: flex-start; /* Vertically align content at the top */
+  margin-right: 20px;
+}
+
+
 
 </style>

@@ -97,6 +97,13 @@ enableEmoji = true
     url = "/publications/"
     weight = 6
 
+
+[[menu.main]]
+    identifier = "login"
+    name = "Site Visit"
+    url = "/login/"
+    weight = 7
+
 [[menu.main]]
     name = "Latest"
     url = "/publications/"
