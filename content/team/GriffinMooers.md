@@ -10,4 +10,4 @@ tags: [Atmosphere, Machine Learning, Data Analysis]
 ---
 
 
-*Incoming at MIT*
+MIT
