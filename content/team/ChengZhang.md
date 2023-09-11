@@ -6,7 +6,7 @@ jobtitle: "Postdoc"
 promoted: true
 Website:
 weight: 23
-tags: [Ocean, Machine learning, Data assimilation]
+tags: [Ocean, Machine Learning, Data Assimilation]
 ---
 
 
