@@ -10,4 +10,4 @@ weight: 13
 tags: [Machine learning, Statistics]
 ---
 
-NYU, Courant Institute
+Queen Mary University of London
