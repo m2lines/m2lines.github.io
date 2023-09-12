@@ -6,4 +6,4 @@ background: 'images/gulfstream_tir_2013099_lr-smaller.jpeg'
 align: left
 ---
 
-Our international team is based in the US and in France and includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL.
+Our project comprises ocean, atmosphere, sea-ice scientists, numerical model developers, and machine learning experts. Our collaboration spans 2 continents, 7 academic institutions, and 3 numerical climate modeling centers.
