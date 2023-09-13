@@ -6,7 +6,7 @@ jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 33
 Website:
-tags: [Ocean, Data mining, Complex systems, Dynamical systems]
+tags: [Ocean, Data Mining, Complex Systems, Dynamical Systems]
 ---
 
 

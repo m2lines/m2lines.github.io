@@ -6,7 +6,7 @@ jobtitle: "Postdoc"
 promoted: true
 weight: 40
 Website:  https://noraloose.github.io/
-tags: [Ocean, Machine Learning, Mesoscale eddy parameterizations]
+tags: [Ocean, Machine Learning, Mesoscale Eddy Parameterizations]
 ---
 
 
