@@ -5,6 +5,9 @@ heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 
 ---
+<center>
+    <img src="research-images/workplan.png" style="width: 50vw; padding-bottom: 30px; padding-top: 0px">
+</center>
 
 ## Project Goal
 
@@ -16,7 +19,7 @@ To tackle these biases and reduce the potential sources of error, **M²LInES’ 
 
 1. Develop data-informed, interpretable & generalizable subgrid physics models (ocean, ice, atm);
 2. Produce error corrections derived from observational products for climate model components.
-   
+
 By improving model physics, this strategy ensures a more faithful representation of feedbacks and sensitivities under different climates.
 
 ### Our vision
@@ -24,5 +27,3 @@ By improving model physics, this strategy ensures a more faithful representation
 2. _Accelerate end-to-end, from development to delivery, for a new generation of climate models_; this includes learning and testing parameterizations in global frameworks to tackle significant biases in climate models.
 3. _Drive a change of direction in the field by building models and tools centered around data-driven methods_ for the community to advance climate science discovery.
 4. _Enable a new generation of versatile scientists working at the interface of machine learning, climate science & numerical modeling._
-   
-![workplan](research-images/workplan.png)

@@ -27,6 +27,9 @@ This method only allows you to update one page at a time.
 You can also clone this repository, make local changes, and then push them.
 This is better for larger changes that involve multiple files and may need debugging.
 
+#### Pre-commit
+We use pre-commit to check file changes before they are pushed. You can download and install `pre-commit` using this [tutorial](https://pre-commit.com)
+
 Basic git workflow
 ```bash
 git clone git@github.com:m2lines/m2lines.github.io.git
