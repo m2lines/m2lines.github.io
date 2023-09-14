@@ -13,6 +13,61 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/bdst_23.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Will Chapman and Judith Berner </strong><br>
+    <a href="https://arxiv.org/abs/2308.15295"><strong>Benefits of Deterministic and Stochastic Tendency Adjustments in a Climate Model</strong></a><br>
+    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2308.15295
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/rcts_23.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Christian Pedersen, Laure Zanna, Joan Bruna, Pavel Perezhogin</strong><br>
+    <a href="https://arxiv.org/abs/2307.13144"><strong>Reliable coarse-grained turbulent simulations through combined offline learning and neural emulation</strong></a><br>
+    <i>ICML 2023 Workshop on Synergy of Scientific and Machine Learning Modeling</i> <strong>DOI</strong>: 10.48550/arXiv.2307.13144
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/bpdc_23.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Emily Newsom, Laure Zanna, Jonathan Gregory</strong><br>
+    <a href="https://arxiv.org/abs/2307.11902"><strong>Background Pycnocline depth constrains Future Ocean Heat Uptake Efficiency</strong></a><br>
+    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2307.11902
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/cisc_23.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Fabrizio Falasca, Pavel Perezhogin, Laure Zanna</strong><br>
+    <a href="https://arxiv.org/abs/2306.14433"><strong>Causal inference in spatiotemporal climate fields through linear response theory</strong></a><br>
+    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.14433
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/labl_23.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Sara Shamekh and Pierre Gentine</strong><br>
+    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.168748456.60017486"><strong>Learning Atmospheric Boundary Layer Turbulence</strong></a><br>
+    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.22541/essoar.168748456.60017486/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/pvmc_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>

@@ -14,13 +14,19 @@
 
   <div class="team-content">
 
-    {{ if or .Params.Jobtitle .Params.Code .Params.Website .Params.Description .Params.Datasetused }}
+    {{ if or .Params.Jobtitle .Params.Code .Params.Website .Params.Description .Params.Data .Params.Model }}
     <div class="team-tags">
       {{ with .Params.Website }}
         <a href="{{ . }}" target="_blank" class="tag">Website</a>
       {{ end }}
       {{ with .Params.Code }}
         <a href="{{ . }}" target="_blank" class="tag">Code</a>
+      {{ end }}
+      {{ with .Params.Data }}
+        <a href="{{ . }}" target="_blank" class="tag">Data</a>
+      {{ end }}
+      {{ with .Params.Model }}
+        <a href="{{ . }}" target="_blank" class="tag">Model</a>
       {{ end }}
     </div>
     <div class="content-text">
