@@ -1,7 +1,7 @@
 ---
 date: 2023-09-04T09:29:16+10:00
 title: 'New climate simulation model ensemble by Marika Holland'
-heroHeading: 'New model ensemble reveals how forcing uncertainty and model structure alter climate simulated across CMIP generations of the Community Earth System Model'
+heroHeading: 'New climate simulation model ensemble'
 heroSubHeading: ''
 heroBackground: ''
 thumbnail:  '/images/news/2309-Holland.png'
