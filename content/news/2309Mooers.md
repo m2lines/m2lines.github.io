@@ -1,8 +1,8 @@
 ---
 date: 2023-09-03T09:29:16+10:00
 title: 'Understanding Extreme Precipitation Changes by Griffin Mooers'
-heroHeading: 'Understanding Extreme Precipitation Changes through Unsupervised Machine Learning'
-heroSubHeading: ''
+heroHeading: ''
+heroSubHeading: 'Understanding Extreme Precipitation Changes through Unsupervised Machine Learning'
 heroBackground: ''
 thumbnail:  '/images/news/2309-Moors.png'
 images: ['/images/news/2309-Moors.png']
