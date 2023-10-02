@@ -8,8 +8,12 @@ heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 ---
 
+
+
 Despite drastic improvements in climate model development, current simulations have difficulty capturing the interactions among different processes in the atmosphere, oceans, and ice and how they affect the Earth’s climate; this can hinder projections of temperature, rainfall, and sea level.
-M²LInES will be focusing on understanding these key climate processes using two types of data: 1. Data from high-resolution simulation and observations. 2. Data resulting from model errors, also called data assimilation increments.
+M²LInES will be focusing on understanding these key climate processes using two types of data:
+1. [Data from high-resolution simulation and observations. ](../research4)
+2. [Data resulting from model errors, also called data assimilation increments.](../research5)
 
 Below is a representation of the physical processes that will be studied by the team:
 
