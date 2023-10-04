@@ -99,12 +99,6 @@ enableEmoji = true
 
 
 [[menu.main]]
-    identifier = "sitevisit"
-    name = "Site Visit"
-    url = "/sitevisit/"
-    weight = 7
-
-[[menu.main]]
     name = "Latest"
     url = "/publications/"
     parent = "publications"
