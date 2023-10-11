@@ -174,7 +174,7 @@ If you are interested in understanding how M²LInES is using machine learning to
     <img src="/images/news/Perezhogin_eddy.gif" style="width: 100px; height: 100px;">
   </div>
   <p>
-    <strong>Pavel Perezhogin1, Laure Zanna, Carlos Fernandez-Granda</strong><br>
+    <strong>Pavel Perezhogin, Laure Zanna, Carlos Fernandez-Granda</strong><br>
     <a href="https://arxiv.org/abs/2302.07984"><strong>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</strong></a><br>
     <i>Preprint submitted to JAMES. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2302.07984
   </p>
@@ -304,7 +304,7 @@ If you are interested in understanding how M²LInES is using machine learning to
     <strong>Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arthur Guillaumin,  <br>
      Elizabeth Yankovsky, Gustavo Marques, Jacob Steinberg, Andrew Slavin Ross, Hemant Khatri, <br>
      Scott Bachman, Laure Zanna, Paige Martin</strong><br>
-    <a href="https://doi.org/10.21105/joss.03947"><strong>Deep Probability Estimation</strong></a><br>
+    <a href="https://doi.org/10.21105/joss.03947"><strong>GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data</strong></a><br>
     <i>Journal of Open Source Software 7(70), p.3947. 2022.</i> <strong>DOI</strong>: 10.21105/joss.03947
   </p>
 </div>
