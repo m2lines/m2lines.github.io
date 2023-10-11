@@ -220,7 +220,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   <p>
     <strong>Takaya Uchida, Dhruv Balwada, Quentin Jamet, William K. Dewar, Bruno Deremble, <br>
      Thierry Penduff, Julien Le Sommer</strong><br>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1463500323000136?via%3Dihub)"><strong>Reconstruction of Cautionary tales from the mesoscale eddy transport tensor</strong></a><br>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1463500323000136?via%3Dihub)"><strong>Cautionary tales from the mesoscale eddy transport tensor</strong></a><br>
     <i>ScienceDirect 2023.</i> <strong>DOI</strong>: 10.1016/j.ocemod.2023.102172
   </p>
 </div>
