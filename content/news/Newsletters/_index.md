@@ -13,7 +13,7 @@ tags:
 ### 2023
 
 * 10/04/2023 - [M²LInES newsletter - October 2023](https://mailchi.mp/09855c01b0d3/m2lines-october-newsletter)
-  
+
 * 09/06/2023 - [M²LInES newsletter - September 2023](https://mailchi.mp/77c1eded6eb6/m2lines-september-newsletter)
 
 * 08/01/2023 - [M²LInES newsletter - August 2023](https://mailchi.mp/8afe52c0433c/m2lines-august23-newsletter)
