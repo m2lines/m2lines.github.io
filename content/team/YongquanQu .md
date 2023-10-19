@@ -10,8 +10,6 @@ Website: "https://yongquan-qu.github.io"
 ---
 
 
-Columbia University 
+Columbia University
 
 *Atmosphere, Machine Learning, Data Assimilation*
-
-

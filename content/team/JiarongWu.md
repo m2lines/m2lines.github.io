@@ -10,8 +10,6 @@ Website: "https://jiarong-wu.github.io/"
 ---
 
 
-NYU 
+NYU
 
 *Ocean, Coupled Physics, Ocean Surface Waves*
-
-
