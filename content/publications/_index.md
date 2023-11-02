@@ -72,9 +72,9 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Aakash Sane, Brandon G. Reichl, Alistair Adcroft, Laure Zanna</strong><br>
-    <a href="https://arxiv.org/abs/2306.09045"><strong>Parameterizing vertical mixing coefficients in the Ocean
+    <a href="https://doi.org/10.1029/2023MS003890"><strong>Parameterizing vertical mixing coefficients in the Ocean
     Surface Boundary Layer using Neural Networks</strong></a><br>
-    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.09045
+    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003890
   </p>
 </div>
 
@@ -130,8 +130,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>William Gregory, Mitchell Bushuk, Alistair Adcroft, Yongfei Zhang, Laure Zanna</strong><br>
-<a href="https://arxiv.org/abs/2304.03832"><strong>Deep learning of systematic sea ice model errors from data assimilation increments</strong></a><br>
-<i>Preprint submitted to JAMES 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2304.03832
+<a href="https://doi.org/10.1029/2023MS003757"><strong>Deep learning of systematic sea ice model errors from data assimilation increments</strong></a><br>
+<i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003757
 
   </p>
 </div>
@@ -175,8 +175,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Pavel Perezhogin, Laure Zanna, Carlos Fernandez-Granda</strong><br>
-    <a href="https://arxiv.org/abs/2302.07984"><strong>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</strong></a><br>
-    <i>Preprint submitted to JAMES. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2302.07984
+    <a href="https://doi.org/10.1029/2023MS003681"><strong>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</strong></a><br>
+    <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003681
   </p>
 </div>
 
@@ -197,8 +197,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna</strong><br>
-    <a href="https://arxiv.org/abs/2303.00962)"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a <br> Numerical Ocean Circulation Model</strong></a><br>
-    <i>Preprint submitted to JAMES 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2303.00962
+    <a href=" https://doi.org/10.1029/2023MS003697"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a <br> Numerical Ocean Circulation Model</strong></a><br>
+    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
   </p>
 </div>
 
@@ -246,8 +246,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Joan Bruna, Benjamin Peherstorfer, Eric Vanden-Eijnden</strong><br>
-    <a href="https://arxiv.org/abs/2203.01360)"><strong>Neural Galerkin Scheme with Active Learning for High-Dimensional Evolution Equations</strong></a><br>
-    <i>ArXiv 2022.</i> <strong>DOI</strong>: 10.48550/arXiv.2203.01360
+    <a href="https://doi.org/10.1016/j.jcp.2023.112588"><strong>Neural Galerkin Scheme with Active Learning for High-Dimensional Evolution Equations</strong></a><br>
+    <i>Journal of Computational Physics</i> <strong>DOI</strong>: 10.1016/j.jcp.2023.112588
   </p>
 </div>
 
@@ -257,8 +257,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Peidong Wang, Janni Yuval, Paul A. O'Gorman</strong><br>
-    <a href="https://arxiv.org/abs/2201.00417"><strong>Non-local parameterization of atmospheric subgrid processes with neural networks</strong></a><br>
-    <i>Preprint submitted to JAMES 2022.</i> <strong>DOI</strong>: 10.1029/2022MS002984
+    <a href="https://doi.org/10.1029/2022MS002984"><strong>Non-local parameterization of atmospheric subgrid processes with neural networks</strong></a><br>
+    <i>JAMES 2022.</i> <strong>DOI</strong>: 10.1029/2022MS002984
   </p>
 </div>
 
