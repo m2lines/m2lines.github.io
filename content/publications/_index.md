@@ -197,7 +197,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna</strong><br>
-    <a href=" https://doi.org/10.1029/2023MS003697"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a <br> Numerical Ocean Circulation Model</strong></a><br>
+    <a href="https://doi.org/10.1029/2023MS003697"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a <br> Numerical Ocean Circulation Model</strong></a><br>
     <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
   </p>
 </div>
