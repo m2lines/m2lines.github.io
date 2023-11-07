@@ -108,7 +108,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   <p>
     <strong>Gustau Camps-Valls, Andreas Gerhardus, Urmi Ninad, Gherardo Varando, Georg Martius, <br>
      Emili Balaguer-Ballester, Ricardo Vinuesa, Emiliano Diaz, Laure Zanna, Jakob Runge</strong><br>
-    <a href="https://arxiv.org/abs/2305.13341"><strong>Discovering Causal Relations and Equations from Data.</strong></a><br>
+    <a href="https://doi.org/10.1016/j.physrep.2023.10.005"><strong>Discovering Causal Relations and Equations from Data.</strong></a><br>
     <i>Physics Reports 2023.</i> <strong>DOI</strong>: 10.1016/j.physrep.2023.10.005
   </p>
 </div>
