@@ -12,6 +12,10 @@ tags:
 
 ### 2023
 
+* 12/01/2023 - [M²LInES newsletter - December 2023 - Special AGU](https://mailchi.mp/7d7642df21e6/m2lines-december-newsletter-agu)
+  
+* 11/02/2023 - [M²LInES newsletter - November 2023](https://mailchi.mp/6be77812991b/m2lines-november-newsletter)
+  
 * 10/04/2023 - [M²LInES newsletter - October 2023](https://mailchi.mp/09855c01b0d3/m2lines-october-newsletter)
 
 * 09/06/2023 - [M²LInES newsletter - September 2023](https://mailchi.mp/77c1eded6eb6/m2lines-september-newsletter)
