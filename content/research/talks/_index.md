@@ -16,71 +16,95 @@ Themes of the talks:
 * &#127878; Physics discovery
 * &#127758; Modeling
 
-<h1 style="font-family: Helvetica, serif; text-align: center;">Featured talks</h1>
-<hr style="width: 100%; margin-top: 20px; border-color: #333;">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <div onclick="window.open('https://www.youtube.com/watch?v=SRDb7X30DYc');">
-      <a href="#" class="fill-div">
-      <img src="https://img.youtube.com/vi/SRDb7X30DYc/0.jpg" alt="Video Preview">
-      </a>
+<style>
+  /* Change the color of the navigation arrows */
+  .carousel-control.left, .carousel-control.right {
+    color: #000000;
+    background-image: none;
+  }
+  .carousel-inner .item {
+    padding-bottom: 50px;
+  }
+
+  /* Change the color of the carousel indicators (dots) */
+  .carousel-indicators li {
+    background-color: #808080;
+  }
+
+  .carousel-indicators .active {
+    background-color: #000000;
+  }
+</style>
+
+<div class="container">
+  <h1 style="font-family: Helvetica, serif; text-align: center;">Featured talks</h1>
+  <hr style="width: 100%; margin-top: 20px; border-color: #333;">
+  <div id="myCarousel" class="carousel slide" data-pause="hover">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <div style="display: flex; justify-content: center; align-items: center;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/SRDb7X30DYc?si=GYok6r1Kz8Z-FcPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <p align="center">
+            <strong>Laure Zanna</strong><br>
+            <em>Transforming Climate Modeling with AI: hype or Reality?</em><br>
+            UN AI for Good - March 2023 &#128187; &#127878;
+          </p>
+      </div>
+      <div class="item">
+        <div style="display: flex; justify-content: center; align-items: center;">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/bKtuRjxWNYE?si=Z2FccgUAGyS-AG32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <p align="center">
+          <strong>Janni Yuval</strong><br>
+          <em>Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation</em><br>
+          23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics - June 2022 &#128187; &#127878;
+        </p>
+      </div>
+      <div class="item">
+        <div style="display: flex; justify-content: center; align-items: center;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/X3EQg1_-xXU?si=hCf5UVIUwmVmGi8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <p align="center">
+          <strong>Pavel Perezhogin</strong><br>
+          <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</em><br>
+          NEMO working group on Machine-Learning - April 2023
+        </p>
+      </div>
+      <div class="item">
+        <div style="display: flex; justify-content: center; align-items: center;">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/U7RY218Vp0E?si=XM6k703NDHZOb8PD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <p align="center">
+          <strong>Aakash Sane</strong><br>
+          <em>Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks</em><br>
+          Ocean Sciences Meeting - February 2022 &#128187; &#127878;
+        </p>
+      </div>
     </div>
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
-  <p>
-    <strong>Laure Zanna</strong><br>
-    <em>Transforming Climate Modeling with AI: hype or Reality?</em><br>
-    UN AI for Good - March 2023 &#128187; &#127878;
-  </p>
 </div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <a href="#" class="fill-div">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
-        </a>
-      </div>
-  </div>
-  <p>
-    <strong>Pavel Perezhogin</strong><br>
-    <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</em><br>
-    NEMO working group on Machine-Learning - April 2023
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.imsi.institute/videos/neural-network-parameterization-of-subgrid-momentum-transport-learned-from-a-high-resolution-simulation/');">
-        <a href="#" class="fill-div">
-        <img src="/images/talks/JY_f.png" alt="Video Preview">
-        </a>
-      </div>
-  </div>
-  <p>
-    <strong>Janni Yuval</strong><br>
-    <em>Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation</em><br>
-    23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics - June 2022 &#128187; &#127878;
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=U7RY218Vp0E');">
-        <a href="#" class="fill-div">
-        <img src="https://img.youtube.com/vi/U7RY218Vp0E/0.jpg" alt="Video Preview">
-        </a>
-      </div>
-  </div>
-  <p>
-    <strong>Aakash Sane</strong><br>
-    <em>Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks</em><br>
-    Ocean Sciences Meeting - February 2022 &#128187; &#127878;
-  </p>
-</div>
-
-<!-- <h1 style="font-family: Helvetica, serif; text-align: center;">Upcoming talks</h1>
-<hr style="width: 100%; margin-top: 20px; border-color: #333;"> -->
 
 <h1 style="font-family: Helvetica, serif; text-align: center;">Recent talks</h1>
 <hr style="width: 100%; margin-top: 20px; border-color: #333;">
