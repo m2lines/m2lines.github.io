@@ -1,6 +1,6 @@
 ---
 date: 2023-12-11T09:29:16+10:00
-title: ' Will Gregory's latest article featured in Advance Science News'
+title: "Will Gregory's latest article featured in Advance Science News"
 heroHeading: ''
 heroSubHeading: ''
 heroBackground: ''
