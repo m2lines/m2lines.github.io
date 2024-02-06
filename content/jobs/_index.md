@@ -11,4 +11,4 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 
 ### NYU
 
-Postdoctoral researchers in Earth System Climate Modeling with AI at NYU. Available immediatly. [Apply here]([https://apply.interfolio.com/140348]
+Postdoctoral researchers in Earth System Climate Modeling with AI at NYU. Available immediatly. [Apply here](https://apply.interfolio.com/140348)
