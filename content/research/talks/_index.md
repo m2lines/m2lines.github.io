@@ -16,7 +16,7 @@ Themes of the talks:
 * &#127878; Physics discovery
 * &#127758; Modeling
 
-<link rel="stylesheet" href="themes/hugo-hero-theme/assets/scss/bootstrap/_carousel.scss">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
