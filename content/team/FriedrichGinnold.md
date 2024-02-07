@@ -2,7 +2,7 @@
 title: "Friedrich Ginnold"
 draft: false
 image: "/images/team/Friedrich.jpeg"
-jobtitle: "Affiliate, GS"
+jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 49
 Website:
