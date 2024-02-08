@@ -1,10 +1,10 @@
 ---
 title: "Julia Simpson"
 draft: false
-image: "images/team/"
+image: "images/team/JuliaLSimpson.jpeg"
 jobtitle: "Affiliate, Graduate Student"
 promoted: true
-Website: www.linkedin.com/in/julia-simpson
+Website: https://www.linkedin.com/in/julia-simpson
 weight: 6
 tags: [Ocean, Atmosphere, Machine Learning, Air-Sea Fluxes]
 ---

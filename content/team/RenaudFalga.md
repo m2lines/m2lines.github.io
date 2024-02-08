@@ -1,7 +1,7 @@
 ---
 title: "Renaud Falga"
 draft: false
-image: "/images/team/"
+image: "/images/newlogo.png"
 jobtitle: "Incoming Postdoc"
 promoted: true
 weight: 50
