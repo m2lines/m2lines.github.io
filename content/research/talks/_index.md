@@ -9,102 +9,114 @@ tags:
 
 Your can find most of our past talks, and much more, on our <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Youtube Channel</a>
 
----
 Themes of the talks:
 * &#128202; Big data
 * &#128187; Machine Learning
 * &#127878; Physics discovery
 * &#127758; Modeling
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/css/splide.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/css/splide-extension-video.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/js/splide.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/js/splide-extension-video.min.js"></script>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 <style>
-  /* Change the color of the navigation arrows */
-  .carousel-control.left, .carousel-control.right {
-    color: #000000;
-    background-image: none;
-  }
-  .carousel-inner .item {
-    padding-bottom: 50px;
-  }
+  #video-carousel {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px; /* Adjust based on your video sizes or preference */
 
-  /* Change the color of the carousel indicators (dots) */
-  .carousel-indicators li {
-    background-color: #808080;
-  }
+}
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
 
-  .carousel-indicators .active {
-    background-color: #000000;
-  }
+.splide__video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+p {
+  word-wrap: break-word; /* Ensures long words can break and wrap onto the next line */
+  overflow-wrap: break-word; /* Similar to word-wrap, but with better support */
+  white-space: normal; /* Ensures whitespace is handled normally, allowing wrapping */
+}
+
+
 </style>
 
-<div class="container">
-  <h1 style="font-family: Helvetica, serif; text-align: center;">Featured talks</h1>
-  <hr style="width: 100%; margin-top: 20px; border-color: #333;">
-  <div id="myCarousel" class="carousel slide" data-pause="hover">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
-    </ol>
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner">
-      <div class="item active">
-        <div style="display: flex; justify-content: center; align-items: center;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/SRDb7X30DYc?si=GYok6r1Kz8Z-FcPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var splide = new Splide('#video-carousel', {
+      type       : 'loop',
+      perPage    : 1,
+      rewind     : true,
+      width      : '800px', // Adjust as needed
+      gap        : '1rem',
+      pagination : false,
+      autoplay   : false, // Set true if you want autoplay
+      pauseOnHover: true,
+    });
+
+    splide.mount(window.splide.Extensions);
+  });
+</script>
+
+
+<div id="video-carousel" class="splide">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <div class="video-wrapper">
+          <iframe class="splide__video" src="https://www.youtube.com/embed/SRDb7X30DYc?si=GYok6r1Kz8Z-FcPR"></iframe>
         </div>
         <p align="center">
-            <strong>Laure Zanna</strong><br>
-            <em>Transforming Climate Modeling with AI: hype or Reality?</em><br>
-            UN AI for Good - March 2023 &#128187; &#127878;
-          </p>
-      </div>
-      <div class="item">
-        <div style="display: flex; justify-content: center; align-items: center;">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/bKtuRjxWNYE?si=Z2FccgUAGyS-AG32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <strong>Laure Zanna</strong><br>
+          <em>Transforming Climate Modeling with AI: hype or Reality?</em><br>
+          UN AI for Good - March 2023 &#128187; &#127878;
+        </p>
+      </li>
+      <li class="splide__slide">
+        <div class="video-wrapper">
+          <iframe class="splide__video" src="https://www.youtube.com/embed/bKtuRjxWNYE?si=Z2FccgUAGyS-AG32"></iframe>
         </div>
         <p align="center">
           <strong>Janni Yuval</strong><br>
           <em>Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation</em><br>
           23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics - June 2022 &#128187; &#127878;
         </p>
-      </div>
-      <div class="item">
-        <div style="display: flex; justify-content: center; align-items: center;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/X3EQg1_-xXU?si=hCf5UVIUwmVmGi8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </li>
+      <li class="splide__slide">
+        <div class="video-wrapper">
+          <iframe class="splide__video" src="https://www.youtube.com/embed/X3EQg1_-xXU?si=hCf5UVIUwmVmGi8O"></iframe>
         </div>
         <p align="center">
           <strong>Pavel Perezhogin</strong><br>
-          <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</em><br>
+          <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean <br> model</em><br>
           NEMO working group on Machine-Learning - April 2023
         </p>
-      </div>
-      <div class="item">
-        <div style="display: flex; justify-content: center; align-items: center;">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/U7RY218Vp0E?si=XM6k703NDHZOb8PD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </li>
+      <li class="splide__slide">
+        <div class="video-wrapper">
+          <iframe class="splide__video" src="https://www.youtube.com/embed/U7RY218Vp0E?si=XM6k703NDHZOb8PD"></iframe>
         </div>
         <p align="center">
           <strong>Aakash Sane</strong><br>
-          <em>Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks</em><br>
+          <em>Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using <br> Neural Networks</em><br>
           Ocean Sciences Meeting - February 2022 &#128187; &#127878;
         </p>
-      </div>
-    </div>
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
+      </li>
+    </ul>
   </div>
 </div>
+
+
+
 
 <h1 style="font-family: Helvetica, serif; text-align: center;">Recent talks</h1>
 <hr style="width: 100%; margin-top: 20px; border-color: #333;">
