@@ -9,14 +9,14 @@ tags:
 
 
  Links to our past newsletters are below.
-
-### 2023
-
+### 2024
 * 02/16/2024 - [M²LInES newsletter - Special Ocean Sciences Meeting](https://mailchi.mp/98cf4196cd4a/m2lines-newsletter-osm24)
 
 * 02/01/2024 - [M²LInES newsletter - Feburary 2024](https://mailchi.mp/149196c77c09/m2lines-feburary-2024)
 
 * 01/08/2024 - [M²LInES newsletter - January 2024](https://mailchi.mp/688f6e69dc60/m2lines-january-2024)
+
+### 2023
   
 * 12/01/2023 - [M²LInES newsletter - December 2023 - Special AGU](https://mailchi.mp/7d7642df21e6/m2lines-december-newsletter-agu)
 
