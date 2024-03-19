@@ -10,6 +10,19 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub https://github.com/m2lines/L96_demo.
 
 ### 2024
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/al_24.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Adam Subel, Laure Zanna</strong><br>
+    <a href="https://arxiv.org/abs/2308.15295"><strong>Building Ocean Climate Emulators</strong></a><br>
+    <i>ICLR 2024 Workshop: Tackling Climate Change with Machine Learning.</i> <strong>DOI</strong>: 10.48550/arXiv.2402.04342
+  </p>
+</div>
+
+
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/wmy_24.png" style="width: 100px; height: 100px;">
@@ -189,6 +202,17 @@ If you are interested in understanding how M²LInES is using machine learning to
     <strong>Pavel Perezhogin, Laure Zanna, Carlos Fernandez-Granda</strong><br>
     <a href="https://doi.org/10.1029/2023MS003681"><strong>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</strong></a><br>
     <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003681
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/Perezhogin_eddy.gif" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Pavel Perezhogin, Andrey Glazunov</strong><br>
+    <a href="https://doi.org/10.1029/2023MS003771"><strong>Subgrid Parameterizations of Ocean Mesoscale Eddies Based on Germano Decomposition</strong></a><br>
+    <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003771
   </p>
 </div>
 
