@@ -73,42 +73,42 @@ p {
     <ul class="splide__list">
       <li class="splide__slide">
         <div class="video-wrapper">
-          <iframe class="splide__video" src="https://www.youtube.com/embed/SRDb7X30DYc?si=GYok6r1Kz8Z-FcPR"></iframe>
+          <iframe class="splide__video" src="https://www.youtube.com/embed/oiIiWwm7iNM?si=SbFdl4Ovoe-9UJc-"></iframe>
         </div>
         <p align="center">
           <strong>Laure Zanna</strong><br>
-          <em>Transforming Climate Modeling with AI: hype or Reality?</em><br>
-          UN AI for Good - March 2023 &#128187; &#127878;
+          <em>Accelerating Discovery in Climate Physics with Machine Learning</em><br>
+          Simons foundation Presidential Lecture - February 2024 &#128187; &#127878;
         </p>
       </li>
       <li class="splide__slide">
         <div class="video-wrapper">
-          <iframe class="splide__video" src="https://www.youtube.com/embed/bKtuRjxWNYE?si=Z2FccgUAGyS-AG32"></iframe>
+          <iframe class="splide__video"  src="https://www.youtube.com/embed/PbcFWN5dtJc?si=Vb8WLHSDMhEIFyfn"></iframe>></iframe>
         </div>
         <p align="center">
-          <strong>Janni Yuval</strong><br>
-          <em>Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation</em><br>
-          23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics - June 2022 &#128187; &#127878;
+          <strong>Paul O'Gorman</strong><br>
+          <em>MIT's BC3 and Climate and Weather Extremes</em><br>
+          ICCS Cross VESRI Journal  - February 2024 &#128187; &#127878;
         </p>
       </li>
       <li class="splide__slide">
         <div class="video-wrapper">
-          <iframe class="splide__video" src="https://www.youtube.com/embed/X3EQg1_-xXU?si=hCf5UVIUwmVmGi8O"></iframe>
+          <iframe class="splide__video" src="https://www.youtube.com/embed/EfGNoRIzq4M?si=xeZUktdxbfTTl5-B"></iframe>
         </div>
         <p align="center">
-          <strong>Pavel Perezhogin</strong><br>
-          <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean <br> model</em><br>
-          NEMO working group on Machine-Learning - April 2023
+          <strong>Will Chapman</strong><br>
+          <em>Advancing Weather and Climate Prediction with Data Driven Methods</em><br>
+          Paul G. Allen School - February 2024
         </p>
       </li>
       <li class="splide__slide">
         <div class="video-wrapper">
-          <iframe class="splide__video" src="https://www.youtube.com/embed/U7RY218Vp0E?si=XM6k703NDHZOb8PD"></iframe>
+          <iframe class="splide__video" src="https://www.youtube.com/embed/1esiBpicss4?si=-ZnmyagFdZnxr6u6"></iframe>
         </div>
         <p align="center">
-          <strong>Aakash Sane</strong><br>
-          <em>Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using <br> Neural Networks</em><br>
-          Ocean Sciences Meeting - February 2022 &#128187; &#127878;
+          <strong>Laure Zanna</strong><br>
+          <em>A New Generation of Global Climate Models Augmented by AI</em><br>
+          Distinguished Seminar Series in Computational Science and Engineering - October 2023 &#128187; &#127878;
         </p>
       </li>
     </ul>
@@ -121,7 +121,146 @@ p {
 <h1 style="font-family: Helvetica, serif; text-align: center;">Recent talks</h1>
 <hr style="width: 100%; margin-top: 20px; border-color: #333;">
 
+## *2024*
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=FEmuUlVvTuw');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/FEmuUlVvTuw/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Aakash Sane</strong><br>
+    <em>Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer Using Neural Networks</em><br>
+   CESM OMWG - February  &#128187; &#127878;
+  </p>
+</div>
+
+
+## *2023*
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=GVaFjoiB4I4&t=10519s');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/GVaFjoiB4I4/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Pavel Perezhogin</strong><br>
+    <em>Machine-Learned parameterizations of mesoscale eddies in MOM6 ocean model: convolutional neural network and symbolic regression</em><br>
+   28th Annual CESM Workshop - June  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=6lqkFuLI0ms');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/6lqkFuLI0ms/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Laure Zanna</strong><br>
+    <em>Ocean and Atmosphere Dynamics</em><br>
+   Climatematch academy - July  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=Tya7d0tfpb0&t=1743s');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/Tya7d0tfpb0/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Fabrizio Falasca</strong><br>
+    <em>Exploting the nonstationarity of coastal sea level probability distributions</em><br>
+   NOAA-CVP Webinar Series 2023 - April  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=AIgTy033-A4');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/AIgTy033-A4/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Paul O'Gorman</strong><br>
+    <em>Improving climate models using machine learning</em><br>
+    MIT Generative AI Week - November  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=SRDb7X30DYc');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/SRDb7X30DYc/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Laure Zanna</strong><br>
+    <em>Transforming Climate Modeling with AI: hype or Reality?</em><br>
+    UN AI for Good - March &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Pavel Perezhogin</strong><br>
+    <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model </em><br>
+    NEMO working group on Machine-Learning - April &#128187; &#127878;
+  </p>
+</div>
+
 ## *2022*
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=bKtuRjxWNYE');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/bKtuRjxWNYE/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Janni Yuval</strong><br>
+    <em>Neural-network parameterization of subgrid momentum transport learned from a high-resolution simulation </em><br>
+    23rd AMS Conference on Atmospheric and Oceanic Fluid Dynamics - June &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=U7RY218Vp0E');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/U7RY218Vp0E/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Aakash Sane</strong><br>
+    <em>Parameterizing Vertical Turbulent Mixing Coefficients In The Ocean Surface Boundary Layer Using Neural Networks </em><br> February &#128187; &#127878;
+  </p>
+</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">

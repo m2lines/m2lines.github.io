@@ -9,6 +9,18 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub https://github.com/m2lines/L96_demo.
 
+### 2024
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/wmy_24.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>William Gregory, Mitchell Bushuk, Yongfei Zhang, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://arxiv.org/abs/2308.15295"><strong>Machine Learning for Online Sea Ice Bias Correction Within Global Ice-Ocean Simulations</strong></a><br>
+    <i>Geophysical Research Letters 2024.</i> <strong>DOI</strong>: 10.1029/2023GL106776
+  </p>
+</div>
+
 ### 2023
 
 <div style="display: flex; align-items: center;">
@@ -40,7 +52,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   <p>
     <strong>Emily Newsom, Laure Zanna, Jonathan Gregory</strong><br>
     <a href="https://arxiv.org/abs/2307.11902"><strong>Background Pycnocline depth constrains Future Ocean Heat Uptake Efficiency</strong></a><br>
-    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2307.11902
+    <i>AGU Geophysical Research Letters 2023.</i> <strong>DOI</strong>: 10.1029/2023GL105673
   </p>
 </div>
 
@@ -50,7 +62,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Fabrizio Falasca, Pavel Perezhogin, Laure Zanna</strong><br>
-    <a href="https://arxiv.org/abs/2306.14433"><strong>Causal inference in spatiotemporal climate fields through linear response theory</strong></a><br>
+    <a href="https://arxiv.org/abs/2306.14433"><strong>A data-driven framework for dimensionality reduction and causal inference in climate fields</strong></a><br>
     <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.14433
   </p>
 </div>
