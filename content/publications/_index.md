@@ -38,6 +38,17 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/pca_24.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Pavel Perezhogin, Cheng Zhang, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
+    <a href="https://arxiv.org/abs/2311.02517"><strong>Implementation of a data-driven equation-discovery mesoscale parameterization into an ocean mode</strong></a><br>
+    <i>James 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2311.02517
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/bdst_23.png" style="width: 100px; height: 100px;">
   </div>
   <p>
