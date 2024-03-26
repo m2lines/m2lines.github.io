@@ -1,11 +1,11 @@
 ---
-date: 2023-12-11T09:29:16+10:00
-title: "Will Gregory's latest article featured in Advance Science News"
+date: 2023-12-01T09:29:16+10:00
+title: "Will Gregory\'s latest article featured in Advance Science News"
 heroHeading: ''
-heroSubHeading: ''
+heroSubHeading: "Will Gregory\'s latest article featured in Advance Science News"
 heroBackground: ''
-thumbnail:  'images/news/tina-rolf-yuF2B5Zyz88-unsplash.jpg'
-images: ['images/news/tina-rolf-yuF2B5Zyz88-unsplash.jpg']
+thumbnail:  '/images/news/tina-rolf-yuF2B5Zyz88-unsplash.jpg'
+images: ['/images/news/tina-rolf-yuF2B5Zyz88-unsplash.jpg']
 link: 'https://www.advancedsciencenews.com/ai-is-transforming-climate-forecasts-for-melting-sea-ice/'
 ---
 

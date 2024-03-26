@@ -18,7 +18,7 @@ Associate Research Scientist at the interface between climate modeling and machi
 
 Postdoctoral researchers in Earth System Climate Modeling with AI at NYU. Available immediatly. [Apply here](https://apply.interfolio.com/140348)
 
-### Princeton University/GFDL 
+### Princeton University/GFDL
 
 Postdoctoral Research Associate (or more senior scientist) using ML parametrizations for Ocean Data Assimilation Increments. [Apply here](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=32681)
 

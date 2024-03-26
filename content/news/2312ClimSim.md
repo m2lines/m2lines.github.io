@@ -2,7 +2,7 @@
 date: 2023-12-12T09:29:16+10:00
 title: 'ClimSim awarded Best Paper Award at NeurIPS'
 heroHeading: ''
-heroSubHeading: ''
+heroSubHeading: 'ClimSim awarded Best Paper Award at NeurIPS'
 heroBackground: ''
 thumbnail:  '/images/news/ClimSIm.jpeg'
 images: ['/images/news/ClimSIm.jpeg']
