@@ -283,6 +283,18 @@ If you are interested in understanding how M²LInES is using machine learning to
   </p>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/0623-Zampieri.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Lorenzo Zampieri, Gabriele Arduini, Marika Holland, Sarah Keeley, Kristian S. Mogensen, <br>
+     Matthew D. Shupe, Steffen Tietsche</strong><br>
+    <a href="https://doi.org/10.1002/essoar.10511269.1"><strong>A Machine Learning Correction Model of the Winter Clear-Sky Temperature Bias over the Arctic Sea Ice in Atmospheric Reanalyses</strong></a><br>
+    <i>AMS Journals, Monthy Weather Review: volume151, issue6</i> <strong>DOI</strong>: 10.1175/MWR-D-22-0130.1
+  </p>
+</div>
+
 <br/>
 
 ### 2022
@@ -364,18 +376,6 @@ If you are interested in understanding how M²LInES is using machine learning to
     <strong>Hugo Frezat, Julien Le Sommer, Ronan Fablet, Guillaume Balarac, Redouane Lguensat</strong><br>
     <a href="https://doi.org/10.1029/2022MS003124"><strong>A posteriori learning for quasi-geostrophic turbulence parametrization</strong></a><br>
     <i>JAMES. 2022.</i> <strong>DOI</strong>: 10.1029/2022MS003124
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/0623-Zampieri.jpg" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <strong>Lorenzo Zampieri, Gabriele Arduini, Marika Holland, Sarah Keeley, Kristian S. Mogensen, <br>
-     Matthew D. Shupe, Steffen Tietsche</strong><br>
-    <a href="https://doi.org/10.1002/essoar.10511269.1"><strong>A machine learning correction model of the clear-sky bias over the Arctic sea ice in atmospheric reanalyses</strong></a><br>
-    <i>J Earth and Space Science Open Archive. 2022 (preprint)</i> <strong>DOI</strong>: 10.1002/essoar.10511269.1
   </p>
 </div>
 
