@@ -43,7 +43,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   <p>
     <strong>Pavel Perezhogin, Cheng Zhang, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
     <a href="https://arxiv.org/abs/2311.02517"><strong>Implementation of a data-driven equation-discovery mesoscale parameterization into an ocean mode</strong></a><br>
-    <i>James 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2311.02517
+    <i>James 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
   </p>
 </div>
 
@@ -54,7 +54,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   <p>
     <strong>Will Chapman and Judith Berner </strong><br>
     <a href="https://arxiv.org/abs/2308.15295"><strong>Benefits of Deterministic and Stochastic Tendency Adjustments in a Climate Model</strong></a><br>
-    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2308.15295
+    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.1002/qj.4652
   </p>
 </div>
 
@@ -86,8 +86,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Fabrizio Falasca, Pavel Perezhogin, Laure Zanna</strong><br>
-    <a href="https://arxiv.org/abs/2306.14433"><strong>A data-driven framework for dimensionality reduction and causal inference in climate fields</strong></a><br>
-    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.14433
+    <a href="https://arxiv.org/abs/2306.14433"><strong>Data-driven framework for dimensionality reduction and causal inference in climate fields</strong></a><br>
+    <i>APS Physics Review E 2024</i> <strong>DOI</strong>: 10.1103/PhysRevE.109.044202
   </p>
 </div>
 
@@ -201,7 +201,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   <p>
     <strong>Fabrizio Falasca, Andrew Brettin, Laure Zanna, Stephen M. Griffies, Jianjun Yin, Ming Zhao</strong><br>
     <a href="https://arxiv.org/abs/2211.04608"><strong>Exploring the non-stationarity of coastal sea level probability distributions</strong></a><br>
-    <i>arxiv.org:2211.04608. Preprint submitted to EDS. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2211.04608
+    <i>EDS. volume 2 2023.</i> <strong>DOI</strong>: 10.1017/eds.2023.10
   </p>
 </div>
 
