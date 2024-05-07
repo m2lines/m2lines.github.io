@@ -10,6 +10,8 @@ tags:
 
  Links to our past newsletters are below.
 ### 2024
+* 05/01/2024 - [M²LInES newsletter - May 2024](https://mailchi.mp/04a341e92442/m2lines-may-2024)
+
 * 04/01/2024 - [M²LInES newsletter - April 2024](https://mailchi.mp/e8da3716350c/m2lines-april24-newsletter)
 
 * 02/16/2024 - [M²LInES newsletter - Special Ocean Sciences Meeting](https://mailchi.mp/98cf4196cd4a/m2lines-newsletter-osm24)
