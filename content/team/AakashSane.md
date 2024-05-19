@@ -6,7 +6,7 @@ jobtitle: "Postdoc"
 promoted: true
 weight: 17
 Website: https://aakashsane.gitlab.io/
-tags: [Ocean Surface, Boundary Layer, Machine Learning]
+tags: [Ocean, Machine Learning, Climate Model Development]
 ---
 
 Princeton University, Affiliate NOAA-GFDL in Ocean Division

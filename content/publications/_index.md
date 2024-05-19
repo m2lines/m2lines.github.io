@@ -13,6 +13,28 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/zcsh_24.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Lorenzo Zampieri, David Clemens-Sewall, Anne Sledd, Nils Hutter, Marika Holland</strong><br>
+    <a href="https://doi.org/10.1029/2023GL106760"><strong>Modeling the Winter Heat Conduction Through the Sea Ice System During MOSAiC</strong></a><br>
+    <i>Geophysical Research Letters 2024</i> <strong>DOI</strong>: 10.1029/2023GL106760
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/gmti_24.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>William Gregory, Ronald MacEachern, So Takao, Isobel Lawrence, Carmen Nab, Marc Deisenroth, Michel Tsamados</strong><br>
+    <a href="https://doi.org/10.21203/rs.3.rs-4209064/v1"><strong>Scalable interpolation of satellite altimetry data with probabilistic machine learning</strong></a><br>
+    <i>Nature Comms. 2024</i> <strong>DOI</strong>: 10.21203/rs.3.rs-4209064/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/al_24.png" style="width: 100px; height: 100px;">
   </div>
   <p>
@@ -34,7 +56,40 @@ If you are interested in understanding how M²LInES is using machine learning to
   </p>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/cisc_23.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Fabrizio Falasca, Pavel Perezhogin, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1103/PhysRevE.109.044202"><strong>Data-driven framework for dimensionality reduction and causal inference in climate fields</strong></a><br>
+    <i>APS Physics Review E 2024</i> <strong>DOI</strong>: 10.1103/PhysRevE.109.044202
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/bpyg_24.jpeg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Tom Beucler,  Michael Pritchard, Janni Yuval, Ankitesh Gupta, Liran Peng, Stephan Rasp, Fiaz Ahmed, Paul O’Gorman, J. David Neelin, Nicholas J. Lutsko, Pierre Gentine</strong><br>
+    <a href="https://doi.org/10.1126/sciadv.adj7250"><strong>Climate-Invariant Machine Learning</strong></a><br>
+    <i>Science Advances 2024</i> <strong>DOI</strong>: 10.1126/sciadv.adj7250
+  </p>
+</div>
+
 ### 2023
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/cpga_24.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
+    <a href="https://doi.org/10.1029/2023MS003697"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization Into a Numerical Ocean Circulation Model</strong></a><br>
+    <i>James 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
+  </p>
+</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -42,8 +97,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Pavel Perezhogin, Cheng Zhang, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
-    <a href="https://arxiv.org/abs/2311.02517"><strong>Implementation of a data-driven equation-discovery mesoscale parameterization into an ocean mode</strong></a><br>
-    <i>James 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
+    <a href="https://arxiv.org/abs/2311.02517"><strong>Implementation of a data-driven equation-discovery mesoscale parameterization into an ocean model</strong></a><br>
+    <i>James 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2311.02517
   </p>
 </div>
 
@@ -53,8 +108,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Will Chapman and Judith Berner </strong><br>
-    <a href="https://arxiv.org/abs/2308.15295"><strong>Benefits of Deterministic and Stochastic Tendency Adjustments in a Climate Model</strong></a><br>
-    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.1002/qj.4652
+    <a href="https://doi.org/10.1002/qj.4652"><strong>Deterministic and stochastic tendency adjustments derivedfrom data assimilation and nudging</strong></a><br>
+    <i>QJRMS 2023.</i> <strong>DOI</strong>: 10.1002/qj.4652
   </p>
 </div>
 
@@ -75,19 +130,8 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Emily Newsom, Laure Zanna, Jonathan Gregory</strong><br>
-    <a href="https://arxiv.org/abs/2307.11902"><strong>Background Pycnocline depth constrains Future Ocean Heat Uptake Efficiency</strong></a><br>
+    <a href="https://doi.org/10.1029/2023GL105673"><strong>Background Pycnocline depth constrains Future Ocean Heat Uptake Efficiency</strong></a><br>
     <i>AGU Geophysical Research Letters 2023.</i> <strong>DOI</strong>: 10.1029/2023GL105673
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/cisc_23.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <strong>Fabrizio Falasca, Pavel Perezhogin, Laure Zanna</strong><br>
-    <a href="https://arxiv.org/abs/2306.14433"><strong>Data-driven framework for dimensionality reduction and causal inference in climate fields</strong></a><br>
-    <i>APS Physics Review E 2024</i> <strong>DOI</strong>: 10.1103/PhysRevE.109.044202
   </p>
 </div>
 
@@ -227,16 +271,6 @@ If you are interested in understanding how M²LInES is using machine learning to
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/2208-Ross.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <strong>Andrew Ross, Ziwei Li, Pavel Perezhogin, Carlos Fernandez-Granda, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.1029/2022MS003258"><strong>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</strong></a><br>
-    <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2022MS003258
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -255,7 +289,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Qiyu Xiao, Dhruv Balwada, C. Spencer Jones, Mario Herrero-Gonzalez, K. Shafer Smith, Ryan Abernathey</strong><br>
-    <a href="https://essopenarchive.org/users/595672/articles/629531-reconstruction-of-surface-kinematics-from-sea-surface-height-using-neural-networks)"><strong>Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks</strong></a><br>
+    <a href="https://doi.org/10.1029/2023MS003709"><strong>Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks</strong></a><br>
     <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2022MS003258
   </p>
 </div>
@@ -298,6 +332,17 @@ If you are interested in understanding how M²LInES is using machine learning to
 <br/>
 
 ### 2022
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2208-Ross.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <strong>Andrew Ross, Ziwei Li, Pavel Perezhogin, Carlos Fernandez-Granda, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2022MS003258"><strong>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</strong></a><br>
+    <i>JAMES. 2022.</i> <strong>DOI</strong>: 10.1029/2022MS003258
+  </p>
+</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
@@ -390,7 +435,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
     <img src="/images/publications/hbcs_22.png" style="width: 100px; height: 100px;">
   </div>
@@ -399,4 +444,4 @@ If you are interested in understanding how M²LInES is using machine learning to
     <a href="https://arxiv.org/abs/2210.14488"><strong>History-Based, Bayesian, Closure for Stochastic Parameterization: Application to Lorenz '96</strong></a><br>
     <i>ArXiv 2022.</i> <strong>DOI</strong>: 10.48550/arXiv.2210.14488
   </p>
-</div>
+</div> -->
