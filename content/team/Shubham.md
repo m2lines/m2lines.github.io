@@ -2,7 +2,7 @@
 title: "Shubham Gupta"
 draft: false
 image: "/images/team/Shubham.jpeg"
-jobtitle: "Affiliate, Graduate Student "
+jobtitle: "Graduate Student"
 promoted: true
 position: Website Contact
 weight: 44

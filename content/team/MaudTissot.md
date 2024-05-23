@@ -2,7 +2,7 @@
 title: "Maud Tissot"
 draft: false
 image: /images/team/MaudTissot.jpeg
-jobtitle: "Graduate Student"
+jobtitle: "Affiliate"
 promoted: true
 Website:
 weight: 34

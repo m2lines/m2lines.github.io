@@ -2,7 +2,7 @@
 title: "Cheng Zhang"
 draft: false
 image: "/images/team/ChengZhang.jpeg"
-jobtitle: "Postdoc"
+jobtitle: "Affiliate"
 promoted: true
 Website:
 weight: 23
