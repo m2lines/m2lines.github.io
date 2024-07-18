@@ -2,12 +2,10 @@
 title: 'Our funder'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: '/images/ant-rozetsky-unsplash.jpg'
+background: images/dominik-schroder-FIKD9t5_5zQ-unsplash.jpg
 align: right
 ---
 
-##### This project is supported by **Schmidt Sciences, LLC**. A philanthropic initiative founded by Eric and Wendy Schmidt that bets early on exceptional people making the world better, particularly through innovative breakthroughs in science and technology.
+This project is supported by **Schmidt Sciences, LLC**. Read more in our **[press release](https://www.nyu.edu/about/news-publications/news/2021/march/international-collaboration-will-use-artificial-intelligence-to-.html)**
 
 ![](/images/schmidtsciences_primary_color.png)
-
-##### Read more in our **[press release](https://www.nyu.edu/about/news-publications/news/2021/march/international-collaboration-will-use-artificial-intelligence-to-.html)**

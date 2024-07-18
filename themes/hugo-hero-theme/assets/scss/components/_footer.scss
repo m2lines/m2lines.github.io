@@ -4,13 +4,11 @@
   padding-bottom: 20px;
   .footer-inner {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     @include media-breakpoint-up(sm) {
-      justify-content: space-between;
-      flex-direction: row;
-      align-items: center;
+      flex-direction: column;
     }
   }
   .footer-title {
@@ -48,9 +46,14 @@
       &.copyright {
         font-weight: bold;
         color: lighten($secondary, 50%);
-        display: inline-block;
+        display: flex;
+        vertical-align: middle;
+        align-items: center;
+        // min-height: 200px;
         @include media-breakpoint-up(md) {
-          display: inline-block;
+          display: flex;
+          vertical-align: middle;
+
         }
       }
     }
