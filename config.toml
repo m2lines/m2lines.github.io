@@ -1,5 +1,6 @@
 baseURL = "https://m2lines.github.io/"
 relativeURLs = "True"
+canonifyURLs = "True"
 languageCode = "en-us"
 title = "M²LInES"
 themesDir = "themes"
