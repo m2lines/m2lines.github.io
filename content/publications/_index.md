@@ -39,7 +39,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <strong>Adam Subel, Laure Zanna</strong><br>
-    <a href="https://arxiv.org/abs/2308.15295"><strong>Building Ocean Climate Emulators</strong></a><br>
+    <a href="[https://doi.org/10.48550/arXiv.2402.04342]"><strong>Building Ocean Climate Emulators</strong></a><br>
     <i>ICLR 2024 Workshop: Tackling Climate Change with Machine Learning.</i> <strong>DOI</strong>: 10.48550/arXiv.2402.04342
   </p>
 </div>
