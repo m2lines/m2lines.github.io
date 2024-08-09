@@ -2,7 +2,7 @@
 title: "Cem Gultekin"
 draft: false
 image: "/images/team/CemGultekin.jpeg"
-jobtitle: "Graduate Student"
+jobtitle: "Affiliate"
 promoted: true
 weight: 20
 Website:
