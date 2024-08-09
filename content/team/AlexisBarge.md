@@ -2,7 +2,7 @@
 title: "Alexis Barge"
 draft: false
 image: images/team/AlexisBarge.png
-jobtitle: "Research Engineer"
+jobtitle: "Affiliate"
 promoted: true
 Website:
 weight: 34
