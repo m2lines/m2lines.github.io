@@ -6,10 +6,8 @@ jobtitle: "Affiliate, Postdoc"
 promoted: true
 weight: 52
 Website: "https://jiarong-wu.github.io/"
-
+tags: [Ocean, Coupled Physics]
 ---
 
 
 NYU
-
-*Ocean, Coupled Physics, Ocean Surface Waves*
