@@ -7,16 +7,17 @@ heroHeading: 'Machine Learning'
 heroSubHeading: ''
 heroBackground: '/images/retrosupply-jLwVAUtLOAQ-unsplash.jpeg'
 ---
-<center>
-<img src="/images/research/Colored_neural_network.svg.png" style="width: 20vw; padding-bottom: 30px; padding-top: 0px">
-</center>
+
 Machine learning methodologies, particularly neural networks, are computer algorithms inspired by the structure and function of the human brain. These algorithms are capable of learning from data, identifying patterns, and making predictions or decisions without being explicitly programmed. Neural networks consist of interconnected nodes organized into layers, including input, hidden, and output layers. During training, they adjust the strength of connections between nodes, called weights, based on examples from a dataset, allowing them to learn complex patterns and relationships in the data. Neural networks are widely used in various applications, including image recognition, natural language processing, and climate modeling.
 
 
+<center>
+<img src="/images/research/Colored_neural_network.svg.png" style="width: 20vw; padding-bottom: 30px; padding-top: 0px">
+</center>
 
 <h3 style="text-align: center;">Machine learning for climate modeling</h3>
 
-Climate models often face challenges in representing complex processes of large-scale simulations. Machine learning presents innovative approaches to confront these obstacles. It provides new methodologies to learn missing model physics and model errors directly from data. Moreover, machine learning holds the potential to act as a feasible substitute for emulating the complete dynamics of models, thus offering an alternative to traditional climate modeling approaches. The next three paragraphs describe three applications of machine learning for climate modeling that are pursued within the M2LInES project.
+Climate models often face challenges in representing complex processes of large-scale simulations. Machine learning presents innovative approaches to confront these obstacles. It provides new methodologies to learn missing model physics and model errors directly from data. Moreover, machine learning holds the potential to act as a feasible substitute for emulating the complete dynamics of models, thus offering an alternative to traditional climate modeling approaches. The next three paragraphs describe three applications of machine learning for climate modeling that are pursued within the M<sup>2</sup>LInES project.
 
 
 <h3 style="text-align: center;"> Learning missing physics (“parameterization learning”)</h3>
