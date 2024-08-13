@@ -14,6 +14,7 @@ Machine learning methodologies, particularly neural networks, are computer algor
 <center>
 <img src="/images/research/Colored_neural_network.svg.png" style="width: 20vw; padding-bottom: 30px; padding-top: 0px">
 </center>
+<p style="text-align: center;"><small>Source: wikipedia</small></p>
 
 <h3 style="text-align: center;">Machine learning for climate modeling</h3>
 
