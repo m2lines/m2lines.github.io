@@ -1,6 +1,6 @@
 ---
 date: 2024-02-01T09:29:16+10:00
-title: "Restratification Effect of Mesoscale Eddies by Noora"
+title: "Restratification Effect of Mesoscale Eddies"
 heroHeading: ''
 heroSubHeading: 'Comparing Two Parameterizations for the Restratification Effect of Mesoscale Eddies in an Isopycnal Ocean Model'
 heroBackground: ''
