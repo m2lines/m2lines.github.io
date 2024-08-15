@@ -1,6 +1,6 @@
 ---
 date: 2024-05-01T09:29:16+10:00
-title: "Predicting September Arctic Sea Ice by Dr. Bushuk"
+title: "Predicting September Arctic Sea Ice"
 heroHeading: ''
 heroSubHeading: 'Predicting September Arctic Sea Ice: A Multi-Model Seasonal Skill Comparison'
 heroBackground: ''
