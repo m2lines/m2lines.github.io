@@ -180,7 +180,7 @@ If you are interested in understanding how M²LInES is using machine learning to
     <strong>Sungduk Yu, ..., Michael S. Pritchard <br>
     </strong>
     <a href="https://doi.org/10.48550/arXiv.2306.08754" target="_blank"><strong>ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid <br> multi-scale climate simulators</strong></a><br>
-    <i>ArXiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.08754
+    <i>NeurIPS 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2306.08754
   </p>
 </div>
 
@@ -254,7 +254,7 @@ If you are interested in understanding how M²LInES is using machine learning to
     <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon">
     <strong>Karl Otness, Laure Zanna, Joan Bruna</strong><br>
     <a href="https://www.climatechange.ai/papers/iclr2023/60" target="_blank"><strong>Data-driven multiscale modeling of subgrid parameterizations in climate models</strong></a><br>
-    <i>arXiv:2303.17496. Preprint submitted to ICLR Workshop on Climate Change AI. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2303.17496
+    <i>Preprint accepted at ICLR Workshop on Climate Change AI. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2303.17496
   </p>
 </div>
 
@@ -354,6 +354,18 @@ If you are interested in understanding how M²LInES is using machine learning to
      Matthew D. Shupe, Steffen Tietsche</strong><br>
     <a href="https://doi.org/10.1002/essoar.10511269.1" target="_blank"><strong>A Machine Learning Correction Model of the Winter Clear-Sky Temperature Bias over the Arctic Sea Ice in Atmospheric Reanalyses</strong></a><br>
     <i>AMS Journals, Monthy Weather Review: volume151, issue6</i> <strong>DOI</strong>: 10.1175/MWR-D-22-0130.1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/ogdc_22.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Lei Chen and Joan Bruna</strong><br>
+    <a href="https://dl.acm.org/doi/10.5555/3618408.3618580" target="_blank"><strong>On Gradient Descent Convergence beyond the Edge of Stability</strong></a><br>
+    <i>ICLR 2023</i> <strong>DOI</strong>: 10.5555/3618408.3618580
   </p>
 </div>
 
@@ -460,17 +472,6 @@ If you are interested in understanding how M²LInES is using machine learning to
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/ogdc_22.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Lei Chen and Joan Bruna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2206.04172" target="_blank"><strong>On Gradient Descent Convergence beyond the Edge of Stability</strong></a><br>
-    <i>ArXiv 2022</i> <strong>DOI</strong>: 10.48550/arXiv.2206.04172
-  </p>
-</div>
 
 <!-- <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
