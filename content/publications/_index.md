@@ -13,6 +13,31 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/fg_2024.jpeg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Justin Finkel and Paul A. O’Gorman</strong><br>
+    <a href="https://doi.org/10.1029/2024MS004264" target="_blank"><strong>Bringing Statistics to Storylines: Rare Event Sampling for Sudden, Transient Extreme Events</strong></a><br>
+    <i>JAMES 2024</i> <strong>DOI</strong>: 10.1029/2024MS004264
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/btsz_2024.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>David Bonan, Andrew Thompson, Tapio Schneider, Laure Zanna, Kyle Armour, Shantong Sun</strong><br>
+    <a href="https://doi.org/10.21203/rs.3.rs-4456168/v1" target="_blank"><strong>Constraints imply limited future weakening of Atlantic meridional overturning circulation
+</strong></a><br>
+    <i>Preprint under review at Nature Portfolio</i> <strong>DOI</strong>: doi.org/10.21203/rs.3.rs-4456168/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/zcsh_24.jpg" style="width: 100px; height: 100px;">
   </div>
   <p>
