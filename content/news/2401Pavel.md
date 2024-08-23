@@ -1,8 +1,8 @@
 ---
 date: 2024-01-02T09:29:16+10:00
-title: "Data-driven equation discovery ocean model by Pavel"
+title: "Data-driven equation discovery ocean model"
 heroHeading: ''
-heroSubHeading: 'Data-driven equation discovery ocean model by Pavel'
+heroSubHeading: 'Data-driven equation discovery ocean model'
 heroBackground: ''
 thumbnail:  'images/news/2401Pavel.png'
 images: ['images/news/2401Pavel.png']

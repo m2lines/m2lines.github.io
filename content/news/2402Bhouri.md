@@ -1,6 +1,6 @@
 ---
 date: 2024-02-03T09:29:16+10:00
-title: "Stress-testing the coupled behavior of hybrid physics-machine simulations by Bhouri"
+title: "Stress-testing the coupled behavior of hybrid physics-machine simulations"
 heroHeading: ''
 heroSubHeading: 'Stress-testing the coupled behavior of hybrid physics-machine learning climate simulations on an unseen, warmer climate'
 heroBackground: ''

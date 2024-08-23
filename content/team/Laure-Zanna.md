@@ -7,7 +7,7 @@ jobtitle: "Lead PI"
 promoted: true
 Website: https://zanna-researchteam.github.io/
 weight: 1
-tags: ['Ocean', 'Climate', 'Machine Learning']
+tags: ['Ocean', 'Climate Model Development', 'Machine Learning']
 ---
 
 
