@@ -6,7 +6,7 @@ jobtitle: "Affiliate"
 promoted: true
 Website:
 weight: 34
-tags: [Machine Learning, Climate Model Development, Coupling]
+tags: [Machine Learning, Climate Model Development, Coupled Physics]
 ---
 
 
