@@ -5,7 +5,7 @@ image: "/images/team/WillGregory.jpeg"
 jobtitle: "Postdoc"
 promoted: true
 weight: 26
-Website:  https://www.ucl.ac.uk/earth-sciences/people/research-students/william-gregory
+Website:  https://william-gregory.github.io
 tags: [Sea ice, Data Assimilation, Machine Learning, Predictability]
 ---
 
