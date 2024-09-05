@@ -7,11 +7,36 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ## M²LInES research and other relevant publications
 
-If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub https://github.com/m2lines/L96_demo.
+If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub.
 
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
 
 ### 2024
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2409Gregory.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>William Gregory, Ronald MacEachern, So Takao, Isobel R. Lawrence, Carmen Nab, Marc Peter Deisenroth, Michel Tsamados </strong><br>
+    <a href="https://doi.org/10.1038/s41467-024-51900-x" target="_blank"><strong>Scalable interpolation of satellite altimetry data with probabilistic machine learning</strong></a><br>
+    <i>Nature Communications 2024</i> <strong>DOI</strong>: 10.1038/s41467-024-51900-x
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2409Gentine.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Veronika Eyring, ... Laure Zanna </strong><br>
+    <a href="https://doi.org/10.1038/s41558-024-02095-y" target="_blank"><strong>SPushing the frontiers in climate modelling and analysis with machine learning</strong></a><br>
+    <i>Nature Climate Change 2024</i> <strong>DOI</strong>: 10.1038/s41558-024-02095-y
+  </p>
+</div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
