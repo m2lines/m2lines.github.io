@@ -18,7 +18,7 @@ If you are interested in understanding how M²LInES is using machine learning to
     <img src="/images/news/2409Gregory.png" style="width: 100px; height: 100px;">
   </div>
   <p>
-    <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>William Gregory, Ronald MacEachern, So Takao, Isobel R. Lawrence, Carmen Nab, Marc Peter Deisenroth, Michel Tsamados </strong><br>
     <a href="https://doi.org/10.1038/s41467-024-51900-x" target="_blank"><strong>Scalable interpolation of satellite altimetry data with probabilistic machine learning</strong></a><br>
     <i>Nature Communications 2024</i> <strong>DOI</strong>: 10.1038/s41467-024-51900-x
@@ -30,10 +30,34 @@ If you are interested in understanding how M²LInES is using machine learning to
     <img src="/images/news/2409Gentine.png" style="width: 100px; height: 100px;">
   </div>
   <p>
-    <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Veronika Eyring, ... Laure Zanna </strong><br>
-    <a href="https://doi.org/10.1038/s41558-024-02095-y" target="_blank"><strong>SPushing the frontiers in climate modelling and analysis with machine learning</strong></a><br>
+    <a href="https://doi.org/10.1038/s41558-024-02095-y" target="_blank"><strong>Pushing the frontiers in climate modelling and analysis with machine learning</strong></a><br>
     <i>Nature Climate Change 2024</i> <strong>DOI</strong>: 10.1038/s41558-024-02095-y
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2407Gentine.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Jerry Lin, Sungduk Yu, Liran Peng, Tom Beucler, Eliot Wong-Toi, Zeyuan Hu, Pierre Gentine, Margarita Geleta, Michael S Pritchard</strong><br>
+    <a href="https://doi.org/10.22541/essoar.172072688.86581349/v1" target="_blank"><strong>Sampling Hybrid Climate Simulation at Scale to Reliably Improve Machine Learning Parameterization</strong></a><br>
+    <i>Preprint submitted to JAMES</i> <strong>DOI</strong>:10.22541/essoar.172072688.86581349/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2407Reichl.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Brandon G Reichl, Andrew T. Wittenberg, Stephen M Griffies, Alistair Adcroft </strong><br>
+    <a href="https://doi.org/10.22541/essoar.170785794.47537760/v1" target="_blank"><strong>Improved Equatorial Upper Ocean Vertical Mixing in the NOAA/GFDL OM4 Model</strong></a><br>
+    <i>Preprint submitted to ESS</i> <strong>DOI</strong>:10.22541/essoar.170785794.47537760/v1
   </p>
 </div>
 
