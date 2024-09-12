@@ -39,7 +39,7 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="images/news/2407Gentine.png" style="width: 100px; height: 100px;">
+    <img src="/images/news/2407Gentine.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
