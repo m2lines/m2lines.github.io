@@ -6,7 +6,8 @@ jobtitle: "Lead Scientist"
 promoted: true
 Website: https://www.gfdl.noaa.gov/mitch-bushuk/
 weight: 6
-tags: [Sea Ice, Data Assimilation, Predictability]
+position: Predictability
+tags: [Sea Ice, Data Assimilation]
 ---
 
 

@@ -6,7 +6,8 @@ jobtitle: "Affiliate, Undergraduate Student "
 promoted: true
 weight: 45
 Website:
-tags: [Data engineering]
+position: Data engineering
+tags: []
 ---
 
 

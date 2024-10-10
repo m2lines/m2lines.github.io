@@ -6,7 +6,8 @@ jobtitle: "Affiliate"
 promoted: true
 weight: 27
 Website:  https://abodner.github.io/
-tags: [Ocean, Machine Learning, Climate Model Development, Turbulence]
+position: Turbulence
+tags: [Ocean, Machine Learning, Climate Model Development]
 ---
 
 

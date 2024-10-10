@@ -6,7 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 Website: https://pperezhogin.github.io/
 weight: 25
-tags: [Ocean, Climate Model Development, Turbulence]
+position: Turbulence
+tags: [Ocean, Climate Model Development]
 ---
 
 

@@ -7,7 +7,7 @@ promoted: true
 position: Website Contact
 weight: 44
 Website: https://iamshubhamgupto.github.io
-tags: [Machine Learning, Deep Learning,  Open Source Software]
+tags: [Machine Learning, Ocean]
 ---
 
 

@@ -6,7 +6,8 @@ jobtitle: "Affiliate, Grad Student"
 promoted: true
 weight: 40
 Website:
-tags: [Machine Learning, Signal Processing]
+position: Signal Processing
+tags: [Machine Learning]
 ---
 
 

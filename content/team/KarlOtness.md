@@ -6,7 +6,8 @@ jobtitle: "Graduate Student"
 promoted: true
 weight: 30
 Website:
-tags: [Machine Learning, Simulation]
+position: Simulation
+tags: [Machine Learning]
 ---
 
 

@@ -6,7 +6,8 @@ jobtitle: "Graduate Student"
 promoted: true
 weight: 44
 Website: https://suryadheeshjith.github.io/
-tags: [Machine Learning, Deep Learning,  Data Analysis]
+position: Data Analysis
+tags: [Machine Learning]
 ---
 
 

@@ -6,7 +6,8 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 32
 Website:
-tags: [Ocean,  Machine Learning, Turbulence paramezizations]
+position: Turbulence paramezizations
+tags: [Ocean,  Machine Learning]
 ---
 
 
