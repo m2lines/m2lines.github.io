@@ -1,4 +1,3 @@
-
 ---
 title: 'Developing new physics-aware machine learning tools'
 draft: false

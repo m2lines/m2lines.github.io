@@ -11,6 +11,15 @@
     <div class="col-12">
       <div class="page-intro">
         {{ .Content }}
+        <!-- Display the tags from the tag_links.yml -->
+        <div class="team-tags">
+          <h4 class="keywords-heading">Keywords</h4>
+          <div class = "tags-list">
+            {{ range $key, $value := .Site.Data.tag_links }}
+              <a href="{{ $value }}" target="_blank" class="tag">{{ $key }}</a>
+            {{ end }}
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -31,4 +40,76 @@
     {{ partial "subscribe.html" }}
      </div>
 </div>
+
+<!-- add css below -->
+<!-- <style>
+  /* Container that holds the tags */
+  .team-tags {
+    display: flex;
+    justify-content: center; /* Center the tags horizontally */
+    flex-wrap: wrap; /* Allow tags to wrap onto a new line if necessary */
+    gap: 10px; /* Add space between tags */
+  }
+
+  .keywords-heading {
+  margin-bottom: 10px; /* Add space below the heading */
+}
+
+  /* Styling for individual tags */
+  .tag {
+    display: inline-block;
+    padding: 2px 6px;
+    background-color: #ffffff;
+    color: #080808;
+    font-size: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, font-size 0.3s;
+  }
+
+  .tag:hover {
+    background-color: #080808;
+    color: #ffffff;
+    font-size: 16px;
+  }
+</style> -->
+<style>
+  .tags-list {
+    display: flex;
+    justify-content: center; /* Center the tags horizontally */
+    flex-wrap: wrap; /* Allow tags to wrap onto a new line if necessary */
+    gap: 10px; /* Add space between tags */
+  }
+  .team-tags {
+  display: flex;
+  flex-direction: column; /* Stack the heading and tags vertically */
+  align-items: center; /* Center the heading and tags horizontally */
+  gap: 10px; /* Add space between the heading and the tags */
+}
+
+.keywords-heading {
+  margin-bottom: 10px; /* Add space below the heading */
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 6px;
+  background-color: #ffffff;
+  color: #080808;
+  font-size: 15px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, font-size 0.3s;
+}
+
+.tag:hover {
+  background-color: #080808;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+</style>
+
 {{ end }}

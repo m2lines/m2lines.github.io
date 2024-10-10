@@ -5,10 +5,6 @@ heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 
 ---
-<center>
-    <img src="research-images/workplan.png" style="width: 50vw; padding-bottom: 30px; padding-top: 0px">
-</center>
-
 ## Project Goal
 
 _We aim to reduce biases at the air-sea-ice interface in existing global climate models for reliable seasonal to multidecadal timescale projections, focusing on fundamental ocean, atmosphere, and sea-ice processes._
@@ -21,6 +17,10 @@ To tackle these biases and reduce the potential sources of error, **M²LInES’ 
 2. Produce error corrections derived from observational products for climate model components.
 
 By improving model physics, this strategy ensures a more faithful representation of feedbacks and sensitivities under different climates.
+
+<center>
+    <img src="research-images/workplan.png" style="width: 50vw; padding-bottom: 30px; padding-top: 0px">
+</center>
 
 ### Our vision
 1. _​​Generate new scientific knowledge_ in climate science from innovative use of data and machine learning: e.g., which physics did we overlook that might be important for scale interaction?
