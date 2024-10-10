@@ -6,7 +6,7 @@ jobtitle: "PI"
 promoted: true
 Website: https://staff.ucar.edu/users/berner
 weight: 6
-tags: [Atmoshpere, Data Assimilation]
+tags: [Atmosphere, Data Assimilation]
 ---
 
 
