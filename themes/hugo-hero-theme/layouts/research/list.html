@@ -11,15 +11,23 @@
     <div class="col-12">
       <div class="page-intro">
         {{ .Content }}
-        <!-- Display the tags from the tag_links.yml -->
-        <div class="team-tags">
-          <h4 class="keywords-heading">Keywords</h4>
-          <div class = "tags-list">
+
+        <!-- show tags -->
+        <div class="circle-container">
+          <div class="center-image">
+            <img src="/images/research/workplan-circle.png" alt="Center Image" />
+          </div>
+
+          <div class="circle-menu">
+            {{ $classes := slice "menu-item-2" "menu-item-3" "menu-item-4" "menu-item-5" "menu-item-6" "menu-item-7" "menu-item-8" "menu-item-9" "menu-item-10" }}
+            {{ $index := 0 }}
             {{ range $key, $value := .Site.Data.tag_links }}
-              <a href="{{ $value }}" target="_blank" class="tag">{{ $key }}</a>
+              <a target="_blank" href="{{ $value }}" class="menu-item {{ index $classes $index }}">{{ $key }}</a>
+              {{ $index = add $index 1 }}
             {{ end }}
           </div>
         </div>
+
       </div>
     </div>
   </div>
@@ -41,21 +49,24 @@
      </div>
 </div>
 
-<!-- add css below -->
-<!-- <style>
-  /* Container that holds the tags */
-  .team-tags {
+<style>
+  .tags-list {
     display: flex;
     justify-content: center; /* Center the tags horizontally */
     flex-wrap: wrap; /* Allow tags to wrap onto a new line if necessary */
     gap: 10px; /* Add space between tags */
   }
+  .team-tags {
+    display: flex;
+    flex-direction: column; /* Stack the heading and tags vertically */
+    align-items: center; /* Center the heading and tags horizontally */
+    gap: 10px; /* Add space between the heading and the tags */
+  }
 
   .keywords-heading {
-  margin-bottom: 10px; /* Add space below the heading */
-}
+    margin-bottom: 10px; /* Add space below the heading */
+  }
 
-  /* Styling for individual tags */
   .tag {
     display: inline-block;
     padding: 2px 6px;
@@ -73,43 +84,81 @@
     color: #ffffff;
     font-size: 16px;
   }
-</style> -->
-<style>
-  .tags-list {
-    display: flex;
-    justify-content: center; /* Center the tags horizontally */
-    flex-wrap: wrap; /* Allow tags to wrap onto a new line if necessary */
-    gap: 10px; /* Add space between tags */
+
+  .circle-container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
   }
-  .team-tags {
-  display: flex;
-  flex-direction: column; /* Stack the heading and tags vertically */
-  align-items: center; /* Center the heading and tags horizontally */
-  gap: 10px; /* Add space between the heading and the tags */
-}
 
-.keywords-heading {
-  margin-bottom: 10px; /* Add space below the heading */
-}
+  .center-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
 
-.tag {
-  display: inline-block;
-  padding: 2px 6px;
+  .center-image img {
+    width: 100%; /* Adjust the size of the central image */
+    height: 100%; /* Ensure the height is consistent */
+    border-radius: 50%;
+  }
+
+  .center-text {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+
+  .circle-menu {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  .menu-item {
+  position: absolute;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  color: #333;
+  display: block; /* Change to block to allow text to wrap */
+  padding: 4px 8px;
   background-color: #ffffff;
   color: #080808;
-  font-size: 15px;
-  border: 1px solid transparent;
-  border-radius: 4px;
+  border: 2px solid transparent;
+  border-radius: 6px;
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s, font-size 0.3s;
+  width: 120px; /* Set a fixed width to control wrapping */
+  white-space: normal; /* Allow text to wrap */
 }
 
-.tag:hover {
-  background-color: #080808;
-  color: #ffffff;
-  font-size: 16px;
-}
+
+  /* Hover effect for menu items */
+  .menu-item:hover {
+    background-color: #080808; /* Change background on hover */
+    color: #ffffff; /* Change text color on hover */
+    font-size: 16px; /* Increase font size on hover */
+  }
+
+  /* Position each menu item around the center, adjusted for more spacing */
+  .menu-item-2 { top: 20%; left: 85%; transform: translate(-80%, -80%); }
+  .menu-item-3 { top: 50%; left: 103%; transform: translate(-80%, -80%); }
+  .menu-item-4 { top: 85%; left: 90%; transform: translate(-80%, -80%); }
+  .menu-item-5 { top: 95%; left: 55%; transform: translate(-80%, -80%); }
+  .menu-item-6 { top: 85%; left: 20%; transform: translate(-80%, -80%); }
+  .menu-item-7 { top: 40%; left: 5%; transform: translate(-80%, -80%); }
+  .menu-item-8 { top: 20%; left: 20%; transform: translate(-80%, -80%); }
+
+  /* Add new menu items */
+  .menu-item-9 { top: 10%; left: 50%; transform: translate(-50%, -50%); } /* Top center */
+  .menu-item-10 { top: 60%; left: 1%; transform: translate(-50%, -50%); } /* Bottom left */
 
 </style>
+
 
 {{ end }}
