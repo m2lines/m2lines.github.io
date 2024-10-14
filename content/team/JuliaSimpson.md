@@ -6,7 +6,8 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 Website: https://www.linkedin.com/in/julia-simpson
 weight: 51
-tags: [Ocean, Atmosphere, Machine Learning, Air-Sea Fluxes]
+position: Air-Sea Fluxes
+tags: [Ocean, Atmosphere, Machine Learning]
 ---
 
 

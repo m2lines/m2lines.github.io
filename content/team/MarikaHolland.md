@@ -6,7 +6,7 @@ jobtitle: "PI"
 promoted: true
 Website: https://staff.ucar.edu/users/mholland
 weight: 6
-tags: [Sea-Ice,  Climate Model Development]
+tags: [Sea Ice,  Climate Model Development]
 ---
 
 

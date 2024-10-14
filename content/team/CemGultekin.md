@@ -6,7 +6,8 @@ jobtitle: "Affiliate"
 promoted: true
 weight: 20
 Website:
-tags: [Machine Learning, Interpretability, Deep Learning]
+position: Interpretability
+tags: [Machine Learning]
 ---
 
 

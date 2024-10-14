@@ -6,7 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 weight: 26
 Website:  https://william-gregory.github.io
-tags: [Sea ice, Data Assimilation, Machine Learning, Predictability]
+position: Predictability
+tags: [Sea Ice, Data Assimilation, Machine Learning]
 ---
 
 

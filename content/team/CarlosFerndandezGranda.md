@@ -7,6 +7,7 @@ jobtitle: "PI"
 promoted: true
 Website: https://math.nyu.edu/~cfgranda/
 weight: 4
-tags: [Ocean, Machine Learning, Deep Learning]
+position: Deep Learning
+tags: [Ocean, Machine Learning]
 ---
 NYU, Courant Institute + Center for Data Science

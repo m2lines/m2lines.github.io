@@ -15,6 +15,30 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2410Yuval.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Dmitrii Kochkov, ... Stephan Hoyer</strong><br>
+    <a href="https://doi.org/10.1038/s41586-024-07744-y" target="_blank"><strong>Neural general circulation models for weather and climate</strong></a><br>
+    <i>Nature 2024</i> <strong>DOI</strong>: 10.1038/s41586-024-07744-y
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2410Shamekh.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Tom Beucler, Arthur Grundner, Sara Shamekh, Peter Ukkonen, Matthew Chantry, Ryan Lagerquist </strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2408.02161" target="_blank"><strong>Distilling Machine Learning's Added Value: Pareto Fronts in Atmospheric Applications</strong></a><br>
+    <i>ArXiv 2024</i> <strong>DOI</strong>: 10.48550/arXiv.2408.02161
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/news/2409Gregory.png" style="width: 100px; height: 100px;">
   </div>
   <p>
@@ -166,7 +190,7 @@ If you are interested in understanding how M²LInES is using machine learning to
   </div>
   <p>
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Tom Beucler,  Michael Pritchard, Janni Yuval, Ankitesh Gupta, Liran Peng, Stephan Rasp, Fiaz Ahmed, Paul O’Gorman, J. David Neelin, Nicholas J. Lutsko, Pierre Gentine</strong><br>
+    <strong>Tom Beucler, ... Pierre Gentine</strong><br>
     <a href="https://doi.org/10.1126/sciadv.adj7250" target="_blank"><strong>Climate-Invariant Machine Learning</strong></a><br>
     <i>Science Advances 2024</i> <strong>DOI</strong>: 10.1126/sciadv.adj7250
   </p>

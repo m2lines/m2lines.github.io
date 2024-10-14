@@ -6,7 +6,8 @@ image: "images/team/JohannaGoldman.jpg"
 jobtitle: "Project Manager"
 promoted: true
 weight: 2
-tags: [Project Management, Ocean, Sciences Communication]
+position: Project Management
+tags: [Ocean]
 ---
 
 

@@ -6,7 +6,8 @@ jobtitle: "Affiliate, Staff Associate"
 promoted: true
 weight: 37
 Website:
-tags: [Atmosphere, Software Architecture]
+position: Software Architecture
+tags: [Atmosphere]
 ---
 
 

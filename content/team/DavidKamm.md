@@ -6,7 +6,8 @@ jobtitle: "Affiliate, Graduate Student "
 promoted: true
 weight: 41
 Website:
-tags: [Ocean, Eddy Parameterizations]
+position: Eddy Parameterizations
+tags: [Ocean]
 ---
 
 

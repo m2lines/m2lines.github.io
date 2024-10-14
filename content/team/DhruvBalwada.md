@@ -6,7 +6,8 @@ jobtitle: "Lead Scientist"
 promoted: true
 Website:  https://dhruvbalwada.github.io/
 weight: 22
-tags: [Ocean, Machine Learning, Macro-turbulence]
+position: Macro-turbulence
+tags: [Ocean, Machine Learning]
 ---
 
 

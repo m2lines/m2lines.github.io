@@ -6,7 +6,8 @@ jobtitle: "Lead Scientist"
 promoted: true
 weight: 36
 Website: sshamekh.com
-tags: [Atmosphere, Machine Learning, Atmospheric boundary layer]
+position: Atmospheric Boundary Layer
+tags: [Atmosphere, Machine Learning]
 ---
 
 

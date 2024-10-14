@@ -5,7 +5,8 @@ image: "/images/team/Tarun.jpg"
 jobtitle: "Affliate"
 promoted: true
 weight: 20
-tags: [Ocean, Predictability,  Machine Learning]
+position: Predictability
+tags: [Ocean,  Machine Learning]
 ---
 
 

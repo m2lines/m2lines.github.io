@@ -6,7 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 weight: 47
 Website:  https://www.griffinmooers.com/
-tags: [Atmosphere, Machine Learning, Data Analysis]
+position: Data Analysis
+tags: [Atmosphere, Machine Learning]
 ---
 
 

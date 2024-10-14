@@ -6,7 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 Website:
 weight: 24
-tags: [Ocean, Computational Fluid Mechanics, Turbulence Statistics]
+position: Computational Fluid Mechanics
+tags: [Ocean]
 ---
 
 

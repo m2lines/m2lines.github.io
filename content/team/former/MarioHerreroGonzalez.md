@@ -6,7 +6,8 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 29
 Website:
-tags: [Data Assimilation, Deep Learning]
+position:  Deep Learning
+tags: [Data Assimilation]
 ---
 
 

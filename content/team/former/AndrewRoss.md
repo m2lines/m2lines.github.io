@@ -6,7 +6,8 @@ jobtitle: "Postdoc"
 promoted: true
 Website: https://asross.github.io
 weight: 18
-tags: [Machine Learning, Interpretability]
+position: Interpretability
+tags: [Machine Learning]
 ---
 
 

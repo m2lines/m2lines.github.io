@@ -6,7 +6,8 @@ jobtitle: "Affiliate"
 promoted: true
 weight: 40
 Website:  https://noraloose.github.io/
-tags: [Ocean, Machine Learning, Mesoscale Eddy Parameterizations]
+position: Mesoscale Eddy Parameterizations
+tags: [Ocean, Machine Learning]
 ---
 
 

@@ -6,7 +6,8 @@ jobtitle: "PI"
 promoted: true
 Website: https://ocean-transport.github.io/
 weight: 5
-tags: [Ocean, Data]
+position: Data
+tags: [Ocean]
 ---
 
 
