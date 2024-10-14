@@ -19,7 +19,8 @@
           </div>
 
           <div class="circle-menu">
-            {{ $classes := slice "menu-item-2" "menu-item-3" "menu-item-4" "menu-item-5" "menu-item-6" "menu-item-7" "menu-item-8" "menu-item-9" "menu-item-10" }}
+            <!-- reorder based on preference by Johanna -->
+            {{ $classes := slice "menu-item-4"   "menu-item-9" "menu-item-7" "menu-item-8" "menu-item-2" "menu-item-6" "menu-item-3" "menu-item-1"  "menu-item-5" }}
             {{ $index := 0 }}
             {{ range $key, $value := .Site.Data.tag_links }}
               <a target="_blank" href="{{ $value }}" class="menu-item {{ index $classes $index }}">{{ $key }}</a>
@@ -87,8 +88,8 @@
 
   .circle-container {
     position: relative;
-    width: 600px;
-    height: 600px;
+    width: 80wh;
+    height: 80vh;
     margin: 0 auto;
   }
 
@@ -119,44 +120,62 @@
     left: 0;
   }
 
-  .menu-item {
-  position: absolute;
-  text-align: center;
-  font-size: 14px;
-  text-decoration: none;
-  color: #333;
-  display: block; /* Change to block to allow text to wrap */
-  padding: 4px 8px;
-  background-color: #ffffff;
-  color: #080808;
-  border: 2px solid transparent;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background-color 0.3s, color 0.3s, font-size 0.3s;
-  width: 120px; /* Set a fixed width to control wrapping */
-  white-space: normal; /* Allow text to wrap */
-}
+/* Common styles for menu items */
+.menu-item {
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    display: block; /* Change to block to allow text to wrap */
+    padding: 4px 8px;
+    color:#080808;
 
-
-  /* Hover effect for menu items */
-  .menu-item:hover {
-    background-color: #080808; /* Change background on hover */
-    color: #ffffff; /* Change text color on hover */
-    font-size: 16px; /* Increase font size on hover */
+    border: 2px solid transparent;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, font-size 0.3s;
+    width: 150px; /* Set a fixed width to control wrapping */
+    white-space: normal; /* Allow text to wrap */
   }
 
-  /* Position each menu item around the center, adjusted for more spacing */
-  .menu-item-2 { top: 20%; left: 85%; transform: translate(-80%, -80%); }
-  .menu-item-3 { top: 50%; left: 103%; transform: translate(-80%, -80%); }
-  .menu-item-4 { top: 85%; left: 90%; transform: translate(-80%, -80%); }
-  .menu-item-5 { top: 95%; left: 55%; transform: translate(-80%, -80%); }
-  .menu-item-6 { top: 85%; left: 20%; transform: translate(-80%, -80%); }
-  .menu-item-7 { top: 40%; left: 5%; transform: translate(-80%, -80%); }
-  .menu-item-8 { top: 20%; left: 20%; transform: translate(-80%, -80%); }
+  .menu-item:hover {
+    color: #ffffff;
+    font-size: 18px;
+  }
 
-  /* Add new menu items */
-  .menu-item-9 { top: 10%; left: 50%; transform: translate(-50%, -50%); } /* Top center */
-  .menu-item-10 { top: 60%; left: 1%; transform: translate(-50%, -50%); } /* Bottom left */
+  /* Default pastel colors for each menu item */
+  .menu-item-1 { background-color: #99d8d0; } /* Pastel teal */
+  .menu-item-2 { background-color: #ffc1b6; } /* Pastel coral */
+  .menu-item-3 { background-color: #99c0f0; } /* Pastel ocean blue */
+  .menu-item-4 { background-color: #c6e8f6; } /* Pastel sky blue */
+  .menu-item-5 { background-color: #ddebf3; } /* Pastel ice blue */
+  .menu-item-6 { background-color: #ffed99; } /* Pastel gold */
+  .menu-item-7 { background-color: #d9b2f0; } /* Pastel violet */
+  .menu-item-8 { background-color: #c0c4cd; } /* Pastel grey */
+  .menu-item-9 { background-color: #a9dba9; } /* Pastel green */
+
+  /* Hover effect with slightly darker pastel colors */
+  .menu-item-1:hover { background-color: #66b3aa; } /* Darker pastel teal */
+  .menu-item-2:hover { background-color: #e69783; } /* Darker pastel coral */
+  .menu-item-3:hover { background-color: #668cc6; } /* Darker pastel ocean blue */
+  .menu-item-4:hover { background-color: #93c2d4; } /* Darker pastel sky blue */
+  .menu-item-5:hover { background-color: #b3cbd9; } /* Darker pastel ice blue */
+  .menu-item-6:hover { background-color: #ffda66; } /* Darker pastel gold */
+  .menu-item-7:hover { background-color: #b783d6; } /* Darker pastel violet */
+  .menu-item-8:hover { background-color: #8f99a3; } /* Darker pastel grey */
+  .menu-item-9:hover { background-color: #75b575; } /* Darker pastel green */
+
+  /* Position each menu item around the center, adjusted for more spacing */
+  .menu-item-1 { top: 0%; left: 50%; transform: translate(-50%, -50%); } /* Top center */
+  .menu-item-2 { top: 20%; left: 80%; transform: translate(-80%, -80%); }
+  .menu-item-3 { top: 50%; left: 90%; transform: translate(-80%, -80%); }
+  .menu-item-4 { top: 85%; left: 80%; transform: translate(-80%, -80%); }
+  .menu-item-5 { top: 100%; left: 54%; transform: translate(-80%, -80%); }
+  .menu-item-6 { top: 85%; left: 25%; transform: translate(-80%, -80%); }
+  .menu-item-7 { top: 60%; left: 15%; transform: translate(-50%, -50%); } /* Bottom left */
+  .menu-item-8 { top: 40%; left: 19%; transform: translate(-80%, -80%); }
+  .menu-item-9 { top: 20%; left: 25%; transform: translate(-80%, -80%); }
+
 
 </style>
 
