@@ -17,5 +17,3 @@ Postdoctoral researcher or more senior scientist for Ocean Surface Boundary Laye
 ### Columbia University (NCAR location)
 
 Associate Research Scientist at the interface between climate modeling and machine learning. The successful candidate will be hired by Columbia University but the main work location will be at NCAR (Boulder, CO). [Apply here](https://apply.interfolio.com/140294)
-
-
