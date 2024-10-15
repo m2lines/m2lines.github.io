@@ -23,7 +23,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 *  Frezat H, Balarac G, Le Sommer J, Fablet R, Lguensat R. **[Physical invariance in neural networks for subgrid-scale scalar flux modeling.](https://doi.org/10.1103/PhysRevFluids.6.024607)** _Physical Review Fluids_ 2021. (author [link](https://hal.science/hal-03084215/file/2010.04663.pdf))
 
-*  O’Gorman PA, Li Z, Boos WR, Yuval J. **[Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution.](https://doi.org/10.1098/rsta.2019.0543)** _Philosophical Transactions of the Royal Society A_ 2021. (author [link](hhttps://pog.mit.edu/src/ogorman_quasi_global_hires_precip_extremes_2021.pdf))
+*  O’Gorman PA, Li Z, Boos WR, Yuval J. **[Response of extreme precipitation to uniform surface warming in quasi-global aquaplanet simulations at high resolution.](https://doi.org/10.1098/rsta.2019.0543)** _Philosophical Transactions of the Royal Society A_ 2021. (author [link](https://pog.mit.edu/src/ogorman_quasi_global_hires_precip_extremes_2021.pdf))
 
 * Yuval J, Hill CN, O'Gorman PA. **[Use of neural networks for stable, accurate and physically consistent parameterization of subgrid atmospheric processes with good performance at reduced precision.](https://doi.org/10.1029/2020GL091363)** _Geophysical Research Letter_ 2021.
 
