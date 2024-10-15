@@ -112,9 +112,15 @@ enableEmoji = true
     weight = 2
 
 [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 7
+
+[[menu.main]]
     name = "News"
     identifier = "news"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
 	identifier = "Our news"
@@ -129,11 +135,6 @@ enableEmoji = true
     url = "/news/Newsletters/"
     parent = "news"
     weight = 2
-
-#[[menu.main]]
-#    name = "Blog"
-#    url = "/blog/"
-#    weight = 8
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
