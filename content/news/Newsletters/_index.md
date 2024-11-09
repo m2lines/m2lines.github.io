@@ -11,7 +11,9 @@ tags:
  Links to our past newsletters are below.
 ### 2024
 
-* 10/01/2024 - [M²LInES newsletter - October 2024](https://mailchi.mp/d53f7fd6537d/m2lines-oct2024)
+* 11/01/2024 - [M²LInES newsletter - November 2024](https://mailchi.mp/a09da1ac61a1/m2lines-nov2024)
+  
+*  10/01/2024 - [M²LInES newsletter - October 2024](https://mailchi.mp/d53f7fd6537d/m2lines-oct2024)
 
 * 09/03/2024 - [M²LInES newsletter - September 2024](https://mailchi.mp/bee785c9dfef/m2lines-sept2024)
 
