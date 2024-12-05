@@ -10,4 +10,4 @@ position: Physical Oceanography
 tags: [Ocean, Climate Model Development, Coupled Physics]
 ---
 
-IGE, Grenoble
+CNRS-IGE

@@ -9,4 +9,4 @@ Website:
 tags: [Atmosphere, Machine Learning]
 ---
 
-MIT EAPS
+MIT

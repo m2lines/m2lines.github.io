@@ -11,4 +11,4 @@ tags: [Atmosphere, Machine Learning]
 ---
 
 
-NYU, Courant Institute
+NYU

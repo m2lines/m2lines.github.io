@@ -10,4 +10,4 @@ weight: 4
 position: Deep Learning
 tags: [Ocean, Machine Learning]
 ---
-NYU, Courant Institute + Center for Data Science
+NYU

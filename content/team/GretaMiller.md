@@ -2,7 +2,7 @@
 title: "Greta Miller"
 draft: false
 image: "/images/team/GretaMiller.jpeg"
-jobtitle: "Postdoc"
+jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 41
 Website:
