@@ -2,13 +2,11 @@
 title: "Hugo Frezat"
 draft: false
 image: "/images/team/Hugo.png"
-jobtitle: "Affiliate, Graduate Student"
+jobtitle: "Researcher"
 promoted: true
 weight: 32
 Website:
-position: Turbulence paramezizations
-tags: [Ocean,  Machine Learning]
 ---
 
 
-L’Institut des Géosciences de l’Environnement (IGE)
+CNRS-IGE

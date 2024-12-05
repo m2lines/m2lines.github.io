@@ -10,4 +10,4 @@ Website: https://orcid.org/0000-0001-7505-1281
 tags: [Ocean, Coupled Physics]
 ---
 
-NYU Courant
+NYU

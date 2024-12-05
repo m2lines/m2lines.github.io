@@ -10,4 +10,4 @@ tags: [Ocean, Machine Learning]
 ---
 
 
-NYU, Courant Institute
+NYU

@@ -11,4 +11,4 @@ tags: [Ocean, Climate Model Development, Machine Learning]
 ---
 
 
-NYU, Courant Institute + Center for Data Science
+NYU

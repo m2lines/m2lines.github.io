@@ -10,4 +10,4 @@ tags: [Ocean, Data Assimilation, Climate Model Development]
 ---
 
 
-Princeton University, Affiliate NOAA-GFDL in Seasonal-decadal division
+Princeton University, Affiliate NOAA-GFDL

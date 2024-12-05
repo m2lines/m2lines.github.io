@@ -15,6 +15,66 @@ If you are interested in understanding how M²LInES is using machine learning to
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2025-Chapman2.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>William E. Chapman and Judith Berner </strong><br>
+    <a href="https://doi.org/10.22541/essoar.172526800.05354621/v2" target="_blank"><strong>A State-Dependent Model-Error Representation for Online Climate Model Bias Correction</strong></a><br>
+    <i>Preprint in ESS</i> <strong>DOI</strong>:10.22541/essoar.172526800.05354621/v2
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+ <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2025Chapman.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>John Schreck, Yingkai Sha, William Chapman, Dhamma Kimpara, Judith Berner, Seth McGinnis, Arnold Kazadi, Negin Sobhani, Ben Kirk, David John Gagne II </strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2411.07814" target="_blank"><strong>Community Research Earth Digital Intelligence Twin (CREDIT)</strong></a><br>
+    <i>ArXiv 2024</i> <strong>DOI</strong>: 10.48550/arXiv.2411.07814
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+ <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2410-Perezhogin.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Pavel Perezhogin, Cheng Zhang, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
+    <a href="https://doi.org/10.1029/2023MS004104" target="_blank"><strong>A Stable Implementation of a Data-Driven Scale-Aware Mesoscale Parameterization</strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>: 10.1029/2023MS004104
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2407Reichl.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Brandon G Reichl, Andrew T. Wittenberg, Stephen M Griffies, Alistair Adcroft </strong><br>
+    <a href="https://doi.org/10.1029/2023EA003485" target="_blank"><strong>Improved Equatorial Upper Ocean Vertical Mixing in the NOAA/GFDL OM4 Model</strong></a><br>
+    <i>Earth and Space Science</i> <strong>DOI</strong>:10.1029/2023EA003485
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong> Joan Bruna, Benjamin Peherstorfer, Eric Vanden-Eijnden</strong><br>
+    <a href="https://doi.org/10.1016/j.jcp.2023.112588" target="_blank"><strong>Neural Galerkin schemes with active learning for high-dimensional evolution equations</strong></a><br>
+    <i>Journal of Computational Physics</i> <strong>DOI</strong>:10.1016/j.jcp.2023.112588
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/news/2410Yuval.png" style="width: 100px; height: 100px;">
   </div>
   <p>
@@ -73,17 +133,6 @@ If you are interested in understanding how M²LInES is using machine learning to
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/2407Reichl.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Brandon G Reichl, Andrew T. Wittenberg, Stephen M Griffies, Alistair Adcroft </strong><br>
-    <a href="https://doi.org/10.22541/essoar.170785794.47537760/v1" target="_blank"><strong>Improved Equatorial Upper Ocean Vertical Mixing in the NOAA/GFDL OM4 Model</strong></a><br>
-    <i>Preprint submitted to ESS</i> <strong>DOI</strong>:10.22541/essoar.170785794.47537760/v1
-  </p>
-</div>
 
 
 <div style="display: flex; align-items: center;">
@@ -197,6 +246,18 @@ If you are interested in understanding how M²LInES is using machine learning to
 </div>
 
 ### 2023
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2312-Bodner.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Abigail Bodner, Dhruv Balwada, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2312.06972" target="_blank"><strong>A Data-Driven Approach for Parameterizing Submesoscale Vertical Buoyancy Fluxes in the Ocean Mixed Layer</strong></a><br>
+    <i>Arxiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2312.06972
+  </p>
+</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">

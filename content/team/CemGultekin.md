@@ -11,4 +11,4 @@ tags: [Machine Learning]
 ---
 
 
-NYU, Courant Institute
+NYU

@@ -9,4 +9,4 @@ tags: [Atmosphere, Machine Learning, Climate Model Development]
 ---
 
 
-NYU, Courant Institute
+NYU

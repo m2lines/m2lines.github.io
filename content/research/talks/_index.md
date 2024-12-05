@@ -122,6 +122,156 @@ p {
 <hr style="width: 100%; margin-top: 20px; border-color: #333;">
 
 ## *2024*
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/4jRVAK2yEj4');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/4jRVAK2yEj4/1.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Pierre Gentine</strong><br>
+    <em>Harnessing AI to confront environmental challenges </em><br>
+   AI for Climate and Nature Spring Convening - Bezos Earth Fund - October  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/NknILybndKo');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/NknILybndKo/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Julia Simpson</strong><br>
+    <em>Improving Parameterizations of Heat + Momentum Air-Sea Fluxes </em><br>
+   LEAP Research Updates - September  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/KEmvuuyzglQ?t=5');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/KEmvuuyzglQ/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Laure Zanna</strong><br>
+    <em> (Keynote) AI-augmented climate Simulators and Emulators</em><br>
+   OMDP/COMMODORE Workshop - September  &#128187; &#127878; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/iwK74hhwWIQ');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/iwK74hhwWIQ/2.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Marika Holland</strong><br>
+    <em> The influence of historical forcing uncertainty on simulated Arctic change.</em><br>
+   IARPC Collaborations - August  &#128202; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/_1iEl_nOk7A');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/_1iEl_nOk7A/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Laure Zanna, Sara Shamekh, Pierre Gentine</strong><br>
+    <em>Navigating the Academic Search Process </em><br>
+   LEAP Professional Development Series  
+  </p>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/embed/PbcFWN5dtJc?si=Vb8WLHSDMhEIFyfn');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/PbcFWN5dtJc/1.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Paul O'Gorman</strong><br>
+    <em>AMIT's BC3 and Climate and Weather Extremes</em><br>
+    ICCS Cross VESRI Journal  - February  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/embed/EfGNoRIzq4M?si=xeZUktdxbfTTl5-B');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/EfGNoRIzq4M/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Will Chapman</strong><br>
+    <em>Advancing Weather and Climate Prediction with Data Driven Methods</em><br>
+   Paul G. Allen School - February  &#128187; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/embed/oiIiWwm7iNM?si=SbFdl4Ovoe-9UJc-');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/oiIiWwm7iNM/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Laure Zanna</strong><br>
+    <em>Accelerating Discovery in Climate Physics with Machine Learning</em><br>
+   Simons foundation Presidential Lecture - February  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/gna8I-GMTKk');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/gna8I-GMTKk/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Pierre Gentine</strong><br>
+    <em>AI in Climate Science: From Emulation to New Discoveries </em><br>
+   Simons foundation Presidential Lecture - February  &#128187; &#127878;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/JiCTG0CwkKg');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/JiCTG0CwkKg/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Pierre Gentine</strong><br>
+    <em>Machine learning across scales to improve climate models: from emulation to discoveries </em><br>
+   Mathematics of Climate - February  &#128187; &#127878; &#127758;
+  </p>
+</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
@@ -143,16 +293,31 @@ p {
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=GVaFjoiB4I4&t=10519s');">
+      <div onclick="window.open('https://www.youtube.com/watch?v=AIgTy033-A4');">
         <a href="#" class="fill-div">
-        <img src="https://img.youtube.com/vi/GVaFjoiB4I4/0.jpg" alt="Video Preview">
+        <img src="https://img.youtube.com/vi/AIgTy033-A4/0.jpg" alt="Video Preview">
         </a>
       </div>
   </div>
   <p>
-    <strong>Pavel Perezhogin</strong><br>
-    <em>Machine-Learned parameterizations of mesoscale eddies in MOM6 ocean model: convolutional neural network and symbolic regression</em><br>
-   28th Annual CESM Workshop - June  &#128187; &#127878;
+    <strong>Paul O'Gorman</strong><br>
+    <em>Improving climate models using machine learning</em><br>
+    MIT Generative AI Week - November  &#128187; &#127878; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/embed/1esiBpicss4?si=-ZnmyagFdZnxr6u6');">
+        <a href="#" class="fill-div">
+        <img src="http://img.youtube.com/vi/1esiBpicss4/maxresdefault.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Laure Zanna</strong><br>
+    <em>A New Generation of Global Climate Models Augmented by AI</em><br>
+   Distinguished Seminar Series in Computational Science and Engineering - October 2023  &#128187; &#127878; &#127758;
   </p>
 </div>
 
@@ -173,6 +338,23 @@ p {
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=GVaFjoiB4I4&t=10519s');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/GVaFjoiB4I4/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Pavel Perezhogin</strong><br>
+    <em>Machine-Learned parameterizations of mesoscale eddies in MOM6 ocean model: convolutional neural network and symbolic regression</em><br>
+   28th Annual CESM Workshop - June  &#128187; &#127758;
+  </p>
+</div>
+
+
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
       <div onclick="window.open('https://www.youtube.com/watch?v=Tya7d0tfpb0&t=1743s');">
         <a href="#" class="fill-div">
         <img src="https://img.youtube.com/vi/Tya7d0tfpb0/0.jpg" alt="Video Preview">
@@ -188,16 +370,16 @@ p {
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=AIgTy033-A4');">
+      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
         <a href="#" class="fill-div">
-        <img src="https://img.youtube.com/vi/AIgTy033-A4/0.jpg" alt="Video Preview">
+        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
         </a>
       </div>
   </div>
   <p>
-    <strong>Paul O'Gorman</strong><br>
-    <em>Improving climate models using machine learning</em><br>
-    MIT Generative AI Week - November  &#128187; &#127878;
+    <strong>Pavel Perezhogin</strong><br>
+    <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model </em><br>
+    NEMO working group on Machine-Learning - April &#128187; &#127878; &#127758;
   </p>
 </div>
 
@@ -212,24 +394,11 @@ p {
   <p>
     <strong>Laure Zanna</strong><br>
     <em>Transforming Climate Modeling with AI: hype or Reality?</em><br>
-    UN AI for Good - March &#128187; &#127878;
+    UN AI for Good - March &#128187; &#127758;
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-      <div onclick="window.open('https://www.youtube.com/watch?v=X3EQg1_-xXU');">
-        <a href="#" class="fill-div">
-        <img src="https://img.youtube.com/vi/X3EQg1_-xXU/0.jpg" alt="Video Preview">
-        </a>
-      </div>
-  </div>
-  <p>
-    <strong>Pavel Perezhogin</strong><br>
-    <em>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model </em><br>
-    NEMO working group on Machine-Learning - April &#128187; &#127878;
-  </p>
-</div>
+
 
 ## *2022*
 
@@ -273,7 +442,7 @@ p {
   <p>
     <strong>Lorenzo Zampieri</strong><br>
     <em>On the design strategy of subgrid parameterizations in modern sea ice models</em><br>
-    Arctic Model Parameterization Development - December 22nd &#128187; &#127878;
+    Arctic Model Parameterization Development - December 22nd &#128187; &#127758;
   </p>
 </div>
 
@@ -319,7 +488,7 @@ p {
   <p>
     <strong>Laure Zanna</strong> and Steven Brunton<br>
     <em>Machine learning in fluid dynamics and climate physics</em><br>
-    Nature Reviews Physics + Alan Turing Institute - October 5th &#128187; &#127878;
+    Nature Reviews Physics + Alan Turing Institute - October 5th &#128187; &#127878; 
   </p>
 </div>
 
@@ -334,7 +503,7 @@ p {
   <p>
     <strong>Laure Zanna</strong><br>
     <em>Machine Learning for Ocean and Climate Modeling: advances, challenges and outlook</em><br>
-    LEAP Seminar - September 22nd &#128187; &#127878;
+    LEAP Seminar - September 22nd &#128187; &#127878; &#127758;
   </p>
 </div>
 

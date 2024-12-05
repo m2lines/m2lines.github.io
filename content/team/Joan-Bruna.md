@@ -12,4 +12,4 @@ position: Signal Processing
 tags: [Machine Learning]
 ---
 
-NYU, Courant Institute + Computer Science + Center for Data Science
+NYU

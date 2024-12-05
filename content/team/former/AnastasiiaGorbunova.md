@@ -2,13 +2,12 @@
 title: "Anastasiia Gorbunova"
 draft: false
 image: "/images/team/Anastasia.jpg"
-jobtitle: "Postdoc"
+jobtitle: "Development Engineer"
 promoted: true
 Website:
 weight: 24
-position: Computational Fluid Mechanics
-tags: [Ocean]
+
 ---
 
 
-L'Institut des Géosciences de l'Environnement (IGE)
+Comsol
