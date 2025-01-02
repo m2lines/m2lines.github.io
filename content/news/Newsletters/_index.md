@@ -9,6 +9,11 @@ tags:
 
 
  Links to our past newsletters are below.
+### 2025
+
+* 01/02/2025 - [M²LInES newsletter - January 2025 - Happy new year!](https://mailchi.mp/9d6e3eddad27/m2lines-jan2025)
+
+
 ### 2024
 
 * 12/02/2024 - [M²LInES newsletter - December 2024](https://mailchi.mp/235bd85ebd4d/m2lines-dec2024)
