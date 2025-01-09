@@ -16,6 +16,19 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 ### 2024
 
+
+<div style="display: flex; align-items: center;">
+ <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2501-Samudra.gif" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Surya Dheeshjith, Adam Subel, Alistair Adcroft, Julius Busecke, Carlos Fernandez-Granda, Shubham Gupta, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2412.03795" target="_blank"><strong>Samudra: An AI Global Ocean Emulator for Climate</strong></a><br>
+    <i>ArXiv 2024</i> <strong>DOI</strong>: 10.48550/arXiv.2412.03795
+  </p>
+</div>
+
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/2025-Chapman2.png" style="width: 100px; height: 100px;">
