@@ -14,4 +14,3 @@ M²LInES affirms the value of differing perspectives in Sciences. As such, we st
 * Postdoctoral Research Associate - Improving Sea Ice and Coupled Climate Models with Machine Learning. [Apply here](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=37582)
 
 * Postdoctoral researcher or more senior scientist for Ocean Surface Boundary Layer Mixing Parameterizations using Machine Learning. [Apply here](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=36662)
-

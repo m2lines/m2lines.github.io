@@ -7,7 +7,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ## M²LInES research and other relevant publications
 
-M²LInES educational [Jupyter Book](https://m2lines.github.io/L96_demo) is out. Learn about about the interface between machine learning & climate modeling whether you are an ML expert or a climate scientist. 
+M²LInES educational [Jupyter Book](https://m2lines.github.io/L96_demo) is out. Learn about about the interface between machine learning & climate modeling whether you are an ML expert or a climate scientist.
 
 You can also check all our publications on our **[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=iY8RO4QAAAAJ)**
 
