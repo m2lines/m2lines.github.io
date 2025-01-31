@@ -7,7 +7,7 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 
 ## M²LInES research and other relevant publications
 
-If you are interested in understanding how M²LInES is using machine learning to improve climate models, we have developed an educational JupyterBook [Learning Machine Learning for Climate modeling with Lorenz 96](https://m2lines.github.io/L96_demo). This JupyterBook describes the key research themes in M²LInES, through the use of a simple climate model and machine learning algorithms. You can run the notebooks yourself, contribute to the development of the JupyterBook or let us know what you think on GitHub.
+M²LInES educational [Jupyter Book](https://m2lines.github.io/L96_demo) is out. Learn about about the interface between machine learning & climate modeling whether you are an ML expert or a climate scientist. 
 
 You can also check all our publications on our **[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=iY8RO4QAAAAJ)**
 
@@ -15,7 +15,17 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
 
 ### 2024
-
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Dhruv Balwada et al. </strong><br>
+    <a href="https://doi.org/10.21105/jose.00241" target="_blank"><strong>Learning Machine Learning with Lorenz-96</strong></a><br>
+    <i>JOSE</i> <strong>DOI</strong>:10.21105/jose.00241
+  </p>
+</div>
 
 <div style="display: flex; align-items: center;">
  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -61,7 +71,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Pavel Perezhogin, Cheng Zhang, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
     <a href="https://doi.org/10.1029/2023MS004104" target="_blank"><strong>A Stable Implementation of a Data-Driven Scale-Aware Mesoscale Parameterization</strong></a><br>
-    <i>JAMES</i> <strong>DOI</strong>: 10.1029/2023MS004104
+    <i>JAMES 2024</i> <strong>DOI</strong>: 10.1029/2023MS004104
   </p>
 </div>
 
@@ -202,18 +212,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/gmti_24.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>William Gregory, Ronald MacEachern, So Takao, Isobel Lawrence, Carmen Nab, Marc Deisenroth, Michel Tsamados</strong><br>
-    <a href="https://doi.org/10.21203/rs.3.rs-4209064/v1" target="_blank"><strong>Scalable interpolation of satellite altimetry data with probabilistic machine learning</strong></a><br>
-    <i>Nature Comms. 2024</i> <strong>DOI</strong>: 10.21203/rs.3.rs-4209064/v1
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/al_24.png" style="width: 100px; height: 100px;">
   </div>
   <p>
@@ -283,19 +281,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
     <a href="https://doi.org/10.1029/2023MS003697" target="_blank"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization Into a Numerical Ocean Circulation Model</strong></a><br>
-    <i>James 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/pca_24.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Pavel Perezhogin, Cheng Zhang, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna </strong><br>
-    <a href="https://arxiv.org/abs/2311.02517" target="_blank"><strong>Implementation of a data-driven equation-discovery mesoscale parameterization into an ocean model</strong></a><br>
-    <i>James 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2311.02517
+    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
   </p>
 </div>
 
@@ -343,7 +329,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Sara Shamekh and Pierre Gentine</strong><br>
     <a href="https://essopenarchive.org/doi/full/10.22541/essoar.168748456.60017486" target="_blank"><strong>Learning Atmospheric Boundary Layer Turbulence</strong></a><br>
-    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.22541/essoar.168748456.60017486/v1
+    <i>Authorea Preprint 2023</i> <strong>DOI</strong>: 10.22541/essoar.168748456.60017486/v1
   </p>
 </div>
 
@@ -443,7 +429,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Karl Otness, Laure Zanna, Joan Bruna</strong><br>
     <a href="https://www.climatechange.ai/papers/iclr2023/60" target="_blank"><strong>Data-driven multiscale modeling of subgrid parameterizations in climate models</strong></a><br>
-    <i>Preprint accepted at ICLR Workshop on Climate Change AI. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2303.17496
+    <i>ICLR Workshop on Climate Change AI. 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2303.17496
   </p>
 </div>
 
@@ -454,7 +440,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
   <p>
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Fabrizio Falasca, Andrew Brettin, Laure Zanna, Stephen M. Griffies, Jianjun Yin, Ming Zhao</strong><br>
-    <a href="https://arxiv.org/abs/2211.04608" target="_blank"><strong>Exploring the non-stationarity of coastal sea level probability distributions</strong></a><br>
+    <a href="https://doi.org/10.1017/eds.2023.10" target="_blank"><strong>Exploring the non-stationarity of coastal sea level probability distributions</strong></a><br>
     <i>EDS. volume 2 2023.</i> <strong>DOI</strong>: 10.1017/eds.2023.10
   </p>
 </div>
@@ -467,7 +453,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Pavel Perezhogin, Laure Zanna, Carlos Fernandez-Granda</strong><br>
     <a href="https://doi.org/10.1029/2023MS003681" target="_blank"><strong>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</strong></a><br>
-    <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003681
+    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003681
   </p>
 </div>
 
@@ -479,7 +465,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Pavel Perezhogin, Andrey Glazunov</strong><br>
     <a href="https://doi.org/10.1029/2023MS003771" target="_blank"><strong>Subgrid Parameterizations of Ocean Mesoscale Eddies Based on Germano Decomposition</strong></a><br>
-    <i>JAMES. 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003771
+    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003771
   </p>
 </div>
 
@@ -517,7 +503,19 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <strong>Takaya Uchida, Dhruv Balwada, Quentin Jamet, William K. Dewar, Bruno Deremble, <br>
      Thierry Penduff, Julien Le Sommer</strong><br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1463500323000136?via%3Dihub)" target="_blank"><strong>Cautionary tales from the mesoscale eddy transport tensor</strong></a><br>
-    <i>ScienceDirect 2023.</i> <strong>DOI</strong>: 10.1016/j.ocemod.2023.102172
+    <i>Ocean Modelling 2023.</i> <strong>DOI</strong>: 10.1016/j.ocemod.2023.102172
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2211Shamekh.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Sara Shamekh, Kara D Lamb, Yu Huang, Pierre Gentine</strong><br>
+    <a href="https://doi.org/10.1073/pnas.2216158120" target="_blank"><strong>Implicit learning of convective organization explains precipitation stochasticity</strong></a><br>
+    <i>PNAS 2023.</i> <strong>DOI</strong>: 10.1073/pnas.2216158120
   </p>
 </div>
 
@@ -541,7 +539,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Lorenzo Zampieri, Gabriele Arduini, Marika Holland, Sarah Keeley, Kristian S. Mogensen, <br>
      Matthew D. Shupe, Steffen Tietsche</strong><br>
-    <a href="https://doi.org/10.1002/essoar.10511269.1" target="_blank"><strong>A Machine Learning Correction Model of the Winter Clear-Sky Temperature Bias over the Arctic Sea Ice in Atmospheric Reanalyses</strong></a><br>
+    <a href="https://doi.org/10.1175/MWR-D-22-0130.1" target="_blank"><strong>A Machine Learning Correction Model of the Winter Clear-Sky Temperature Bias over the Arctic Sea Ice in Atmospheric Reanalyses</strong></a><br>
     <i>AMS Journals, Monthy Weather Review: volume151, issue6</i> <strong>DOI</strong>: 10.1175/MWR-D-22-0130.1
   </p>
 </div>
@@ -600,18 +598,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/2211Shamekh.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Sara Shamekh, Kara D Lamb, Yu Huang, Pierre Gentine</strong><br>
-    <a href="https://doi.org/10.1002/essoar.10512517.1" target="_blank"><strong>Implicit learning of convective organization explains precipitation stochasticity</strong></a><br>
-    <i>In review. 2022.</i> <strong>DOI</strong>: 10.1002/essoar.10512517.1
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/pwcm_22.png" style="width: 100px; height: 100px;">
   </div>
   <p>
@@ -657,7 +643,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Hugo Frezat, Julien Le Sommer, Ronan Fablet, Guillaume Balarac, Redouane Lguensat</strong><br>
     <a href="https://doi.org/10.1029/2022MS003124" target="_blank"><strong>A posteriori learning for quasi-geostrophic turbulence parametrization</strong></a><br>
-    <i>JAMES. 2022.</i> <strong>DOI</strong>: 10.1029/2022MS003124
+    <i>JAMES 2022.</i> <strong>DOI</strong>: 10.1029/2022MS003124
   </p>
 </div>
 
