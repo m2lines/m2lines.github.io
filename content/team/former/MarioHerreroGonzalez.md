@@ -9,4 +9,4 @@ Website:
 ---
 
 
-The University of Edinburgh 
+The University of Edinburgh

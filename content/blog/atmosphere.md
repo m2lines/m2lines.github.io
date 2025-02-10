@@ -22,4 +22,4 @@ Much of the uncertainty in climate-model projections for surface precipitation a
 
 ##### Parameterization of the boundary layer
 ###### People involved: Alexander Connolly, Pierre Gentine
-Boundary layer turbulence parameterization remains a major source of uncertainties in climate models, including for low-level clouds. We aim to develop a new approach to the boundary layer parameterization by targeting high-order closure terms in the turbulence representation, leveraging Large-Eddy Simulations and machine learning/symbolic regression. 
+Boundary layer turbulence parameterization remains a major source of uncertainties in climate models, including for low-level clouds. We aim to develop a new approach to the boundary layer parameterization by targeting high-order closure terms in the turbulence representation, leveraging Large-Eddy Simulations and machine learning/symbolic regression.
