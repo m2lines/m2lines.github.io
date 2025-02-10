@@ -19,7 +19,7 @@ _____
 
 #### Respect
 
-- Enjoyable, high-quality research can only be conducted when you **feel supported**. 
+- Enjoyable, high-quality research can only be conducted when you **feel supported**.
 
 - **Obligations to the M²LInES group**: We're on the same team. Help each other, especially those junior to you even if not directly working for you.
 
