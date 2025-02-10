@@ -19,11 +19,9 @@ _____
 
 #### Respect
 
-- Enjoyable, high-quality research can only be conducted when you **feel safe, secure, and supported**. All group members are thus dedicated to a **harassment-free experience for everyone, regardless of gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion [^1] (or lack thereof), family status or socio-economic status**. The group members also recognize that some of those biases can be unconscious and creep into different aspects of Academic life and research, such as meetings, publications, citations, hiring, etc. Members should strive to consciously combat those biases and bring awareness to others.
+- Enjoyable, high-quality research can only be conducted when you **feel supported**. 
 
 - **Obligations to the M²LInES group**: We're on the same team. Help each other, especially those junior to you even if not directly working for you.
-
-- Be aware of, and address your positionality, power, privileges, and values.
 
 - Early career researchers (ECRs) face additional challenges, having to navigate their career path in addition to performing their work. This additional uncertainty in their career can lead to added stress and possible burnout. If anything is placing undue stress or preventing ECRs from performing at their potential, they are encouraged to discuss with their group lead or with any other mentors they feel most comfortable. Sharing these issues can reduce stress and help others be accommodating towards their needs, and the team may be able to assist.
 
@@ -45,7 +43,7 @@ _____
 
 	+ Be mindful of dominant personalities, including yourself.
 
-	+ Employ appropriate language respectful of all backgrounds.
+	+ Employ appropriate language.
 
 	+ Follow appropriate etiquette:
 		* In virtual meetings, raise hands in your video stream or use the software equivalent.
@@ -81,8 +79,6 @@ _____
 - **Unacceptable behaviors include racism, hate speech, harassment, threats, unwelcome sexual attention or contact, personal attacks.**
 
 - If you are the subject of, or witness to, inappropriate behavior please **inform a member of the management committee**, or ask another member whom you trust to inform the committee.
-
-- Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). _Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm_. Listen. Offer a genuine apology. Commit to learning and doing better. [^2]
 
 - Sanctions or consequences
 	- The management committee takes inappropriate behavior seriously and **persistent violations of the code** may result in being ejected from the group, loss of funding, and/or notifying the employing institution.
@@ -121,8 +117,3 @@ _____
 **We expect members to recognize or anticipate these situations and to inform M²LInES of any overlap** to avoid problems arising, discussing them with the management committee.
 
 - **Disclosure and regular communication within M²LInES** is by far the best way to avoid misunderstandings and conflicts among the group.
-
-
-[^1]: Copied verbatim from Chris Jackson’s BRG [Code of Conduct](https://wwwf.imperial.ac.uk/blog/assistant-provost-edi/2018/05/21/pirate-the-code-of-conduct/).
-
-[^2]: Taken verbatim from Bahlai Lab [Code of conduct](https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md)
