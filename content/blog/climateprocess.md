@@ -10,7 +10,7 @@ heroBackground: '/images/retrosupply-jLwVAUtLOAQ-unsplash.jpeg'
 
 Despite drastic improvements in climate model development, current simulations have difficulty capturing the interactions among different processes in the atmosphere, oceans, and ice and how they affect the Earth’s climate; this can hinder projections of temperature, rainfall, and sea level.
 
-**M²LInES will be focusing on understanding these key climate processes using two types of data:** 
+**M²LInES will be focusing on understanding these key climate processes using two types of data:**
 
 ### High-resolution simulation and observations
 * Atmospheric convection and clouds (O’Gorman, Mooers, Yuval) (see [Atmosphere](/blog/atmosphere))

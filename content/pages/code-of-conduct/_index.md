@@ -12,12 +12,12 @@ _____
 
 - This code of conduct applies to all members of M²LInES without exception. We also expect external collaborators to comply with this code when interacting with M²LInES, and we extend guidelines (such as inclusion for authorship) to external collaborators.
 
-- Key aspects of this document: Inclusivity, professionalism and conduct, unethical and/or unacceptable behavior, authorship, scientific integrity, and conflicts of interest.
+- Key aspects of this document: Respect, professionalism and conduct, unethical and/or unacceptable behavior, authorship, scientific integrity, and conflicts of interest.
 
-- Management committee (Laure, Johanna, Alistair, Carlos, Ryan) will deal with any issues arising:
+- Management committee (Laure, Johanna, Alistair) will deal with any issues arising:
 
 
-#### Inclusivity
+#### Respect
 
 - Enjoyable, high-quality research can only be conducted when you **feel safe, secure, and supported**. All group members are thus dedicated to a **harassment-free experience for everyone, regardless of gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion [^1] (or lack thereof), family status or socio-economic status**. The group members also recognize that some of those biases can be unconscious and creep into different aspects of Academic life and research, such as meetings, publications, citations, hiring, etc. Members should strive to consciously combat those biases and bring awareness to others.
 
@@ -41,11 +41,11 @@ _____
 
 - Meetings and interactions:
 
-	+ Be inclusive of all present, listen, invite input, be constructive.
+	+ Be considerate of all present, listen, invite input, be constructive.
 
 	+ Be mindful of dominant personalities, including yourself.
 
-	+ Employ appropriate language inclusive of all backgrounds.
+	+ Employ appropriate language respectful of all backgrounds.
 
 	+ Follow appropriate etiquette:
 		* In virtual meetings, raise hands in your video stream or use the software equivalent.

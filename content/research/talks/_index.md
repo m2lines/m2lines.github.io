@@ -193,7 +193,7 @@ p {
   <p>
     <strong>Laure Zanna, Sara Shamekh, Pierre Gentine</strong><br>
     <em>Navigating the Academic Search Process </em><br>
-   LEAP Professional Development Series  
+   LEAP Professional Development Series
   </p>
 </div>
 
@@ -488,7 +488,7 @@ p {
   <p>
     <strong>Laure Zanna</strong> and Steven Brunton<br>
     <em>Machine learning in fluid dynamics and climate physics</em><br>
-    Nature Reviews Physics + Alan Turing Institute - October 5th &#128187; &#127878; 
+    Nature Reviews Physics + Alan Turing Institute - October 5th &#128187; &#127878;
   </p>
 </div>
 
