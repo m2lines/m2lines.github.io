@@ -11,4 +11,4 @@ tags: [Sea Ice, Data Assimilation, Machine Learning]
 ---
 
 
-Princeton University, Affiliate NOAA-GFDL
+Princeton University

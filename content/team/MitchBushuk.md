@@ -11,4 +11,4 @@ tags: [Sea Ice, Data Assimilation]
 ---
 
 
-UCAR, Affiliate NOAA-GFDL
+UCAR
