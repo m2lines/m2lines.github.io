@@ -5,8 +5,8 @@ image: "/images/team/Qi-Liu.jpeg"
 jobtitle: "Undergraduate"
 promoted: true
 weight: 58
-Website: 
-Position: 
+Website:
+Position:
 tags: [Atmosphere, Machine Learning]
 ---
 
