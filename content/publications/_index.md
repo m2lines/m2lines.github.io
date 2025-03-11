@@ -13,6 +13,18 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
+### 2025
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2503Connolly.gif" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Alex Connolly, Yu Cheng, Robin Walters, Rui Wang, Rose Yu, Pierre Gentine</strong><br>
+    <a href="https://doi.org/10.22541/essoar.173869578.80400701/v1" target="_blank"><strong>Deep Learning Turbulence Closures Generalize Best With Physics-based Methods</strong></a><br>
+    <i>Essoar</i> <strong>DOI</strong>:10.22541/essoar.173869578.80400701/v1
+  </p>
+</div>
 
 ### 2024
 <div style="display: flex; align-items: center;">
