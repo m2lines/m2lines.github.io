@@ -6,7 +6,6 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ---
 
 ## M²LInES research and other relevant publications
-
 M²LInES educational [Jupyter Book](https://m2lines.github.io/L96_demo) is out. Learn about about the interface between machine learning & climate modeling whether you are an ML expert or a climate scientist.
 
 You can also check all our publications on our **[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=iY8RO4QAAAAJ)**
@@ -14,6 +13,79 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
 ### 2025
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2504-Verma.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Tarun Verma, Feiyu Lu, Alistair Adcroft, Laure Zanna, Anand Gnanadesikan</strong><br>
+    <a href="https://doi.org/10.22541/essoar.174547920.05119265/v1" target="_blank"><strong>Deep Learning of Systematic Ocean Model Errors in a Coupled GCM from Data Assimilation Increments</strong></a><br>
+    <i>Essoar</i> <strong>DOI</strong>:10.22541/essoar.174547920.05119265/v1
+  </p>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2504-Zanna.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Moein Darman, Pedram Hassanzadeh, Laure Zanna, Ashesh Chattopadhyay</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2504.15487" target="_blank"><strong>Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2504.15487
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2504-Chapman.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>William Chapman, John Schreck, Yingkai Sha, David John Gagne II, Dhamma Kimpara, Laure Zanna, Kirsten Mayer, Judith Berner</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2504.06007" target="_blank"><strong>CAMulator: Fast Emulation of the Community Atmosphere Model</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2504.06007
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2504Holland.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Marika M Holland, Kristen Krumhardt, Alice DuVivier, Laura Landrum </strong><br>
+    <a href="https://doi.org/10.1175/JCLI-D-24-0258.1" target="_blank"><strong>Regional Multiyear Predictability of Antarctic Sea Ice in CESM2 and Its Implications for Marine Ecosystems</strong></a><br>
+    <i>Journal of Climate</i> <strong>DOI</strong>:10.1175/JCLI-D-24-0258.1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2025-Chapman2.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>William Chapman and Judith Berner </strong><br>
+    <a href="https://doi.org/10.1029/2024GL114106" target="_blank"><strong>Improving Climate Bias and Variability via CNN-Based State-Dependent Model-Error Corrections</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.1029/2024GL114106
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2502-Brettin.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Andrew Brettin, Laure Zanna, Elizabeth Barnes</strong><br>
+    <a href="https://doi.org/10.1029/2024GL112835" target="_blank"><strong>Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.1029/2024GL112835
+  </p>
+</div>
+
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/news/2503Connolly.gif" style="width: 100px; height: 100px;">
@@ -48,18 +120,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <strong>Surya Dheeshjith, Adam Subel, Alistair Adcroft, Julius Busecke, Carlos Fernandez-Granda, Shubham Gupta, Laure Zanna</strong><br>
     <a href="https://doi.org/10.48550/arXiv.2412.03795" target="_blank"><strong>Samudra: An AI Global Ocean Emulator for Climate</strong></a><br>
     <i>ArXiv 2024</i> <strong>DOI</strong>: 10.48550/arXiv.2412.03795
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/2025-Chapman2.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>William E. Chapman and Judith Berner </strong><br>
-    <a href="https://doi.org/10.22541/essoar.172526800.05354621/v2" target="_blank"><strong>A State-Dependent Model-Error Representation for Online Climate Model Bias Correction</strong></a><br>
-    <i>Preprint in ESS</i> <strong>DOI</strong>:10.22541/essoar.172526800.05354621/v2
   </p>
 </div>
 
