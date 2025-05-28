@@ -15,6 +15,78 @@ You can also check all our publications on our **[Google Scholar profile](https:
 ### 2025
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Dhruv Balwada, Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.22541/essoar.174835313.30541637/v1" target="_blank"><strong>Design and implementation of a data-driven parameterization for mesoscale thickness fluxes</strong></a><br>
+    <i>Essoar</i> <strong>DOI</strong>:10.22541/essoar.174835313.30541637/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+ <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2501-Samudra.gif" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Surya Dheeshjith, Adam Subel, Alistair Adcroft, Julius Busecke, Carlos Fernandez-Granda, Shubham Gupta, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2024GL114318" target="_blank"><strong>Samudra: An AI Global Ocean Emulator for Climate</strong></a><br>
+    <i>GRL 2025</i> <strong>DOI</strong>: 10.1029/2024GL114318
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Cheng Zhang, Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2024MS004819" target="_blank"><strong>Addressing out-of-sample issues in multi-layer convolutional neural-network parameterization of mesoscale eddies applied near coastlines</strong></a><br>
+    <i>JAMES 2025</i> <strong>DOI</strong>:10.1029/2024MS004819
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2410Shamekh.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Tom Beucler, Arthur Grundner, Sara Shamekh, Peter Ukkonen, Matthew Chantry, Ryan Lagerquist </strong><br>
+    <a href="https://doi.org/10.1175/AIES-D-24-0078.1" target="_blank"><strong>Distilling Machine Learning's Added Value: Pareto Fronts in Atmospheric Applications</strong></a><br>
+    <i>Artificial Intelligence for the Earth Systems 2025</i> <strong>DOI</strong>: 10.1175/AIES-D-24-0078.1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2505.08900" target="_blank"><strong>Generalizable neural-network parameterization of mesoscale eddies in idealized and global ocean models</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2505.08900
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Katharina Hafner, Fernando Iglesias-Suarez, Sara Shamekh, Pierre Gentine, Marco A. Giorgetta, Robert Pincus, Veronika Eyring</strong><br>
+    <a href="https://doi.org/10.22541/essoar.174708082.27787580/v1" target="_blank"><strong>Stable Machine Learning based Radiation Emulation for ICON</strong></a><br>
+    <i>Essoar</i> <strong>DOI</strong>:10.22541/essoar.174708082.27787580/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/2504-Verma.png" style="width: 100px; height: 100px;">
   </div>
   <p>
@@ -31,7 +103,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/publications/2504-Zanna.png" style="width: 100px; height: 100px;">
   </div>
   <p>
-   <!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> -->
+ <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> 
     <strong>Moein Darman, Pedram Hassanzadeh, Laure Zanna, Ashesh Chattopadhyay</strong><br>
     <a href="https://doi.org/10.48550/arXiv.2504.15487" target="_blank"><strong>Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence</strong></a><br>
     <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2504.15487
@@ -111,17 +183,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
- <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/2501-Samudra.gif" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Surya Dheeshjith, Adam Subel, Alistair Adcroft, Julius Busecke, Carlos Fernandez-Granda, Shubham Gupta, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2412.03795" target="_blank"><strong>Samudra: An AI Global Ocean Emulator for Climate</strong></a><br>
-    <i>ArXiv 2024</i> <strong>DOI</strong>: 10.48550/arXiv.2412.03795
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -180,18 +241,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <strong>Dmitrii Kochkov, ... Stephan Hoyer</strong><br>
     <a href="https://doi.org/10.1038/s41586-024-07744-y" target="_blank"><strong>Neural general circulation models for weather and climate</strong></a><br>
     <i>Nature 2024</i> <strong>DOI</strong>: 10.1038/s41586-024-07744-y
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/2410Shamekh.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Tom Beucler, Arthur Grundner, Sara Shamekh, Peter Ukkonen, Matthew Chantry, Ryan Lagerquist </strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2408.02161" target="_blank"><strong>Distilling Machine Learning's Added Value: Pareto Fronts in Atmospheric Applications</strong></a><br>
-    <i>ArXiv 2024</i> <strong>DOI</strong>: 10.48550/arXiv.2408.02161
   </p>
 </div>
 
