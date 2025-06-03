@@ -10,6 +10,10 @@ tags:
 
  Links to our past newsletters are below.
 ### 2025
+* 06/03/2025 - [M²LInES newsletter - June 2025](https://mailchi.mp/105744018d4b/m2lines-june2025)
+
+* 05/01/2025 - [M²LInES newsletter - May 2025](https://mailchi.mp/778fbbb17f80/m2lines-may2025)
+
 * 04/02/2025 - [M²LInES newsletter - April 2025](https://mailchi.mp/efd79c6eae08/m2lines-apr2025)
 
 * 03/03/2025 - [M²LInES newsletter - March 2025](https://mailchi.mp/14656511dff3/m2lines-mar2025)
