@@ -8,6 +8,10 @@ heroSubHeading: ''
 heroBackground: '/images/retrosupply-jLwVAUtLOAQ-unsplash.jpeg'
 ---
 
+<center>
+<img src="/images/research/emulator_summary.jpg" style="width: 60vw; padding-bottom: 30px; padding-top: 0px">
+</center>
+
 Machine learning methodologies, particularly neural networks, are computer algorithms inspired by the structure and function of the human brain. These algorithms are capable of learning from data, identifying patterns, and making predictions or decisions without being explicitly programmed. Neural networks consist of interconnected nodes organized into layers, including input, hidden, and output layers (see figure below). During training, they adjust the strength of connections between nodes, called weights, based on examples from a dataset, allowing them to learn complex patterns and relationships in the data. Neural networks are widely used in various applications, including image recognition, natural language processing, and climate modeling.
 
 
