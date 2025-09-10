@@ -9,7 +9,7 @@ heroBackground: '/images/retrosupply-jLwVAUtLOAQ-unsplash.jpeg'
 ---
 
 <center>
-<img src="/images/research/param_status.jpg" style="width: 20vw; padding-bottom: 30px; padding-top: 0px">
+<img src="/images/research/param_status.jpg" style="width: 60vw; padding-bottom: 30px; padding-top: 0px">
 </center>
 <p style="text-align: center;"><small>Status of our parametrizations as of Sept 2025</small></p>
 
