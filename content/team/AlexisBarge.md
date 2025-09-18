@@ -5,7 +5,7 @@ image: images/team/AlexisBarge.png
 jobtitle: "Affiliate"
 promoted: true
 Website:
-weight: 34
+weight: 50
 tags: [Machine Learning, Climate Model Development, Coupled Physics]
 ---
 

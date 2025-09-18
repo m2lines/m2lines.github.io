@@ -5,7 +5,7 @@ image: "images/team/Brandon.png"
 jobtitle: "Lead Scientist"
 promoted: true
 Website: https://breichl.github.io/
-weight: 6
+weight: 10
 position: Air-Sea Interactions
 tags: [Ocean, Climate Model Development]
 ---

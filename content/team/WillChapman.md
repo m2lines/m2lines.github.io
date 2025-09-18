@@ -4,7 +4,7 @@ draft: false
 image: "/images/team/Will_Chapman.jpeg"
 jobtitle: "Lead Scientist"
 promoted: true
-weight: 25
+weight: 10
 Website: https://willychap.github.io/
 tags: [Atmosphere, Data Assimilation, Machine Learning]
 ---

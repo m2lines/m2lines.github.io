@@ -2,9 +2,9 @@
 title: "Chris Pedersen"
 draft: false
 image: "/images/team/ChrisPedersen.jpg"
-jobtitle: "Postdoc"
+jobtitle: "Affiliate"
 promoted: true
-weight: 39
+weight: 50
 Website:  https://chris-pedersen.github.io/
 tags: [Ocean, Machine Learning]
 ---

@@ -5,7 +5,7 @@ image: "/images/team/PavelPerezhogin.png"
 jobtitle: "Postdoc"
 promoted: true
 Website: https://pperezhogin.github.io/
-weight: 25
+weight: 15
 position: Turbulence
 tags: [Ocean, Climate Model Development]
 ---

@@ -2,9 +2,9 @@
 title: "Matt Pudig"
 draft: false
 image: "/images/team/MattP.jpg"
-jobtitle: "Affiliate"
+jobtitle: "Affiliate, Graduate Student"
 promoted: true
-weight: 57
+weight: 30
 Website: https://mpudig.github.io/
 Position: Geophysical turbulence
 tags: [Ocean, Climate Model Development]

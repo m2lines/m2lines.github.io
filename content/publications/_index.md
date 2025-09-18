@@ -15,7 +15,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
 ### 2025
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+    <img src="/images/news/2509Balwada.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
@@ -39,13 +39,25 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+    <img src="/images/news/2502Zhangetal.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Cheng Zhang, Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
     <a href="https://doi.org/10.1029/2024MS004819" target="_blank"><strong>Addressing out-of-sample issues in multi-layer convolutional neural-network parameterization of mesoscale eddies applied near coastlines</strong></a><br>
     <i>JAMES 2025</i> <strong>DOI</strong>:10.1029/2024MS004819
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2506Balwada.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Niek Kusters, Dhruv Balwada, Sjoerd Groeskamp</strong><br>
+    <a href="https://doi.org/10.1029/2025GL115802" target="_blank"><strong>Global Observational Estimates of Mesoscale Eddy-Driven Quasi-Stokes Velocity and Buoyancy Diffusivity</strong></a><br>
+    <i>GRL 2025</i> <strong>DOI</strong>:10.1029/2025GL115802
   </p>
 </div>
 
@@ -63,7 +75,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+    <img src="/images/news/2507Perezhogin.png" style="width: 100px; height: 100px;">
   </div>
   <p>
     <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
@@ -131,6 +143,18 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <strong>Marika M Holland, Kristen Krumhardt, Alice DuVivier, Laura Landrum </strong><br>
     <a href="https://doi.org/10.1175/JCLI-D-24-0258.1" target="_blank"><strong>Regional Multiyear Predictability of Antarctic Sea Ice in CESM2 and Its Implications for Marine Ecosystems</strong></a><br>
     <i>Journal of Climate</i> <strong>DOI</strong>:10.1175/JCLI-D-24-0258.1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/btsz_2024.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>David Bonan, Andrew Thompson, Tapio Schneider, Laure Zanna, Kyle Armour, Shantong Sun</strong><br>
+    <a href="https://doi.org/10.1038/s41561-025-01709-0" target="_blank"><strong>Observational constraints imply limited future Atlantic meridional overturning circulation weakening</strong></a><br>
+    <i>Nature Geosciences</i> <strong>DOI</strong>: 10.1038/s41561-025-01709-0
   </p>
 </div>
 
@@ -306,18 +330,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/btsz_2024.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <!-- <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon"> -->
-    <strong>David Bonan, Andrew Thompson, Tapio Schneider, Laure Zanna, Kyle Armour, Shantong Sun</strong><br>
-    <a href="https://doi.org/10.21203/rs.3.rs-4456168/v1" target="_blank"><strong>Constraints imply limited future weakening of Atlantic meridional overturning circulation
-</strong></a><br>
-    <i>Preprint under review at Nature Portfolio</i> <strong>DOI</strong>: doi.org/10.21203/rs.3.rs-4456168/v1
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">

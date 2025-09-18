@@ -2,9 +2,9 @@
 title: "Etienne Meunier"
 draft: false
 image: "/images/team/EtienneMeunier.jpeg"
-jobtitle: "PostDoc"
+jobtitle: "Affiliate"
 promoted: true
-weight: 39
+weight: 40
 Website: https://etienne-meunier.github.io/
 tags: [Ocean, Machine Learning]
 ---
