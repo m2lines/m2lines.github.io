@@ -5,7 +5,7 @@ image: "/images/team/Dhruvbalwada.jpeg"
 jobtitle: "Lead Scientist"
 promoted: true
 Website:  https://dhruvbalwada.github.io/
-weight: 22
+weight: 10
 position: Macro-turbulence
 tags: [Ocean, Machine Learning]
 ---

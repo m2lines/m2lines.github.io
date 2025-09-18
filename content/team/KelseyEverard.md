@@ -4,7 +4,7 @@ draft: false
 image: "/images/team/KelseyEverard.jpg"
 jobtitle: "Postdoc"
 promoted: true
-weight: 44
+weight: 20
 position: Mesoscale eddy parameterisation
 tags: [Ocean, Machine Learning]
 ---

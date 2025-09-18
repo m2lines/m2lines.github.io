@@ -2,9 +2,9 @@
 title: "Andrew Brettin"
 draft: false
 image: "/images/team/AndrewBrettin.jpg"
-jobtitle: "Affiliate, Graduate Student"
+jobtitle: "Affiliate"
 promoted: true
-weight: 28
+weight: 50
 Website:  https://andrewbrettin.github.io/
 tags: [Ocean, Machine Learning]
 ---

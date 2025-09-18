@@ -4,7 +4,7 @@ draft: false
 image: "/images/team/DanniDu.jpg"
 jobtitle: "Postdoc"
 promoted: true
-weight: 41
+weight: 20
 Website: https://danni-du.github.io/
 tags: [Machine Learning, Data Assimilation, Climate Model Development]
 ---

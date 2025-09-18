@@ -2,9 +2,9 @@
 title: "Shuchang Liu"
 draft: false
 image: "/images/team/ShuchangLiu.jpg"
-jobtitle: "Affiliate"
+jobtitle: "Affiliate, Postdoc"
 promoted: true
-weight: 41
+weight: 30
 Website:
 tags: [Atmosphere, Machine Learning]
 ---
