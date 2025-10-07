@@ -1,14 +1,14 @@
 ---
-title: "Maxime Keutgen De Greef"
+title: "Amogh Gulati"
 draft: false
-image: "/images/team/Maxime.png"
+image: "/images/team/AmoghGulati.jpg"
 jobtitle: "Affiliate, Graduate Student"
 promoted: true
-weight: 26
+weight: 25
 Website:
-Position: Emulator
+Position:
 tags: [Ocean, Machine Learning, Climate Model Development]
 ---
 
 
-Princeton University
+NYU

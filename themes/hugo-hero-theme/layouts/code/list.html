@@ -1,110 +1,27 @@
-
-
- {{ define "header_css" }}{{ end }}
-{{ define "body_classes" }}page-team-list{{ end }}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-work-list{{ end }}
 {{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
 
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
-<style>
-  /* CSS for the h2 topic title */
-  .team-name {
-    padding-top: 16px;
-    font-size: 32px; /* Adjust the font size as needed */
-    /* font-weight: bold; */
-    color: #333; /* Change the text color as needed */
-    padding-bottom: 2px; /* Adjust the spacing as needed */
-  }
-
-  /* CSS for the hr line */
-  hr {
-    border-top: 2px solid #000; /* Adjust the border properties to make the line more prominent */
-    margin-top: 10px; /* Adjust the spacing as needed */
-
-  }
-</style>
-
-<div class="container pt-2 pb-2">
-  <h2 class="team-name">Machine learning tutorials and tools</h2>
-  <hr>
+{{ if .Content }}
+<div class="container pt-6 pt-md-10">
   <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
-
-    {{ if eq .Params.Jobtitle "Tutorial" }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
-    {{ end }}
-    <!-- {{ end }} -->
+    <div class="col-12">
+      <div class="page-intro">
+      {{ .Content }}
+    </div>
+    </div>
   </div>
-  <h2 class="team-name">Software packages</h2>
-  <hr>
-  <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
+</div>
+{{ end }}
 
-    {{ if eq .Params.Jobtitle "Package" }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
-    {{ end }}
-    <!-- {{ end }} -->
-  </div>
-  <h2 class="team-name">Models and implementations of parameterizations</h2>
-  <hr>
+<div class="container pb-6 pt-6 pb-md-10 pt-md-10">
   <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
-
-    {{ if eq .Params.Jobtitle "Model" }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
+    {{ range .Pages.ByWeight }}
+    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
     {{ end }}
-    <!-- {{ end }} -->
-  </div>
-  <h2 class="team-name">Ocean parameterizations</h2>
-  <hr>
-  <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
-
-    {{ if eq .Params.Jobtitle "Ocean Parameterization" }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
-    {{ end }}
-    <!-- {{ end }} -->
-  </div>
-  <h2 class="team-name">Atmosphere parameterizations</h2>
-  <hr>
-  <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
-
-    {{ if eq .Params.Jobtitle "Atmosphere Parameterization" }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
-    {{ end }}
-    <!-- {{ end }} -->
-  </div>
-  <h2 class="team-name">Sea Ice parameterizations</h2>
-  <hr>
-  <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
-
-    {{ if eq .Params.Jobtitle "Sea Ice Parameterization" }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
-    {{ end }}
-    <!-- {{ end }} -->
-  </div>
-  <h2 class="team-name">Datasets</h2>
-  <hr>
-  <h3 class="team-name">Benchmark</h3>
-  <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
-
-    {{ if and (eq .Params.Jobtitle "Dataset") (eq .Params.Datasettype "Benchmark") }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
-    {{ end }}
-    <!-- {{ end }} -->
-  </div>
-  <h3 class="team-name">In the cloud</h3>
-  <div class="row">
-    <!-- {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}} -->
-
-    {{ if and (eq .Params.Jobtitle "Dataset") (eq .Params.Datasettype "Cloud") }}
-    <div class="col-12 col-md-6">{{ .Render "summary" }}</div>
-    {{ end }}
-    <!-- {{ end }} -->
   </div>
 </div>
 {{ end }}
