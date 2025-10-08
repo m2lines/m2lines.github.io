@@ -4,7 +4,7 @@ heroHeading: 'Code'
 heroSubHeading: 'Public repository and data access'
 heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
 ---
- 
+
 <div style="display: flex; align-items: center;">
   <div style="width: 50px; height: 50px; overflow: hidden;  margin-right: 10px;">
    <a href="https://github.com/m2lines" target="_blank"><img src="/images/github-mark.png" style="width: 50px; height: 50px;">
@@ -32,7 +32,7 @@ heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
 
 
 
-#### MOM6 with M²LInES parametrizations 
+#### MOM6 with M²LInES parametrizations
 <div style="display: flex; align-items: center;">
  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
@@ -45,20 +45,20 @@ heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
 
 <br>
 
-#### Samudra 
+#### Samudra
 <div style="display: flex; align-items: center;">
  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/2501-Samudra.gif" style="width: 100px; height: auto;">
   </div>
  <p style="font-weight: normal;">
     <a href="https://github.com/m2lines/Samudra" target="_blank"><strong>Samudra: An AI Global Ocean Emulator for Climate</strong></a><br>
-    The first 3D global emulator for Climate, <strong> 360x faster </strong> than traditional models! 
+    The first 3D global emulator for Climate, <strong> 360x faster </strong> than traditional models!
   </p>
 </div>
 
 <br>
 
-#### SamudrACE 
+#### SamudrACE
 <div style="display: flex; align-items: center;">
  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/SamudrACE.png" style="width: 100px; height: auto;">
@@ -135,4 +135,4 @@ Upcoming codes will be linked to this repository as they become available.
 
 #### Datasets
 
-All of the datasets used in M²LInES publications will be made openly available. When possible, they will be hosted on [Pangeo](https://pangeo.io/) --> 
+All of the datasets used in M²LInES publications will be made openly available. When possible, they will be hosted on [Pangeo](https://pangeo.io/) -->
