@@ -115,7 +115,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <img src="/images/publications/2504-Zanna.png" style="width: 100px; height: 100px;">
   </div>
   <p>
- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> 
+ <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Moein Darman, Pedram Hassanzadeh, Laure Zanna, Ashesh Chattopadhyay</strong><br>
     <a href="https://doi.org/10.48550/arXiv.2504.15487" target="_blank"><strong>Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence</strong></a><br>
     <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2504.15487

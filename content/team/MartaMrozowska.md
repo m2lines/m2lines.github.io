@@ -5,7 +5,7 @@ image: "/images/team/MartaMrozowska.jpg"
 jobtitle: "Postdoc"
 promoted: true
 weight: 20
-position: 
+position:
 tags: [Ocean, Machine Learning, Climate Model Development]
 ---
 
