@@ -2,7 +2,7 @@
 title: "Amogh Gulati"
 draft: false
 image: "/images/team/AmoghGulati.jpg"
-jobtitle: "Affiliate, Graduate Student"
+jobtitle: "Graduate Student"
 promoted: true
 weight: 25
 Website:
