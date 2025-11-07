@@ -1,14 +1,14 @@
 ---
-title: "Maxime Keutgen De Greef"
+title: "Gosha Geogdzhayev"
 draft: false
-image: "/images/team/Maxime.png"
+image: "/images/team/GoshaGeogdzhayev.jpeg"
 jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 26
 Website:
 Position: Emulator
-tags: [Ocean, Machine Learning, Climate Model Development]
+tags: [Ocean, Atmosphere, Machine Learning]
 ---
 
 
-Princeton University
+NYU
