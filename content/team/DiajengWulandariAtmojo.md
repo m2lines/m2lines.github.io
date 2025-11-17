@@ -6,7 +6,7 @@ jobtitle: "Affiliate, Graduate Student"
 promoted: true
 weight: 26
 Website:
-Position: 
+Position:
 tags: [Sea-Ice, Machine Learning, Climate Model Development]
 ---
 
