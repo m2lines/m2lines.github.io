@@ -2,10 +2,10 @@
 title: "Pavel Perezhogin"
 draft: false
 image: "/images/team/PavelPerezhogin.png"
-jobtitle: "Postdoc"
+jobtitle: "Lead Scientist"
 promoted: true
 Website: https://pperezhogin.github.io/
-weight: 15
+weight: 10
 position: Turbulence
 tags: [Ocean, Climate Model Development]
 ---
