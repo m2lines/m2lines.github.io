@@ -12,6 +12,32 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
+
+### 2026
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2602Brettin.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Andrew Brettin, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2601.17243" target="_blank"><strong>Estimation of temperature and precipitation uncertainties using quantile neural networks</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2601.17243
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2601Gregory.gif" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>William Gregory, Mitchell Bushuk, Yong-Fei Zhang, Alistair Adcroft, Laure Zanna, Colleen McHugh, Liwei Jia</strong><br>
+<a href="https://doi.org/10.1126/sciadv.ady8957" target="_blank"><strong>Advancing global sea ice prediction capabilities using a fully coupled climate model with integrated machine learning</strong></a><br>
+<i>Science Advances.</i> <strong>DOI</strong>: 10.1126/sciadv.ady8957
+  </p>
+</div>
+
 ### 2025
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
@@ -24,6 +50,31 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <i>Machine Learning: Science and Technology</i> <strong>DOI</strong>: 10.1088/2632-2153/ae1a36
   </p>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2601Shamekh.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Katharina Hafner, Fernando Iglesias‐Suarez, Sara Shamekh, Pierre Gentine, Marco A Giorgetta, Robert Pincus, Veronika Eyring</strong><br>
+    <a href="https://doi.org/10.1029/2024JH000501" target="_blank"><strong>Interpretable machine learning‐based radiation emulation for icon</strong></a><br>
+    <i>Journal of Geophysical Research</i> <strong>DOI</strong>: 10.1029/2024JH000501
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2601Falga.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Renaud Falga, Sara Shamekh, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2511.01766" target="_blank"><strong>Towards a Unified Data-Driven Boundary Layer Momentum Flux Parameterization for Ocean and Atmosphere</strong></a><br>
+    <i>Authorea Preprint</i> <strong>DOI</strong>: 10.48550/arXiv.2511.01766
+  </p>
+</div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">

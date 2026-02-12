@@ -10,6 +10,12 @@ tags:
 
  Links to our past newsletters are below.
  
+### 2026
+
+* 02/02/2026 - [M²LInES newsletter - February 2026](https://mailchi.mp/8bf7a300bfad/m2lines-feb2026)
+
+* 01/05/2026 - [M²LInES newsletter - January 2026](https://mailchi.mp/be4f07420e28/m2lines-jan2026)
+
 ### 2025
 
 * 12/02/2025 - [M²LInES newsletter - December 2025](https://mailchi.mp/14605e5ed14c/m2lines-dec2025)
