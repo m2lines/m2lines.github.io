@@ -15,6 +15,18 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 ### 2026
 <div style="display: flex; align-items: center;">
+  <div style="width: 200px; height: 100px; overflow: hidden; margin-right: -30px;">
+    <img src="/images/news/2604-FloeNet.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>William Gregory, Mitchell Bushuk, James Duncan, Elynn Wu, Adam Subel, Spencer K. Clark, Bill Hurlin, Oliver Watt-Meyer, Alistair Adcroft, Chris Bretherton, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2603.12449" target="_blank"><strong>FloeNet: A mass-conserving global sea ice emulator that generalizes across climates</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.12449
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
     <img src="/images/news/2602Brettin.png" style="width: 100px; height: 100px;">
   </div>
