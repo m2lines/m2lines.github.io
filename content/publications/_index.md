@@ -15,6 +15,20 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 ### 2026
 <div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2604-Qi.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Qi Liu, Laure Zanna, Joan Bruna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2603.17750" target="_blank"><strong>Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.17750
+  </p>
+</div>
+
+
+
+<div style="display: flex; align-items: center;">
   <div style="width: 200px; height: 100px; overflow: hidden; margin-right: -30px;">
     <img src="/images/news/2604-FloeNet.png" style="width: 100px; height: 100px;">
   </div>
