@@ -10,4 +10,3 @@ link: 'https://doi.org/10.22541/essoar.176365939.97870596/v1'
 ---
 
 This [study](https://doi.org/10.22541/essoar.176365939.97870596/v1), led by Judith Berner, examines the fundamental limits of subseasonal-to-seasonal weather predictability and the role of land and ocean initial conditions. Using a climate model in a perfect-model framework, the authors show that beyond four weeks, **land surface initialization - particularly soil moisture and snow - dominates predictability over land**, with ocean conditions playing a secondary role. The results point to significant opportunities for **improving extended-range forecasts through better land initialization and land–atmosphere coupling in prediction systems**.
-
