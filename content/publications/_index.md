@@ -15,13 +15,62 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 ### 2026
 <div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2504-Zanna.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+ <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Moein Darman, Pedram Hassanzadeh, Laure Zanna, Ashesh Chattopadhyay</strong><br>
+    <a href="https://doi.org/10.1088/3049-4753/ae510d" target="_blank"><strong>Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence</strong></a><br>
+    <i>Machine Learning Earth</i> <strong>DOI</strong>:10.1088/3049-4753/ae510d
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2504-Verma.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Tarun Verma, Feiyu Lu, Alistair Adcroft, Laure Zanna, Anand Gnanadesikan</strong><br>
+    <a href="https://doi.org/10.1029/2025MS005155" target="_blank"><strong>Deep Learning of Systematic Ocean Model Errors in a Coupled GCM from Data Assimilation Increments</strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>:10.1029/2025MS005155
+  </p>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/2603Shi.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Jia-Rui Shi, Pavel Perezhogin, Laure Zanna, Alistair Adcroft</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2603.25843" target="_blank"><strong>Impact of Data-Driven Eddy Parameterization on Climate State in an Idealized Coupled CESM Model></strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.25843
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2603Kamm.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>David Kamm, Julie Deshayes, Pavel Perezhogin, Etienne Meunier, Alexis Barge</strong><br>
+    <a href="https://doi.org/10.22541/essoar.177100611.18240844/v1" target="_blank"><strong>Assessing Data-Driven Eddy-Parameterizations in an Atlantic Sector Model></strong></a><br>
+    <i>ESS Open Archive</i> <strong>DOI</strong>: 10.22541/essoar.177100611.18240844/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
     <img src="/images/news/2604-Qi.png" style="width: 100px; height: 100px;">
   </div>
   <p>
    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Qi Liu, Laure Zanna, Joan Bruna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2603.17750" target="_blank"><strong>Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems></a><br>
+    <a href="https://doi.org/10.48550/arXiv.2603.17750" target="_blank"><strong>Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems></strong></a><br>
     <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.17750
   </p>
 </div>
@@ -35,7 +84,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
   <p>
    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>William Gregory, Mitchell Bushuk, James Duncan, Elynn Wu, Adam Subel, Spencer K. Clark, Bill Hurlin, Oliver Watt-Meyer, Alistair Adcroft, Chris Bretherton, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2603.12449" target="_blank"><strong>FloeNet: A mass-conserving global sea ice emulator that generalizes across climates</strong></a><br>
+    <a href="https://doi.org/10.48550/arXiv.2603.12449" target="_blank"><strong>FloeNet: A mass-conserving global sea ice emulator that generalizes across climates</strong></strong></a><br>
     <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.12449
   </p>
 </div>
@@ -47,7 +96,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
   <p>
    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Andrew Brettin, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2601.17243" target="_blank"><strong>Estimation of temperature and precipitation uncertainties using quantile neural networks</strong></a><br>
+    <a href="https://doi.org/10.48550/arXiv.2601.17243" target="_blank"><strong>Estimation of temperature and precipitation uncertainties using quantile neural networks</strong></strong></a><br>
     <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2601.17243
   </p>
 </div>
@@ -355,18 +404,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/2504-Zanna.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Moein Darman, Pedram Hassanzadeh, Laure Zanna, Ashesh Chattopadhyay</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2504.15487" target="_blank"><strong>Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence</strong></a><br>
-    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2504.15487
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">

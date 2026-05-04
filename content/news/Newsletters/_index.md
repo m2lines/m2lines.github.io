@@ -12,6 +12,10 @@ tags:
  
 ### 2026
 
+* 05/01/2026 - [M²LInES newsletter - May 2026](https://mailchi.mp/0ea31f7e9316/m2lines-may2026)
+
+* 04/01/2026 - [M²LInES newsletter - April 2026](https://mailchi.mp/4bca7e3e26ce/m2lines-apr2026)
+
 * 03/02/2026 - [M²LInES newsletter - March 2026](https://mailchi.mp/ac4b54e185ba/m2lines-mar2026)
 
 * 02/02/2026 - [M²LInES newsletter - February 2026](https://mailchi.mp/8bf7a300bfad/m2lines-feb2026)
