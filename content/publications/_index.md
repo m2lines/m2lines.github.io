@@ -14,6 +14,43 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
 
 ### 2026
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: -50px;">
+    <img src="/images/news/2511SamudrACE.gif" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>James P. C. Duncan, Elynn Wu, Surya Dheeshjith, Adam Subel, Troy Arcomano, Spencer K. Clark, Brian Henn, Anna Kwa, Jeremy McGibbon, W. Andre Perkins, William Gregory, Carlos Fernandez-Granda, Julius Busecke, Oliver Watt-Meyer, William J. Hurlin, Alistair Adcroft, Laure Zanna, Christopher Bretherton</strong><br>
+    <a href="https://doi.org/10.1029/2025GL119340" target="_blank"><strong>SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.1029/2025GL119340
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2603Kamm.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>David Kamm, Julie Deshayes, Pavel Perezhogin, Etienne Meunier, Alexis Barge</strong><br>
+    <a href="https://doi.org/10.1029/2026MS005816" target="_blank"><strong>Assessing Data-Driven Eddy-Parameterizations in an Atlantic Sector Model </strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>: 10.1029/2026MS005816
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/2510Shamekh.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Sara Shamekh, Pedro Angulo-Umana, Paul A O'gorman</strong><br>
+    <a href="https://doi.org/10.1175/JAS-D-25-0178.1" target="_blank"><strong>Data-driven Modeling of Stratiform and Convective Rain Area</strong></a><br>
+    <i>Journal of the Atmospheric Sciences</i> <strong>DOI</strong>: 10.1175/JAS-D-25-0178.1
+  </p>
+</div>
+
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/publications/2504-Zanna.png" style="width: 100px; height: 100px;">
@@ -23,6 +60,18 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <strong>Moein Darman, Pedram Hassanzadeh, Laure Zanna, Ashesh Chattopadhyay</strong><br>
     <a href="https://doi.org/10.1088/3049-4753/ae510d" target="_blank"><strong>Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence</strong></a><br>
     <i>Machine Learning Earth</i> <strong>DOI</strong>:10.1088/3049-4753/ae510d
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2511Sane.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Aakash Sane, Brandon G Reichl, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2026GL122106" target="_blank"><strong>Machine learned equations for vertical mixing coefficients in the ocean surface boundary layer</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.1029/2026GL122106
   </p>
 </div>
 
@@ -46,20 +95,8 @@ You can also check all our publications on our **[Google Scholar profile](https:
   <p>
    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Jia-Rui Shi, Pavel Perezhogin, Laure Zanna, Alistair Adcroft</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2603.25843" target="_blank"><strong>Impact of Data-Driven Eddy Parameterization on Climate State in an Idealized Coupled CESM Model></strong></a><br>
+    <a href="https://doi.org/10.48550/arXiv.2603.25843" target="_blank"><strong>Impact of Data-Driven Eddy Parameterization on Climate State in an Idealized Coupled CESM Model</strong></a><br>
     <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.25843
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <img src="/images/news/2603Kamm.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>David Kamm, Julie Deshayes, Pavel Perezhogin, Etienne Meunier, Alexis Barge</strong><br>
-    <a href="https://doi.org/10.22541/essoar.177100611.18240844/v1" target="_blank"><strong>Assessing Data-Driven Eddy-Parameterizations in an Atlantic Sector Model></strong></a><br>
-    <i>ESS Open Archive</i> <strong>DOI</strong>: 10.22541/essoar.177100611.18240844/v1
   </p>
 </div>
 
@@ -70,7 +107,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
   <p>
    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
     <strong>Qi Liu, Laure Zanna, Joan Bruna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2603.17750" target="_blank"><strong>Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems></strong></a><br>
+    <a href="https://doi.org/10.48550/arXiv.2603.17750" target="_blank"><strong>Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems</strong></a><br>
     <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.17750
   </p>
 </div>
@@ -151,17 +188,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
 </div>
 
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <img src="/images/publications/2510Shamekh.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Sara Shamekh, Pedro Angulo-Umana, Paul A O'gorman</strong><br>
-    <a href="https://doi.org/10.22541/au.176185709.98292011/v1" target="_blank"><strong>Data-driven Modeling of Stratiform and Convective Rain Area</strong></a><br>
-    <i>Authorea Preprint</i> <strong>DOI</strong>: 10.22541/au.176185709.98292011/v1
-  </p>
-</div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="width: 400px; height: 100px; overflow: hidden; margin-right: -10px;">
@@ -223,17 +250,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: -50px;">
-    <img src="/images/news/2511SamudrACE.gif" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>James P. C. Duncan, Elynn Wu, Surya Dheeshjith, Adam Subel, Troy Arcomano, Spencer K. Clark, Brian Henn, Anna Kwa, Jeremy McGibbon, W. Andre Perkins, William Gregory, Carlos Fernandez-Granda, Julius Busecke, Oliver Watt-Meyer, William J. Hurlin, Alistair Adcroft, Laure Zanna, Christopher Bretherton</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2509.12490" target="_blank"><strong>SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators</strong></a><br>
-    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2509.12490
-  </p>
-</div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
