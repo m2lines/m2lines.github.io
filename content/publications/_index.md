@@ -14,6 +14,17 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
 
 ### 2026
+<div style="display: flex; align-items: center;">
+  <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: -50px;">
+    <img src="/images/news/2607Nasser.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Antoine-Alexis Nasser, Alistair Adcroft</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2606.17497" target="_blank"><strong> Design principles for stable and generalizable data-driven discretizations for solving linear hyperbolic conservation laws</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.48550/arXiv.2606.17497
+  </p>
+</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: -50px;">
