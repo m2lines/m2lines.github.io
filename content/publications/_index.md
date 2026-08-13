@@ -586,18 +586,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <img src="/images/publications/lces_23.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Karan Jakhar, Yifei Guan, Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.1029/2023MS003874" target="_blank"><strong>Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges.</strong></a><br>
-    <i>JAMES. 2024.</i> <strong>DOI</strong>: 10.1029/2023MS003874
-  </p>
-</div>
-
-<div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/news/2409Gregory.png" style="width: 100px; height: 100px;">
   </div>
