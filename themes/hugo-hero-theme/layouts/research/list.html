@@ -22,7 +22,7 @@
             <!-- reorder based on preference by Johanna -->
             {{ $classes := slice "menu-item-4"   "menu-item-9" "menu-item-7" "menu-item-8" "menu-item-2" "menu-item-6" "menu-item-3" "menu-item-1"  "menu-item-5" }}
             {{ $index := 0 }}
-            {{ range $key, $value := .Site.Data.tag_links }}
+            {{ range $key, $value := hugo.Data.tag_links }}
               <a target="_blank" href="{{ $value }}" class="menu-item {{ index $classes $index }}">{{ $key }}</a>
               {{ $index = add $index 1 }}
             {{ end }}
