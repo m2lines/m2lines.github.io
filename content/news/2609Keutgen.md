@@ -4,8 +4,8 @@ title: "SamudraBGC: Machine Learning Emulation of Regional Mesoscale Ocean Bioge
 heroHeading: ''
 heroSubHeading: 'SamudraBGC'
 heroBackground: ''
-thumbnail:  'images/news/2609Keutgen.JPG'
-images: ['images/news/2609Keutgen.JPG']
+thumbnail:  'images/news/2609Keutgen.jpg'
+images: ['images/news/2609Keutgen.jpg']
 link: 'https://doi.org/10.22541/essoar.15006794/v1'
 ---
 
