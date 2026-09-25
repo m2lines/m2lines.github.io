@@ -1,8 +1,8 @@
 ---
 date: 2023-12-01T09:29:16+10:00
-title: "Will Gregory\'s latest article featured in Advance Science News"
+title: "Will Gregory's latest article featured in Advance Science News"
 heroHeading: ''
-heroSubHeading: "Will Gregory\'s latest article featured in Advance Science News"
+heroSubHeading: "Will Gregory's latest article featured in Advance Science News"
 heroBackground: ''
 thumbnail:  '/images/news/tina-rolf-yuF2B5Zyz88-unsplash.jpg'
 images: ['/images/news/tina-rolf-yuF2B5Zyz88-unsplash.jpg']

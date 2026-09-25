@@ -1,14 +1,14 @@
 ---
-title: "Jinchang 'Thomas' Li"
+title: "Bianca Champenois"
 draft: false
-image: "/images/team/JinchangLi.png"
-jobtitle: "Affiliate, undergraduate Student"
+image: "/images/team/bianca.jpg"
+jobtitle: "Affiliate, Postdoc"
 promoted: true
-weight: 28
-Website: 'https://github.com/ThomasLi0314'
+weight: 29
+Website: 'https://biancach.github.io/'
 Position:
-tags: [Ocean, Atmosphere, Machine Learning]
+tags: [Ocean, Machine Learning, Data Assimilation]
 ---
 
 
-NYU
+Princeton University

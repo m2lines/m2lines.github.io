@@ -2,7 +2,7 @@
 title: "Abigail Bodner"
 draft: false
 image: "/images/team/AbigailBodner.jpg"
-jobtitle: "Affiliate"
+jobtitle: "Professor"
 promoted: true
 weight: 40
 Website:  https://abodner.github.io/
@@ -11,4 +11,4 @@ tags: [Ocean, Machine Learning, Climate Model Development]
 ---
 
 
-NYU
+MIT

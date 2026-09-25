@@ -17,16 +17,16 @@
     <div class="col-12 col-md-8">
       {{ .Content }}
       <ul>
-        <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li>
-        <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
-            {{ .Site.Data.contact.email }}</a></li>
-        {{ if .Site.Data.contact.address }}
-        <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ .Site.Data.contact.address }}</li>
+        <li><strong>Phone: </strong>{{ hugo.Data.contact.phone }}</li>
+        <li><strong>Email: </strong><a href="mailto:{{ hugo.Data.contact.email }}">
+            {{ hugo.Data.contact.email }}</a></li>
+        {{ if hugo.Data.contact.address }}
+        <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ hugo.Data.contact.address }}</li>
         {{ end }}
       </ul>
       <h4 class="mt-4">Business Hours</h4>
       <table class="table table-sm opening-hours-table">
-        {{ range .Site.Data.contact.hours }}
+        {{ range hugo.Data.contact.hours }}
         <tr>
           <td class="day font-weight-bold">{{ .day }}</td>
           <td class="opens">{{ .open }}</td>
