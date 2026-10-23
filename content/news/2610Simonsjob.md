@@ -12,6 +12,6 @@ link: 'https://wp.nyu.edu/sccgf/'
  We are excited to share a new opportunity from our partners at the **[Simons Center for Computational Geophysical Flows](https://wp.nyu.edu/sccgf/)**! They are hiring Simons Center Postdoctoral Fellows with a background in machine learning, computer science, engineering, physical science, applied mathematics, atmosphere/ocean science, or related technical discipline.
 
 
-You can **[apply here](https://apply.interfolio.com/193211)** to solve important climate problems.   
- 
+You can **[apply here](https://apply.interfolio.com/193211)** to solve important climate problems.
+
 Deadline to apply: **December 1, 2026.**

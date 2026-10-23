@@ -1,5 +1,5 @@
 baseURL = "https://m2lines.github.io/"
-relativeURLs = "True"
+relativeURLs = false
 canonifyURLs = "True"
 locale = "en-us"
 title = "M²LInES"
@@ -7,6 +7,10 @@ themesDir = "themes"
 theme = "hugo-hero-theme"
 sectionPagesMenu = "content"
 enableEmoji = true
+
+enableRobotsTXT = true
+enableGitInfo = true
+disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -20,7 +24,7 @@ enableEmoji = true
   description = "M²LInES (M2LInES), pronounced M-square-lines, is an international collaborative project with the goal of improving climate projections, using scientific and interpretable Machine Learning to capture unaccounted physical processes at the air-sea-ice interface."
   image = "images/m2lines-share.png"
   twitter = "@M2LInES"
-  
+
  [params.homepage]
   show_call_box = true
 
@@ -69,7 +73,7 @@ enableEmoji = true
 [[menu.main]]
     identifier = "former"
     name = "Former members"
-    url = "/team/former"
+    url = "/team/former/"
     parent = "team"
     weight = 3
 
@@ -113,7 +117,7 @@ enableEmoji = true
 
 [[menu.main]]
     name = "Archive"
-    url = "/publications/archive"
+    url = "/publications/archive/"
     parent = "publications"
     weight = 2
 

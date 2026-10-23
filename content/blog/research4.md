@@ -6,6 +6,9 @@ weight: 2
 heroHeading: 'High-resolution simulations and observational data'
 heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
+build:
+  render: never
+  list: always
 ---
 
 We will diagnose small-scale physical processes such as:

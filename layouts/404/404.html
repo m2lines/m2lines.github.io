@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="container pt-10 pb-10">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-9 text-center">
+      <h1 class="title-1 black mb-4">Page not found</h1>
+      <p class="mb-4">The page you were looking for has moved or no longer exists.</p>
+      <a href="{{ "/" | relURL }}" class="btn btn-primary mr-1">Home</a>
+      <a href="{{ "research/" | relURL }}" class="btn btn-primary mr-1">Research</a>
+      <a href="{{ "publications/" | relURL }}" class="btn btn-primary">Publications</a>
+       <a href="{{ "team/" | relURL }}" class="btn btn-primary mr-1">Team</a>
+    <a href="{{ "news/" | relURL }}" class="btn btn-primary mr-1">News</a>
+
+    </div>
+  </div>
+</div>
+{{ end }}
