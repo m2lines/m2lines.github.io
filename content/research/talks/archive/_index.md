@@ -1,5 +1,6 @@
 ---
 title: 'Archive Talks'
+description: 'Earlier recorded talks by M²LInES researchers on machine learning for climate modeling, parameterization and emulation.'
 heroHeading: 'Archive Talks'
 heroSubHeading: ''
 heroBackground: '/images/headway-F2KRf_QfCqw-unsplash.jpeg'

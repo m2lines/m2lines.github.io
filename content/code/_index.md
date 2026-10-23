@@ -1,5 +1,6 @@
 ---
 title: ' Code'
+description: 'Open-source code, models and datasets from M²LInES for machine learning in climate modeling, with links to repositories and public data access.'
 heroHeading: 'Code'
 heroSubHeading: 'Public repository and data access'
 heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'

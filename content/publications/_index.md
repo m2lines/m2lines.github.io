@@ -1,5 +1,6 @@
 ---
 title: 'Publications'
+description: 'Papers and preprints from M²LInES or related to M²LInES topics on machine learning parameterizations, climate emulators, and data-driven ocean, atmosphere and sea-ice physics.'
 heroHeading: 'Publications'
 heroSubHeading: 'Research work and relevant papers by our team'
 heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
@@ -17,6 +18,54 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div class="publication">
   <div class="publication-image">
+    <img src="/images/publications/2610Levine.png">
+  </div>
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>Xavier J Levine, Griffin Mooers, Jack W Atkinson, Marat F Khairoutdinov, Janni Yuval, Dominic Orchard, Paul A O'Gorman</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2610.20405" target="_blank"><strong>Improved Precipitation Variability in the Community Atmosphere Model through Implementation of a Neural-Network Deep Convection Scheme</strong></a><br>
+    <i>ArXiv</i> <strong>DOI</strong>: 10.48550/arXiv.2610.20405
+  </p>
+</div>
+
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/publications/2026Balwada.png">
+  </div>
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>Georgy E Manucharyan, Scott A Martin, Dhruv Balwada, Jinbo Wang</strong><br>
+    <a href="https://doi.org/10.1146/annurev-marine-040324-023244" target="_blank"><strong>Deep Learning to Infer Ocean Dynamics</strong></a><br>
+    <i>Annual Review of Marine Science</i> <strong>DOI</strong>: 10.1146/annurev-marine-040324-023244
+  </p>
+</div>
+
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/news/2610Balwada.png">
+  </div>
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>Dhruv Balwada, Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2025MS005245" target="_blank"><strong>Design and implementation of a data‐driven parameterization for mesoscale eddy‐induced transport: Idealized two‐layer configurations</strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>: 10.1029/2025MS005245
+  </p>
+</div>
+
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/publications/2026Atmojo.png">
+  </div>
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>Diajeng W Atmojo, Katja Weigel, Arthur Grundner, Marika M Holland, Dmitry Sidorenko, Veronika Eyring</strong><br>
+    <a href="https://doi.org/10.5194/tc-20-4437-2026" target="_blank"><strong>Data-driven equation discovery of a sea ice albedo parametrisation</strong></a><br>
+    <i>The Cryosphere</i> <strong>DOI</strong>: 10.5194/tc-20-4437-2026
+  </p>
+</div>
+
+<div class="publication">
+  <div class="publication-image">
     <img src="/images/news/2604-FloeNet.png">
   </div>
   <p class="publication-text">
@@ -27,6 +76,31 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/publications/2026Perezhogin.jpg">
+  </div>
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2026GL123513" target="_blank"><strong>Calibration of a neural network ocean closure for improved mean state and variability</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>: 10.1029/2026GL123513
+  </p>
+</div>
+
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/publications/2026SubelZanna.png">
+  </div>
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>Adam Subel, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2608.13494" target="_blank">
+      <strong>Paleoclimate Boundary Conditions as an Out-of-Sample Test for the Forced Response of Ocean Climate Emulators</strong>
+    </a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2608.13494
+  </p>
+</div>
 
 <div class="publication">
   <div class="publication-image">

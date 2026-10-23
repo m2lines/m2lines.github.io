@@ -53,6 +53,13 @@ hugo new content/<name of your page>.md # create a new page
 hugo server -D # serve the website on http://localhost:1313/.
 ```
 
+### Page descriptions (for search results and link previews)
+Add a `description:` line to the front matter of every new page:
+one or two plain sentences, 120 to 155 characters, saying what the page is about.
+News posts can rely on `heroSubHeading`. Team members only appear on the team
+lists, so they need no description. Add `thumbnail:` to news posts so links share with an image.
+
+
 ### Updating Tags
 Member interests are defined in the form of tags which can link to personalized landing pages.
 Example for adding tag to a member and giving it a custom landing page:

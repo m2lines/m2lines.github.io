@@ -1,5 +1,6 @@
 ---
 title: 'Talks'
+description: 'Recorded talks by M²LInES researchers on machine learning for climate modeling, parameterization and emulation.'
 heroHeading: 'Talks'
 heroSubHeading: ''
 heroBackground: '/images/headway-F2KRf_QfCqw-unsplash.jpeg'
@@ -120,6 +121,83 @@ p {
 
 <h1 style="font-family: Helvetica, serif; text-align: center;">Recent talks</h1>
 <hr style="width: 100%; margin-top: 20px; border-color: #333;">
+
+## *2025*
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=DU88-ov2vXs&t=2730s');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/DU88-ov2vXs/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Will Gregory</strong><br>
+    <em>How is AI shaping Arctic climate modeling and observational research?</em><br>
+   IARPC Webinar - August  &#128187; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.youtube.com/watch?v=eWSWdj_7pB4');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/eWSWdj_7pB4/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Will Chapman</strong><br>
+    <em>Improving climate model bias and variability via a Convolutional Neural Network (CNN)-based state-dependent model-error correction</em><br>
+   NCAR Mesoscale and Microscale Meteorology Invited Seminar - May  &#128187; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://youtu.be/9xr2WBzzbPs');">
+        <a href="#" class="fill-div">
+        <img src="https://img.youtube.com/vi/9xr2WBzzbPs/0.jpg" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Laure Zanna</strong><br>
+    <em>Reshaping climate modeling with AI</em><br>
+   Collège de France - AI and Mathematics for Meteorology and Climatology - May  &#128187; &#127878; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://www.birs.ca/events/2025/5-day-workshops/25w5380/videos/watch/202505270857-Du.html');">
+        <a href="#" class="fill-div">
+        <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Danni Du</strong><br>
+    <em>Improved MJO prediction across the Maritime Continent with sea surface salinity assimilation</em><br>
+   BIRS MJO Predictability Workshop - May  &#128202; &#127758;
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+      <div onclick="window.open('https://vimeo.com/1073527258/5aeceea455');">
+        <a href="#" class="fill-div">
+        <img src="/images/newlogo.png" alt="Video Preview">
+        </a>
+      </div>
+  </div>
+  <p>
+    <strong>Alistair Adcroft</strong><br>
+    <em>Ocean Heat Uptake in the Era of Eddying Ocean Models and AI</em><br>
+   ECMWF 50th Anniversary and Annual Seminar - March  &#128187; &#127758;
+  </p>
+</div>
+
 
 ## *2024*
 <div style="display: flex; align-items: center;">

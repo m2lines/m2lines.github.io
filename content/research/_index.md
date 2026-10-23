@@ -1,5 +1,6 @@
 ---
-title: ''
+title: 'Research themes'
+description: 'Machine learning parameterizations for ocean, atmosphere and sea ice, climate model emulators, and data-driven discovery in climate physics.'
 heroHeading: 'Research themes'
 heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'

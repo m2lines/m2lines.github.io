@@ -1,0 +1,33 @@
+{{- /* Description: front matter first, then sensible fallbacks */ -}}
+{{- $desc := .Description -}}
+{{- if and (not $desc) (eq .Section "team") .IsPage -}}
+  {{- $desc = printf "%s, %s, M²LInES (M2LInES) team member." .Title (.Params.jobtitle | default "researcher") -}}
+  {{- with .Params.tags }}{{ $desc = printf "%s Research interests: %s." $desc (delimit . ", ") }}{{ end -}}
+{{- end -}}
+{{- $desc = $desc | default .Params.heroSubHeading | default .Summary | default site.Params.seo.description -}}
+{{- $desc = $desc | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 "…" -}}
+
+{{- /* Share image: page thumbnail or photo, else the site default */ -}}
+{{- $img := .Params.thumbnail | default .Params.image | default site.Params.seo.image -}}
+{{- $img = strings.TrimPrefix "/" $img | absURL -}}
+
+{{- $title := .Params.seoTitle | default (trim .Title " ") | default .Params.heroHeading | default site.Title -}}
+{{- if .IsHome }}{{ $title = site.Params.seo.homeTitle | default site.Title }}{{ end -}}
+
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ $img }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="{{ site.Params.seo.twitter }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $img }}">
+{{- if .Params.noindex }}
+<meta name="robots" content="noindex">
+{{- end }}

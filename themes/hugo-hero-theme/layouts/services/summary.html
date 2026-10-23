@@ -1,13 +1,11 @@
 <div class="service service-summary">
-  {{ if .Params.icon }}
+  {{ with .Params.icon }}
   <div class="service-image">
-    <img src="{{ .Site.BaseURL }}{{ .Params.icon }}"/>
+    <img src="{{ . | absURL }}" alt="" loading="lazy">
   </div>
   {{ end }}
   <div class="service-content">
-    <h2 class="service-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </h2>
+    {{ with .Title }}<h3 class="service-title">{{ . }}</h3>{{ end }}
     {{ .Content | truncate 120 "..." }}
   </div>
 </div>

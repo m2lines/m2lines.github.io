@@ -1,5 +1,6 @@
 ---
 title: 'Publications Archive'
+description: 'Earlier M²LInES publications on machine learning for climate modeling, including subgrid parameterizations for the ocean, atmosphere and sea ice.'
 heroHeading: 'Publications Archive'
 heroSubHeading: ''
 heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'

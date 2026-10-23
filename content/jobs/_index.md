@@ -1,5 +1,6 @@
 ---
 title: 'Jobs'
+description: 'Open positions with M²LInES in machine learning and climate modeling across all our institutions.'
 heroHeading: 'Open positions'
 heroSubHeading: ''
 heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'

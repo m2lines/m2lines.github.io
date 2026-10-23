@@ -1,5 +1,6 @@
 ---
 title: 'Newsletters'
+description: 'Past M²LInES newsletters with updates on research, people and events across the collaboration.'
 heroHeading: 'Newsletters'
 heroSubHeading: ''
 heroBackground: '/images/andrew-dunstan-qdUDnCjo7e0-unsplash.jpeg'
@@ -11,6 +12,8 @@ tags:
  Links to our past newsletters are below.
 
 ### 2026
+* 10/14/2026 - [Teaching Neural Network to think like Eddies](https://mailchi.mp/462b27c260c7/m2lines-oct2026)
+
 * 09/10/2026 - [An Ocean Emulator in your browser - September 2026](https://mailchi.mp/b280ef874950/m2lines-sep2026)
 
 * 08/06/2026 - [AI and the Next Generation of Climate Models - August 2026](https://mailchi.mp/eafe7c4b8e1d/m2lines-aug2026)

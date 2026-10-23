@@ -1,0 +1,8 @@
+{{- $title := "" -}}
+{{- if .IsHome -}}
+  {{- $title = site.Params.seo.homeTitle | default site.Title -}}
+{{- else -}}
+  {{- $page := .Params.seoTitle | default (trim .Title " ") | default .Params.heroHeading -}}
+  {{- $title = printf "%s | %s" $page site.Title -}}
+{{- end -}}
+<title>{{ $title }}</title>

@@ -1,5 +1,6 @@
 ---
 title: 'Code of conduct'
+description: 'In this page we share our code of conduct, the rules and guidelines that shape our conduct and interactions with others within the M2LInES team'
 date: 2018-12-06T09:29:16+10:00
 heroHeading: 'Code of Conduct'
 heroSubHeading: ""
