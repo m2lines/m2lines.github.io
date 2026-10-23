@@ -1,5 +1,6 @@
 ---
 title: 'About'
+description: 'M²LInES reimagines climate model development with scientific machine learning, learning physics from data to make climate projections more reliable.'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'About Us'

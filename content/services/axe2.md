@@ -7,6 +7,10 @@ draft: false
 heroHeading: ''
 heroSubHeading: ''
 heroBackground: ''
+
+build:
+  render: never
+  list: always
 ---
 
 ##### Developing new physics-aware multiscale machine learning tools for accelerating climate science discovery

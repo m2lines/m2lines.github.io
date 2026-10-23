@@ -1,5 +1,6 @@
 ---
 title: 'Resources'
+description: 'Resources for M²LInES members and collaborators, including Open Storage Network data access and shared tools.'
 heroHeading: 'Resources'
 heroSubHeading: ''
 heroBackground: '/images/SouthAtlantic.A2002157.1055.250m.jpg'
