@@ -24,7 +24,7 @@ disableKinds = ["taxonomy", "term"]
   description = "M²LInES (M2LInES), pronounced M-square-lines, is an international collaborative project with the goal of improving climate projections, using scientific and interpretable Machine Learning to capture unaccounted physical processes at the air-sea-ice interface."
   image = "images/m2lines-share.png"
   twitter = "@M2LInES"
-  
+
  [params.homepage]
   show_call_box = true
 

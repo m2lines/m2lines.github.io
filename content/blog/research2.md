@@ -6,7 +6,7 @@ heroHeading: 'Developing new physics-aware machine learning tools'
 heroSubHeading: ''
 heroBackground: '/images/32109555763_eb9bb215ef_k.jpg'
 weight: 2
-build: 
+build:
   render: never
   list: always
 ---

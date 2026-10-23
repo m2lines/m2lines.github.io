@@ -12,4 +12,3 @@ cascade:
     target:
       kind: page
 ---
-
