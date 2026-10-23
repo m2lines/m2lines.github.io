@@ -1,5 +1,5 @@
 baseURL = "https://m2lines.github.io/"
-relativeURLs = "True"
+relativeURLs = false
 canonifyURLs = "True"
 locale = "en-us"
 title = "M²LInES"
@@ -7,6 +7,10 @@ themesDir = "themes"
 theme = "hugo-hero-theme"
 sectionPagesMenu = "content"
 enableEmoji = true
+
+enableRobotsTXT = true
+enableGitInfo = true
+disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -69,7 +73,7 @@ enableEmoji = true
 [[menu.main]]
     identifier = "former"
     name = "Former members"
-    url = "/team/former"
+    url = "/team/former/"
     parent = "team"
     weight = 3
 
@@ -113,7 +117,7 @@ enableEmoji = true
 
 [[menu.main]]
     name = "Archive"
-    url = "/publications/archive"
+    url = "/publications/archive/"
     parent = "publications"
     weight = 2
 

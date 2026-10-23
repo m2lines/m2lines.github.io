@@ -28,6 +28,6 @@
 <meta name="twitter:title" content="{{ $title }}">
 <meta name="twitter:description" content="{{ $desc }}">
 <meta name="twitter:image" content="{{ $img }}">
-{{- if .Params.noindex }}
+{{- if or .Params.noindex (eq .Kind "404") }}
 <meta name="robots" content="noindex">
 {{- end }}

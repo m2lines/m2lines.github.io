@@ -5,7 +5,7 @@ heroHeading: 'AGU presentations by M²LInES team members'
 heroSubHeading: ''
 heroBackground: ''
 thumbnail:  'images/news/JanniYuval.png'
-images: ['images/news/JanniYuval.png', 'images/news/LaureZanna.png', 'images/news/PierreGentine.png', 'images/news/ZiweiLi.png']
+images: ['images/news/JanniYuval.png', 'images/news/LaureZanna.png', 'images/news/PierreGentine.png', 'images/news/ZiweiLi21.png']
 link: ''
 ---
 ## Schedule of AGU presentations from team members

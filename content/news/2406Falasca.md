@@ -4,8 +4,8 @@ title: "Data-driven dimensionality reduction and causal inference for spatiotemp
 heroHeading: ''
 heroSubHeading: 'Data-driven dimensionality reduction and causal inference for spatiotemporal climate fields'
 heroBackground: ''
-thumbnail:  'images/news/2406Falasca.jpeg'
-images: ['images/news/2406Falasca.jpeg']
+thumbnail:  'images/news/2406Falasca.jpg'
+images: ['images/news/2406Falasca.jpg']
 link: 'https://doi.org/10.1103/PhysRevE.109.044202'
 ---
 

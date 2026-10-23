@@ -59,6 +59,8 @@ one or two plain sentences, 120 to 155 characters, saying what the page is about
 News posts can rely on `heroSubHeading`. Team members only appear on the team
 lists, so they need no description. Add `thumbnail:` to news posts so links share with an image.
 
+### Google verification
+static/google39e3f61aaa8692da.html : Search Console verification, do not delete
 
 ### Updating Tags
 Member interests are defined in the form of tags which can link to personalized landing pages.
