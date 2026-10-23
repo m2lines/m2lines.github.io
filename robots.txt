@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://m2lines.github.io/sitemap.xml
