@@ -12,6 +12,8 @@ tags:
  Links to our past newsletters are below.
 
 ### 2026
+* 11/18/2026 - [Letting the Data Write the Equations for Sea Ice](https://mailchi.mp/67cd7fed2d5d/m2lines-nov2026)
+
 * 10/14/2026 - [Teaching Neural Network to think like Eddies](https://mailchi.mp/462b27c260c7/m2lines-oct2026)
 
 * 09/10/2026 - [An Ocean Emulator in your browser - September 2026](https://mailchi.mp/b280ef874950/m2lines-sep2026)
