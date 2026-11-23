@@ -5,14 +5,14 @@ heroHeading: ''
 heroSubHeading: 'Explore the global ocean with Samudra 2!'
 heroBackground: ''
 thumbnail:  'images/news/2609CoDim.gif'
-images: 
+images:
 link: 'https://huggingface.co/spaces/M2LInES/samudra2'
 ---
 
 <video autoplay loop muted playsinline
        src="/images/news/volume_ke_watermark.mp4"
        style="width: 100%; max-width: 600px; height: auto;"></video>
-       
+
 Our neural emulator offers an efficient way to simulate ocean dynamics and explore how the ocean evolves over time. In the interactive demo, you can choose an initial date, select an ocean variable (from temperature and salinity to currents and sea-surface height) and set the rollout length. Samudra 2 runs alongside GFDL-OM4, allowing you to compare the simulations using error and skill metrics.
 
 **[Give it a try](https://huggingface.co/spaces/M2LInES/samudra2) and watch the ocean evolve!**
